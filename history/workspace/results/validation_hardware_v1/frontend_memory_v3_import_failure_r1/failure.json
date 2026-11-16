@@ -1,0 +1,5 @@
+{
+  "phase": "module_import_before_preflight_outputs",
+  "reason": "project source path not installed in this shell",
+  "correction": "explicit env PYTHONPATH=src; same code and gates"
+}

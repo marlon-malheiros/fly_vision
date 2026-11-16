@@ -1,0 +1,466 @@
+{
+  "status": "PASS",
+  "scope": "Four fixed fresh episodes, same environment",
+  "results": [
+    {
+      "key": "r00_v16.5_y+0",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "score_deg_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "windows_s",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "score_deg_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "windows_s",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "r02_v5.5_y+2",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "score_deg_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "windows_s",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "r03_v11_y+5",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "stream.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "score_deg_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "signal_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "arrival_time_s",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "rolling.npz",
+          "field": "windows_s",
+          "exact": true
+        }
+      ]
+    }
+  ]
+}

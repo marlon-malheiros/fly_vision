@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "index": {
+    "path": "results/published_population_direction_repair_r3/completion_v1/artifact_index.json",
+    "size_bytes": 13734,
+    "sha256": "14c607663282e8c26d4f45d87ee5424d1d9492f37c1b691ed3d557b43a950b10"
+  },
+  "files": 58,
+  "bytes": 6066406,
+  "receipt_outside_index": true
+}

@@ -1,0 +1,2882 @@
+[
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "bips",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.08333333333333337,
+      -0.04166666666666663,
+      0.08333333333333334
+    ],
+    "CI95": [
+      [
+        0.0,
+        -0.10416666666666663,
+        0.0
+      ],
+      [
+        0.1875,
+        0.0,
+        0.20833333333333334
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "bips",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.04166666666666663,
+      0.0,
+      0.08333333333333334
+    ],
+    "CI95": [
+      [
+        -0.10416666666666663,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.20833333333333334
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "bips",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.14583333333333334,
+      0.0,
+      0.125
+    ],
+    "CI95": [
+      [
+        0.04166666666666667,
+        -0.10416666666666663,
+        0.0
+      ],
+      [
+        0.25,
+        0.10416666666666663,
+        0.25
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "bips",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.41666666666666674,
+      0.02083333333333326,
+      0.125
+    ],
+    "CI95": [
+      [
+        0.2916666666666667,
+        0.0,
+        0.0
+      ],
+      [
+        0.5416666666666666,
+        0.0625,
+        0.25
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "bips",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.020833333333333336,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.04166666666666667,
+        -0.125,
+        0.0
+      ],
+      [
+        0.08333333333333334,
+        0.125,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "bips",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.020833333333333315,
+      -0.04166666666666674,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.125,
+        -0.125,
+        0.0
+      ],
+      [
+        0.08333333333333334,
+        0.04166666666666663,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "dnp15",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.2916666666666667,
+      -0.02083333333333326,
+      0.041666666666666664
+    ],
+    "CI95": [
+      [
+        0.16666666666666669,
+        -0.0625,
+        0.0
+      ],
+      [
+        0.4166666666666667,
+        0.0,
+        0.125
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "dnp15",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.041666666666666664
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.125
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "dnp15",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.02083333333333333,
+      0.0,
+      -0.041666666666666664
+    ],
+    "CI95": [
+      [
+        -0.04166666666666667,
+        -0.10416666666666663,
+        -0.125
+      ],
+      [
+        0.08333333333333334,
+        0.10416666666666663,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "dnp15",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.18749999999999997,
+      -0.02083333333333337,
+      -0.041666666666666664
+    ],
+    "CI95": [
+      [
+        0.08333333333333337,
+        -0.0625,
+        -0.125
+      ],
+      [
+        0.29166666666666663,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "dnp15",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.08333333333333333,
+        -0.125,
+        -0.125
+      ],
+      [
+        0.08333333333333333,
+        0.125,
+        0.125
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "dnp15",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.08333333333333334,
+      -0.08333333333333337,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.16666666666666666,
+        -0.1875,
+        -0.125
+      ],
+      [
+        -0.02083333333333333,
+        0.0,
+        0.125
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "h2",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.04166666666666663,
+      -0.02083333333333337,
+      0.04166666666666666
+    ],
+    "CI95": [
+      [
+        -0.125,
+        -0.08333333333333337,
+        -0.08333333333333334
+      ],
+      [
+        0.04166666666666663,
+        0.04166666666666674,
+        0.16666666666666669
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "h2",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.0625,
+      0.0,
+      0.04166666666666666
+    ],
+    "CI95": [
+      [
+        -0.14583333333333337,
+        0.0,
+        -0.08333333333333334
+      ],
+      [
+        0.02083333333333337,
+        0.0,
+        0.16666666666666669
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "h2",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.16666666666666663,
+      0.02083333333333337,
+      0.125
+    ],
+    "CI95": [
+      [
+        0.062499999999999986,
+        -0.1046874999999996,
+        0.0
+      ],
+      [
+        0.27083333333333337,
+        0.14583333333333337,
+        0.25
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "h2",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.375,
+      0.125,
+      0.125
+    ],
+    "CI95": [
+      [
+        0.24999999999999994,
+        0.04166666666666663,
+        0.0
+      ],
+      [
+        0.5,
+        0.20833333333333337,
+        0.25
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "h2",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.04166666666666674,
+      0.041666666666666664
+    ],
+    "CI95": [
+      [
+        -0.0625,
+        -0.0625,
+        0.0
+      ],
+      [
+        0.0625,
+        0.16666666666666663,
+        0.125
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "h2",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.04166666666666667,
+      0.125,
+      0.041666666666666664
+    ],
+    "CI95": [
+      [
+        -0.0625,
+        0.04166666666666663,
+        0.0
+      ],
+      [
+        0.14583333333333331,
+        0.20833333333333337,
+        0.125
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "hs",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.33333333333333337,
+      0.0,
+      0.08333333333333334
+    ],
+    "CI95": [
+      [
+        0.20833333333333331,
+        -0.0625,
+        0.0
+      ],
+      [
+        0.45833333333333337,
+        0.0625,
+        0.20833333333333334
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "hs",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.02083333333333326,
+      0.0,
+      0.08333333333333334
+    ],
+    "CI95": [
+      [
+        -0.04166666666666663,
+        0.0,
+        0.0
+      ],
+      [
+        0.08333333333333337,
+        0.0,
+        0.20833333333333334
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "hs",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.10416666666666669,
+      0.10416666666666674,
+      0.08333333333333334
+    ],
+    "CI95": [
+      [
+        0.0,
+        -0.02083333333333326,
+        0.0
+      ],
+      [
+        0.20833333333333331,
+        0.22916666666666663,
+        0.20833333333333334
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "hs",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.45833333333333337,
+      0.04166666666666663,
+      0.08333333333333334
+    ],
+    "CI95": [
+      [
+        0.3333333333333333,
+        0.0,
+        0.0
+      ],
+      [
+        0.5833333333333334,
+        0.10416666666666663,
+        0.20833333333333334
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "hs",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.020833333333333332,
+      0.08333333333333337,
+      -0.041666666666666664
+    ],
+    "CI95": [
+      [
+        0.0,
+        -0.04166666666666674,
+        -0.125
+      ],
+      [
+        0.0625,
+        0.20833333333333337,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 1,
+    "candidate": "MaleCNS_contrast_normalized",
+    "reference": "MaleCNS_original",
+    "role": "hs",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0625,
+      -0.02083333333333337,
+      -0.041666666666666664
+    ],
+    "CI95": [
+      [
+        -0.020833333333333343,
+        -0.08333333333333337,
+        -0.125
+      ],
+      [
+        0.14583333333333334,
+        0.04166666666666674,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "lattice_contrast_normalized",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.625,
+      0.0,
+      0.6666666666666666
+    ],
+    "CI95": [
+      [
+        0.5,
+        0.0,
+        0.4583333333333333
+      ],
+      [
+        0.75,
+        0.0,
+        0.8333333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "lattice_contrast_normalized",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.33333333333333326,
+      0.0,
+      0.6666666666666666
+    ],
+    "CI95": [
+      [
+        0.1875,
+        0.0,
+        0.4583333333333333
+      ],
+      [
+        0.47916666666666663,
+        0.0,
+        0.8333333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "lattice_contrast_normalized",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.625,
+      0.0,
+      0.6666666666666666
+    ],
+    "CI95": [
+      [
+        0.4994791666666671,
+        -0.0625,
+        0.45833333333333337
+      ],
+      [
+        0.75,
+        0.0625,
+        0.8333333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "lattice_contrast_normalized",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.3125,
+      0.0,
+      0.6666666666666666
+    ],
+    "CI95": [
+      [
+        0.16666666666666674,
+        0.0,
+        0.45833333333333337
+      ],
+      [
+        0.4583333333333333,
+        0.0,
+        0.8333333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "lattice_contrast_normalized",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.5,
+      -0.04166666666666663,
+      0.7916666666666667
+    ],
+    "CI95": [
+      [
+        0.375,
+        -0.14583333333333326,
+        0.625
+      ],
+      [
+        0.625,
+        0.0625,
+        0.9583333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "lattice_contrast_normalized",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.35416666666666663,
+      0.04166666666666663,
+      0.7916666666666667
+    ],
+    "CI95": [
+      [
+        0.20833333333333337,
+        0.0,
+        0.625
+      ],
+      [
+        0.5,
+        0.10416666666666663,
+        0.9583333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "registered_original",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.625,
+      0.02083333333333337,
+      0.5
+    ],
+    "CI95": [
+      [
+        0.5,
+        0.0,
+        0.2916666666666667
+      ],
+      [
+        0.75,
+        0.0625,
+        0.7083333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "registered_original",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.29166666666666663,
+      0.0,
+      0.5
+    ],
+    "CI95": [
+      [
+        0.16666666666666663,
+        0.0,
+        0.2916666666666667
+      ],
+      [
+        0.4375,
+        0.0,
+        0.7083333333333334
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "registered_original",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.5416666666666666,
+      0.02083333333333337,
+      0.625
+    ],
+    "CI95": [
+      [
+        0.41666666666666663,
+        0.0,
+        0.4166666666666667
+      ],
+      [
+        0.6666666666666666,
+        0.0625,
+        0.7916666666666667
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "registered_original",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.25,
+      0.0,
+      0.625
+    ],
+    "CI95": [
+      [
+        0.125,
+        0.0,
+        0.4166666666666667
+      ],
+      [
+        0.39583333333333337,
+        0.0,
+        0.7916666666666667
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "registered_original",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.45833333333333337,
+      0.0625,
+      0.7083333333333334
+    ],
+    "CI95": [
+      [
+        0.35416666666666663,
+        -0.02083333333333337,
+        0.5
+      ],
+      [
+        0.5833333333333333,
+        0.14583333333333337,
+        0.875
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "registered_original",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.4375,
+      -0.02083333333333337,
+      0.7083333333333334
+    ],
+    "CI95": [
+      [
+        0.3125,
+        -0.0625,
+        0.5
+      ],
+      [
+        0.5625,
+        0.0,
+        0.875
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_original",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.020833333333333343,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        -0.0625,
+        0.0
+      ],
+      [
+        0.06250000000000001,
+        0.0625,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_original",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0625,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.02083333333333337,
+        0.0,
+        0.0
+      ],
+      [
+        0.14583333333333337,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_original",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.04166666666666666,
+      0.04166666666666663,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.10416666666666667,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.10416666666666663,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_original",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.04166666666666674,
+      0.02083333333333326,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.10416666666666663,
+        0.0625,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_original",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      -0.04166666666666663,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.0625,
+        -0.10416666666666674,
+        0.0
+      ],
+      [
+        0.0625,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_original",
+    "reference": "lattice_original",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0625,
+      0.0
+    ],
+    "CI95": [
+      [
+        -0.0625,
+        0.0,
+        0.0
+      ],
+      [
+        0.0625,
+        0.125,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "lattice_contrast_normalized",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.02083333333333337,
+      0.02083333333333337,
+      -0.16666666666666663
+    ],
+    "CI95": [
+      [
+        -0.0625,
+        0.0,
+        -0.3333333333333333
+      ],
+      [
+        0.10416666666666674,
+        0.0625,
+        -0.04166666666666663
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "lattice_contrast_normalized",
+    "role": "yaw",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.02083333333333337,
+      0.0,
+      -0.16666666666666663
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        -0.3333333333333333
+      ],
+      [
+        0.0625,
+        0.0,
+        -0.04166666666666663
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "lattice_contrast_normalized",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.125,
+      0.0625,
+      -0.04166666666666663
+    ],
+    "CI95": [
+      [
+        -0.22916666666666663,
+        0.0,
+        -0.20833333333333326
+      ],
+      [
+        -0.02083333333333337,
+        0.14583333333333326,
+        0.08333333333333337
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "lattice_contrast_normalized",
+    "role": "yaw",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.02083333333333326,
+      0.02083333333333326,
+      -0.04166666666666663
+    ],
+    "CI95": [
+      [
+        -0.0625,
+        0.0,
+        -0.20833333333333326
+      ],
+      [
+        0.0,
+        0.0625,
+        0.08333333333333337
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "lattice_contrast_normalized",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      -0.04166666666666663,
+      0.0625,
+      -0.08333333333333337
+    ],
+    "CI95": [
+      [
+        -0.125,
+        -0.04166666666666663,
+        -0.25
+      ],
+      [
+        0.04166666666666663,
+        0.16666666666666663,
+        0.08333333333333337
+      ]
+    ]
+  },
+  {
+    "route": 2,
+    "candidate": "registered_contrast_normalized",
+    "reference": "lattice_contrast_normalized",
+    "role": "yaw",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.08333333333333337,
+      0.0,
+      -0.08333333333333337
+    ],
+    "CI95": [
+      [
+        0.02083333333333326,
+        0.0,
+        -0.25
+      ],
+      [
+        0.16666666666666663,
+        0.0,
+        0.08333333333333337
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "bips",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "bips",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "bips",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "bips",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "bips",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "bips",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "dnp15",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "dnp15",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "dnp15",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "dnp15",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "dnp15",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "dnp15",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "h2",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "h2",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "h2",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "h2",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "h2",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "h2",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "hs",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "hs",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "hs",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "hs",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "hs",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_original",
+    "reference": "motif_published_original",
+    "role": "hs",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "bips",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "bips",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "bips",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "bips",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "bips",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "bips",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "dnp15",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "dnp15",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "dnp15",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "dnp15",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "dnp15",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "dnp15",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "h2",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "h2",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "h2",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "h2",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "h2",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "h2",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "hs",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "hs",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "hs",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "hs",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "hs",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "route": 3,
+    "candidate": "motif_physiology_calibrated_contrast_normalized",
+    "reference": "motif_published_contrast_normalized",
+    "role": "hs",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  }
+]

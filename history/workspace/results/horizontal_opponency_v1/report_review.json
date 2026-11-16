@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "report": {
+    "path": "docs/HORIZONTAL_OPPONENCY_REPORT_V1.md",
+    "size_bytes": 16711,
+    "sha256": "0beab4896329de1975a776b4b94604c143322ae8656a894c60314f2a693492f3"
+  },
+  "review_source": {
+    "path": "scripts/review_horizontal_opponency_report_v1.py",
+    "size_bytes": 3826,
+    "sha256": "dc312d391a1cad865a209cdf4c4fef09909d5941f8ea7292a3621953542503a2"
+  },
+  "main_tables_and_selected_per_fly_values_verified": true,
+  "all_local_links_exist": true,
+  "all_candidates_and_failed_criteria_reported": true
+}

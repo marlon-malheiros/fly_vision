@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "key": "c00_v16.5_y+0",
+      "arrays": 21,
+      "codec_payload_exact": true
+    },
+    {
+      "key": "c01_v16.5_y-2",
+      "arrays": 21,
+      "codec_payload_exact": true
+    },
+    {
+      "key": "c02_v5.5_y+2",
+      "arrays": 21,
+      "codec_payload_exact": true
+    },
+    {
+      "key": "c03_v11_y+5",
+      "arrays": 21,
+      "codec_payload_exact": true
+    }
+  ]
+}

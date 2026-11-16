@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "images": [
+    "figures/reproduction_and_transfer.png",
+    "figures/transfer_all_criteria.png"
+  ],
+  "visual_inspection": true,
+  "overlapping_detection_curves_intentional": true,
+  "report_explains_author_original_vs_frozen_MaleCNS": true,
+  "criteria_consistent_with_numeric_tables": true
+}

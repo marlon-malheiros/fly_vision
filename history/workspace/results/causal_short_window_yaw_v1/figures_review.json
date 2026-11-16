@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T09:32:13.479838+00:00",
+  "PNG_visual_review": "Both PNG figures inspected for labels, thresholds, count agreement and clipping; coincident derivative/window curves overlap and must be described in the report",
+  "PDF_check": "Matching exports present with valid PDF headers; visual inspection used PNG renders",
+  "files": [
+    {
+      "path": "results/causal_short_window_yaw_v1/figures/window_tradeoff.png",
+      "size_bytes": 76934,
+      "sha256": "9c5920c68adcab569ad81db0fe1c9c4db04e48c2084ffa09f58a4beec2f777a0"
+    },
+    {
+      "path": "results/causal_short_window_yaw_v1/figures/window_tradeoff.pdf",
+      "size_bytes": 21823,
+      "sha256": "211c51098e1fe3cfad568512db9e4d1d19660886285a32875683ab2dc2ce10a4"
+    },
+    {
+      "path": "results/causal_short_window_yaw_v1/figures/selected_candidate.png",
+      "size_bytes": 88736,
+      "sha256": "2ce69fb2166cdd5228f15ebf89ed7810590d4b64e171de5b706a9ddec6717d14"
+    },
+    {
+      "path": "results/causal_short_window_yaw_v1/figures/selected_candidate.pdf",
+      "size_bytes": 19080,
+      "sha256": "cb6c8c64e88bec5c9c6e3999832c9441dfe10fcb9616364cb2f903b99979b14b"
+    }
+  ]
+}

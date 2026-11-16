@@ -1,0 +1,40 @@
+{
+  "primary": "episode90/individual_linear",
+  "behavior": {
+    "episode90/dnp_linear": false,
+    "episode_max/dnp_linear": false,
+    "episode90/individual_linear": false,
+    "episode_max/individual_linear": false,
+    "episode90/spatial_linear": false,
+    "episode_max/spatial_linear": false,
+    "episode90/spatial_mlp": false,
+    "episode_max/spatial_mlp": false,
+    "episode90/frozen_dnp_reference": false,
+    "episode_max/frozen_dnp_reference": false
+  },
+  "numerical": {
+    "episode90/dnp_linear": false,
+    "episode_max/dnp_linear": false,
+    "episode90/individual_linear": false,
+    "episode_max/individual_linear": true,
+    "episode90/spatial_linear": false,
+    "episode_max/spatial_linear": false,
+    "episode90/spatial_mlp": false,
+    "episode_max/spatial_mlp": false,
+    "episode90/frozen_dnp_reference": false,
+    "episode_max/frozen_dnp_reference": false
+  },
+  "all_gates": {
+    "episode90/dnp_linear": false,
+    "episode_max/dnp_linear": false,
+    "episode90/individual_linear": false,
+    "episode_max/individual_linear": false,
+    "episode90/spatial_linear": false,
+    "episode_max/spatial_linear": false,
+    "episode90/spatial_mlp": false,
+    "episode_max/spatial_mlp": false,
+    "episode90/frozen_dnp_reference": false,
+    "episode_max/frozen_dnp_reference": false
+  },
+  "physiological_validation": false
+}

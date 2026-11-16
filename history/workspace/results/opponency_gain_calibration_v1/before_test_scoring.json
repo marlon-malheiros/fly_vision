@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-29T19:11:11.745465+00:00",
+  "files": [
+    {
+      "path": "results/opponency_gain_calibration_v1/observation_models.json",
+      "size_bytes": 8088,
+      "sha256": "21d60ec97fa97b04dc351959512241489eee7d237a913ab0b73c06cde8878515"
+    },
+    {
+      "path": "results/opponency_gain_calibration_v1/calibration_leave_one_fly_out.json",
+      "size_bytes": 20642,
+      "sha256": "f1808ec15bf7cf9ef3056890c8c19afda0be52379451d574d16261255fbe7a53"
+    }
+  ],
+  "calibration_keys_only": true,
+  "new_test_metrics_computed": false,
+  "test_recordings_previously_inspected": true
+}

@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "qualified_control": "fixed original 1-ms input ramp at every solver resolution",
+  "solver_tolerance": 1e-07,
+  "checks": [
+    {
+      "profile": "fixed_waveform_half",
+      "maximum_rate_error": 1.8975706719737265e-10,
+      "maximum_drive_error": 0.0
+    },
+    {
+      "profile": "fixed_waveform_quarter",
+      "maximum_rate_error": 2.0121603905220818e-10,
+      "maximum_drive_error": 0.0
+    },
+    {
+      "profile": "fixed_waveform_parity",
+      "maximum_rate_error": 0.0,
+      "maximum_drive_error": 0.0
+    },
+    {
+      "profile": "raster_half",
+      "maximum_rate_error": 0.00017808767389383348,
+      "maximum_drive_error": 0.06164688616991043
+    },
+    {
+      "profile": "quadrature_double",
+      "maximum_rate_error": 0.000424339665867364,
+      "maximum_drive_error": 0.05729314684867859
+    }
+  ],
+  "original_changing_waveform_check": {
+    "status": "FAIL",
+    "maximum_rate_error": 5.0348701128992944e-05,
+    "tolerance": 1e-07,
+    "preserved": true
+  },
+  "reference_manifest": {
+    "path": "results/biological_selectivity_benchmark_v1/numerics_r2/before_reference.json",
+    "size_bytes": 1025,
+    "sha256": "ce94b33391ce58daa08ab5571e4ee920c7399867adb24f92246d98a87fd17766"
+  },
+  "production_source_unchanged": true,
+  "maximum_batch_frontend_error": 0.0,
+  "raster_and_quadrature_errors_descriptive": true,
+  "physiological_validation": false
+}

@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "conditions": 40,
+  "max_same_response_reference_error_mv": 0.0,
+  "max_pooled_metric_error": 0.0,
+  "exact_author_parameters_and_synapse_sites": true,
+  "inhibition_and_advancement_recomputed": true,
+  "prior": {
+    "index": {
+      "path": "results/t4_direct_voltage_v1/completion_v1/artifact_index.json",
+      "bytes": 73729,
+      "sha256": "01887205cbcf59876032d702a8b458647c33a0a164b80bade74cb3e833d9af9d"
+    },
+    "files": 368,
+    "unchanged": true
+  },
+  "additional_moving_files_unopened": 3,
+  "C2C3_holdout_flies_unscored": 4,
+  "no_full_biological_validation": true
+}

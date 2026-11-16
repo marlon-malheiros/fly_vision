@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-28T01:35:07.386750+00:00",
+  "parent_original_before_simulation": {
+    "path": "results/biological_selectivity_benchmark_v1/before_simulation.json",
+    "size_bytes": 5894,
+    "sha256": "87468b5d93537603c4a5720b29be37416ae59b38b905aff5c3777db636c76875"
+  },
+  "original_frontend_graph_parameters_frozen_inputs_verified": true,
+  "new_study_index": {
+    "path": "results/biological_family_dissection_v1/completion_v1/artifact_index.json",
+    "size_bytes": 95187,
+    "sha256": "e8fd82c45de8b262097ddf9deb8052e17830768a773ce023965ffbcce621a031"
+  }
+}

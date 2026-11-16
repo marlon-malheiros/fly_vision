@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "base_predictions": 199752,
+  "base_maximum_error": 1.0880185641326534e-14,
+  "temporal_predictions": 77952,
+  "temporal_maximum_error": 9.325873406851315e-15
+}

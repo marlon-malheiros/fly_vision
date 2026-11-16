@@ -1,0 +1,321 @@
+{
+  "status": "PASS",
+  "portable_cpu_default": true,
+  "strict_solver_dt": 0.001,
+  "verified_package_entries": 37,
+  "cases": [
+    {
+      "case": "s01_v16.5_y+0",
+      "passed": true,
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_match": true,
+      "episode_scores_within_conditional_bound": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07343116900301538,
+        "first_frame_processing_s": 0.0029487240099115297,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.925000500108581,
+          "p95_ms": 14.442059843713649,
+          "p99_ms": 15.657750569225751,
+          "maximum_ms": 17.25389801140409,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 16.664975497405976,
+          "p95_ms": 18.110016956052277,
+          "p99_ms": 20.79345265854499,
+          "maximum_ms": 21.218945999862626,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182824960,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "passed": true,
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_match": true,
+      "episode_scores_within_conditional_bound": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07188647700240836,
+        "first_frame_processing_s": 0.003035782996448688,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.3920395007007755,
+          "p95_ms": 14.642848452058388,
+          "p99_ms": 15.829251269751692,
+          "maximum_ms": 19.731704000150785,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 16.99617250415031,
+          "p95_ms": 18.30753930407809,
+          "p99_ms": 20.01027810605592,
+          "maximum_ms": 23.4776589932153,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182943744,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "passed": true,
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_match": true,
+      "episode_scores_within_conditional_bound": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06523028100491501,
+        "first_frame_processing_s": 0.002874450001399964,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.246973997098394,
+          "p95_ms": 14.547984193632146,
+          "p99_ms": 14.824222319584806,
+          "maximum_ms": 15.092475005076267,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 17.04395448905416,
+          "p95_ms": 17.810847651708173,
+          "p99_ms": 18.10268950954196,
+          "maximum_ms": 18.499196012271568,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182943744,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    }
+  ],
+  "rejected_inputs": [
+    {
+      "name": "repeated_timestamp",
+      "error": "Camera frame timestamps repeated or reordered"
+    },
+    {
+      "name": "dropped_frame",
+      "error": "Dropped frame, drift or off-clock camera sample"
+    },
+    {
+      "name": "out_of_order",
+      "error": "Camera frame timestamps repeated or reordered"
+    },
+    {
+      "name": "stereo_skew",
+      "error": "Stereo exposure timestamps exceed the declared skew bound"
+    },
+    {
+      "name": "uncalibrated_exposure",
+      "error": "Camera acquisition mode differs from photometric calibration"
+    },
+    {
+      "name": "wrong_dtype",
+      "error": "Raw camera shape/dtype differs from calibration"
+    },
+    {
+      "name": "missing_calibrated_coverage",
+      "error": "Every frozen retinal sample needs declared calibrated camera coverage"
+    }
+  ],
+  "reset_replay_bit_identical": true,
+  "scientific_neural_parameters_changed": false,
+  "physical_camera_validated": false,
+  "hard_real_time_certified": false
+}

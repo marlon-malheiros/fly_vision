@@ -1,0 +1,11 @@
+{
+  "status": "FAIL",
+  "stage": "Python compilation before audit execution",
+  "error": "keyword argument repeated: source (audit_dnp15_family_dissection_v1.py, line 23)",
+  "frozen_source": {
+    "path": "scripts/audit_dnp15_family_dissection_v1.py",
+    "size_bytes": 6996,
+    "sha256": "948e750a3e533f5ee4a134281b9d982929a89b7d8d45405cd10e5dc2b47bcd7d"
+  },
+  "recording_responses_read": false
+}

@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-10-25T10:38:45.325305+00:00",
+  "files": {
+    "scripts/h2_trial_metadata_v2.py": "cf1f5a69ecd2bf8c9cb2a7d9ebd7cea33cb42577dfbdab86df7ec9ab24ad38e6",
+    "docs/H2_TRIAL_METADATA_SCHEMA_CORRECTION_V2.md": "6b77d243c1f1c8036da21f2c9fa3ec3860c1b0cf2d047896e3daba49b1b3a0fc"
+  },
+  "prior_failure": "metadata_execution_v1.log",
+  "criteria": "Identical joins; raw clocks validated separately from clipped aligned clock",
+  "response_values_scored": false
+}

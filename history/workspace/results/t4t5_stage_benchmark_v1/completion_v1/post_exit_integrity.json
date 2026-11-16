@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/t4t5_stage_benchmark_v1/completion_v1/artifact_index.json",
+    "size_bytes": 15593,
+    "sha256": "f45eabb2c3291568bcf9581fc03cf3afe93713acf6f09847d068db7984a1795f"
+  },
+  "files": 75,
+  "bytes": 1306657,
+  "independent_process_after_sealer_exit": true,
+  "prior_retained_files_unchanged": true
+}

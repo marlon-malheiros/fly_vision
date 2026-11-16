@@ -1,0 +1,34 @@
+{
+  "status": "COMPLETE_THREE_ORDERED_TESTS",
+  "utc": "2026-10-27T00:36:06.807794+00:00",
+  "source_commit": "e1bf6fa3963715609634d7aee3ad589018859c0e",
+  "all_routes_executed": true,
+  "fresh_test_rooms": 24,
+  "old_model_preserved": true,
+  "passing_detection_methods": [
+    {
+      "route": 1,
+      "method": "image_lk_median",
+      "role": "yaw"
+    }
+  ],
+  "numerical_solver_status": "FAIL",
+  "additional_motion_control_passing_methods": [],
+  "additional_motion_control_solver_status": "FAIL",
+  "local_velocity_MaleCNS_DNp15_detection_criteria_met": false,
+  "numerical_sampling_gates": {
+    "image_lk_median": true,
+    "lattice_contrast_normalized": false,
+    "lattice_contrast_normalized_horizontal_control": true,
+    "lattice_original": true,
+    "lattice_original_horizontal_control": true,
+    "registered_contrast_normalized": false,
+    "registered_contrast_normalized_horizontal_control": true,
+    "registered_original": true,
+    "registered_original_horizontal_control": true
+  },
+  "physiological_validation": false,
+  "revised_MaleCNS_DNp15_detection_criteria_met": false,
+  "neural_repair_demonstrated": false,
+  "live_progress_and_AGENTS_excluded": true
+}

@@ -1,0 +1,170 @@
+{
+  "comparison_scored": true,
+  "models": [
+    {
+      "output": "cable_raw",
+      "gain": 1.0,
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 21.154951398727917,
+          "zero_mse": 67.38932527113073,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.686078599041997,
+          "blind_skill": 0.07311235436326935,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 4,
+          "mse": 20.79730334331763,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022612,
+          "zero_skill": 0.7606285650149676,
+          "blind_skill": 0.17254459582508141,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 5,
+          "mse": 34.379103187489974,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.41838367793731424,
+          "blind_skill": -0.4590927678375767,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        }
+      ],
+      "zero_skill": 0.6422781900543151,
+      "blind_skill": -0.06727795858817154,
+      "rmse_mv": 5.044183380539594,
+      "bootstrap_joint_lower": -0.2854361820833633,
+      "waveform_pass": false,
+      "confirmed_inhibition_cells": 0,
+      "inhibition_pass": false,
+      "restricted_component_pass": false
+    },
+    {
+      "output": "cable_calibrated",
+      "gain": 0.29128074241675384,
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 43.03320643368416,
+          "zero_mse": 67.38932527113073,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.36142399021586025,
+          "blind_skill": -0.8854662742413764,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 4,
+          "mse": 56.7444465350421,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022612,
+          "zero_skill": 0.34688649916293945,
+          "blind_skill": -1.2576724572045022,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 5,
+          "mse": 41.01413525544925,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.3061340090879333,
+          "blind_skill": -0.7406919489428181,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        }
+      ],
+      "zero_skill": 0.3401886894828351,
+      "blind_skill": -0.9685745989294563,
+      "rmse_mv": 6.850590928870674,
+      "bootstrap_joint_lower": -1.141447273160741,
+      "waveform_pass": false,
+      "confirmed_inhibition_cells": 0,
+      "inhibition_pass": false,
+      "restricted_component_pass": false
+    },
+    {
+      "output": "cable_rectified",
+      "gain": 18.99030444346407,
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 42.662969895165226,
+          "zero_mse": 67.38932527113073,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.36691798406472775,
+          "blind_skill": -0.8692446499488649,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 4,
+          "mse": 57.23461926813064,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022612,
+          "zero_skill": 0.3412447412593773,
+          "blind_skill": -1.2771747970164387,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 5,
+          "mse": 41.12019836665895,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.30433966220483133,
+          "blind_skill": -0.7451934019812074,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        }
+      ],
+      "zero_skill": 0.33912955883322105,
+      "blind_skill": -0.9717345594523272,
+      "rmse_mv": 6.856087016414801,
+      "bootstrap_joint_lower": -1.149794440133371,
+      "waveform_pass": false,
+      "confirmed_inhibition_cells": 0,
+      "inhibition_pass": false,
+      "restricted_component_pass": false
+    }
+  ],
+  "selected_for_new_recordings": null,
+  "new_recordings_opened": false,
+  "retrospective_comparison": true,
+  "full_biological_validation": false,
+  "original_models_modified": false,
+  "new_small_turn_qualification": false
+}

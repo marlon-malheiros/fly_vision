@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T19:00:18.236469+00:00",
+  "scalar_support_checks": 518400,
+  "maximum_error": 3.4638958368304884e-14,
+  "curve_counts": 48,
+  "selection_independently_reconstructed": true,
+  "near_threshold_checks": 0,
+  "note": "Counts use stored support after independent <=1e-9 arithmetic check, retaining exact calibration boundary convention"
+}

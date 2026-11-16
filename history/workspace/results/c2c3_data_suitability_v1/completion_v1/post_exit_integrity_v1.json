@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/c2c3_data_suitability_v1/completion_v1/artifact_index.json",
+    "size_bytes": 13287,
+    "sha256": "c644c89a2d0ac7e763dcf265ddca73210d47da860e79a1964808a2447ee12c68"
+  },
+  "indexed_files": 62,
+  "indexed_bytes": 45760485,
+  "previous_factorial_study_unchanged": true,
+  "heldout_response_values_unscored": true
+}

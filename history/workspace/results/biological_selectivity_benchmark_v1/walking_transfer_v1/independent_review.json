@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T21:03:25.419423+00:00",
+  "source_traces": 14,
+  "prediction_cases": 42,
+  "paired_animal_profile_cases": 12,
+  "maximum_error": 2.1316282072803006e-14,
+  "unchanged_observation_model": true
+}

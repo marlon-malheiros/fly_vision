@@ -1,0 +1,45 @@
+{
+  "archive_path": "data/raw/validation_sources_v1/zhao2025/H2_recordings_dataAndPlotScript.zip",
+  "archive_sha256": "f3965a3ba3f2526bf72789f79773565f2df47165956efcb4628ec698a47cc68d",
+  "archive_size_bytes": 2631587183,
+  "archive_url": "https://ndownloader.figshare.com/files/52532579",
+  "source_doi": "10.25378/janelia.28462100.v2",
+  "retained_files": [
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/edgeDataAndTable.mat",
+      "sha256": "12d67bf1fd73d0fe1389e0168311f17c7b26b69fddaaaf4f3e411fc1a7ba0f26",
+      "size_bytes": 3106787136
+    },
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/generatePositionCell.m",
+      "sha256": "fabe85740e101cb14efafdf0621d4e9854c9209f4c6deaa92c72e9621f343f07",
+      "size_bytes": 2892
+    },
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/plotSuppFigAllEdgePolarScript.m",
+      "sha256": "12b7fedfe83b3ee25adf85121808f0ba9f2ca762fe8909da756335b1440b9370",
+      "size_bytes": 7446
+    },
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/READ_ME.txt",
+      "sha256": "7ab84c41e62e15cb7e9931f3e66f9808fcd88dbb24b1e1ab9d08e5c7de57186a",
+      "size_bytes": 1586
+    }
+  ],
+  "preserved_source_manifest_path": "data/raw/validation_sources_v1/zhao2025/h2_raw_source_manifest.json",
+  "preserved_source_manifest_sha256": "b7b0c9efa09db3ee4ebc1c4019c1fc18e39001d1a021ba272f59750e48ab353a",
+  "verification": "fresh full SHA256 of archive and all four extracted members against existing extraction manifest; ZIP names/sizes/CRCs checked",
+  "source_lock_note": "configs/validation_source_lock_v1.json remains unchanged and still lists this evicted ZIP. A check requiring the container must redownload the locked URL; raw recordings remain present.",
+  "before": {
+    "available_bytes": 8584572928,
+    "total_bytes": 509315383296
+  },
+  "unique_recording_payloads_deleted": 0,
+  "authorized_by": "User explicitly requested discarding duplicates and unnecessary files",
+  "removed": true,
+  "after": {
+    "available_bytes": 11540738048,
+    "total_bytes": 509315383296
+  },
+  "completed_unix_time": 1793549406.6447341
+}

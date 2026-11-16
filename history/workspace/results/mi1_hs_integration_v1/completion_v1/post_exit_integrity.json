@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/mi1_hs_integration_v1/completion_v1/artifact_index.json",
+    "size_bytes": 19179,
+    "sha256": "a067f606d117b6b1bf55e63e2ee126ad8a2b01421dc7c5114745a1625f7fc970"
+  },
+  "verified_after_sealer_exit": true
+}

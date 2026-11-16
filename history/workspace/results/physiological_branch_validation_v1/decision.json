@@ -1,0 +1,17 @@
+{
+  "final_endpoint_mixture_feasible": false,
+  "qualitative_direction_matches": 6,
+  "qualitative_direction_total": 6,
+  "numerical_refinements_pass": 10,
+  "numerical_refinements_total": 10,
+  "author_equation_oracle_pass": true,
+  "biological_validation_complete": false,
+  "MaleCNS_integrated": false,
+  "T5_supported_by_this_source": false,
+  "fresh_downstream_trials": false,
+  "small_turn_reliability_newly_tested": false,
+  "source_calibration_data_are_validation_targets": false,
+  "exploratory_source_replication": true,
+  "new_source_model_selected_after_literature_inspection": true,
+  "numerical_reproduction_is_not_biological_validation": true
+}

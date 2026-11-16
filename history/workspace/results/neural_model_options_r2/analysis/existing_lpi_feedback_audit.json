@@ -1,0 +1,33 @@
+{
+  "role_counts": {
+    "bips": 2,
+    "dnp15": 2,
+    "h2": 2,
+    "h2rn": 8,
+    "hs": 8,
+    "lpi": 6,
+    "t4t5": 13579,
+    "ulptcrn": 17
+  },
+  "gap_edges": 0,
+  "lpi->t4t5": {
+    "edges": 7493,
+    "sum_signed_weights": -622.7892112359896
+  },
+  "t4t5->lpi": {
+    "edges": 14799,
+    "sum_signed_weights": 5.911377052923632
+  },
+  "lpi->hs": {
+    "edges": 15,
+    "sum_signed_weights": -0.5378590435998006
+  },
+  "lpi->h2": {
+    "edges": 6,
+    "sum_signed_weights": -0.15173294657776665
+  },
+  "lpi->lpi": {
+    "edges": 9,
+    "sum_signed_weights": -0.0869110061770608
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-28T02:16:38.006753+00:00",
+  "verified_after_sealer_exit": true,
+  "index": {
+    "path": "results/second_opinion_opponency_audit_v1/completion_v1/artifact_index.json",
+    "size_bytes": 4725,
+    "sha256": "0743f279013999f32b07b76a7556d79c06b8d71bf2c573fc0b5709fafac0c58d"
+  },
+  "files": 22,
+  "bytes": 6216936,
+  "all_audited_inputs_unchanged": true
+}

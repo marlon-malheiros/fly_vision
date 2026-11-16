@@ -1,0 +1,36 @@
+{
+  "utc": "2026-10-30T17:05:35.196334+00:00",
+  "alarm_audit": {
+    "episodes": 180,
+    "alarm_counts": {
+      "5.5": 0,
+      "11.0": 6,
+      "16.5": 36
+    },
+    "shared_distance_counts": {
+      "5.5": 0,
+      "11.0": 0,
+      "16.5": 11
+    },
+    "independent_FIR_max_error": 9.658940314238862e-15,
+    "independent_HS_current_error": 2.168404344971009e-19,
+    "passed": true
+  },
+  "scene_audit": {
+    "counterfactual_cases": 6,
+    "independent_renderer_error": 0.0,
+    "mirror_geometry_error": 0.0,
+    "symmetric_cases_without_alarm": 3,
+    "passed": true
+  },
+  "physiology_audit": {
+    "source_cells_independently_parsed": 24,
+    "source_means_and_ratio_match": true,
+    "both_bootstrap_intervals_match": true,
+    "model_response_rows": 864,
+    "independent_observation_max_error": 2.0816681711721685e-17,
+    "passed": true
+  },
+  "passed": true,
+  "biological_validity_established": false
+}

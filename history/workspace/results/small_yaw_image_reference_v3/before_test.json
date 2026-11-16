@@ -1,0 +1,31 @@
+{
+  "utc": "2026-10-25T15:43:44.919384+00:00",
+  "test_inputs_not_generated": true,
+  "files": [
+    {
+      "path": "configs/small_yaw_image_reference_v3.json",
+      "size_bytes": 883,
+      "sha256": "af44a0a429c022635a1577915c7a273edaf2cc63bb3225ebde229015f874c83f"
+    },
+    {
+      "path": "scripts/small_yaw_image_reference_v3.py",
+      "size_bytes": 13535,
+      "sha256": "52cc4bdcadb5d937c824d4c2913620410997fc7580132ae2d5ce0c6e478a5497"
+    },
+    {
+      "path": "results/small_yaw_image_reference_v3/cutoffs.json",
+      "size_bytes": 1439,
+      "sha256": "9f266c41adb3d074d0379374f177b38ccd0c8785d13c3f7a244aca9c5307373a"
+    },
+    {
+      "path": "results/small_yaw_image_reference_v3/plans.json",
+      "size_bytes": 59267,
+      "sha256": "55c383d23b92ab0ce3f1cfd3585ad4d3e3632c0fad10841c2cfcadcb09447aba"
+    },
+    {
+      "path": "results/small_yaw_image_reference_v3/analysis/calibration_estimates.json",
+      "size_bytes": 13148,
+      "sha256": "89a601be36b6411ebaad9015686fed607febc34d3e72b000b6c64c020f437f63"
+    }
+  ]
+}

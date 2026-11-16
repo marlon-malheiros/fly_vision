@@ -1,0 +1,16 @@
+{
+  "recorded_utc": "2026-10-13T04:05:27.883172+00:00",
+  "failed_attempt": "source_reference_execution.log",
+  "issue": "Reference probes indexed top+1=180 at the bottom pixel center; rightmost source pixel had the analogous issue.",
+  "correction": "Bound adjacent indices to the last source pixel after requiring physical coordinates within pixel-center support.",
+  "source_responses_changed": false,
+  "circuit_parameters_changed": false,
+  "numerical_tolerances_changed": false,
+  "files": [
+    {
+      "path": "scripts/recover_fixed_neighbor_motion_reference_v1.py",
+      "size_bytes": 2081,
+      "sha256": "b8c52825e4cad17435a3ce95848aebf18ddaa8ee1992cbdc069b1a959a476356"
+    }
+  ]
+}

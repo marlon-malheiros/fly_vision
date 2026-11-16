@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "entries": 2846,
+  "bytes": 56601757382,
+  "index": {
+    "path": "results/continuous_yaw_mechanisms_v1/completion_v1/artifact_index.json",
+    "size_bytes": 619980,
+    "sha256": "fcb2286c7348c5050efeedbf12a8080add8ed4c5c03bf7ea9cc32a04eddeb719"
+  },
+  "source_commit": "b5a11cda3c684a3577545c711e86405c2f6e9875",
+  "all_indexed_files_match_after_sealer_exit": true,
+  "live_progress_and_instructions_excluded": true,
+  "physiological_validation": false,
+  "new_detection_threshold": false
+}

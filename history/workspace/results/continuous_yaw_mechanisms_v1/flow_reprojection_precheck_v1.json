@@ -1,0 +1,17 @@
+{
+  "scope": "Verification-stencil truncation precheck on already completed geometry; no neural outcome or experimental parameter change",
+  "epsilon_s": 1e-05,
+  "tolerance_rad_s": 1e-05,
+  "checks": [
+    {
+      "side": "L",
+      "two_point_max_error": 5.3580390797947075e-05,
+      "five_point_max_error": 1.0848843601252156e-08
+    },
+    {
+      "side": "R",
+      "two_point_max_error": 5.3508709129346244e-05,
+      "five_point_max_error": 1.100563196132498e-08
+    }
+  ]
+}

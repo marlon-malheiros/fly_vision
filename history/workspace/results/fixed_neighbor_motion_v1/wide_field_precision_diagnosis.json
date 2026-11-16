@@ -1,0 +1,81 @@
+{
+  "recorded_utc": "2026-10-13T04:39:01.234719+00:00",
+  "maximum_float64_vs_float32_condition_mean_error": 1.328143058032527e-08,
+  "global_classification_changes": 0,
+  "over_tolerance_count": 152,
+  "examples": [
+    {
+      "body_id": "10019",
+      "seed": 42,
+      "condition": 1,
+      "error": 5.420730767036197e-09
+    },
+    {
+      "body_id": "10019",
+      "seed": 42,
+      "condition": 2,
+      "error": 3.6229141561761047e-10
+    },
+    {
+      "body_id": "10019",
+      "seed": 42,
+      "condition": 3,
+      "error": 6.294619575575311e-09
+    },
+    {
+      "body_id": "10019",
+      "seed": 42,
+      "condition": 4,
+      "error": 3.9976274721076344e-10
+    },
+    {
+      "body_id": "10025",
+      "seed": 42,
+      "condition": 1,
+      "error": 2.216999462484326e-09
+    },
+    {
+      "body_id": "10025",
+      "seed": 42,
+      "condition": 2,
+      "error": 5.85076680159613e-09
+    },
+    {
+      "body_id": "10025",
+      "seed": 42,
+      "condition": 6,
+      "error": 2.699549611628882e-09
+    },
+    {
+      "body_id": "10015",
+      "seed": 42,
+      "condition": 1,
+      "error": 6.464202506606398e-10
+    },
+    {
+      "body_id": "10015",
+      "seed": 42,
+      "condition": 2,
+      "error": 2.3523409817260976e-09
+    },
+    {
+      "body_id": "10015",
+      "seed": 42,
+      "condition": 5,
+      "error": 1.3749785615635446e-09
+    },
+    {
+      "body_id": "10015",
+      "seed": 42,
+      "condition": 6,
+      "error": 2.3707000980366377e-09
+    },
+    {
+      "body_id": "10016",
+      "seed": 42,
+      "condition": 1,
+      "error": 2.4048647240260124e-09
+    }
+  ],
+  "cause": "Reported means were computed from saved float32 all-cell rate; audit compared them to the separate float64 HS/H2 array."
+}

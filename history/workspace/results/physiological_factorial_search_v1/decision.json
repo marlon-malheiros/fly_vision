@@ -1,0 +1,36 @@
+{
+  "primary_candidates": 24,
+  "diagnostic_candidates": 48,
+  "total_candidates": 72,
+  "source_families_passed": 6,
+  "source_families_total": 18,
+  "parallel_source_families_passed": 6,
+  "qualified_screen": [],
+  "qualified_final": [],
+  "all_copy_numerical_passes": 160,
+  "all_copy_numerical_total": 160,
+  "finalist_numerical_passes": 18,
+  "finalist_numerical_total": 18,
+  "best_parallel_frequency_id": "g1_k300_parallel_T5_slowing_only",
+  "best_parallel_frequency_rmse": 0.2924111665308087,
+  "best_parallel_frequency_failed_guards": [
+    "preferred_signs",
+    "null_error"
+  ],
+  "biological_validation": false,
+  "new_yaw_reliability_claim": false,
+  "fit_parameters": 0,
+  "scientific_CPU_seconds": 7960.063238341,
+  "peak_RSS_bytes": 1971044352,
+  "primary_failed_guard_counts": {
+    "numerical": 0,
+    "source_consistency": 0,
+    "parallel_architecture": 0,
+    "preferred_signs": 12,
+    "frequency_rmse": 21,
+    "frequency_bands": 13,
+    "null_error": 9,
+    "half_contrast": 17
+  },
+  "qualified_full_recording_bands": []
+}

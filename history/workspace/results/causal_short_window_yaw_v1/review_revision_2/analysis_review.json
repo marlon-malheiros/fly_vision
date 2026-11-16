@@ -1,0 +1,205 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T09:31:52.840594+00:00",
+  "predictions": 7680,
+  "curve_counts": 120,
+  "scalar_medians": 69888,
+  "endpoint_means": 7680,
+  "rolling_means": 211200,
+  "selection_independently_reconstructed": true,
+  "fresh_render_checks": [
+    {
+      "key": "r00_v16.5_y+0",
+      "side": "L",
+      "time": 0.7000000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "side": "R",
+      "time": 0.7000000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "side": "L",
+      "time": 1.0,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "side": "R",
+      "time": 1.0,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "side": "L",
+      "time": 1.3900000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "side": "R",
+      "time": 1.3900000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "side": "L",
+      "time": 0.7000000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "side": "R",
+      "time": 0.7000000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "side": "L",
+      "time": 1.0,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "side": "R",
+      "time": 1.0,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "side": "L",
+      "time": 1.3900000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "side": "R",
+      "time": 1.3900000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "side": "L",
+      "time": 0.7000000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "side": "R",
+      "time": 0.7000000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "side": "L",
+      "time": 1.0,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "side": "R",
+      "time": 1.0,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "side": "L",
+      "time": 1.3900000000000001,
+      "image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "side": "R",
+      "time": 1.3900000000000001,
+      "image_error": 0.0,
+      "passed": true
+    }
+  ],
+  "original_reference_checks": [
+    {
+      "key": "r00_v16.5_y+0",
+      "time": 0.7000000000000001,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "time": 1.0,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "time": 1.3900000000000001,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "time": 0.7000000000000001,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "time": 1.0,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "time": 1.3900000000000001,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "time": 0.7000000000000001,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "time": 1.0,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "r02_v16.5_y+2",
+      "time": 1.3900000000000001,
+      "source_error": 0.0,
+      "yaw_error": 0.0,
+      "passed": true
+    }
+  ],
+  "runtime_statistics_reconstructed": true,
+  "physiological_validation": false
+}

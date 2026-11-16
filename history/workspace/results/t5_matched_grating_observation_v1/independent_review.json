@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T01:04:58.413929+00:00",
+  "traces_reviewed": 8,
+  "primary_and_secondary_pair_scores_reviewed": 48,
+  "parameters_bitwise_unchanged": true,
+  "observation_extraction_bitwise": true,
+  "independent_solver": "Saved tight event-split author RHS, Octave ode45",
+  "independent_author_rhs_maximum_error_mv": 2.1079671341794892e-10,
+  "independent_arithmetic_maximum_difference": 1.0658141036401503e-14,
+  "independent_cells_or_new_experiments": false,
+  "decision": "MATCHED_COMPARISON_COMPLETE_SCOPE_LIMITED",
+  "traces": [
+    {
+      "grating_index": 0,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 1.7030998833433841e-10,
+      "independent_arithmetic_maximum_difference": 6.217248937900877e-15
+    },
+    {
+      "grating_index": 1,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 1.7044499145413283e-10,
+      "independent_arithmetic_maximum_difference": 8.881784197001252e-15
+    },
+    {
+      "grating_index": 2,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 2.1079671341794892e-10,
+      "independent_arithmetic_maximum_difference": 3.9968028886505635e-15
+    },
+    {
+      "grating_index": 3,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 2.1017143581048003e-10,
+      "independent_arithmetic_maximum_difference": 5.773159728050814e-15
+    },
+    {
+      "grating_index": 4,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 1.6756729337430443e-10,
+      "independent_arithmetic_maximum_difference": 7.105427357601002e-15
+    },
+    {
+      "grating_index": 5,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 1.6979129213723354e-10,
+      "independent_arithmetic_maximum_difference": 5.329070518200751e-15
+    },
+    {
+      "grating_index": 6,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 2.0810375644941814e-10,
+      "independent_arithmetic_maximum_difference": 1.0658141036401503e-14
+    },
+    {
+      "grating_index": 7,
+      "raw_record_and_clock_bitwise": true,
+      "independent_author_rhs_maximum_error_mv": 2.0719426174764521e-10,
+      "independent_arithmetic_maximum_difference": 4.440892098500626e-15
+    }
+  ]
+}

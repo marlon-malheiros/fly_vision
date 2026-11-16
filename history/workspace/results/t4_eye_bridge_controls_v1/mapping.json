@@ -1,0 +1,82 @@
+{
+  "sources": 13579,
+  "types": {
+    "T4a": 1684,
+    "T4b": 1690,
+    "T4c": 1778,
+    "T4d": 1709,
+    "T5a": 1663,
+    "T5b": 1715,
+    "T5c": 1720,
+    "T5d": 1620
+  },
+  "imputed_axes": 76,
+  "selected": [
+    {
+      "body_id": "100365",
+      "cell_type": "T4a",
+      "family": "T4",
+      "side": "L",
+      "center_world_deg": [
+        -79.69830322265625,
+        0.7659986019134521
+      ],
+      "axis_world": [
+        -0.9961291617147642,
+        -0.0879016108011756
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "100365"
+    },
+    {
+      "body_id": "151742",
+      "cell_type": "T4b",
+      "family": "T4",
+      "side": "L",
+      "center_world_deg": [
+        -79.69830322265625,
+        0.7659986019134521
+      ],
+      "axis_world": [
+        0.989323758984275,
+        -0.1457343470470294
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "151742"
+    },
+    {
+      "body_id": "92996",
+      "cell_type": "T4a",
+      "family": "T4",
+      "side": "R",
+      "center_world_deg": [
+        79.89533996582031,
+        0.4466194808483124
+      ],
+      "axis_world": [
+        0.9855556177584088,
+        0.16935207204177083
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "92996"
+    },
+    {
+      "body_id": "101873",
+      "cell_type": "T4b",
+      "family": "T4",
+      "side": "R",
+      "center_world_deg": [
+        79.89533996582031,
+        0.4466194808483124
+      ],
+      "axis_world": [
+        -0.997587119656294,
+        -0.06942577832375432
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "101873"
+    }
+  ],
+  "exact_ids_types_sides": true,
+  "eye_wide_anatomical_validation_claimed": false
+}

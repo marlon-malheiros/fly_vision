@@ -1,0 +1,194 @@
+{
+  "status": "COMPLETED_DEVELOPMENT_COMPARISON",
+  "decisions": [
+    {
+      "variant": "lpi_intact",
+      "criteria": {
+        "all_unwanted_ratios_reduced_with_positive_desired": true,
+        "dnp15_median_nondecrease": true,
+        "dnp15_pooled_nondecrease": false,
+        "bips_index_error_nonincrease": true
+      },
+      "comparisons": [
+        {
+          "key": "aligned_100_202610279100_yaw",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_yaw",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_translation",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_translation",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_yaw",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_yaw",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_translation",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_translation",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        }
+      ],
+      "qualifies_for_next_external_benchmark": false,
+      "bips_index": 0.15382197957392063,
+      "observed_bips_index": 0.15599394324888086
+    },
+    {
+      "variant": "lpi_silent",
+      "criteria": {
+        "all_unwanted_ratios_reduced_with_positive_desired": false,
+        "dnp15_median_nondecrease": true,
+        "dnp15_pooled_nondecrease": false,
+        "bips_index_error_nonincrease": true
+      },
+      "comparisons": [
+        {
+          "key": "aligned_100_202610279100_yaw",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_yaw",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_translation",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_translation",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_yaw",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_yaw",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_translation",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_translation",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": false
+        }
+      ],
+      "qualifies_for_next_external_benchmark": false,
+      "bips_index": 0.15262054535568725,
+      "observed_bips_index": 0.15599394324888086
+    },
+    {
+      "variant": "functional_opponent",
+      "criteria": {
+        "all_unwanted_ratios_reduced_with_positive_desired": true,
+        "dnp15_median_nondecrease": true,
+        "dnp15_pooled_nondecrease": false,
+        "bips_index_error_nonincrease": false
+      },
+      "comparisons": [
+        {
+          "key": "aligned_100_202610279100_yaw",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_yaw",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_translation",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279100_translation",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_yaw",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_yaw",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_translation",
+          "side": "L",
+          "desired_positive": true,
+          "ratio_reduced": true
+        },
+        {
+          "key": "aligned_100_202610279101_translation",
+          "side": "R",
+          "desired_positive": true,
+          "ratio_reduced": true
+        }
+      ],
+      "qualifies_for_next_external_benchmark": false,
+      "bips_index": 0.14254611700127778,
+      "observed_bips_index": 0.15599394324888086
+    }
+  ],
+  "biological_validation": false,
+  "new_small_yaw_test": false,
+  "all_recordings_previously_inspected": true
+}

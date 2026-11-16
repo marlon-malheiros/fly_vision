@@ -1,0 +1,9 @@
+# Full published neural pipeline numerical follow-up V1
+
+1 November 2026. Freeze after both failed geometric-reader development comparisons, before any new refinement. These checks determine whether those negative results depend strongly on optical/temporal/solver resolution. They cannot qualify a behaviorally failed model.
+
+Use f00 at 16.5 mm/s and yaw 0/plus-or-minus 2 degrees/s, separately in the inherited spherical chart and perspective reference. Compare each saved primary with three fixed refinements: nine-by-nine aperture quadrature instead of five-by-five; physical image/neural steps of 2.5 ms; and 2.5-ms neural solver steps with the identical 5-ms visual frames each held twice. Keep original neural parameters and all reader mappings/cutoffs. Eighteen new neural trajectories; no candidate fit or selection.
+
+Native Network.simulate returns post-update states. Align finer integrations to the same physical end of a coarse integration interval by sampling fine frame indices 1,5,9,...; the 5-ms primary saved indices are 0,2,4,... . Append one final held image to make the final interval complete. This source clock convention is disclosed; source callbacks labeled 1.19 s correspond to states after that callback's integration. For optical refinement use identical forcing times. Independently verify the solver-only forcing hash against the original movie before repeating frames.
+
+Save every refined decoded field, reader score error and endpoint/episode alarm agreement. Declare 0.2 degree/s maximum absolute score discrepancy as an engineering numerical tolerance, with decision preservation additionally required at the original fixed-one and descriptive zero-alarm cutoffs. Report failures; this small set is diagnostic and does not replace a future working candidate's full numerical protocol. Anatomical/physiological validity does not follow from numerical convergence.

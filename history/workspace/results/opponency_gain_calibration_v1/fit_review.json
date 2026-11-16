@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "full_and_LOFO_fits": 40,
+  "maximum_absolute_error": 9.094947017729282e-13,
+  "independently_reimplemented_filter_and_weighted_projection": true,
+  "all_training_keys_calibration_only": true
+}

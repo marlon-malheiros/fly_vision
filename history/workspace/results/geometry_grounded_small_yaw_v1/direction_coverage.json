@@ -1,0 +1,14 @@
+{
+  "sources": 13579,
+  "nearest_angle_deg_quantiles": [
+    0.042502647240882555,
+    1.8541742947682582,
+    3.183867575039397,
+    4.695745787029857,
+    10.235691124660685,
+    16.95775817296604
+  ],
+  "above_10_deg": 153,
+  "registration": "nearest published visual ray, parallel transport; cross-specimen assumption",
+  "t5_transfer": "separate unmeasured subtype-transfer hypothesis"
+}

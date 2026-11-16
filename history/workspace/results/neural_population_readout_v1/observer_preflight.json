@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "old_rates_final_checkpoints_bitwise": true,
+  "independent_pooling_max_error": 1.3010426069826053e-18,
+  "checkpoint_count": 5,
+  "source": {
+    "path": "results/ongoing_walking_yaw_v1/held_out/p00_v5.5_y+2_primary/source.npz",
+    "size_bytes": 3840369,
+    "sha256": "292e07fe11671b57336dc12ecea7eba790420468091c66271b46da6617be94a5"
+  },
+  "source_neurons": 13579,
+  "empty_bins": 33
+}

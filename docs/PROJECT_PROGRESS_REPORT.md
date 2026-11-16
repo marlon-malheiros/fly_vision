@@ -32,3 +32,24 @@ R2 correction are preserved. No biological validation, neuronal degeneracy,
 superior mechanism recovery or publication acceptance is claimed. The manuscript
 is an initial draft with investigator declarations pending. Nothing is published
 or pushed by this preparation.
+
+## 2026-11-16 — Development and experimental history added
+
+Added the [main history guide](../HISTORY.md), a dated snapshot of the parent
+project progress report, a 536-entry machine-readable timeline, and metadata
+for 265 parent-workspace Git commits. The evidence index describes 1,229 directly
+referenced source paths; 1,154 reports, structured results, scripts and figures
+are included. Oversized bundles, raw data and full directories are marked as
+local-only rather than represented as complete. Machine-specific workspace,
+home and temporary paths were sanitized, with original and exported hashes and
+transformation counts recorded for each included source file.
+
+The [history manifest](../history/history_manifest.json) verifies 1,161
+archive files. All 758 historical JSON files and 2,823 historical JSONL lines
+parsed; all 1,283 retained local links in the dated progress snapshot resolved.
+The [validation receipt](HISTORY_EXPORT_VALIDATION_2026-11-16.json) records the
+scope of those checks. The original pilot's separate 53-file release inventory
+still passes. Historical
+reports preserve exploratory results, failures and post-outcome corrections;
+neither this archive nor its numerical checks establishes biological validation.
+The movie-retirement ledger is included; no retired movies were regenerated.

@@ -1,0 +1,204 @@
+{
+  "status": "COMPLETE",
+  "utc": "2026-10-28T02:47:31.161621+00:00",
+  "git_checkpoint": "48b91fd2d38161a796ff6e2f1ca6f6e23f96cfe3",
+  "git_methods_freeze": "76e525a8d126cde744e3733bdf634bc2051c234a",
+  "biological_validation_established": false,
+  "decision": {
+    "status": "COMPLETED_DEVELOPMENT_COMPARISON",
+    "decisions": [
+      {
+        "variant": "lpi_intact",
+        "criteria": {
+          "all_unwanted_ratios_reduced_with_positive_desired": true,
+          "dnp15_median_nondecrease": true,
+          "dnp15_pooled_nondecrease": false,
+          "bips_index_error_nonincrease": true
+        },
+        "comparisons": [
+          {
+            "key": "aligned_100_202610279100_yaw",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_yaw",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_translation",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_translation",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_yaw",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_yaw",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_translation",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_translation",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          }
+        ],
+        "qualifies_for_next_external_benchmark": false,
+        "bips_index": 0.15382197957392063,
+        "observed_bips_index": 0.15599394324888086
+      },
+      {
+        "variant": "lpi_silent",
+        "criteria": {
+          "all_unwanted_ratios_reduced_with_positive_desired": false,
+          "dnp15_median_nondecrease": true,
+          "dnp15_pooled_nondecrease": false,
+          "bips_index_error_nonincrease": true
+        },
+        "comparisons": [
+          {
+            "key": "aligned_100_202610279100_yaw",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_yaw",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_translation",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_translation",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_yaw",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_yaw",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_translation",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_translation",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": false
+          }
+        ],
+        "qualifies_for_next_external_benchmark": false,
+        "bips_index": 0.15262054535568725,
+        "observed_bips_index": 0.15599394324888086
+      },
+      {
+        "variant": "functional_opponent",
+        "criteria": {
+          "all_unwanted_ratios_reduced_with_positive_desired": true,
+          "dnp15_median_nondecrease": true,
+          "dnp15_pooled_nondecrease": false,
+          "bips_index_error_nonincrease": false
+        },
+        "comparisons": [
+          {
+            "key": "aligned_100_202610279100_yaw",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_yaw",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_translation",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279100_translation",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_yaw",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_yaw",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_translation",
+            "side": "L",
+            "desired_positive": true,
+            "ratio_reduced": true
+          },
+          {
+            "key": "aligned_100_202610279101_translation",
+            "side": "R",
+            "desired_positive": true,
+            "ratio_reduced": true
+          }
+        ],
+        "qualifies_for_next_external_benchmark": false,
+        "bips_index": 0.14254611700127778,
+        "observed_bips_index": 0.15599394324888086
+      }
+    ],
+    "biological_validation": false,
+    "new_small_yaw_test": false,
+    "all_recordings_previously_inspected": true
+  },
+  "preserved_preflight_metadata_error": true,
+  "preserved_execution_failures": 2,
+  "live_AGENTS_and_progress_excluded": true
+}

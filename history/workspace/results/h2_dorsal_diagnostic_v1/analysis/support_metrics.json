@@ -1,0 +1,743 @@
+[
+  {
+    "cell": 1,
+    "protocol": 1,
+    "center": [
+      87.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -9.567620230104067,
+      0.8713488020538729
+    ],
+    "direct_afferents_in_window": 10,
+    "absolute_weight_in_window": 0.01049889485317335,
+    "model_amplitude": 0.00010463250926602696,
+    "pd_error_deg": 12.093047023279258,
+    "horizontal_error_deg": 2.80376748770511,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 1,
+    "protocol": 1,
+    "center": [
+      87.0,
+      29.0
+    ],
+    "body_center_deg": [
+      -10.231959669661903,
+      15.461242317434072
+    ],
+    "direct_afferents_in_window": 5,
+    "absolute_weight_in_window": 0.005880959898958004,
+    "model_amplitude": 7.619282890366219e-05,
+    "pd_error_deg": 16.409571070359885,
+    "horizontal_error_deg": 11.033100463915684,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 1,
+    "protocol": 1,
+    "center": [
+      29.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -63.07350425398488,
+      -10.053494321832527
+    ],
+    "direct_afferents_in_window": 31,
+    "absolute_weight_in_window": 0.02316861383012314,
+    "model_amplitude": 0.00026582538809574155,
+    "pd_error_deg": 5.575307694620903,
+    "horizontal_error_deg": 1.8468772008949668,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 1,
+    "protocol": 2,
+    "center": [
+      87.0,
+      21.0
+    ],
+    "body_center_deg": [
+      -11.826132347744215,
+      30.007306808552375
+    ],
+    "direct_afferents_in_window": 7,
+    "absolute_weight_in_window": 0.006473002841806126,
+    "model_amplitude": 5.196552653545347e-05,
+    "pd_error_deg": 19.29976417443868,
+    "horizontal_error_deg": 18.289980680524266,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 1,
+    "protocol": 2,
+    "center": [
+      87.0,
+      36.0
+    ],
+    "body_center_deg": [
+      -14.855710273541835,
+      44.432080880408286
+    ],
+    "direct_afferents_in_window": 3,
+    "absolute_weight_in_window": 0.0034733185980423114,
+    "model_amplitude": 3.540489917188592e-05,
+    "pd_error_deg": 42.35771844472502,
+    "horizontal_error_deg": 38.68649255850197,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 1,
+    "protocol": 2,
+    "center": [
+      58.0,
+      28.0
+    ],
+    "body_center_deg": [
+      -44.900950815455914,
+      26.290570721944356
+    ],
+    "direct_afferents_in_window": 36,
+    "absolute_weight_in_window": 0.030075781496684568,
+    "model_amplitude": 0.00028237809715226715,
+    "pd_error_deg": 0.5519001272254005,
+    "horizontal_error_deg": 5.19462203518934,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 2,
+    "protocol": 1,
+    "center": [
+      87.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -9.58811362812539,
+      3.82954871371161
+    ],
+    "direct_afferents_in_window": 7,
+    "absolute_weight_in_window": 0.007341332491316703,
+    "model_amplitude": 9.966826389488776e-05,
+    "pd_error_deg": 19.569730168501554,
+    "horizontal_error_deg": 10.31823951533359,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 2,
+    "protocol": 1,
+    "center": [
+      87.0,
+      29.0
+    ],
+    "body_center_deg": [
+      -10.39556442777259,
+      18.412793124150063
+    ],
+    "direct_afferents_in_window": 10,
+    "absolute_weight_in_window": 0.010419955794126934,
+    "model_amplitude": 7.622056694173507e-05,
+    "pd_error_deg": 10.679719542001466,
+    "horizontal_error_deg": 8.250771786618515,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 2,
+    "protocol": 1,
+    "center": [
+      29.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -62.632951829191164,
+      -8.684422164573027
+    ],
+    "direct_afferents_in_window": 33,
+    "absolute_weight_in_window": 0.025221029365329967,
+    "model_amplitude": 0.0002654464064226654,
+    "pd_error_deg": 13.03856718501572,
+    "horizontal_error_deg": 8.320371494245572,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 2,
+    "protocol": 2,
+    "center": [
+      87.0,
+      21.0
+    ],
+    "body_center_deg": [
+      -12.48363729640891,
+      34.42070784989007
+    ],
+    "direct_afferents_in_window": 5,
+    "absolute_weight_in_window": 0.005012630249447427,
+    "model_amplitude": 4.3770635074653127e-05,
+    "pd_error_deg": 23.102448060359567,
+    "horizontal_error_deg": 25.328044037944927,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 2,
+    "protocol": 2,
+    "center": [
+      87.0,
+      36.0
+    ],
+    "body_center_deg": [
+      -16.26668496703932,
+      48.84449861273447
+    ],
+    "direct_afferents_in_window": 1,
+    "absolute_weight_in_window": 0.0013024944742658668,
+    "model_amplitude": 1.7515805883537058e-05,
+    "pd_error_deg": 66.13743661816464,
+    "horizontal_error_deg": 46.3519139265034,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 2,
+    "protocol": 2,
+    "center": [
+      58.0,
+      28.0
+    ],
+    "body_center_deg": [
+      -46.769657660152134,
+      29.25395814223984
+    ],
+    "direct_afferents_in_window": 36,
+    "absolute_weight_in_window": 0.0297600252604989,
+    "model_amplitude": 0.000287800838899136,
+    "pd_error_deg": 13.987187224183922,
+    "horizontal_error_deg": 8.744275773976034,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 3,
+    "protocol": 1,
+    "center": [
+      87.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -9.566522816294027,
+      -0.11474360739087314
+    ],
+    "direct_afferents_in_window": 10,
+    "absolute_weight_in_window": 0.01049889485317335,
+    "model_amplitude": 0.00010694731801269748,
+    "pd_error_deg": 0.16596743680792791,
+    "horizontal_error_deg": 9.164525295821509,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 3,
+    "protocol": 1,
+    "center": [
+      87.0,
+      29.0
+    ],
+    "body_center_deg": [
+      -10.184572944168057,
+      14.477071399648727
+    ],
+    "direct_afferents_in_window": 5,
+    "absolute_weight_in_window": 0.005880959898958004,
+    "model_amplitude": 7.509676333477362e-05,
+    "pd_error_deg": 17.139045733713687,
+    "horizontal_error_deg": 12.19246748488332,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 3,
+    "protocol": 1,
+    "center": [
+      29.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -63.23532041975309,
+      -10.505091486078626
+    ],
+    "direct_afferents_in_window": 31,
+    "absolute_weight_in_window": 0.02316861383012314,
+    "model_amplitude": 0.0002632187395650505,
+    "pd_error_deg": 11.87038449837058,
+    "horizontal_error_deg": 6.408320179609987,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 3,
+    "protocol": 2,
+    "center": [
+      87.0,
+      21.0
+    ],
+    "body_center_deg": [
+      -11.94498670628969,
+      30.511141325058166
+    ],
+    "direct_afferents_in_window": 7,
+    "absolute_weight_in_window": 0.006473002841806126,
+    "model_amplitude": 4.9529973489737084e-05,
+    "pd_error_deg": 33.14366416823016,
+    "horizontal_error_deg": 29.949067938891563,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 3,
+    "protocol": 2,
+    "center": [
+      87.0,
+      36.0
+    ],
+    "body_center_deg": [
+      -15.109604640362155,
+      44.993197220423276
+    ],
+    "direct_afferents_in_window": 3,
+    "absolute_weight_in_window": 0.0034733185980423114,
+    "model_amplitude": 3.5744981744352156e-05,
+    "pd_error_deg": 6.6878008648104945,
+    "horizontal_error_deg": 16.028299866646652,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 3,
+    "protocol": 2,
+    "center": [
+      58.0,
+      28.0
+    ],
+    "body_center_deg": [
+      -45.247575964155544,
+      26.474928240953997
+    ],
+    "direct_afferents_in_window": 36,
+    "absolute_weight_in_window": 0.029641616671929275,
+    "model_amplitude": 0.0002796555558600671,
+    "pd_error_deg": 10.58571324337308,
+    "horizontal_error_deg": 5.648785406689967,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 4,
+    "protocol": 1,
+    "center": [
+      87.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -9.60071210922338,
+      4.81556170962299
+    ],
+    "direct_afferents_in_window": 7,
+    "absolute_weight_in_window": 0.007341332491316703,
+    "model_amplitude": 5.079870131832117e-05,
+    "pd_error_deg": 0.8692398703634089,
+    "horizontal_error_deg": 8.1038128424419,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 4,
+    "protocol": 1,
+    "center": [
+      87.0,
+      29.0
+    ],
+    "body_center_deg": [
+      -10.457543597056576,
+      19.396281788354287
+    ],
+    "direct_afferents_in_window": 8,
+    "absolute_weight_in_window": 0.008564887906536155,
+    "model_amplitude": 3.9831505770168536e-05,
+    "pd_error_deg": 20.881883882280835,
+    "horizontal_error_deg": 18.47789895234626,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 4,
+    "protocol": 1,
+    "center": [
+      29.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -62.50103061907921,
+      -8.223701457036125
+    ],
+    "direct_afferents_in_window": 31,
+    "absolute_weight_in_window": 0.023287022418692765,
+    "model_amplitude": 0.00015917250699682502,
+    "pd_error_deg": 11.82355848199907,
+    "horizontal_error_deg": 15.182025129737658,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 4,
+    "protocol": 2,
+    "center": [
+      87.0,
+      21.0
+    ],
+    "body_center_deg": [
+      -12.489361519189249,
+      34.65742998702363
+    ],
+    "direct_afferents_in_window": 5,
+    "absolute_weight_in_window": 0.005012630249447427,
+    "model_amplitude": 2.472479948281485e-05,
+    "pd_error_deg": 2.0230075900348057,
+    "horizontal_error_deg": 8.69594752667034,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 4,
+    "protocol": 2,
+    "center": [
+      87.0,
+      36.0
+    ],
+    "body_center_deg": [
+      -16.276298194319573,
+      49.04588307076292
+    ],
+    "direct_afferents_in_window": 1,
+    "absolute_weight_in_window": 0.0013024944742658668,
+    "model_amplitude": 7.793730747960345e-06,
+    "pd_error_deg": 28.853690472577295,
+    "horizontal_error_deg": 11.245515081002566,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 4,
+    "protocol": 2,
+    "center": [
+      58.0,
+      28.0
+    ],
+    "body_center_deg": [
+      -46.78902941498871,
+      29.514134127952527
+    ],
+    "direct_afferents_in_window": 38,
+    "absolute_weight_in_window": 0.031575623618566466,
+    "model_amplitude": 0.00019367173853799237,
+    "pd_error_deg": 20.436170548261735,
+    "horizontal_error_deg": 14.115820659364893,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 5,
+    "protocol": 1,
+    "center": [
+      87.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -9.578407678397937,
+      2.843503298843882
+    ],
+    "direct_afferents_in_window": 10,
+    "absolute_weight_in_window": 0.010143669087464478,
+    "model_amplitude": 0.00010123304503284442,
+    "pd_error_deg": 2.77621669153553,
+    "horizontal_error_deg": 6.709136360304325,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 5,
+    "protocol": 1,
+    "center": [
+      87.0,
+      29.0
+    ],
+    "body_center_deg": [
+      -10.337370107147978,
+      17.429115236409306
+    ],
+    "direct_afferents_in_window": 5,
+    "absolute_weight_in_window": 0.005880959898958004,
+    "model_amplitude": 7.547512374543457e-05,
+    "pd_error_deg": 17.01769319582931,
+    "horizontal_error_deg": 14.026737050059081,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 5,
+    "protocol": 1,
+    "center": [
+      29.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -62.77233065487751,
+      -9.143040287374994
+    ],
+    "direct_afferents_in_window": 33,
+    "absolute_weight_in_window": 0.025221029365329967,
+    "model_amplitude": 0.0002659954764907062,
+    "pd_error_deg": 3.632141641034308,
+    "horizontal_error_deg": 6.711379375111513,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 5,
+    "protocol": 2,
+    "center": [
+      87.0,
+      21.0
+    ],
+    "body_center_deg": [
+      -12.204329330125946,
+      32.70367272857748
+    ],
+    "direct_afferents_in_window": 6,
+    "absolute_weight_in_window": 0.005525734133249131,
+    "model_amplitude": 4.574481543267386e-05,
+    "pd_error_deg": 14.239870479626951,
+    "horizontal_error_deg": 14.968163692725202,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 5,
+    "protocol": 2,
+    "center": [
+      87.0,
+      36.0
+    ],
+    "body_center_deg": [
+      -15.66329161586542,
+      47.12302703952362
+    ],
+    "direct_afferents_in_window": 1,
+    "absolute_weight_in_window": 0.0013024944742658668,
+    "model_amplitude": 2.4553591158103938e-05,
+    "pd_error_deg": 30.71264973616296,
+    "horizontal_error_deg": 16.876627878883884,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 5,
+    "protocol": 2,
+    "center": [
+      58.0,
+      28.0
+    ],
+    "body_center_deg": [
+      -45.992032344978156,
+      28.134548894866388
+    ],
+    "direct_afferents_in_window": 34,
+    "absolute_weight_in_window": 0.028457530786233032,
+    "model_amplitude": 0.0002850577395690876,
+    "pd_error_deg": 4.883569669662284,
+    "horizontal_error_deg": 0.929037977073849,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 6,
+    "protocol": 1,
+    "center": [
+      87.0,
+      21.0
+    ],
+    "body_center_deg": [
+      -12.204329330125946,
+      32.70367272857748
+    ],
+    "direct_afferents_in_window": 6,
+    "absolute_weight_in_window": 0.005525734133249131,
+    "model_amplitude": 4.5744934064077815e-05,
+    "pd_error_deg": 1.0056701347194774,
+    "horizontal_error_deg": 0.2774609154126969,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 6,
+    "protocol": 1,
+    "center": [
+      87.0,
+      36.0
+    ],
+    "body_center_deg": [
+      -15.66329161586542,
+      47.12302703952362
+    ],
+    "direct_afferents_in_window": 1,
+    "absolute_weight_in_window": 0.0013024944742658668,
+    "model_amplitude": 2.4553672269163718e-05,
+    "pd_error_deg": 65.5448855281313,
+    "horizontal_error_deg": 51.70883894115044,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 6,
+    "protocol": 1,
+    "center": [
+      58.0,
+      28.0
+    ],
+    "body_center_deg": [
+      -45.992032344978156,
+      28.134548894866388
+    ],
+    "direct_afferents_in_window": 34,
+    "absolute_weight_in_window": 0.028457530786233032,
+    "model_amplitude": 0.00028505749300853826,
+    "pd_error_deg": 30.364251425053816,
+    "horizontal_error_deg": 24.551662770228578,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 6,
+    "protocol": 2,
+    "center": [
+      87.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -9.578407678397937,
+      2.843503298843882
+    ],
+    "direct_afferents_in_window": 10,
+    "absolute_weight_in_window": 0.010143669087464478,
+    "model_amplitude": 0.00010123347796068971,
+    "pd_error_deg": 22.706245229049358,
+    "horizontal_error_deg": 13.220905080766626,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 6,
+    "protocol": 2,
+    "center": [
+      87.0,
+      29.0
+    ],
+    "body_center_deg": [
+      -10.337370107147978,
+      17.429115236409306
+    ],
+    "direct_afferents_in_window": 5,
+    "absolute_weight_in_window": 0.005880959898958004,
+    "model_amplitude": 7.547548076024285e-05,
+    "pd_error_deg": 23.85292019074246,
+    "horizontal_error_deg": 20.86199179696469,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 6,
+    "protocol": 2,
+    "center": [
+      29.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -62.77233065487751,
+      -9.143040287374994
+    ],
+    "direct_afferents_in_window": 33,
+    "absolute_weight_in_window": 0.025221029365329967,
+    "model_amplitude": 0.0002659952856293948,
+    "pd_error_deg": 1.197102322311304,
+    "horizontal_error_deg": 4.276317111622447,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 7,
+    "protocol": 1,
+    "center": [
+      87.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -9.60071210922338,
+      4.81556170962299
+    ],
+    "direct_afferents_in_window": 7,
+    "absolute_weight_in_window": 0.007341332491316703,
+    "model_amplitude": 9.58032082167858e-05,
+    "pd_error_deg": 5.807931562170394,
+    "horizontal_error_deg": 2.0974855595728457,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 7,
+    "protocol": 1,
+    "center": [
+      87.0,
+      29.0
+    ],
+    "body_center_deg": [
+      -10.457543597056576,
+      19.396281788354287
+    ],
+    "direct_afferents_in_window": 8,
+    "absolute_weight_in_window": 0.008564887906536155,
+    "model_amplitude": 7.739177055910348e-05,
+    "pd_error_deg": 22.90353029419352,
+    "horizontal_error_deg": 22.114674222027347,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  },
+  {
+    "cell": 7,
+    "protocol": 1,
+    "center": [
+      29.0,
+      13.0
+    ],
+    "body_center_deg": [
+      -62.50103061907921,
+      -8.223701457036125
+    ],
+    "direct_afferents_in_window": 31,
+    "absolute_weight_in_window": 0.023287022418692765,
+    "model_amplitude": 0.00025928862086220517,
+    "pd_error_deg": 9.87457601135144,
+    "horizontal_error_deg": 7.099893860825751,
+    "visible_led_centers": 317,
+    "window_led_centers": 317
+  }
+]

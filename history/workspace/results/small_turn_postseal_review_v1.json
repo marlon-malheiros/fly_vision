@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "unique_files": 8389,
+  "unique_bytes": 92955950438,
+  "indexes": [
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/completion_v1/artifact_index.json",
+      "size_bytes": 1196226,
+      "sha256": "2819393c79c4f34fed7e5e0eedbb27e1b6b048dd61d8f45c7da3ac1143139698"
+    },
+    {
+      "path": "results/small_yaw_image_reference_v3/completion_v1/artifact_index.json",
+      "size_bytes": 427941,
+      "sha256": "5f287aeb7403805e1c9fbc2761269bc094a06b205828d1f7d1756eb7cf38801d"
+    },
+    {
+      "path": "results/small_turn_target_decision_v4/completion_v1/artifact_index.json",
+      "size_bytes": 394180,
+      "sha256": "886428ec958a8626130309c309842c1c909cb4d59a3a8befe10e4d183757d071"
+    }
+  ],
+  "sealing_receipt": {
+    "path": "results/small_turn_sealing_receipt_v1.json",
+    "size_bytes": 683,
+    "sha256": "39f6df30be8a54c43ac033674c2589ef21e763b6d1877a0c25035e6afd7067f5"
+  },
+  "all_index_entries_rehashed_after_sealer_exit": true,
+  "physiological_validation": false
+}

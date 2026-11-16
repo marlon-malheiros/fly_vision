@@ -1,0 +1,14 @@
+{
+  "stage": "original independent audit output serialization",
+  "exception": "TypeError: Object of type bool is not JSON serializable",
+  "actual_type": "numpy.bool_",
+  "field": "original_reference_checks[0].passed",
+  "location": "scripts/review_causal_short_window_yaw_v1.py:196; published_circuit_comparison_v1.py:39",
+  "partial_file": {
+    "path": "results/causal_short_window_yaw_v1/analysis_review.json",
+    "size_bytes": 2927,
+    "sha256": "01896d817d867d62f774d2c5c43b1b51bec9700fa8e8b29952cd72d488ebad01"
+  },
+  "all_assertions_reached_before_json_write": true,
+  "simulation_or_acceptance_change": false
+}

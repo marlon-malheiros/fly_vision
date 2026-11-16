@@ -1,0 +1,8 @@
+{
+  "purpose": "post-failure exploratory refinement; no new acceptance criterion",
+  "coarse_medium_max_abs_difference": 1.386129099654642e-07,
+  "medium_fine_max_abs_difference": 6.917494116807395e-08,
+  "ratio_medium_fine_to_coarse_medium": 0.4990512152533922,
+  "source_note": "FrozenGraph blends toward next input only within the final solver substep of each 10ms input interval; therefore the effective transition duration varies with solver_dt. This is a code observation, not proof it explains every measured difference.",
+  "interpretation": "No solver-timestep gate passed; investigate input interpolation before future physiology or walking evaluation."
+}

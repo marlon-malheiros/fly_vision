@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "source_and_trace_hashes_checked": 7,
+  "metric_max_abs_difference": 0.0,
+  "bips_silenced_ids_verified": 2,
+  "independent_silenced_python_max_difference": 2.7755575615628914e-17,
+  "guard": 1e-10,
+  "scope": "reproducibility and in-model intervention; not biological validation"
+}

@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/project_technical_status_2026_11_08_v1/artifact_index.json",
+    "bytes": 2307,
+    "sha256": "fcff567f2b639f2dd21c068a70cd6d29df6cd7de4d2a254904d1d5cf0b6f1a6e"
+  },
+  "files": 10,
+  "bytes": 972902,
+  "separate_process_after_sealer_exit": true,
+  "new_scientific_simulations": 0
+}

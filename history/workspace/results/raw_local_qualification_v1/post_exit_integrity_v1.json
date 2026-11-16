@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/raw_local_qualification_v1/completion_v1/artifact_index.json",
+    "size_bytes": 189231,
+    "sha256": "fb17721eb15b91b057972e9686bfb78c57c2b9695b1efffcaa742dd41a5b5a6a"
+  },
+  "indexed_files": 886,
+  "indexed_bytes": 29669318,
+  "total_artifact_bytes": 29858954,
+  "independent_small_turn_qualification": false,
+  "physiological_validation": false
+}

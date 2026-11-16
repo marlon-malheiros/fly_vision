@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T01:12:01.804936+00:00",
+  "frozen_methods_and_inputs_unchanged": true,
+  "previous_indexes_verified": [
+    {
+      "path": "results/physiological_execution_artifact_index_v1.json",
+      "sha256": "c70985904cb48dcbd2260475a8f73897ba721592950dfc5e103c0a2c115e6235",
+      "entries_verified": 8418
+    },
+    {
+      "path": "results/physiological_texture_replication_v1/artifact_index.json",
+      "sha256": "fe7b1841edea2af6782eadddbcba5ece0b91bc4acf826e02778143ab8db53597",
+      "entries_verified": 427
+    },
+    {
+      "path": "results/physiological_grating_readout_comparison_v1/artifact_index.json",
+      "sha256": "b95a441b83c36489ec5c99ad4cacc18e2d0147e03082a683727033393807a0a9",
+      "entries_verified": 46
+    },
+    {
+      "path": "results/physiological_image_clamp_repair_v1/artifact_index.json",
+      "sha256": "efceaf13e7aa66514956bfc90c1c60def3b4174f0c19f3306b9bb735d55396a6",
+      "entries_verified": 1157
+    }
+  ],
+  "all_traces_and_pairs_retained": true,
+  "focused_tests_passed": 14,
+  "independent_review_passed": true,
+  "figures_visually_reviewed": true,
+  "relative_report_links_checked": 20,
+  "full_and_retained_waveform_rmse_independently_verified": true,
+  "live_progress_and_agents_excluded_from_future_seal": true
+}

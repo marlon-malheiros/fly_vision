@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "verified_after_sealer_exit": true,
+  "created_utc": "2026-10-22T11:58:49.482802+00:00",
+  "index": {
+    "path": "results/validation_hardware_v1/cpu_work_split_v5/completion_v5/artifact_index.json",
+    "size_bytes": 80331,
+    "sha256": "c9782b32e0114d4019da604d2ba356b560fcb8345ffb077b885585a17d7fb031"
+  },
+  "entries": 353,
+  "active_sealer_stdout_excluded": true,
+  "live_progress_excluded": true,
+  "physiological_validation": false,
+  "broad_goal_complete": false
+}

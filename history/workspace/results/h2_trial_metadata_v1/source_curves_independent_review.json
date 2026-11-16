@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "conditions": 1344,
+  "curves": 84,
+  "raw_repeat_events_checked": 4032,
+  "aligned_clock_samples": 69237473,
+  "sparse_nonzero_spike_entries": 79949,
+  "max_arithmetic_error": 1.4210854715202004e-14,
+  "physiological_model_validation": false
+}

@@ -1,0 +1,167 @@
+{
+  "cases": [
+    "f00_v11_y+0_primary",
+    "f00_v11_y-2_primary",
+    "f00_v11_y+2_primary"
+  ],
+  "sources": [
+    {
+      "path": "results/ongoing_walking_yaw_v1/development/f00_v11_y+0_primary/retina.npz",
+      "sha256": "20bf4ad96a5c46edefd3d5975cb46189097f0705cc6285395fb1b08c9fb72d14",
+      "bytes": 54222154
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/development/f00_v11_y+0_primary/source.npz",
+      "sha256": "1ce8f1352cc3e99a71bac88ef988fb12234ed89aaca9192e306ba9289278818d",
+      "bytes": 4145725
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/development/f00_v11_y-2_primary/retina.npz",
+      "sha256": "d64869238c9a6cea978e0d580ae9a37d7dc8d4e4e10cda7304d237be6f9cd47d",
+      "bytes": 54218485
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/development/f00_v11_y-2_primary/source.npz",
+      "sha256": "ad3ee0915b861aa58e6c10685518a5a41882fd2c3cd236cf30d63a9894e593f4",
+      "bytes": 4155625
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/development/f00_v11_y+2_primary/retina.npz",
+      "sha256": "3bff2c719a228ab4f9d6e0b00bb4aefdc59c215da50def0796caa34b7f4a600c",
+      "bytes": 54224321
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/development/f00_v11_y+2_primary/source.npz",
+      "sha256": "7800bbb133db46560e4adc5cd3ed5412fca010b1ce9da16ce2756dac0eaa4947",
+      "bytes": 4146992
+    }
+  ],
+  "files_sha256": {
+    "scripts/hybrid_t4_walking_pilot_v1.py": "6b80b38674b93630371c2bf822d80b601a0afc483da485292ac9c17448cc591b",
+    "docs/HYBRID_T4_WALKING_PILOT_PROTOCOL_V1.md": "7459abceadb909dbe2c769092a6371ae33743a824fb48ccb6fd521168b52e75c",
+    "scripts/t4_cable_matched_worker_v1.py": "74c60d360af8366a2c8450b064ccccf116d9366aea8d4455ec81b432c391532d",
+    "results/t4_eye_bridge_controls_v1/mapping.json": "c39aeb86b5e6e5f25866ac24898c6b4e3093a975fa6777812f8885f4c4bfb466",
+    "results/fixed_neighbor_motion_v1/config.json": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12",
+    "results/fixed_neighbor_motion_v1/targets.json": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60",
+    "results/raw_local_calibration_repair_v1/local_map.npz": "f23180743243e92e8ed9d3438f6755ef289fa8273306cde029a0debbfd2edd9c",
+    "results/raw_local_calibration_repair_v1/model.json": "8d2e9a7f091043a9b5618d5c421f36b3494169614a85f11df20a85c273584b1b",
+    "results/raw_local_calibration_repair_v1/training_floor.json": "09fa8351e323416065179bb44258d13f0237685c637acbae10aa85d38f1317ea",
+    "results/raw_local_calibration_repair_v1/cutoff.json": "d2a40a9cc5e2de05d0720a974f9233e8031bc8728a7546572bb32c4862a6311b",
+    "src/male_optic_frontend/t4_voltage_bridge_v1.py": "dd7e8b9bdda09f310a6c11aa6b49493725aa07855159cfe44ab1e56fa7ac1265",
+    "src/male_optic_frontend/streaming_held_circuit_v1.py": "4a5499d2d8d2c494f6657140d9f2982dafb177de1502a9cd00a3fb7677e61d21",
+    "src/male_optic_frontend/held_input_graph_v2.py": "d4e7afbeedf7ade0a23a7e25bfca2b010eca64d312b75046102f9b39a4b1ed0c",
+    "src/male_optic_frontend/streaming_v1.py": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc",
+    "src/male_optic_frontend/streaming_core_v1.cpp": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857",
+    "src/male_optic_frontend/virtual_walking_v1.py": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa",
+    "src/male_optic_frontend/anatomical_strengthening_v1.py": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57",
+    "src/male_optic_frontend/physiological_t4.py": "b14a9bc562788aadd4f919c25912746c9ed3a6619379330fb2db7ac63ba7a64b",
+    "src/male_optic_frontend/physiological_prototype.py": "baf160bd44dcb65844698a35af11fac8903de712fb86d36be2b55b8c01afd046",
+    "src/male_optic_frontend/published_t5_forward.py": "b211e811f2e7eab674b505e3c751c2c4b81e033ecdfb8dbc27548b9417dbdb99",
+    "src/male_optic_frontend/visual_coordinates.py": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914",
+    "src/male_optic_frontend/fixed_neighbor_motion.py": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba",
+    "src/male_optic_frontend/local_subunit_v1.py": "97011e13b452b9bdac6cb606f3c27d461b781232ddbf61961c02b4bd7af427a3",
+    "src/male_optic_frontend/retinal_input.py": "10ce14adfce3cb273fda657b8ea0ea1e6ca1b9a8e2682b07832f49e91a760ab5",
+    "src/male_optic_frontend/postfix_contracts.py": "552f707c4943fb86ad7b46add41cf502a66834f30b60a4ef209666e94ee106d6",
+    "results/horizontal_opponency_v1/graphs/lpi/graph.json": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8",
+    "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54",
+    "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa",
+    "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/README.txt": "6e428314fe52c69114bcf0f2479ad5fbb08fc94e8c48ee209bd070e662f15e7f",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/create_cond_vec.hoc": "2364c7c32efc05c7b49531cdf124597bd2505b4221838a4b2150a6dead4955fa",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/define_dend_axis.hoc": "663584588618260d86af31f5e865859bbfee9da47f748ac331c0430a324bdf23",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/flash_start.hoc": "7817d5096313eb2a75316ecfaf2c9e7394e34ea40601cf03ba1afa5caaa58121",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/labeledT4conv_smooth.swc": "ff7d069236b7f947b341b378fdaa9c2fb83c89609cb4533f72321f70bcb64534",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/loadMorph.hoc": "cc195902906f76c1e4db7b50eaddfd7203b5e36ceb2c4a9397468d9e6907afd9",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/moving_ND_start.hoc": "4aa6441ab42e07b4b8295ad7be7d2da943e08a9be428da0310ac961a6d336abd",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/moving_PD_start.hoc": "7fc80bc15c91a6b900a740942b8f4303514aff59adc25eae385fcc74da8eb5a7",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/parameters.dat": "1f0c1aabca34e3ae1e4c709803bde555f835ecee46d4dff4d509eefcd1ce78e9",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/plot_NEURON_data.m": "27c5c93bb91daff69f5535a73c3f9a8263df8daedad1ae1dfd86dbb87d3234f4",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/setting_synapse_parameters_flash.hoc": "36641131ef0ac0c8c8514a73899101e1a57a11182097585ee18900e02bbbabbe",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/setting_synapse_parameters_mov.hoc": "9040328cc3d48af66385f2a39b8b1e982b928c825936c1f6a03f97bc94456edb",
+    "data/raw/physiology_backup_sources_v1/t4_figure5_neuron_source/setting_x_intervals.hoc": "d28622c20e3f7b7d6abe923bf6e4ddddbfdd8d4cd51943c30a8572f9e27c59bd",
+    "results/hybrid_t4_walking_pilot_v1/held_kernel.so": "2dc7fa9a0038ae55ce88f66e6b099c90b07738bbbaf2936209b14a5f13d5af20"
+  },
+  "build_command": [
+    "g++",
+    "-std=c++17",
+    "-O3",
+    "-fno-fast-math",
+    "-ffp-contract=off",
+    "-shared",
+    "-fPIC",
+    "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+    "-o",
+    "<WORKSPACE>/results/hybrid_t4_walking_pilot_v1/held_kernel.so"
+  ],
+  "selected_cells": [
+    {
+      "body_id": "100365",
+      "cell_type": "T4a",
+      "family": "T4",
+      "side": "L",
+      "center_world_deg": [
+        -79.69830322265625,
+        0.7659986019134521
+      ],
+      "axis_world": [
+        -0.9961291617147642,
+        -0.0879016108011756
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "100365"
+    },
+    {
+      "body_id": "151742",
+      "cell_type": "T4b",
+      "family": "T4",
+      "side": "L",
+      "center_world_deg": [
+        -79.69830322265625,
+        0.7659986019134521
+      ],
+      "axis_world": [
+        0.989323758984275,
+        -0.1457343470470294
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "151742"
+    },
+    {
+      "body_id": "92996",
+      "cell_type": "T4a",
+      "family": "T4",
+      "side": "R",
+      "center_world_deg": [
+        79.89533996582031,
+        0.4466194808483124
+      ],
+      "axis_world": [
+        0.9855556177584088,
+        0.16935207204177083
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "92996"
+    },
+    {
+      "body_id": "101873",
+      "cell_type": "T4b",
+      "family": "T4",
+      "side": "R",
+      "center_world_deg": [
+        79.89533996582031,
+        0.4466194808483124
+      ],
+      "axis_world": [
+        -0.997587119656294,
+        -0.06942577832375432
+      ],
+      "axis_observed_from_own_input_centroids": true,
+      "axis_donor_body_id": "101873"
+    }
+  ],
+  "previously_inspected_development": true,
+  "new_hybrid_outcomes_not_computed": true,
+  "planned_retained_bytes_max": 33554432,
+  "free_bytes": 154182094848,
+  "scientific_worker_cpu_cap_seconds": 300
+}

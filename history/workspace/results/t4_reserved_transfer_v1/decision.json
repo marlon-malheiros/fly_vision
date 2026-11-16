@@ -1,0 +1,104 @@
+{
+  "models": [
+    {
+      "candidate": "physical_ensemble",
+      "cells": [
+        {
+          "cell": 6,
+          "mse": 51.40474774310425,
+          "zero_mse": 180.5240747007638,
+          "blind_mse": 51.055822368659356,
+          "zero_skill": 0.7152471335010988,
+          "blind_skill": -0.006834193599417615
+        },
+        {
+          "cell": 7,
+          "mse": 9.64019299643278,
+          "zero_mse": 47.41813865220725,
+          "blind_mse": 31.6569734448064,
+          "zero_skill": 0.7966981988234572,
+          "blind_skill": 0.6954796385308167
+        },
+        {
+          "cell": 8,
+          "mse": 10.182101301427277,
+          "zero_mse": 32.16205614101571,
+          "blind_mse": 23.80933628251764,
+          "zero_skill": 0.6834126133981148,
+          "blind_skill": 0.5723483770984563
+        }
+      ],
+      "rmse_mv": 4.872611963514856,
+      "zero_skill": 0.7261596582803844,
+      "blind_skill": 0.3313404394047983,
+      "bootstrap_joint_lower": 0.1026785538635836,
+      "waveform_pass": true
+    },
+    {
+      "candidate": "flash_gain_ensemble",
+      "cells": [
+        {
+          "cell": 6,
+          "mse": 27.450453064986917,
+          "zero_mse": 180.5240747007638,
+          "blind_mse": 51.055822368659356,
+          "zero_skill": 0.8479402090248145,
+          "blind_skill": 0.46234431664276954
+        },
+        {
+          "cell": 7,
+          "mse": 14.226346426264861,
+          "zero_mse": 47.41813865220725,
+          "blind_mse": 31.6569734448064,
+          "zero_skill": 0.6999809180489069,
+          "blind_skill": 0.5506093957128168
+        },
+        {
+          "cell": 8,
+          "mse": 23.540895415745418,
+          "zero_mse": 32.16205614101571,
+          "blind_mse": 23.80933628251764,
+          "zero_skill": 0.26805378012744274,
+          "blind_skill": 0.011274605204737664
+        }
+      ],
+      "rmse_mv": 4.662534893774601,
+      "zero_skill": 0.7492632664820408,
+      "blind_skill": 0.3877545105064947,
+      "bootstrap_joint_lower": 0.2266460086601553,
+      "waveform_pass": true
+    }
+  ],
+  "primary": "physical_ensemble",
+  "inhibition": [
+    {
+      "cell": 6,
+      "mask_bins": 0,
+      "noise_mv": 1.0276046685768354,
+      "confirmed": false,
+      "predicted_negative": false
+    },
+    {
+      "cell": 7,
+      "mask_bins": 362,
+      "noise_mv": 1.8086442481361837,
+      "confirmed": false,
+      "predicted_negative": false
+    },
+    {
+      "cell": 8,
+      "mask_bins": 63,
+      "noise_mv": 0.17416828459551803,
+      "confirmed": false,
+      "predicted_negative": false
+    }
+  ],
+  "waveform_pass": true,
+  "numerical_pass": true,
+  "primary_candidate_route_stops": false,
+  "no_motion_response_refit": true,
+  "project_reserved_comparison": true,
+  "independent_of_original_author_fit": false,
+  "full_biological_validation": false,
+  "reliable_small_yaw_established": false
+}

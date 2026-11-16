@@ -1,0 +1,10 @@
+{
+  "status": "INTERRUPTED_BY_AGENT",
+  "process_exit_code": 130,
+  "reason": "Repeated NPZ decompression for individual scalar comparisons; preserve original reviewer and restart identical criteria with arrays loaded once",
+  "original_source": "scripts/review_camera_clock_v6.py",
+  "original_source_sha256": "59c125e4095b772232a501c682e940b36dc58c1489a5cdd6ea2da767f4771880",
+  "replacement_source": "scripts/review_camera_clock_v6_cached_v2.py",
+  "acceptance_criteria_changed": false,
+  "model_outputs_changed": false
+}

@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_CLOCK_CONTRACT_SOFTWARE_COMPONENT",
+  "created_utc": "2026-10-22T12:32:33.386033+00:00",
+  "source_commit": "ae30d0270d0a4980fbb780917c64cfccb8a6e851",
+  "unit_checks": 167,
+  "complete_camera_cases": 12,
+  "fault_checks": 96,
+  "policy_frame_classifications": 240600,
+  "numerical_and_API_verification": "PASS_scoped_synthetic_inputs",
+  "new_performance_measurement": false,
+  "previous_V5_scheduled_gate": "FAIL_unchanged",
+  "split_software_reference_episodes_needing_reset": 143,
+  "split_synthetic_capture_scenario_episodes_needing_reset": 148,
+  "package_entries": 57,
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "physical_clock_mapping_validated": false,
+  "broad_goal_complete": false,
+  "report": "docs/PORTABLE_CPU_CLOCK_CONTRACT_REPORT_V6_R2.md"
+}

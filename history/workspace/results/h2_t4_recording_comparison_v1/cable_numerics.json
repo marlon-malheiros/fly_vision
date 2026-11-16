@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "guard_mv": 0.005,
+  "checks": [
+    {
+      "input_path": "results/h2_t4_recording_comparison_v1/inputs/00000.npz",
+      "max_error_mv": 0.00014079983480996816,
+      "passed": true
+    },
+    {
+      "input_path": "results/h2_t4_recording_comparison_v1/inputs/00001.npz",
+      "max_error_mv": 0.001955949016014813,
+      "passed": true
+    }
+  ]
+}

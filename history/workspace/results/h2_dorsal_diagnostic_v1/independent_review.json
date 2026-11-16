@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "frozen_dependencies_unchanged": true,
+  "source_receipts_checked": 320,
+  "endpoint_checks": 960,
+  "maximum_endpoint_discrepancy": 1.6940658945086007e-20,
+  "maximum_phase_or_error_discrepancy_deg": 2.842170943040401e-14,
+  "changed_chemical_edges": 4,
+  "original_python_replays": [
+    {
+      "case": "1fe8d9ba85ed091cd888",
+      "row": 290,
+      "maximum_error": 2.710505431213761e-20,
+      "passes": true
+    },
+    {
+      "case": "e758e9d1325ea454b546",
+      "row": 314,
+      "maximum_error": 8.673617379884035e-19,
+      "passes": true
+    }
+  ],
+  "biological_validation": false
+}

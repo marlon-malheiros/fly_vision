@@ -1,0 +1,4906 @@
+[
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.8599213438036735,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.5166197288347851
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 118.86737704070084,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.2297721032211636
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 9.270046298125294,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5338032317790746
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 16.0833730628766,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.42527371120755286
+      }
+    ],
+    "mean": 0.4263671937606441,
+    "median": 0.470946720021169,
+    "pooled": 0.2910220504843677,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.3962830154025971
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.49189889060713754
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.3905551810878339
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.4267316879450078
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.8599213438036735,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.5166197288347851
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 118.86737704070084,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.2297721032211636
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 9.270046298125294,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5338032317790746
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 16.0833730628766,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.42527371120755286
+      }
+    ],
+    "mean": 0.4263671937606441,
+    "median": 0.470946720021169,
+    "pooled": 0.2910220504843677,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.3962830154025971
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.49189889060713754
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.3905551810878339
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.4267316879450078
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 14.131329178915779,
+        "zero_mse": 3.84773946052914,
+        "skill": -2.672631508416228
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 67.72838851333836,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.5611386779487321
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 9.749772347208163,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5096774910307187
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 9.53403673981145,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.6593089315741679
+      }
+    ],
+    "mean": -0.2356266019656524,
+    "median": 0.5354080844897253,
+    "pooled": 0.5091170735642502,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.5767083668512062
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.5012150286037805
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.4840612996311095
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.5339384464789259
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 14.131329178915779,
+        "zero_mse": 3.84773946052914,
+        "skill": -2.672631508416228
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 67.72838851333836,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.5611386779487321
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 9.749772347208163,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5096774910307187
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 9.53403673981145,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.6593089315741679
+      }
+    ],
+    "mean": -0.2356266019656524,
+    "median": 0.5354080844897253,
+    "pooled": 0.5091170735642502,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.5767083668512062
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.5012150286037805
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.4840612996311095
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.5339384464789259
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 5.803646238220664,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.5073137035045603
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 17.97750520512618,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.3362780639193985
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 4.381641965436029,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.5060077906864351
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 7.093350967183516,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.479924762771169
+      }
+    ],
+    "mean": 0.4573810802203907,
+    "median": 0.49296627672880206,
+    "pooled": 0.4255565880030313,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.44073687245900084
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.4977487523207215
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.44117217673170933
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.4498665193701313
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 10.194132751547993,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.4877213995040458
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 24.401288201873374,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.3461659426705934
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 7.804928780902342,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.5271867751831261
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 8.125200625966233,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.5233836954320432
+      }
+    ],
+    "mean": 0.4711144531974521,
+    "median": 0.5055525474680445,
+    "pooled": 0.4433979365607178,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.46557880442858757
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.5127639567064051
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.45242367920222754
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.4536913724525884
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 1.413159724893334,
+        "zero_mse": 3.6596075480764743,
+        "skill": 0.6138493796592739
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 11.55372220837899,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.3143797820046731
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 0.9583551499697172,
+        "zero_mse": 1.232296063233866,
+        "skill": 0.22230121594745378
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 6.0615013084008,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.4075065876072672
+      }
+    ],
+    "mean": 0.38950924130466696,
+    "median": 0.36094318480597015,
+    "pooled": 0.3749043717547925,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.3147291951864647
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.41455239440466496
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.44524524975707136
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.3835101258704669
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 5.04194696627311,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.5719762928380843
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 11.254659334085048,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.5844827078110636
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 6.411308992917309,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.27718039972533937
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 5.252246363667178,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.6149121499548378
+      }
+    ],
+    "mean": 0.5121378875823313,
+    "median": 0.5782295003245739,
+    "pooled": 0.5444331492711418,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.49219175249708025
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.48802294750608716
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.5904570502013285
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.47787980012482906
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 7.845161272060492,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.6057626151174134
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 15.923463988784789,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.57332977749402
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 7.3149350373459185,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.5568700085007555
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 7.2595128226061085,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.5741640934481216
+      }
+    ],
+    "mean": 0.5775316236400776,
+    "median": 0.5737469354710708,
+    "pooled": 0.5776031440438804,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.5681212931476324
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.5789322390220969
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.5844188286865183
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.578654133704063
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 2.2387326604857263,
+        "zero_mse": 3.6596075480764743,
+        "skill": 0.38825881434679355
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 6.5858546793853066,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.6091826478491025
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 5.507682948488698,
+        "zero_mse": 1.232296063233866,
+        "skill": -3.469447816002189
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 3.244979904728247,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.6828130327657177
+      }
+    ],
+    "mean": -0.4472983302601439,
+    "median": 0.498720731097948,
+    "pooled": 0.4502623671271063,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": -0.7258173784624563
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": -0.7994586562965593
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.5600848316538712
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": -0.824002117935431
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.6524708926715914,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5081111225147086
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 5.359145507098425,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.4850380008293069
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.8398705149767778,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6223913349290937
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 1.0697448236719345,
+        "zero_mse": 0.3379720987948638,
+        "skill": -2.165186793485071
+      }
+    ],
+    "mean": -0.1374115838029904,
+    "median": 0.49657456167200775,
+    "pooled": 0.45363944118797617,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -0.3525858192422234
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -0.34489477868042284
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -0.39067922338035177
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.5385134860910364
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.6524708926715914,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5081111225147086
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 5.359145507098425,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.4850380008293069
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.8398705149767778,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6223913349290937
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 1.0697448236719345,
+        "zero_mse": 0.3379720987948638,
+        "skill": -2.165186793485071
+      }
+    ],
+    "mean": -0.1374115838029904,
+    "median": 0.49657456167200775,
+    "pooled": 0.45363944118797617,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -0.3525858192422234
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -0.34489477868042284
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -0.39067922338035177
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.5385134860910364
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.548132300782429,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5391694564740928
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.9367429878750295,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.6217171120709225
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.8642907320760564,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6114119215371909
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 1.927587088884486,
+        "zero_mse": 0.3379720987948638,
+        "skill": -4.703391184532242
+      }
+    ],
+    "mean": -0.7327731736125089,
+    "median": 0.5752906890056418,
+    "pooled": 0.4931090698332674,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.1567540503080427
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.1842699355069861
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.1808348719957422
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.5907661633607354
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.548132300782429,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5391694564740928
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.9367429878750295,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.6217171120709225
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.8642907320760564,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6114119215371909
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 1.927587088884486,
+        "zero_mse": 0.3379720987948638,
+        "skill": -4.703391184532242
+      }
+    ],
+    "mean": -0.7327731736125089,
+    "median": 0.5752906890056418,
+    "pooled": 0.4931090698332674,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.1567540503080427
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.1842699355069861
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.1808348719957422
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.5907661633607354
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 0.8389905494191005,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.3738356878543221
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 1.4909668880202165,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.496102768943794
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 6.68073299459641,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.3444139942436625
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 0.8926217487261469,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.34686091781808037
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 0.8491163527902004,
+        "zero_mse": 0.2206817621055689,
+        "skill": -2.8476960881978246
+      }
+    ],
+    "mean": -0.25729654386759315,
+    "median": 0.34686091781808037,
+    "pooled": 0.33117442256847407,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.4150796017980719
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.4456463720704399
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.40772417839540703
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.40833590928901153
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.3903033422149647
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 1.2140700316591335,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.4093498017681836
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 2.755374682657081,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.486273212998649
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 8.380977576726373,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.3611294489295832
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.3020822123994376,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.4483374298369963
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 1.1113049675663138,
+        "zero_mse": 0.20384738999993696,
+        "skill": -4.451651686914694
+      }
+    ],
+    "mean": -0.5493123586762564,
+    "median": 0.4093498017681836,
+    "pooled": 0.3609168165155374,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.7889778987873663
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.8082087515949827
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.7769228105777163
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.7987248058045695
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.42627247338335306
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.4639110671790674,
+        "zero_mse": 0.6242969887471759,
+        "skill": 0.25690644750660596
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.22655909338335234,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.5912255600681302
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 4.980488412466445,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.3142205587554697
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.48316128505285605,
+        "zero_mse": 0.37304084102595425,
+        "skill": -0.2951967503720061
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.5869277380140869,
+        "zero_mse": 0.23751613421120082,
+        "skill": -1.4711068153887479
+      }
+    ],
+    "mean": -0.12079019988610962,
+    "median": 0.25690644750660596,
+    "pooled": 0.2552658471935152,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.2152143617342885
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.2987941398746696
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.22954288954650445
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.0771885622646355
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.21678895398954995
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 1.023430342264572,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.23618262835402304
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 1.2929082640930711,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.5630399980570524
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 5.678063607999633,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.4428067931752785
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 1.114752209854376,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.18432613114838114
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 1.505169644062371,
+        "zero_mse": 0.2206817621055689,
+        "skill": -5.820543889541419
+      }
+    ],
+    "mean": -0.8788376677613368,
+    "median": 0.23618262835402304,
+    "pooled": 0.339764835278239,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -1.1575927417901768
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -1.2393070842159342
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -1.2092487829954905
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -1.1446286174887663
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.3565888876836838
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 1.452686468369004,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.2932618974720457
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 2.295492927498633,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.5720160261140929
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 7.082450494814703,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.4601144068066343
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.501579752539596,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.3638148669090302
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 2.0847542281163776,
+        "zero_mse": 0.20384738999993696,
+        "skill": -9.227034195125198
+      }
+    ],
+    "mean": -1.507565399564679,
+    "median": 0.3638148669090302,
+    "pooled": 0.37593077280168274,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -1.95777222382386
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -2.0274607559843716
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -1.9994853511575073
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -1.9754104661831062
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.42230179932545076
+      }
+    ]
+  },
+  {
+    "variant": "expanded_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.5941742161601402,
+        "zero_mse": 0.6242969887471759,
+        "skill": 0.04825070940592768
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.2903236006875097,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.4761769854488611
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 4.273676721184563,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.4115437300129545
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.7279246671691559,
+        "zero_mse": 0.37304084102595425,
+        "skill": -0.9513270052876348
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.9255850600083646,
+        "zero_mse": 0.23751613421120082,
+        "skill": -2.8969355201164086
+      }
+    ],
+    "mean": -0.58245822010726,
+    "median": 0.04825070940592768,
+    "pooled": 0.2474620838793239,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.740135452485557
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.8471170214962903
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.8309587076373137
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.49024102381216633
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": -0.0038388951049728726
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.6281759586867264,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.5768486989857624
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 131.97833691886805,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.14481669070074876
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 12.258440548926657,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.3835149055842706
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 19.68033430719612,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.2967392191705772
+      }
+    ],
+    "mean": 0.3504798786103398,
+    "median": 0.3401270623774239,
+    "pooled": 0.19655406640409645,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.2750236051518655
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.41903427458020337
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.3394682029523628
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.3683934317569273
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.6281759586867264,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.5768486989857624
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 131.97833691886805,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.14481669070074876
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 12.258440548926657,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.3835149055842706
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 19.68033430719612,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.2967392191705772
+      }
+    ],
+    "mean": 0.3504798786103398,
+    "median": 0.3401270623774239,
+    "pooled": 0.19655406640409645,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.2750236051518655
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.41903427458020337
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.3394682029523628
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.3683934317569273
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 15.404021611529124,
+        "zero_mse": 3.84773946052914,
+        "skill": -3.003395180351106
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 52.95903865007544,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.6568400012653615
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 7.623129774214274,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.6166277545791634
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 5.345868288601983,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.8089697335334998
+      }
+    ],
+    "mean": -0.2302394227432703,
+    "median": 0.6367338779222624,
+    "pooled": 0.6052686704265084,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.6941458297926749
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.5259325640794809
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.5125284818507482
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.576642474835527
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 15.404021611529124,
+        "zero_mse": 3.84773946052914,
+        "skill": -3.003395180351106
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 52.95903865007544,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.6568400012653615
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 7.623129774214274,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.6166277545791634
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 5.345868288601983,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.8089697335334998
+      }
+    ],
+    "mean": -0.2302394227432703,
+    "median": 0.6367338779222624,
+    "pooled": 0.6052686704265084,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.6941458297926749
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.5259325640794809
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.5125284818507482
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.576642474835527
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 7.6564192192842935,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.3500270907755735
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 20.784121007869082,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.23265898812573615
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 5.513849362258986,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.37836120573729826
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 8.992345882371477,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.34069293347330654
+      }
+    ],
+    "mean": 0.3254350545279786,
+    "median": 0.34536001212444,
+    "pooled": 0.3002505039842003,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.31723770911211363
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.35636040999539276
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.30779300412487204
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.32034909487953594
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 13.224546387592333,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.33543614932806454
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 28.347111747131446,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.24043735175530223
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 10.267760736825554,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.37799136905573316
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 10.65291748483202,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.3751103021060207
+      }
+    ],
+    "mean": 0.33224379306128016,
+    "median": 0.3552732257170426,
+    "pooled": 0.3115688376065433,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.33117967430568535
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.3628459401632728
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.31699460106312916
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.3179549567130333
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 2.088292050976255,
+        "zero_mse": 3.6596075480764743,
+        "skill": 0.4293672139588077
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 13.22113026860672,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.21543256334024785
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 0.7599379876924174,
+        "zero_mse": 1.232296063233866,
+        "skill": 0.38331541391267443
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 7.331774279910932,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.283341248152963
+      }
+    ],
+    "mean": 0.3278641098411733,
+    "median": 0.3333283310328187,
+    "pooled": 0.26811735662961667,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.2940297418019618
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.3653412920081484
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.30938034181733953
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.34270506373724335
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 5.008818420751563,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.5747886593627357
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 8.051566198923988,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.7027395600749349
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 6.360913620172692,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.28286204183979646
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 3.9311889990198807,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.7117703521628468
+      }
+    ],
+    "mean": 0.5680401533600784,
+    "median": 0.6387641097188352,
+    "pooled": 0.6195079556896848,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.5657906513591927
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.523140351121793
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.6630995238668391
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.520130087092489
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 6.461193796408132,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.6753101616167907
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 10.928059976582656,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.7071819432598816
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 5.449951541136186,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.6698484719597426
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 5.181629342976953,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.6960507016653661
+      }
+    ],
+    "mean": 0.6870978196254454,
+    "median": 0.6856804316410784,
+    "pooled": 0.6913154972440859,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.6910270389616634
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.6804031117472998
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.6928476021806794
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.6841135256121383
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 3.556443045094994,
+        "zero_mse": 3.6596075480764743,
+        "skill": 0.02819004541503478
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 5.175072421265321,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.692901195163204
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 7.271875699209197,
+        "zero_mse": 1.232296063233866,
+        "skill": -4.901078414651346
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 2.6807486550628083,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.7379649302056426
+      }
+    ],
+    "mean": -0.8605055609668663,
+    "median": 0.3605456202891194,
+    "pooled": 0.41564381888927837,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": -1.1567374297608333
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": -1.3783078130102229
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.48635205692796046
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": -1.3933290580243691
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.9103244401403745,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.4313561898968261
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 7.029790425814626,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.3245051983317959
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 1.0367170493438753,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.5338884577108726
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 0.5767938527648901,
+        "zero_mse": 0.3379720987948638,
+        "skill": -0.7066315675809147
+      }
+    ],
+    "mean": 0.14577956958964494,
+    "median": 0.377930694114311,
+    "pooled": 0.35366717946570003,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": 0.05058736282058459
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": 0.08620436000892799
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": 0.016409940215902436
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.42991661531316483
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.9103244401403745,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.4313561898968261
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 7.029790425814626,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.3245051983317959
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 1.0367170493438753,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.5338884577108726
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 0.5767938527648901,
+        "zero_mse": 0.3379720987948638,
+        "skill": -0.7066315675809147
+      }
+    ],
+    "mean": 0.14577956958964494,
+    "median": 0.377930694114311,
+    "pooled": 0.35366717946570003,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": 0.05058736282058459
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": 0.08620436000892799
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": 0.016409940215902436
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.42991661531316483
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.1108210069124822,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.6693433448053765
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.399278050220315,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.6733622891634692
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.6248201065741312,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.719078736369924
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 2.2558369626637704,
+        "zero_mse": 0.3379720987948638,
+        "skill": -5.674624830592829
+      }
+    ],
+    "mean": -0.9032101150635148,
+    "median": 0.6713528169844228,
+    "pooled": 0.547369941097056,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.4273946016864787
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.4287342498058428
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.4439730655413276
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.6872614567795899
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.1108210069124822,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.6693433448053765
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.399278050220315,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.6733622891634692
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.6248201065741312,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.719078736369924
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 2.2558369626637704,
+        "zero_mse": 0.3379720987948638,
+        "skill": -5.674624830592829
+      }
+    ],
+    "mean": -0.9032101150635148,
+    "median": 0.6713528169844228,
+    "pooled": 0.547369941097056,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.4273946016864787
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.4287342498058428
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.4439730655413276
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.6872614567795899
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 0.779526957848496,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.41821518526260526
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 1.7987644037318777,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.39207744340552353
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 7.866642110393549,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.22803972497645542
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 0.8493378235055287,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.37853214163955895
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 0.4232642952215632,
+        "zero_mse": 0.2206817621055689,
+        "skill": -0.917984935334546
+      }
+    ],
+    "mean": 0.09977591198991949,
+    "median": 0.37853214163955895,
+    "pooled": 0.27114256253176816,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": 0.020166093671747987
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": 0.02670052913601839
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": 0.06770995874328545
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": 0.030086854577509592
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.35421612382103584
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 1.1511691134402877,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.4399513641542945
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 3.332643842622856,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.37864406453808197
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 10.010459630128139,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.23691624254814247
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.3442546676447367,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.4304699212963229
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.4722262599297722,
+        "zero_mse": 0.20384738999993696,
+        "skill": -1.3165676044707673
+      }
+    ],
+    "mean": 0.03388279761321487,
+    "median": 0.37864406453808197,
+    "pooled": 0.2939540231078386,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.06763434402205498
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.052307519118001855
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.01687556362051701
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.06526398330756211
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.3714953981342104
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.4078848022567043,
+        "zero_mse": 0.6242969887471759,
+        "skill": 0.34664941588900233
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.26488496484089963,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.5220752275610575
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 5.72282459065896,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.212005906830528
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.3544209793663207,
+        "zero_mse": 0.37304084102595425,
+        "skill": 0.049913734936969156
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.37430233051335426,
+        "zero_mse": 0.23751613421120082,
+        "skill": -0.5759027560650776
+      }
+    ],
+    "mean": 0.11094830583049586,
+    "median": 0.212005906830528,
+    "pooled": 0.21292312405504377,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": 0.052023028315869274
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": 0.00816657539785548
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": 0.08568390558048786
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": 0.12620694855387754
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.2826610713043892
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 0.878747592847418,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.34416379015717324
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 1.0149712573149714,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.6569734644866807
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 5.3764020933735726,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.47240909394438046
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 1.0713104164426466,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.21611286849571243
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 1.6998248156754256,
+        "zero_mse": 0.2206817621055689,
+        "skill": -6.702606683293883
+      }
+    ],
+    "mean": -1.0025894932419872,
+    "median": 0.34416379015717324,
+    "pooled": 0.3754109651728046,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -1.3392778140917774
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -1.4174802326741542
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -1.3713391400385793
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -1.3072650836764121
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.42241480427098677
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 1.1550518430763788,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.43806239978697237
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 1.6789154716533394,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.6869740234139073
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 6.778517856365081,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.4832827795217466
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.286156104544899,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.45508495891623757
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 2.2964651315039535,
+        "zero_mse": 0.20384738999993696,
+        "skill": -10.265609687250171
+      }
+    ],
+    "mean": -1.6404411051222614,
+    "median": 0.45508495891623757,
+    "pooled": 0.4288214958576234,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -2.16006698134957
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -2.2222948872563038
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -2.1713720762832636
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -2.1643226211318862
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.5158510404097161
+      }
+    ]
+  },
+  {
+    "variant": "lpi_intact",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.6024433426184573,
+        "zero_mse": 0.6242969887471759,
+        "skill": 0.035005208294491275
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.3510270429766035,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.3666514075826308
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 3.974286330382065,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.45276775422804993
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.8564647283403941,
+        "zero_mse": 0.37304084102595425,
+        "skill": -1.2959007008050514
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 1.1031844998468976,
+        "zero_mse": 0.23751613421120082,
+        "skill": -3.644671838865224
+      }
+    ],
+    "mean": -0.8172296339130207,
+    "median": 0.035005208294491275,
+    "pooled": 0.23909654133990277,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -1.0302883444648987
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -1.1131998942869337
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -1.1347289809482883
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.697561867190013
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": -0.11036908267496984
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.7869111278329357,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.5355945624272596
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 130.23739224642068,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.15609753315601982
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 11.956352266718149,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.39870712538057285
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 19.395019741212533,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.3069347037250372
+      }
+    ],
+    "mean": 0.34933348117222235,
+    "median": 0.352820914552805,
+    "pooled": 0.20708391140995985,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.28724645408720995
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.41374546384428984
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.33287559976943887
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.36346640698795074
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.7869111278329357,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.5355945624272596
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 130.23739224642068,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.15609753315601982
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 11.956352266718149,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.39870712538057285
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 19.395019741212533,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.3069347037250372
+      }
+    ],
+    "mean": 0.34933348117222235,
+    "median": 0.352820914552805,
+    "pooled": 0.20708391140995985,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.28724645408720995
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.41374546384428984
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.33287559976943887
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.36346640698795074
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 14.56703507135869,
+        "zero_mse": 3.84773946052914,
+        "skill": -2.785868357457715
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 63.56182199729892,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.5881368825388723
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 9.090572061623199,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5428291100050675
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 8.57608885085449,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.6935404222524251
+      }
+    ],
+    "mean": -0.2403404856653376,
+    "median": 0.5654829962719699,
+    "pooled": 0.5350727258242651,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.6081688049321216
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.5164996084000743
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.5013970175554726
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.5516341216379251
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 14.56703507135869,
+        "zero_mse": 3.84773946052914,
+        "skill": -2.785868357457715
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 63.56182199729892,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.5881368825388723
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 9.090572061623199,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5428291100050675
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 8.57608885085449,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.6935404222524251
+      }
+    ],
+    "mean": -0.2403404856653376,
+    "median": 0.5654829962719699,
+    "pooled": 0.5350727258242651,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.6081688049321216
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.5164996084000743
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.5013970175554726
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.5516341216379251
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 7.420042244738656,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.370093733604133
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 20.577417865916747,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.24029038124759317
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 5.391991835478451,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.39209958722776606
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 8.828448536985166,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.3527096729772884
+      }
+    ],
+    "mean": 0.33879834376419515,
+    "median": 0.3614017032907107,
+    "pooled": 0.31212572361135826,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.32836654715088254
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.37163433126972917
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.3210312626096715
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.3341612340264974
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 12.864728835444662,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.3535178083117676
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 28.05600734593215,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.24823751255697546
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 9.980748991100516,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.39537819638830596
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 10.433206544232368,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.3879983305255409
+      }
+    ],
+    "mean": 0.34628296194564745,
+    "median": 0.37075806941865425,
+    "pooled": 0.3243217396645304,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.3438713464902741
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.37896477840853815
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.32991788379809467
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.332377839085683
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 1.9753556540326473,
+        "zero_mse": 3.6596075480764743,
+        "skill": 0.46022746207556775
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 13.098828385901342,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.22269019356273045
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 0.803234679856387,
+        "zero_mse": 1.232296063233866,
+        "skill": 0.3481804382718794
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 7.223690529737961,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.293906107699464
+      }
+    ],
+    "mean": 0.3312510504024104,
+    "median": 0.3210432729856717,
+    "pooled": 0.2775008049570945,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.2882589131780246
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.3674380026823037
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.3256079211125874
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.34369936463672585
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 5.104330655538747,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.5666803827215103
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 10.476608363135709,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.6132080226373187
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 6.22204201106117,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.2985186138593918
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 4.885765862804871,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.641782022079801
+      }
+    ],
+    "mean": 0.5300472603245054,
+    "median": 0.5899442026794145,
+    "pooled": 0.5651488528244881,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.5178362195255038
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.5023270062202344
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.6072234758128766
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.49280233973940696
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 7.70444340816884,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.6128340111975015
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 14.802781159720901,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.6033585446248466
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 6.601629365198212,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.6000812106264632
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 6.789184676140605,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.6017530815140042
+      }
+    ],
+    "mean": 0.6045067119907039,
+    "median": 0.6025558130694254,
+    "pooled": 0.6045382539954787,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.601730945588438
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.6048894344459896
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.6059818791121174
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.6054245888162705
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 2.5042179029086533,
+        "zero_mse": 3.6596075480764743,
+        "skill": 0.3157140840894552
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 6.150435566550516,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.6350212600016969
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 5.842454656924126,
+        "zero_mse": 1.232296063233866,
+        "skill": -3.741112814717595
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 2.982347049469137,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.7084845997095794
+      }
+    ],
+    "mean": -0.520473217729216,
+    "median": 0.47536767204557606,
+    "pooled": 0.4533209571051321,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": -0.7992023183354396
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": -0.9056380436395202
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.5530733146002439
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": -0.9301258235421477
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.9511345334065853,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.41920830211507387
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 6.821101729687129,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.3445581616297315
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 1.0501951567262688,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.5278286543892989
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 0.6049151138898736,
+        "zero_mse": 0.3379720987948638,
+        "skill": -0.7898374334652818
+      }
+    ],
+    "mean": 0.12543942116720563,
+    "median": 0.3818832318724027,
+    "pooled": 0.36140086412617556,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": 0.027516460851249553
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": 0.052399841013030336
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -0.0086903232401588
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.4305317060447014
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.9511345334065853,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.41920830211507387
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 6.821101729687129,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.3445581616297315
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 1.0501951567262688,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.5278286543892989
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 0.6049151138898736,
+        "zero_mse": 0.3379720987948638,
+        "skill": -0.7898374334652818
+      }
+    ],
+    "mean": 0.12543942116720563,
+    "median": 0.3818832318724027,
+    "pooled": 0.36140086412617556,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": 0.027516460851249553
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": 0.052399841013030336
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -0.0086903232401588
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.4305317060447014
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.426482706818255,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5753807340747754
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.7572649910897113,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.6389632099627036
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.8016485924728061,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6395760424236383
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 2.0337993110043406,
+        "zero_mse": 0.3379720987948638,
+        "skill": -5.017654469870247
+      }
+    ],
+    "mean": -0.7909336208522824,
+    "median": 0.6071719720187395,
+    "pooled": 0.5088825939665274,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.2463717391613016
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.267565897790611
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.2677701752775894
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.6179733288203725
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.426482706818255,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5753807340747754
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.7572649910897113,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.6389632099627036
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.8016485924728061,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6395760424236383
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 2.0337993110043406,
+        "zero_mse": 0.3379720987948638,
+        "skill": -5.017654469870247
+      }
+    ],
+    "mean": -0.7909336208522824,
+    "median": 0.6071719720187395,
+    "pooled": 0.5088825939665274,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.2463717391613016
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.267565897790611
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.2677701752775894
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.6179733288203725
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 0.819605742890917,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.3883031619566242
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 1.8013631367205019,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.39119915806750305
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 7.736852264123822,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.24077611288067513
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 0.8696534422866111,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.363667027022343
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 0.4681260734444235,
+        "zero_mse": 0.2206817621055689,
+        "skill": -1.1212721385670426
+      }
+    ],
+    "mean": 0.05253466427202058,
+    "median": 0.363667027022343,
+    "pooled": 0.2725069652807115,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.031407460149130345
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.032131459176850063
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": 0.005474302119856889
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.02524842641556002
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.34598636498178637
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 1.2143741119487306,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.4092018654229602
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 3.345675396692887,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.37621439192616135
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 9.798987117717058,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.25303650528640464
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.3758659914320153,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.4170769235572559
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.5503704875270956,
+        "zero_mse": 0.20384738999993696,
+        "skill": -1.6999143208420073
+      }
+    ],
+    "mean": -0.04887692692984506,
+    "median": 0.37621439192616135,
+    "pooled": 0.2950569972812329,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.16339662501804636
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.15514975664384667
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.12435528498390747
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.16536538955162028
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.3638824215481955
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.42483737383310344,
+        "zero_mse": 0.6242969887471759,
+        "skill": 0.31949475731789634
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.2570508767481168,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.5362100606621312
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 5.674717410530587,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.2186299389286066
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.363440893141207,
+        "zero_mse": 0.37304084102595425,
+        "skill": 0.02573430796034304
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.3858816593617514,
+        "zero_mse": 0.23751613421120082,
+        "skill": -0.6246545130219365
+      }
+    ],
+    "mean": 0.09508291036940815,
+    "median": 0.2186299389286066,
+    "pooled": 0.21495474514449997,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": 0.03897994863228607
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.015198877203772637
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": 0.0641961532296085
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": 0.1124200609716744
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.2750172662172443
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 0.9686254590672712,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.2770851891912368
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 1.2053729998612428,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.5926240066762924
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 5.631370277708552,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.44738884935470535
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 1.107713934523649,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.18947609830548318
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 1.5722121870787493,
+        "zero_mse": 0.2206817621055689,
+        "skill": -6.124341278037469
+      }
+    ],
+    "mean": -0.9235534269019503,
+    "median": 0.2770851891912368,
+    "pooled": 0.3477907464142779,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -1.223713080925247
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -1.302597785296511
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -1.266288995966114
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -1.2018108082038086
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.37664353588192945
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 1.3540055297512588,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.341270590905175
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 2.1102495314898384,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.6065537952399408
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 7.0485888199842925,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.4626956363423326
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.4542435665466191,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.3838701305305785
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 2.1776418198247294,
+        "zero_mse": 0.20384738999993696,
+        "skill": -9.68270641005216
+      }
+    ],
+    "mean": -1.5776632514068267,
+    "median": 0.3838701305305785,
+    "pooled": 0.38771503197648727,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -2.0573967119848273
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -2.1237175130685184
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -2.0877529733441165
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -2.068046596891178
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.4485975382545067
+      }
+    ]
+  },
+  {
+    "variant": "lpi_silent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.5832453883832837,
+        "zero_mse": 0.6242969887471759,
+        "skill": 0.06575652470513049
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.30049646823264714,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.4578223558854899
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 4.214151735432809,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.4197399164284774
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.761184302500679,
+        "zero_mse": 0.37304084102595425,
+        "skill": -1.0404851662011985
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.9667825543327693,
+        "zero_mse": 0.23751613421120082,
+        "skill": -3.0703868709529445
+      }
+    ],
+    "mean": -0.633510648027009,
+    "median": 0.06575652470513049,
+    "pooled": 0.24589593440673307,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.8083274412100439
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.9063438990051338
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.8968232891408806
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.5317670184834616
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": -0.02429159229552516
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.184252275745687,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.6922212930750699
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 129.08238996904424,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.16358163011370586
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 11.287484628131855,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.4323449219403973
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 18.102622712810433,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.3531174630800624
+      }
+    ],
+    "mean": 0.41031632705230886,
+    "median": 0.39273119251022987,
+    "pooled": 0.22513308604615512,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.3163480050447219
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.4925612260318432
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.40297346208961277
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.4293826150430577
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 1.184252275745687,
+        "zero_mse": 3.84773946052914,
+        "skill": 0.6922212930750699
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 129.08238996904424,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.16358163011370586
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 11.287484628131855,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.4323449219403973
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 18.102622712810433,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.3531174630800624
+      }
+    ],
+    "mean": 0.41031632705230886,
+    "median": 0.39273119251022987,
+    "pooled": 0.22513308604615512,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.3163480050447219
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": 0.4925612260318432
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": 0.40297346208961277
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": 0.4293826150430577
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 13.357482773848734,
+        "zero_mse": 3.84773946052914,
+        "skill": -2.471514355603437
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 59.693988945631595,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.6131993764766104
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 8.871173481698516,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5538628099051243
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 4.148655519023034,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.8517511606175503
+      }
+    ],
+    "mean": -0.11317525215103802,
+    "median": 0.5835310931908673,
+    "pooled": 0.5822675624919758,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.672937782333095
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.3553001283602541
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.3355212728364254
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.43481738974056744
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "traces": 2,
+        "model_mse": 13.357482773848734,
+        "zero_mse": 3.84773946052914,
+        "skill": -2.471514355603437
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "traces": 2,
+        "model_mse": 59.693988945631595,
+        "zero_mse": 154.32754063805675,
+        "skill": 0.6131993764766104
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "traces": 4,
+        "model_mse": 8.871173481698516,
+        "zero_mse": 19.884407035898462,
+        "skill": 0.5538628099051243
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "traces": 2,
+        "model_mse": 4.148655519023034,
+        "zero_mse": 27.98440470970842,
+        "skill": 0.8517511606175503
+      }
+    ],
+    "mean": -0.11317525215103802,
+    "median": 0.5835310931908673,
+    "pooled": 0.5822675624919758,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+        "mean": 0.672937782333095
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+        "mean": -0.3553001283602541
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+        "mean": -0.3355212728364254
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+        "mean": -0.43481738974056744
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 7.250272761716442,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.384505896995023
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 19.50263401600606,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.2799709492458421
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 5.178303608721834,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.4161910853630535
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 8.21402762175555,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.3977582127611976
+      }
+    ],
+    "mean": 0.369606536091279,
+    "median": 0.3911320548781103,
+    "pooled": 0.34589649818369816,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.3646400824566977
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.39948506503975806
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.3540783530006875
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.3602226438679728
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 12.411487378261874,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.37629423324473577
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 26.521374535704943,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.28935809555737013
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 9.57191458025895,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.42014489466735916
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 9.623726504900745,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.4354816361973787
+      }
+    ],
+    "mean": 0.3803197149167109,
+    "median": 0.39821956395604746,
+    "pooled": 0.3596419141753876,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.38166154214070264
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.41064025470315785
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.36704465499982825
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.361932407823155
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 2.0890581451710077,
+        "zero_mse": 3.6596075480764743,
+        "skill": 0.4291578761583227
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 12.483893496307175,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.2591816190490317
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 0.7846926371847189,
+        "zero_mse": 1.232296063233866,
+        "skill": 0.3632271816843422
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 6.804328738610355,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.3348974539040691
+      }
+    ],
+    "mean": 0.3466160326989415,
+    "median": 0.34906231779420566,
+    "pooled": 0.3068727785931127,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.31910208487914765
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.37576083724891135
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.3410789830371412
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.35052222563056556
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 4,
+        "model_mse": 6.917502049730889,
+        "zero_mse": 11.779597442638398,
+        "skill": 0.41275564946797505
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 4,
+        "model_mse": 8.098476757893565,
+        "zero_mse": 27.08589881974764,
+        "skill": 0.7010076419546701
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 4,
+        "model_mse": 7.830420377883626,
+        "zero_mse": 8.869860461007294,
+        "skill": 0.11718787321324164
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 4,
+        "model_mse": 4.645998604598889,
+        "zero_mse": 13.639086154110565,
+        "skill": 0.6593614445936562
+      }
+    ],
+    "mean": 0.47257815230738576,
+    "median": 0.5360585470308157,
+    "pooled": 0.55205462565292,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.4925189865871893
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.39643498909162433
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.5910415786721005
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.41031705487862896
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 7.158929488611804,
+        "zero_mse": 19.899587337200323,
+        "skill": 0.6402473394396029
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 9.254792869662841,
+        "zero_mse": 37.320307696330076,
+        "skill": 0.7520172409893362
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 6.259445450787766,
+        "zero_mse": 16.507424858780723,
+        "skill": 0.6208103017680431
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 4.602868417953178,
+        "zero_mse": 17.047676607143277,
+        "skill": 0.7300002502379418
+      }
+    ],
+    "mean": 0.685768783108731,
+    "median": 0.6851237948387723,
+    "pooled": 0.6995203824967426,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": 0.700942597665107
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": 0.6636859638151958
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.7074216102222937
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": 0.6710249607323274
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "traces": 2,
+        "model_mse": 6.676074610849972,
+        "zero_mse": 3.6596075480764743,
+        "skill": -0.8242597117712753
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "traces": 2,
+        "model_mse": 6.942160646124285,
+        "zero_mse": 16.85148994316521,
+        "skill": 0.5880387627718371
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "traces": 2,
+        "model_mse": 9.401395304979486,
+        "zero_mse": 1.232296063233866,
+        "skill": -6.629169308800496
+      },
+      {
+        "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "traces": 2,
+        "model_mse": 4.689128791244601,
+        "zero_mse": 10.230495701077853,
+        "skill": 0.5416518487221915
+      }
+    ],
+    "mean": -1.5809346022694357,
+    "median": -0.1413039315245419,
+    "pooled": 0.13339415384427356,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R25F07AD VT014724DBD GC7f sytGC7f|210325|1",
+        "mean": -1.8331595657688229
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210817|2",
+        "mean": -2.30392572394986
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220708|1",
+        "mean": 0.10181029990758443
+      },
+      {
+        "omitted": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+        "mean": -2.288463419266645
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.5553414390974896,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5370235215779577
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 6.525810057872281,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.3729328324526855
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.7979718134190878,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6412291349009633
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 0.6929190881691671,
+        "zero_mse": 0.3379720987948638,
+        "skill": -1.0502257157912394
+      }
+    ],
+    "mean": 0.1252399432850918,
+    "median": 0.4549781770153216,
+    "pooled": 0.4137820216768052,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -0.012021249479196841
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": 0.042675646895893905
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -0.046756453920198705
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.5170618296438688
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 1.5553414390974896,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.5370235215779577
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 6.525810057872281,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.3729328324526855
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.7979718134190878,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.6412291349009633
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 0.6929190881691671,
+        "zero_mse": 0.3379720987948638,
+        "skill": -1.0502257157912394
+      }
+    ],
+    "mean": 0.1252399432850918,
+    "median": 0.4549781770153216,
+    "pooled": 0.4137820216768052,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -0.012021249479196841
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": 0.042675646895893905
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -0.046756453920198705
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.5170618296438688
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 0.6628735430268126,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.8026832881352559
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.0515974172372555,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.7067710319559048
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.37868721723061055,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.8297409278836024
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 2.484221013221997,
+        "zero_mse": 0.3379720987948638,
+        "skill": -6.3503730694936
+      }
+    ],
+    "mean": -1.0027944553797092,
+    "median": 0.7547271600455804,
+    "pooled": 0.5971833626198906,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.6046203698846975
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.5726496178249139
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.6136395831341463
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.7797317493249211
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "calibration",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "traces": 2,
+        "model_mse": 0.6628735430268126,
+        "zero_mse": 3.3594394350195564,
+        "skill": 0.8026832881352559
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "traces": 2,
+        "model_mse": 3.0515974172372555,
+        "zero_mse": 10.406875683504646,
+        "skill": 0.7067710319559048
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "traces": 2,
+        "model_mse": 0.37868721723061055,
+        "zero_mse": 2.2241823153583336,
+        "skill": 0.8297409278836024
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "traces": 2,
+        "model_mse": 2.484221013221997,
+        "zero_mse": 0.3379720987948638,
+        "skill": -6.3503730694936
+      }
+    ],
+    "mean": -1.0027944553797092,
+    "median": 0.7547271600455804,
+    "pooled": 0.5971833626198906,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+        "mean": -1.6046203698846975
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+        "mean": -1.5726496178249139
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+        "mean": -1.6136395831341463
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+        "mean": 0.7797317493249211
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 0.6540218482577743,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.5118834878102967
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 1.5687565652709767,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.46981244466740235
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 7.533846684067454,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.2606972229569271
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 0.7437036241598213,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.45582560228639823
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 0.4954832641708308,
+        "zero_mse": 0.2206817621055689,
+        "skill": -1.24523884277217
+      }
+    ],
+    "mean": 0.0905959829897709,
+    "median": 0.45582560228639823,
+    "pooled": 0.31603541675561075,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.014725893215360553
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.004208132429636968
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": 0.048070672997981845
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.0007114218343859391
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.4245546894302561
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.906973292522337,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.5587536624331342
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 2.9042654841633495,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.45851321594514094
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 9.74291037860023,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.25731115903578183
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.0886950939400597,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.5387446906750437
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.5306313804914324,
+        "zero_mse": 0.20384738999993696,
+        "skill": -1.6030815527812083
+      }
+    ],
+    "mean": 0.04204823506157851,
+    "median": 0.45851321594514094,
+    "pooled": 0.34318353748699393,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.08712812178131046
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.06206801015931218
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.01176749593197235
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -0.08212587884178779
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.4533306820222752
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "transfer",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.4010704039932116,
+        "zero_mse": 0.6242969887471759,
+        "skill": 0.3575647308533876
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.2332476463786038,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.5791575849374111
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 5.324782989534677,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.26681353295165955
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.39871215437958285,
+        "zero_mse": 0.37304084102595425,
+        "skill": -0.06881636145529302
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 0.4603351478502291,
+        "zero_mse": 0.23751613421120082,
+        "skill": -0.9381215906827458
+      }
+    ],
+    "mean": 0.039319579320883855,
+    "median": 0.26681353295165955,
+    "pooled": 0.24674794875641282,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -0.040241708562242046
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -0.09563992208324792
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -0.017553909086810038
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": 0.06635356451492808
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.2836798718217913
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "all",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "model_mse": 0.8071637188137034,
+        "zero_mse": 1.3398888009828134,
+        "skill": 0.3975890251327977
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "model_mse": 0.8439262810816608,
+        "zero_mse": 2.958870968381865,
+        "skill": 0.7147809789275186
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "model_mse": 5.237261617193461,
+        "zero_mse": 10.190475293762518,
+        "skill": 0.48606306710746516
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "model_mse": 0.9661297592165338,
+        "zero_mse": 1.3666641195994513,
+        "skill": 0.29307446843655205
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "model_mse": 1.8313031078707198,
+        "zero_mse": 0.2206817621055689,
+        "skill": -7.29838900323203
+      }
+    ],
+    "mean": -1.0813762927255393,
+    "median": 0.3975890251327977,
+    "pooled": 0.3975221150931626,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -1.4511176221901234
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -1.5304156106388038
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -1.4732361326837904
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -1.4249889830160622
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.47287688490108337
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "bilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.8328836423057717,
+        "zero_mse": 2.055480613218451,
+        "skill": 0.5947985901936332
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 1.1974369918992842,
+        "zero_mse": 5.363502064473494,
+        "skill": 0.7767434453263644
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 6.900567110576796,
+        "zero_mse": 13.118428393176345,
+        "skill": 0.47397913044475803
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 0.8503854451352583,
+        "zero_mse": 2.3602873981729484,
+        "skill": 0.6397110598507941
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 2.275717739348078,
+        "zero_mse": 0.20384738999993696,
+        "skill": -10.16383064482102
+      }
+    ],
+    "mean": -1.5357196838010942,
+    "median": 0.5947985901936332,
+    "pooled": 0.47808726728360973,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -2.068349252299776
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -2.113835466082959
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -2.038144387362557
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -2.079577369714066
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": 0.6213080564538874
+      }
+    ]
+  },
+  {
+    "variant": "functional_opponent",
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "mode": "scale_calibrated",
+    "condition": "unilateral",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 2,
+        "model_mse": 0.7814437953216351,
+        "zero_mse": 0.6242969887471759,
+        "skill": -0.2517180274885158
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 2,
+        "model_mse": 0.4904155702640375,
+        "zero_mse": 0.5542398722902361,
+        "skill": 0.11515646061778828
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 2,
+        "model_mse": 3.5739561238101265,
+        "zero_mse": 7.262522194348691,
+        "skill": 0.507890505781698
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 2,
+        "model_mse": 1.0818740732978094,
+        "zero_mse": 0.37304084102595425,
+        "skill": -1.9001491373501866
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 2,
+        "model_mse": 1.3868884763933615,
+        "zero_mse": 0.23751613421120082,
+        "skill": -4.839133754004819
+      }
+    ],
+    "mean": -1.2735907904888069,
+    "median": -0.2517180274885158,
+    "pooled": 0.19190363197682858,
+    "leave_one_test_fly_out": [
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "mean": -1.52905898123888
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "mean": -1.6207776032654557
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "mean": -1.7189611145564334
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "mean": -1.1169512037734621
+      },
+      {
+        "omitted": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "mean": -0.38220504960980406
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "status": "COMPLETE_CPU_WORKER_PLACEMENT_COMPONENT",
+  "created_utc": "2026-10-22T13:12:23.333368+00:00",
+  "source_commit": "4b31bbc548ca39ab235205b12c2f2d497c20379c",
+  "unpaced_cases": 18,
+  "preserved_original_unpaced_cases": 3,
+  "scheduled_runs": 8,
+  "scheduled_episodes": 480,
+  "frame_pairs": 192480,
+  "noninitial_updates": 96000,
+  "numerical_verification": "PASS_scoped_preserved_fixtures",
+  "observed_deadline_gates": {
+    "unbound": false,
+    "bound": false
+  },
+  "frame_response_misses": {
+    "unbound": 4616,
+    "bound": 2080
+  },
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "hard_real_time_certified": false,
+  "broad_goal_complete": false,
+  "report": "docs/PORTABLE_CPU_PLACEMENT_REPORT_V7.md"
+}

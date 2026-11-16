@@ -1,0 +1,7 @@
+{
+  "failed_utc": "2026-10-21T13:48:28.479600+00:00",
+  "phase": "module_import_before_output_directory_or_GPU_initialization",
+  "error": "ModuleNotFoundError: male_optic_frontend",
+  "reason": "escalated shell does not inherit project PYTHONPATH",
+  "next_action": "explicit PYTHONPATH=src; unchanged implementation and criteria"
+}

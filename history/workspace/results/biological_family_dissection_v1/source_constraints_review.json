@@ -1,0 +1,43 @@
+{
+  "status": "BOUNDED_SOURCE_REVIEW",
+  "date": "2026-10-27",
+  "sources": [
+    {
+      "url": "https://www.nature.com/articles/s41593-025-01948-9",
+      "finding": "Paper images HS axons and DNp15 dendrites in IPS; imaging females, male connectome comparison; indicator differs between native and FlpStop cohorts; exact G3 arrays still not recovered"
+    },
+    {
+      "url": "https://github.com/ChiappeLab/Erginkaya_et_al_2025",
+      "finding": "Existing author analysis and known Zenodo dataset; not independent new validation animals"
+    },
+    {
+      "url": "https://doi.org/10.5281/zenodo.14967806",
+      "finding": "Known deposited dataset; browser access failed during this recheck, existing cached files and provenance remain available"
+    },
+    {
+      "url": "https://www.jneurosci.org/content/36/46/11768",
+      "finding": "Suver et al. 2016 provides independent DNHS1 electrophysiological observations; exact raw-trial dataset and matched walking/small-yaw assay not identified in bounded search"
+    },
+    {
+      "url": "https://authors.library.caltech.edu/records/mqzzc-va989",
+      "finding": "Institutional record lists article PDF only; no raw recording file is listed there"
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-024-53173-w",
+      "finding": "Pokusaeva et al. 2024 constrains electrical interactions upstream; does not supply a measured missing DNp15 electrical conductance for this model"
+    }
+  ],
+  "search_queries": [
+    "DNp15 dendrite calcium imaging dataset optic flow Erginkaya 2025 recordings",
+    "Erginkaya 2025 DNp15 GCaMP6f RdlFlpStop wild type dendrites",
+    "An Array of Descending Visual Interneurons data electrophysiology DNHS1 repository",
+    "Bilateral interactions of optic-flow sensitive neurons Data availability",
+    "Suver Huda 2016 DNHS1 raw data repository dataset",
+    "descending visual interneurons data.caltech",
+    "DNHS1 zenodo"
+  ],
+  "fresh_matched_recordings_acquired": false,
+  "original_stimulus_arrays_recovered": false,
+  "new_conductances_invented": false,
+  "limitation": "Negative searches are bounded to these sources/queries and do not establish that data do not exist elsewhere. No author contacted."
+}

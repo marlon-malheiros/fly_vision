@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "files_checked": 2421,
+  "bytes_checked": 27706093,
+  "index_sha256": "c19dd36aef2b87ca5ee71e6d65a9e3257e918b0e0992c377d0e97db6090195e1",
+  "failures": [],
+  "scope": "only files indexed in this completed study; separate post-sealer process"
+}

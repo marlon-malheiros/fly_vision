@@ -1,0 +1,14 @@
+{
+  "status": "COMPLETE_NUMERICAL_ANALYSIS",
+  "completed_utc": "2026-10-21T19:31:53.520811+00:00",
+  "plans": 3536,
+  "class_rows": 56576,
+  "models": 240,
+  "predictions": 67584,
+  "curves": 2400,
+  "thresholds": 480,
+  "mean_flags": 3998,
+  "contrast_flags": 4270,
+  "decision_changes": 701,
+  "physiologically_validated": false
+}

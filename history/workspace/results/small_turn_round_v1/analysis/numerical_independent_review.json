@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "numerical_rows": 1944,
+  "numerical_artifacts_rehashed": 108,
+  "maximum_arithmetic_error": 0.0,
+  "previous_inputs_rehashed": 976,
+  "frozen_scientific_sources_unchanged": true,
+  "failed_partial_export_hash_preserved": true
+}

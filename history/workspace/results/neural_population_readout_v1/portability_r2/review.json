@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "scope": "Fresh workspace prepare and nonzero observer parity; not a second execution of the entire study",
+  "corrected_setup_includes_tests": true,
+  "earlier_failure_preserved": true
+}

@@ -1,0 +1,61 @@
+{
+  "status": "NUMERICAL_DATA_HANDLING_REVIEW_PASS",
+  "completed_utc": "2026-10-21T13:33:08.523812+00:00",
+  "tolerance": 1e-10,
+  "implementation_written_after_scores": true,
+  "prospective_biological_acceptance_test": false,
+  "production_filter_normalizer_scorer_imported": false,
+  "unchanged_manifest_entries": {
+    "results/validation_hardware_v1/prospective_manifest.json": 30,
+    "results/validation_hardware_v1/soma_matched_physiology_v1/prospective_manifest.json": 24,
+    "results/validation_hardware_v1/physiological_interface_v2/prospective_manifest.json": 259,
+    "results/validation_hardware_v1/heldout_speed_condition_v1/prospective_manifest.json": 11
+  },
+  "extraction": {
+    "sessions": 45,
+    "traces": 360,
+    "unusable_trial_roi_units": 86
+  },
+  "thirteen_second": {
+    "selected_observation_fits": 32,
+    "rescored_trace_cases": 760,
+    "reused_test_flies": 28
+  },
+  "six_second": {
+    "trace_cases": 3600,
+    "observed_traces": 360,
+    "supported_traces": 225,
+    "calibration_flies": 20,
+    "reused_test_flies": 14,
+    "unsupported_traces": 135,
+    "fly_metric_groups": 544
+  },
+  "maximum_absolute_differences": {
+    "extraction_mean": 2.842170943040401e-14,
+    "extraction_sem": 3.774758283725532e-15,
+    "extraction_baseline_mean": 2.1316282072803006e-14,
+    "extraction_baseline_sd": 3.552713678800501e-15,
+    "extraction_baseline_indices": 0.0,
+    "recorded_clock": 0.0,
+    "network_clock": 0.0,
+    "selected_fit_gain": 0.0,
+    "selected_fit_loss": 2.842170943040401e-14,
+    "thirteen_saved_prediction": 0.0,
+    "thirteen_saved_observation": 0.0,
+    "thirteen_mse": 0.0,
+    "thirteen_motion_mse": 0.0,
+    "thirteen_zero_baseline_mse": 0.0,
+    "thirteen_mae": 0.0,
+    "thirteen_predicted_epoch_contrast": 0.0,
+    "thirteen_observed_epoch_contrast": 0.0,
+    "speed_mse": 0.0,
+    "speed_motion_mse": 0.0,
+    "speed_zero_baseline_mse": 0.0,
+    "speed_observed_peak": 0.0,
+    "speed_predicted_peak": 0.0,
+    "speed_rmse": 0.0,
+    "speed_fly_mse": 0.0
+  },
+  "physiological_validation_established": false,
+  "scope": "data_handling_selected_fit_arithmetic_soma_prediction_filter_and_metric_review; not_independent_solver_reimplementation"
+}

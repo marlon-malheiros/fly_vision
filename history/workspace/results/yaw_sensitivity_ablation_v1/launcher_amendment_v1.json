@@ -1,0 +1,10 @@
+{
+  "reason": "Python 3.14 forkserver socket binding is sandbox-blocked; failed before new trial execution",
+  "failure": "failure_run_20261019T125024347775.txt",
+  "launcher": {
+    "path": "scripts/launch_yaw_sensitivity_ablation_fork_v1.py",
+    "sha256": "b8fa8fbc6fefc995dd43105aa5da396173abbda5c2995109c5ccbe889b6e29b3",
+    "size_bytes": 242
+  },
+  "change": "explicit fork start method; no model, input, decoder, criterion or frozen method changes"
+}

@@ -1,0 +1,159 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-22T11:32:31.158254+00:00",
+  "camera_cases": [
+    {
+      "case": "s01_v16.5_y+0",
+      "checks": [
+        {
+          "kernel": "strict",
+          "full_5ms_state_max_error": 1.5092094240998222e-16,
+          "published_rate_max_error": 8.673617379884035e-19,
+          "final_state_max_error": 7.453889935837843e-20,
+          "source_time_outputs_bit_identical_to_V4": true,
+          "episode_decisions_equal": true
+        },
+        {
+          "kernel": "parallel4",
+          "full_5ms_state_max_error": 1.5092094240998222e-16,
+          "published_rate_max_error": 8.673617379884035e-19,
+          "final_state_max_error": 7.453889935837843e-20,
+          "source_time_outputs_bit_identical_to_V4": true,
+          "episode_decisions_equal": true
+        }
+      ],
+      "source": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y+0_raw.npz",
+        "size_bytes": 8445747,
+        "sha256": "01a8136d0e721d6e452a68dea1be14587110c0119b18ca41784e26c442ba9ee8"
+      },
+      "full_state_evidence": {
+        "path": "results/validation_hardware_v1/cpu_work_split_v5/s01_v16.5_y+0_full_state_reference.npz",
+        "size_bytes": 94616749,
+        "sha256": "0737057e806fcfd316b274b39582d735cdef2b8b24b62e8a4edbac97beff4338"
+      },
+      "recorded_full_state_samples": 401,
+      "recorded_neurons": 13593
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "checks": [
+        {
+          "kernel": "strict",
+          "full_5ms_state_max_error": 1.5048726154098802e-16,
+          "published_rate_max_error": 1.734723475976807e-18,
+          "final_state_max_error": 5.421010862427522e-20,
+          "source_time_outputs_bit_identical_to_V4": true,
+          "episode_decisions_equal": true
+        },
+        {
+          "kernel": "parallel4",
+          "full_5ms_state_max_error": 1.5027042110649091e-16,
+          "published_rate_max_error": 1.734723475976807e-18,
+          "final_state_max_error": 8.131516293641283e-20,
+          "source_time_outputs_bit_identical_to_V4": true,
+          "episode_decisions_equal": true
+        }
+      ],
+      "source": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y+20_raw.npz",
+        "size_bytes": 8904008,
+        "sha256": "1bc0a61c6c03b447cdce6604eccf6bba0573ad1f868084f07b80e24e919f6195"
+      },
+      "full_state_evidence": {
+        "path": "results/validation_hardware_v1/cpu_work_split_v5/s01_v16.5_y+20_full_state_reference.npz",
+        "size_bytes": 94572029,
+        "sha256": "33a6190dd3ed22005b4fcd0735306326ca5b347417a82f80c7651e59e2d4cd09"
+      },
+      "recorded_full_state_samples": 401,
+      "recorded_neurons": 13593
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "checks": [
+        {
+          "kernel": "strict",
+          "full_5ms_state_max_error": 2.563474280938005e-12,
+          "published_rate_max_error": 8.673617379884035e-19,
+          "final_state_max_error": 5.421010862427522e-20,
+          "source_time_outputs_bit_identical_to_V4": true,
+          "episode_decisions_equal": true
+        },
+        {
+          "kernel": "parallel4",
+          "full_5ms_state_max_error": 2.563474280938005e-12,
+          "published_rate_max_error": 8.673617379884035e-19,
+          "final_state_max_error": 5.421010862427522e-20,
+          "source_time_outputs_bit_identical_to_V4": true,
+          "episode_decisions_equal": true
+        }
+      ],
+      "source": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y-20_raw.npz",
+        "size_bytes": 8881126,
+        "sha256": "f29055ba29f004a019e1d894aacd0f8a943018ca87524448f774780e7c48dc04"
+      },
+      "full_state_evidence": {
+        "path": "results/validation_hardware_v1/cpu_work_split_v5/s01_v16.5_y-20_full_state_reference.npz",
+        "size_bytes": 94742767,
+        "sha256": "09b7bbb99d6481b3854712ff85c0fb367bad60f1180c68d13e6a35ab19219cd1"
+      },
+      "recorded_full_state_samples": 401,
+      "recorded_neurons": 13593
+    }
+  ],
+  "strong_cases": [
+    {
+      "copy": "original_intact",
+      "kernel": "strict",
+      "full_5ms_state_max_error": 4.440892098500626e-16,
+      "bit_identical_source_states_to_V4": true
+    },
+    {
+      "copy": "original_intact",
+      "kernel": "parallel4",
+      "full_5ms_state_max_error": 4.440892098500626e-16,
+      "bit_identical_source_states_to_V4": true
+    },
+    {
+      "copy": "original_bips_silence",
+      "kernel": "strict",
+      "full_5ms_state_max_error": 4.440892098500626e-16,
+      "bit_identical_source_states_to_V4": true
+    },
+    {
+      "copy": "original_bips_silence",
+      "kernel": "parallel4",
+      "full_5ms_state_max_error": 4.440892098500626e-16,
+      "bit_identical_source_states_to_V4": true
+    },
+    {
+      "copy": "expanded_intact",
+      "kernel": "strict",
+      "full_5ms_state_max_error": 6.661338147750939e-16,
+      "bit_identical_source_states_to_V4": true
+    },
+    {
+      "copy": "expanded_intact",
+      "kernel": "parallel4",
+      "full_5ms_state_max_error": 6.661338147750939e-16,
+      "bit_identical_source_states_to_V4": true
+    },
+    {
+      "copy": "expanded_new_families_silence",
+      "kernel": "strict",
+      "full_5ms_state_max_error": 4.440892098500626e-16,
+      "bit_identical_source_states_to_V4": true
+    },
+    {
+      "copy": "expanded_new_families_silence",
+      "kernel": "parallel4",
+      "full_5ms_state_max_error": 4.440892098500626e-16,
+      "bit_identical_source_states_to_V4": true
+    }
+  ],
+  "all_full_intermediate_FP64_states_retained": true,
+  "numerical_parameters_changed": false,
+  "new_performance_outcomes_inspected": false,
+  "scope": "Original Python differential equations at every5ms, all-cell states, exact matched-kernel output checks and strong-state controls"
+}

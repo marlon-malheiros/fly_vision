@@ -1,0 +1,427 @@
+{
+  "utc": "2026-10-30T19:30:51.644921+00:00",
+  "all_60_stationary_cases": [
+    {
+      "key": "rr24_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr25_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr26_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr27_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr28_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr29_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr30_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr31_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr32_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr33_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr34_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr35_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr36_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr37_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr38_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr39_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr40_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr41_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr42_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr43_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr44_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr45_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr46_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr47_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr48_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr49_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr50_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr51_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr52_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr53_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr54_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr55_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr56_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr57_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr58_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr59_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr60_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr61_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr62_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr63_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr64_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr65_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr66_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr67_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr68_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr69_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr70_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr71_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr72_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr73_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr74_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr75_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr76_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr77_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr78_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr79_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr80_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr81_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr82_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    },
+    {
+      "key": "rr83_v0_y+0",
+      "roles": 0.0,
+      "wide_rate": 0.0,
+      "final_state": 0.0,
+      "checkpoints": 0.0
+    }
+  ],
+  "first_retained_stationary_source_exactly_zero": true,
+  "passed": true
+}

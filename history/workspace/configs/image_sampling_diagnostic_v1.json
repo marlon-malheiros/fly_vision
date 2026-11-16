@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-24",
+  "scenes": [
+    {
+      "id": "s07",
+      "seed": 91607,
+      "split": "held_out",
+      "bounds_mm": [
+        [
+          -72.52530780739279,
+          72.52530780739279
+        ],
+        [
+          -30.231758513239264,
+          30.231758513239264
+        ],
+        [
+          0,
+          34.16836992520043
+        ]
+      ],
+      "spheres": []
+    },
+    {
+      "id": "s12",
+      "seed": 91612,
+      "split": "held_out",
+      "bounds_mm": [
+        [
+          -67.82917451229991,
+          67.82917451229991
+        ],
+        [
+          -29.7666202591521,
+          29.7666202591521
+        ],
+        [
+          0,
+          49.81712678480041
+        ]
+      ],
+      "spheres": [
+        [
+          28.129573853914263,
+          13.551805630940962,
+          2.360871331694946,
+          2.360871331694946
+        ],
+        [
+          37.38643935982819,
+          -22.65979571848318,
+          2.7233980657101067,
+          2.7233980657101067
+        ],
+        [
+          35.228942466977884,
+          17.615464895244013,
+          2.300140879072871,
+          2.300140879072871
+        ]
+      ]
+    }
+  ],
+  "speeds": [
+    5.5,
+    11.0,
+    16.5
+  ],
+  "yaws": [
+    0.0,
+    -2.0,
+    2.0,
+    -5.0,
+    5.0,
+    -20.0,
+    20.0
+  ],
+  "profiles": [
+    [
+      "direct",
+      null
+    ],
+    [
+      "p1000",
+      1.0
+    ],
+    [
+      "p0500",
+      0.5
+    ],
+    [
+      "p0250",
+      0.25
+    ],
+    [
+      "p0125",
+      0.125
+    ]
+  ],
+  "frontend_dt": 0.005,
+  "input_dt": 0.01,
+  "solver_dt": 0.001,
+  "window_indices": [
+    70,
+    140
+  ],
+  "receptor_grid": "unchanged_173x173_1_degree",
+  "workers": 3,
+  "minimum_free_disk_bytes": 10000000000,
+  "gates": {
+    "retinal_rmse": 0.005,
+    "drive_relative_rms": 0.1,
+    "drive_rms_floor": 1e-06,
+    "cell_mean_relative": 0.1,
+    "cell_mean_floor": 1e-05,
+    "contrast_relative": 0.1,
+    "contrast_floor": 1e-07,
+    "score_absolute": 0.1,
+    "stationary_absolute": 1e-10
+  },
+  "finest_profiles": [
+    "p0250",
+    "p0125"
+  ],
+  "max_additional_profiles": 0,
+  "neural_fitting": false,
+  "decoder_fitting": false,
+  "biological_validation": false
+}

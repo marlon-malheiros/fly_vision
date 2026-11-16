@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "flash_trials": 820,
+  "flash_conditions": 164,
+  "motion_conditions": 24,
+  "early_localizer_conditions": 96,
+  "calibration_grid_cases": 765,
+  "scalar_pixel_evaluations": 571956,
+  "max_native_bin_difference_mv": 7.105427357601002e-14,
+  "max_fit_grid_difference": 1.7763568394002505e-14,
+  "max_readout_difference_mv": 9.769962616701378e-14,
+  "max_metric_difference": 1.4566126083082054e-13,
+  "prior_geometry_files_unchanged": 234,
+  "worker_parameter_audits": 4,
+  "no_held_motion_response_fitting": true,
+  "full_biological_validation": false
+}

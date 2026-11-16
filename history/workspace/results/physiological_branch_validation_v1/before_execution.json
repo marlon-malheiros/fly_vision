@@ -1,0 +1,150 @@
+{
+  "utc": "2026-11-04T17:47:01.094185+00:00",
+  "source_and_qualitative_paper_findings_inspected": true,
+  "new_curves_not_computed": true,
+  "previous_archive_count": 230,
+  "files": [
+    {
+      "path": "scripts/physiological_branch_validation_v1.py",
+      "bytes": 19262,
+      "sha256": "69634259c632c29a08a74b8497ea6807665f40d485ea637cae50c70b5b988a53"
+    },
+    {
+      "path": "src/male_optic_frontend/published_parallel_t4_v1.py",
+      "bytes": 3333,
+      "sha256": "a5f4a98411943924228949c1e8b79b721e2a238b502c2c9be262e9fd06f61b60"
+    },
+    {
+      "path": "scripts/physiological_branch_oracle_v1.m",
+      "bytes": 1550,
+      "sha256": "e2c92ceebbc0f813de8c353918ec8522a46942a88a84bf50b55b188a8d2072ae"
+    },
+    {
+      "path": "scripts/physiological_branch_octave_compat_v1/nanmean.m",
+      "bytes": 209,
+      "sha256": "19d87b96beb321b47a1341e3a6aacd31e18dcd6345d531055037595e1ee88a72"
+    },
+    {
+      "path": "tests/test_published_parallel_t4_v1.py",
+      "bytes": 1489,
+      "sha256": "d8f0394c2ea94a96b056ab3352ed395bdeca1e262c60ba7a3b014349b43532c9"
+    },
+    {
+      "path": "configs/physiological_branch_validation_v1.json",
+      "bytes": 658,
+      "sha256": "ca7ef6555270c2ca875627dcaa80e40a8cfc9a8445abaf7d954382c3dc0b3991"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_BRANCH_VALIDATION_PROTOCOL_V1.md",
+      "bytes": 5716,
+      "sha256": "784ca7b4d9d8817c0cc3345e11186ecd373910ef60eb690e1084af1ab0de8691"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/completion_v1/artifact_index.json",
+      "bytes": 53362,
+      "sha256": "6c77796b573541dd3ce05a009f53728a11aa61426741b33d6fb7af3fc860c9eb"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/before_execution.json",
+      "bytes": 45279,
+      "sha256": "1fd285ffd8c31dceccc3129c0a8eac86fab5f7e42e6b5608051500222b00d919"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/comparisons.json",
+      "bytes": 7171,
+      "sha256": "81531aca6745eed6745f4b1aa5f2b5d89c5a8de0e4efd69b1d2f20cb871e513f"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/panel_targets.json",
+      "bytes": 4666,
+      "sha256": "f42992e5fd57dc2b1a999e5323c0408e20e7198812402c0334ade2c60b4c1b16"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/GenerateMeasuredFilterMovingBarMi4CT1SilencingFigures.m",
+      "bytes": 2875,
+      "sha256": "3e84af4ed2d1130644f1667720bd50fef79f433088cf345d8ac91a1a354b39c5"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/GenerateMeasuredFilterMovingBarTimingFigures.m",
+      "bytes": 12849,
+      "sha256": "cc13020be5ae1ff4f3f323b91b793ac9a96706f85fdf14309d3d56136af8fa81"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/SetConfiguration.m",
+      "bytes": 878,
+      "sha256": "4fa3885e64fad7d9ff285b999be4617b97e4d228dce34fb3620986cd585979c6"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/SetModelParameters.m",
+      "bytes": 4406,
+      "sha256": "aa4a14c766aa36356bbdfdc6e470a41494c8959b1108270e7699103e3665329b"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/analyses/ThreeInputModelMovingBarResponses.m",
+      "bytes": 1855,
+      "sha256": "f480da85f5fc312380325b367be98bbd7a850e00d9e4721aad22ca8800b7804f"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/filterData_200ms_deconv_20220206.mat",
+      "bytes": 27168,
+      "sha256": "171a0ff885525d0dd3de4a9ea2f05d49c13a8437416d74a3a385a9ed05053f5f"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/filterData_250ms_deconv_20220206.mat",
+      "bytes": 27168,
+      "sha256": "9b2651a7f55c06723397362725549cb6664c4d71159e9999157cc1e637e65005"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/filterData_300ms_deconv_20220206.mat",
+      "bytes": 27168,
+      "sha256": "16960b96843c6e3acdca872deba03a8e02439b6239d9edb112a1804880167dfb"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/models/ComputeSynapticModelResponseWithMeasuredFilters.m",
+      "bytes": 4239,
+      "sha256": "985711690a3b9361254411918a0ab5183fdb05407e31d41d71c93b3b5982188a"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/stimuli/MovingBars.m",
+      "bytes": 502,
+      "sha256": "757d5d3b1d4cfc4ed614483dc9d1c3a0976d879f71db1a6eb3f6f661bb92b44f"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/ComputePhotoreceptorResponsesWithIndependentFilters.m",
+      "bytes": 745,
+      "sha256": "30648f850b56d941ab5969a9aa5e529359d65e4ab7f348b1e6b25628838b130e"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/LoadAndUpsampleMeasuredTemporalFilters.m",
+      "bytes": 3228,
+      "sha256": "a928a44b361b60699f1720818abed9f4ea4cc1e2d8ec13eb3708d71a1b50cc9a"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/MakeModelFilters.m",
+      "bytes": 2836,
+      "sha256": "a122ba0cd80bb984cd970b8ef5faec866e52a368e57fc22f75fdd0c6021d4453"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/getLaguerrePolys.m",
+      "bytes": 951,
+      "sha256": "b44d489aee55bdee96c0d6b984c32ee8385274523d39a299f73423a6a814a7fd"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/README.md",
+      "bytes": 836,
+      "sha256": "392619aecd2acc471b730779c8f222f93b28a8eef2bfbd164b9ae65c1025e152"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/acquisition.json",
+      "bytes": 5010,
+      "sha256": "0037fe8d14eff01210e757db9753732e2bc8769beec9960723bf63fe63a2df62"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/acquisition_addendum.json",
+      "bytes": 300,
+      "sha256": "263f074674495bfde552d6e2e7f3af7723d943baca3da15a4ba0c4e8cdee705c"
+    }
+  ],
+  "model_parameters_fitted": 0,
+  "independent_downstream_trials_available": false
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "predictions": 2160,
+  "curves": 36,
+  "passing_all_speeds_at_2deg": [],
+  "independent_fit_error": 0.0,
+  "independent_score_error": 7.105427357601002e-15,
+  "numerical_review_pending": true,
+  "physiological_validation": false
+}

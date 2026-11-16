@@ -1,0 +1,18 @@
+{
+  "retrospective_arithmetic": true,
+  "scope": "Bounds for the three measured control differences, not a uniform test-set bound",
+  "bounds": [
+    {
+      "key": "f00_v16.5_y+0",
+      "fixed_readout_score_error_upper_bound_deg_s": 8.273206670412107e-06
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "fixed_readout_score_error_upper_bound_deg_s": 8.752997234450572e-06
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "fixed_readout_score_error_upper_bound_deg_s": 7.769526263484283e-06
+    }
+  ]
+}

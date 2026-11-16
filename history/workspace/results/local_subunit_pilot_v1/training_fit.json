@@ -1,0 +1,25 @@
+{
+  "methods": {
+    "local_before_pool": {
+      "weighted_training_mse": 0.08012775546493144,
+      "samples": 19344,
+      "episodes": 240,
+      "feature_columns": 55
+    },
+    "pool_before_normalize": {
+      "weighted_training_mse": 0.08422427603371904,
+      "samples": 19344,
+      "episodes": 240,
+      "feature_columns": 55
+    },
+    "raw_local": {
+      "weighted_training_mse": 0.06002586886730698,
+      "samples": 19344,
+      "episodes": 240,
+      "feature_columns": 55
+    }
+  },
+  "seconds": 0.4228258689981885,
+  "peak_rss_bytes": 174178304,
+  "hyperparameter_comparisons": 0
+}

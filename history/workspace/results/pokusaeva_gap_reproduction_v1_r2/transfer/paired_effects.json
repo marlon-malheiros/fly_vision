@@ -1,0 +1,338 @@
+[
+  {
+    "interface": "signed_opponent",
+    "speed": 5.5,
+    "variant": "gap_0.3",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "signed_opponent",
+    "speed": 5.5,
+    "variant": "gap_0.5",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      -0.041666666666666664
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        -0.125
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "signed_opponent",
+    "speed": 11.0,
+    "variant": "gap_0.3",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "signed_opponent",
+    "speed": 11.0,
+    "variant": "gap_0.5",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "signed_opponent",
+    "speed": 16.5,
+    "variant": "gap_0.3",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "signed_opponent",
+    "speed": 16.5,
+    "variant": "gap_0.5",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "rectified",
+    "speed": 5.5,
+    "variant": "gap_0.3",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "rectified",
+    "speed": 5.5,
+    "variant": "gap_0.5",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "rectified",
+    "speed": 11.0,
+    "variant": "gap_0.3",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.020833333333333332,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0625,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "rectified",
+    "speed": 11.0,
+    "variant": "gap_0.5",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.020833333333333332,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0625,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "rectified",
+    "speed": 16.5,
+    "variant": "gap_0.3",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.020833333333333332,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0625,
+        0.0
+      ]
+    ]
+  },
+  {
+    "interface": "rectified",
+    "speed": 16.5,
+    "variant": "gap_0.5",
+    "reference": "gap_0.0",
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "changes": [
+      0.0,
+      0.020833333333333332,
+      0.0
+    ],
+    "CI95": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0625,
+        0.0
+      ]
+    ]
+  }
+]

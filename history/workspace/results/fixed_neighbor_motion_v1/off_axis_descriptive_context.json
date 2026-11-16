@@ -1,0 +1,31 @@
+{
+  "recorded_utc": "2026-10-13T04:30:34.727782+00:00",
+  "post_analysis": true,
+  "acceptance_rules_changed": false,
+  "rows": [
+    {
+      "seed": 42,
+      "ab_expected_selective_mean": 0.9998522458628842,
+      "cd_selective_mean": 0.8562671812584036,
+      "vertical_to_horizontal_group_response_ratio": 0.1363525041455255
+    },
+    {
+      "seed": 78201,
+      "ab_expected_selective_mean": 1.0,
+      "cd_selective_mean": 0.8597263984651673,
+      "vertical_to_horizontal_group_response_ratio": 0.13226039736583517
+    },
+    {
+      "seed": 78202,
+      "ab_expected_selective_mean": 1.0,
+      "cd_selective_mean": 0.8670552425281184,
+      "vertical_to_horizontal_group_response_ratio": 0.1353151575789503
+    },
+    {
+      "seed": 78203,
+      "ab_expected_selective_mean": 0.9998518957345972,
+      "cd_selective_mean": 0.8541526571866478,
+      "vertical_to_horizontal_group_response_ratio": 0.1356900074974233
+    }
+  ]
+}

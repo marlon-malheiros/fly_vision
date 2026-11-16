@@ -1,0 +1,134 @@
+{
+  "source": {
+    "path": "scripts/audit_cpu_constraints_v6.py",
+    "size_bytes": 2017,
+    "sha256": "837ca64d61b396e913bea6f4226996b659df211fc0fd6d06155186e648e99a6b"
+  },
+  "graph_files": [
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v5/model/graph/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v5/model/graph/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v5/model/graph/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    }
+  ],
+  "exploratory_postscore_audit": true,
+  "source_neurons": 13579,
+  "wide_neurons": 14,
+  "incoming_chemical_entries_in_source_rows": 192967,
+  "incoming_chemical_entries_in_wide_rows": 10894,
+  "uncoupled_source_solver_shortcut_supported": false,
+  "interpretation": "The frozen numerical source population is chemically coupled. An uncoupled analytic source update would change the model; preserve its interactions.",
+  "cpu_topology": [
+    {
+      "cpu": 0,
+      "core_id": "0",
+      "physical_package_id": "0",
+      "thread_siblings_list": "0-1",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 1,
+      "core_id": "0",
+      "physical_package_id": "0",
+      "thread_siblings_list": "0-1",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 2,
+      "core_id": "4",
+      "physical_package_id": "0",
+      "thread_siblings_list": "2-3",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 3,
+      "core_id": "4",
+      "physical_package_id": "0",
+      "thread_siblings_list": "2-3",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 4,
+      "core_id": "8",
+      "physical_package_id": "0",
+      "thread_siblings_list": "4-5",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 5,
+      "core_id": "8",
+      "physical_package_id": "0",
+      "thread_siblings_list": "4-5",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 6,
+      "core_id": "12",
+      "physical_package_id": "0",
+      "thread_siblings_list": "6-7",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 7,
+      "core_id": "12",
+      "physical_package_id": "0",
+      "thread_siblings_list": "6-7",
+      "core_type": null,
+      "declared_max_frequency_khz": 4400000
+    },
+    {
+      "cpu": 8,
+      "core_id": "20",
+      "physical_package_id": "0",
+      "thread_siblings_list": "8",
+      "core_type": null,
+      "declared_max_frequency_khz": 3300000
+    },
+    {
+      "cpu": 9,
+      "core_id": "21",
+      "physical_package_id": "0",
+      "thread_siblings_list": "9",
+      "core_type": null,
+      "declared_max_frequency_khz": 3300000
+    },
+    {
+      "cpu": 10,
+      "core_id": "22",
+      "physical_package_id": "0",
+      "thread_siblings_list": "10",
+      "core_type": null,
+      "declared_max_frequency_khz": 3300000
+    },
+    {
+      "cpu": 11,
+      "core_id": "23",
+      "physical_package_id": "0",
+      "thread_siblings_list": "11",
+      "core_type": null,
+      "declared_max_frequency_khz": 3300000
+    }
+  ],
+  "affinity_changed": false,
+  "priority_changed": false,
+  "neural_parameters_changed": false,
+  "biological_identity_verified_by_this_audit": false,
+  "performance_measured": false
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "index": {
+    "path": "results/published_population_yaw_r2/completion_v1/artifact_index.json",
+    "size_bytes": 139323,
+    "sha256": "3eb00a700d73cc1d95c82e1d88c52dd3c75420aa603ce2e9de393ebdc5da7403"
+  },
+  "files": 691,
+  "bytes": 74070817,
+  "receipt_outside_index": true
+}

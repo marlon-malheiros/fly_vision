@@ -1,0 +1,70 @@
+{
+  "utc": "2026-10-30T14:02:48.109226+00:00",
+  "files": [
+    {
+      "path": "results/final_openloop_release_review_r2/completion/PROJECT_PROGRESS_REPORT_2026-10-30.md",
+      "size_bytes": 414101,
+      "sha256": "74b0d2f5d90794e020a937c11f304c598ffa624cc1511a8f2ecf7b9a3e20b41d"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/completion/completion.json",
+      "size_bytes": 308,
+      "sha256": "d7dd523225f6d730c2298de0895d984aaeff6fa943e07b24f334659cc8f8c584"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/completion/sources/docs/FINAL_OPENLOOP_INTERPRETATION_R2.md",
+      "size_bytes": 6140,
+      "sha256": "b70b6c668c543839181d3175710a6aa4db3378789c357d2915cb4d9075f25636"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/completion/sources/scripts/review_final_openloop_release_r2.py",
+      "size_bytes": 11526,
+      "sha256": "b94be8e483d493f0c58e9d6710e8fd1fdbd6cf7fa7d878b8b8685b30a0e7209a"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/detection_curves_r2.pdf",
+      "size_bytes": 23758,
+      "sha256": "7db2520dc1572777c184ba96f926d1b3bd2ca8ca5e475ea4f85b97fb02b3a236"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/detection_curves_r2.png",
+      "size_bytes": 79596,
+      "sha256": "342a794ac958275a0593c0af35eb68167455cff0596b991e480b211dfd17b936"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/figure_source_rows.csv",
+      "size_bytes": 12226,
+      "sha256": "47c5cb8182e16d32f22fba4590a65c6250d4bab2a6caa02be0ced1fedefc1f98"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/mechanism_source_rows.csv",
+      "size_bytes": 2775,
+      "sha256": "620f61302844e70ac5871ca660993e0577d52002017d90910a29127d3991077f"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/numerical_localization.json",
+      "size_bytes": 1441,
+      "sha256": "c7428588332fcc23284fc6a7d9fd7c77b2ee4a95b6e908cbf8d3d8c3239899b1"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/numerical_readout_details.csv",
+      "size_bytes": 352655,
+      "sha256": "5beb6dea586ab1da68ce7048196eebb78499051b2df5ed56e12c08490e0c3dca"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/provenance.json",
+      "size_bytes": 713,
+      "sha256": "7b88c08ca409095649e4eca8240443365e0d394479ef1c5565411322b4c002cd"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/report_figure_review.json",
+      "size_bytes": 353,
+      "sha256": "b44310ef42090cf347949168adfe776b21ecf010cedc2246597a9c537a823dbd"
+    },
+    {
+      "path": "results/final_openloop_release_review_r2/review.json",
+      "size_bytes": 240,
+      "sha256": "0ca31e41046cf3ea78c182802014cb177258e6532d30243b3d3ed192609137fb"
+    }
+  ]
+}

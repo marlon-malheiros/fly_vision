@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_COMPILED_PROJECTION_AND_SCHEDULED_CPU_COMPONENT",
+  "created_utc": "2026-10-22T11:17:01.460556+00:00",
+  "source_commit": "e58f411c7ed57fb08c0af4c639deac18c057a31c",
+  "projection_bit_identical_pixels": 72009174,
+  "benchmark_episodes": 36,
+  "standalone_episodes": 6,
+  "interrupted_scheduled_episodes": 200,
+  "complete_scheduled_repeat_episodes": 300,
+  "full_repeat_frame_pairs": 120300,
+  "full_repeat_noninitial_updates": 60000,
+  "numerical_verification": "PASS_scoped_synthetic_inputs",
+  "scheduled_deadline_gate": "FAIL",
+  "full_repeat_frame_response_misses": 16510,
+  "full_repeat_pair_response_misses": 15071,
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "broad_goal_complete": false,
+  "report": "docs/PORTABLE_CPU_CAMERA_REPORT_V4.md"
+}

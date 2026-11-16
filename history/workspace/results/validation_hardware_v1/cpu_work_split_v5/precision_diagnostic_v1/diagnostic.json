@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "source": {
+    "path": "scripts/diagnose_half_time_precision_v5.py",
+    "size_bytes": 3354,
+    "sha256": "0139b2a9a068da4ed0699ae62b8cdd4ee95fa880e16773003c4242ffa50ca816"
+  },
+  "postscore_diagnostic": true,
+  "case": "s01_v16.5_y-20",
+  "original_python_frontend_reference_max_error": 2.563474280938005e-12,
+  "matched_input_python_equation_max_error": 6.938893903907228e-18,
+  "python_vs_compiled_frontend_drive_max_difference": 2.9103830456733704e-11,
+  "differing_source_drive_elements": 206453,
+  "original_batched_source_states_bit_identical_to_split": true,
+  "evidence": {
+    "path": "results/validation_hardware_v1/cpu_work_split_v5/precision_diagnostic_v1/matched_input_python_reference.npz",
+    "size_bytes": 34674748,
+    "sha256": "d68f06cf7c14740b32cfd85c14b8bfe2d2b405ecf4ab9c63aed550b84c96356c"
+  },
+  "interpretation": "The full-state reference also compares Python and compiled frontends. Matching source drives isolates solver scheduling; residual recorded without relaxing the original1e-10 tolerance.",
+  "neural_parameters_changed": false,
+  "acceptance_criteria_changed": false,
+  "physiological_validation": false
+}

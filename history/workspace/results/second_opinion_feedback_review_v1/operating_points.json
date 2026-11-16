@@ -1,0 +1,256 @@
+{
+  "status": "SAVED_DATA_AUDIT_COMPLETE",
+  "date": "2026-10-24",
+  "retrospective": true,
+  "prospective_scientific_gate": false,
+  "new_simulation": false,
+  "source_index_sha256": "1baf1eeb79c6548238a2b027b2f20982975cc14fb44cdab5398134f22b3fc3c6",
+  "scope": "44 original intact direct-ray cases; all 201 recorded samples of 14 downstream cells; not all source nodes, intervening solver steps, other rooms or frontend nonlinearities",
+  "activation": "signed tanh: range (-1,1), zero is baseline rather than a clipping boundary",
+  "derivative_identity": "d tanh(x)/dx = 1 - rate**2 for active cells",
+  "per_role": {
+    "hs": {
+      "max_abs_rate": 0.008326484247390444,
+      "case": "s07_v16.5_y-20",
+      "min_tanh_derivative_at_recorded_rates": 0.9999306696600779
+    },
+    "h2": {
+      "max_abs_rate": 0.002618138575609973,
+      "case": "s12_v5.5_y-20",
+      "min_tanh_derivative_at_recorded_rates": 0.9999931453503988
+    },
+    "bips": {
+      "max_abs_rate": 0.0036105376949205283,
+      "case": "s07_v16.5_y-20",
+      "min_tanh_derivative_at_recorded_rates": 0.9999869640175536
+    },
+    "dnp15": {
+      "max_abs_rate": 0.002490975855107,
+      "case": "s07_v16.5_y-20",
+      "min_tanh_derivative_at_recorded_rates": 0.9999937950392893
+    }
+  },
+  "source_files": [
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v0_y+0/intact.npz",
+      "size_bytes": 2927,
+      "sha256": "d6cda10d38c5ddd412cd7041fd8cc7b299a2ee5df547124b755d1156414f7ed4"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v11_y+0/intact.npz",
+      "size_bytes": 174631,
+      "sha256": "98725daf2f129d6635722afada6744a1ac43e10b8f7d0a88ffc234dc39cc7467"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v11_y+2/intact.npz",
+      "size_bytes": 174636,
+      "sha256": "87ba3825254c817722d987d3cf1e0419cc8d570a34247ae0a9ec27b47c62ef8f"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v11_y+20/intact.npz",
+      "size_bytes": 174704,
+      "sha256": "1572e915d352d666c1d58a3c3e40b1fa7112eae6307e383898a5c0fed6cd1bad"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v11_y+5/intact.npz",
+      "size_bytes": 174537,
+      "sha256": "5699bed28a9d326c4d471073b200244c8c799c5e3da275a324340764a6dae7bc"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v11_y-2/intact.npz",
+      "size_bytes": 174773,
+      "sha256": "38808f7dee18c6820e8e02217098e4db8cca98bec36794c4212f43d975c79ef2"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v11_y-20/intact.npz",
+      "size_bytes": 174780,
+      "sha256": "2be84537674be7eef7b96b9954ad0a5e379d4154de0f08f2816b9c130750ff92"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v11_y-5/intact.npz",
+      "size_bytes": 174891,
+      "sha256": "0d7361b04358511880cbb0f4edfa88bbeccd3f34017314c295331cdb1a6ffe11"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v16.5_y+0/intact.npz",
+      "size_bytes": 174286,
+      "sha256": "9856a7074a4111e67ac7874adbdfc3f2ec63ba7f6a06df4cc1d4943c9f04b68e"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v16.5_y+2/intact.npz",
+      "size_bytes": 174153,
+      "sha256": "2ddb9af878039097ba98eec3507be35bea66b8ea41b3f50a1a2a60a14b824000"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v16.5_y+20/intact.npz",
+      "size_bytes": 173983,
+      "sha256": "5b5db437045a75c5ede3bec6b8f903deee05ccd2d72ea929b17c525486932732"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v16.5_y+5/intact.npz",
+      "size_bytes": 174181,
+      "sha256": "d4d5f3ee0d48ddf62b1ac6175f840908eeaa886558323cfc9751c306e0491e3b"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v16.5_y-2/intact.npz",
+      "size_bytes": 174260,
+      "sha256": "598f518cb7ee1c2af54bbec976004814bf4d57c940454d0db1ad14cc338a1ee3"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v16.5_y-20/intact.npz",
+      "size_bytes": 174408,
+      "sha256": "57e75ed03f844852f7262490ca7d012b350105e9ce656d16e9ede51a55188e24"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v16.5_y-5/intact.npz",
+      "size_bytes": 174374,
+      "sha256": "66f347e6e1bc55c4c260cfa31174b3352dc71337aa7e839ef7b3ebc8f69b02da"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v5.5_y+0/intact.npz",
+      "size_bytes": 174924,
+      "sha256": "d3d94360486f8fd0776421ec99e46cfe0f519eba556938e2789644451091d247"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v5.5_y+2/intact.npz",
+      "size_bytes": 174763,
+      "sha256": "4caa29b9462017b08b0776692d9184fc1fb58b556b07cb0341b72f4c904f3eae"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v5.5_y+20/intact.npz",
+      "size_bytes": 174931,
+      "sha256": "bdffafeed46701f777165b82aef538850abd996e0be2bf64adb98a2af434cd88"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v5.5_y+5/intact.npz",
+      "size_bytes": 175028,
+      "sha256": "8a769613f43eed9c2c4da76af629984e29697ace6eefc7c51f0d84e06594ca7c"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v5.5_y-2/intact.npz",
+      "size_bytes": 175018,
+      "sha256": "c9ea682390e8f4dce53588de0a0a58051e53f5c5f3ed1cf8c212b388b829788c"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v5.5_y-20/intact.npz",
+      "size_bytes": 174940,
+      "sha256": "cce1974810ea15fad1df47e26a177446770462d15cffc0da2ebe71a8b7428a55"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s07_v5.5_y-5/intact.npz",
+      "size_bytes": 175112,
+      "sha256": "d90b7cd2983b9da659066634433535f9ed8f82446de8f80e043b0af31007bbf6"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v0_y+0/intact.npz",
+      "size_bytes": 2927,
+      "sha256": "d6cda10d38c5ddd412cd7041fd8cc7b299a2ee5df547124b755d1156414f7ed4"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v11_y+0/intact.npz",
+      "size_bytes": 174665,
+      "sha256": "d3ba79f539626ecce15690757ca3662476219220ad781adb1b6bd17aedcb6a2d"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v11_y+2/intact.npz",
+      "size_bytes": 174761,
+      "sha256": "c8bb4833deeedb57bcee9a1a1c7be3b1b2e38f467b24c9034a2190fc6fda8438"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v11_y+20/intact.npz",
+      "size_bytes": 174725,
+      "sha256": "d8f9e7f42dadbb5bbf445581d6ac28b021956ed8bdb95d1892ca4537922d4a26"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v11_y+5/intact.npz",
+      "size_bytes": 174829,
+      "sha256": "128cf4742175e2de244f8358229ec543282083cbb914e0a28b34e66ade68f57c"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v11_y-2/intact.npz",
+      "size_bytes": 174671,
+      "sha256": "56e24355b57b67c463f09313f63a97c3cb1aefc03c32e3c0f178ee0b027fb3ea"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v11_y-20/intact.npz",
+      "size_bytes": 175007,
+      "sha256": "efda7935223c94979d460774ed83f6dc3f8ffcae1d7bf81e3e27a859ab651069"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v11_y-5/intact.npz",
+      "size_bytes": 174842,
+      "sha256": "8f04ccad3a60d007ef6daab2c4e988c21266e20cdb7c7029445aa4e9c034828c"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v16.5_y+0/intact.npz",
+      "size_bytes": 173812,
+      "sha256": "16f17e64db231b29e631ba66d3b3b3b0c8e1bcee063e9315b414d1e914d74e64"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v16.5_y+2/intact.npz",
+      "size_bytes": 173920,
+      "sha256": "ba4a30785b37e9813f6d501fa659994d5aa77b26bb5465eaf93cd2a7266a0c51"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v16.5_y+20/intact.npz",
+      "size_bytes": 174576,
+      "sha256": "bc3f4d21f49a5f61b2db3f8ae47aa624a9521090e24a059b5e0fdf05e4dd6e8b"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v16.5_y+5/intact.npz",
+      "size_bytes": 174137,
+      "sha256": "acf99685e6fdb1e1d1fa4907cc4bc41861e129d33677ad0c437e89c5a68f67cf"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v16.5_y-2/intact.npz",
+      "size_bytes": 173820,
+      "sha256": "ae1214659ca15bfb92d47bd2504741936ec126f51ee7f7515b8981f43ee60672"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v16.5_y-20/intact.npz",
+      "size_bytes": 174388,
+      "sha256": "96dce58cc36267c32f56a25c14b062541bd8d2f9c3879ca8f4cadb63f3a5a3b4"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v16.5_y-5/intact.npz",
+      "size_bytes": 174006,
+      "sha256": "db8f06a73a2356ffff82095c1afd0c7e7575783c50fd6d2b49168f2a463825a7"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v5.5_y+0/intact.npz",
+      "size_bytes": 174859,
+      "sha256": "f37ad9d90024c52197be5aa86eeef188e6218b0e720df7bc2f4d7fbb41b61749"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v5.5_y+2/intact.npz",
+      "size_bytes": 174945,
+      "sha256": "374f11b998aada208f82cf7e69f5d316edc35b95e5ae25f778fb7f4e2b468953"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v5.5_y+20/intact.npz",
+      "size_bytes": 174848,
+      "sha256": "f2d204911b903b52eefb6b321e15c6b743e12beb20a57e02017d481b53779892"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v5.5_y+5/intact.npz",
+      "size_bytes": 174866,
+      "sha256": "01bdf4cefd81b3bd35122931b1f3b0fc0820d2123275b92eaffcccbff5a74dae"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v5.5_y-2/intact.npz",
+      "size_bytes": 174986,
+      "sha256": "8ed653b7de1f5c5a82672b78b4dbf7859c6752af4eeeacb61f3b8d93d2ee9bfa"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v5.5_y-20/intact.npz",
+      "size_bytes": 174873,
+      "sha256": "d79f893c63a310e2139afa9f785a22a9d9aa1d2fcfec79b95f496c0f369305af"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/cases/s12_v5.5_y-5/intact.npz",
+      "size_bytes": 175115,
+      "sha256": "97eed2811adbff3c87a9ba30f8d97651d36cd2e54e52b41de8debd9f5b53188b"
+    }
+  ],
+  "interpretation": "Saved downstream operating points are close to the linear origin; this does not support downstream tanh saturation as an explanation in this subset. Other proposed mechanisms remain untested."
+}

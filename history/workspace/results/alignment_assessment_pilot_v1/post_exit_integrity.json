@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "indexed_files_checked": 55,
+  "indexed_bytes_checked": 3181898,
+  "index_sha256": "6e0a016a1b4121cecabf22e1179dd80bf71bb1d9896758e73b5292f3c85df8b4",
+  "external_deliverables_match_reviewed_snapshots": true,
+  "failures": [],
+  "scope": "separate process after sealer exit; this completed pilot and its two external manuscript deliverables only; prior retired movies excluded"
+}

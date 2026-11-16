@@ -1,0 +1,35 @@
+{
+  "initialization_ms": 449.9723990011262,
+  "preparation": {
+    "synthetic_frames": 3,
+    "luminance": 0.5,
+    "graph_steps": 10,
+    "state_and_clocks_reset": true,
+    "real_frames_processed": 0,
+    "preparation_ms": 13.837584003340453
+  },
+  "active_stream_prepare_rejected_without_mutation": true,
+  "initial_affinity": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "measured_affinity": [
+    0
+  ],
+  "device": {
+    "ordinal": 0,
+    "name": "NVIDIA GeForce RTX 2050",
+    "total_memory_bytes": 4007919616,
+    "driver_api_version": 13040
+  }
+}

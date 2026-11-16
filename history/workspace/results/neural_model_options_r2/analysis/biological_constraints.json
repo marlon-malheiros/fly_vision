@@ -1,0 +1,188 @@
+{
+  "retrospective_evidence_consolidation_not_new_validation": true,
+  "files": [
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/analysis/point_summary.json",
+      "bytes": 6445,
+      "sha256": "6bcc107653c8177e3c1843a8f6bca94b0faf586a2111f53ad65811e4be16c981"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/primary_waveform_summary.json",
+      "bytes": 43576,
+      "sha256": "5c6503e0fe2449893860b4b572eaee488aab3ed9ba2b43fe141cc9d83977f520"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/target.json",
+      "bytes": 420,
+      "sha256": "4045792a5f130b66c10309c4e34a88ddaa5006fa307f5bb956334ddb00203dce"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/decision.json",
+      "bytes": 5491,
+      "sha256": "075cf0060e5544fa66b469c05d94b27a7e5a668eb5794cfd50e555016a5abce4"
+    },
+    {
+      "path": "results/physiological_image_clamp_repair_v1/analysis/analysis_summary.json",
+      "bytes": 1906,
+      "sha256": "f9439fe4aa20d20ca1bf8b00aac08bad3895c09c3b3721ca158c65a821a03500"
+    },
+    {
+      "path": "docs/PHYSIOLOGY_INTEGRATION_SOURCE_GATE_REPORT_V1.md",
+      "bytes": 11076,
+      "sha256": "e1354991246d99fdb02ffee13051dfa454cd7648ed88efb29c9e4aa04cd5b870"
+    },
+    {
+      "path": "docs/H2_FROZEN_MODEL_BENCHMARK_REPORT_V2.md",
+      "bytes": 11776,
+      "sha256": "dd3ea25fe7893b86025f0ae9049aee53743351d903d3a54a2ecf76aa86c4a219"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_TEXTURE_REPLICATION_REPORT_V1.md",
+      "bytes": 10778,
+      "sha256": "6f2fd878690edc48764f433e4a61e351ce1b6ba4ec953781916965d0f6089335"
+    },
+    {
+      "path": "docs/POKUSAEVA_GAP_REPRODUCTION_REPORT_V1.md",
+      "bytes": 14402,
+      "sha256": "147393dd088f1a33bd5e835b188f0df5e46a49d37a051fe52749d89d80af54ed"
+    }
+  ],
+  "published_network_cell_types": [
+    "Am",
+    "C2",
+    "C3",
+    "CT1(Lo1)",
+    "CT1(M10)",
+    "L1",
+    "L2",
+    "L3",
+    "L4",
+    "L5",
+    "Lawf1",
+    "Lawf2",
+    "Mi1",
+    "Mi10",
+    "Mi11",
+    "Mi12",
+    "Mi13",
+    "Mi14",
+    "Mi15",
+    "Mi2",
+    "Mi3",
+    "Mi4",
+    "Mi9",
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6",
+    "R7",
+    "R8",
+    "T1",
+    "T2",
+    "T2a",
+    "T3",
+    "T4a",
+    "T4b",
+    "T4c",
+    "T4d",
+    "T5a",
+    "T5b",
+    "T5c",
+    "T5d",
+    "Tm1",
+    "Tm16",
+    "Tm2",
+    "Tm20",
+    "Tm28",
+    "Tm3",
+    "Tm30",
+    "Tm4",
+    "Tm5Y",
+    "Tm5a",
+    "Tm5b",
+    "Tm5c",
+    "Tm9",
+    "TmY10",
+    "TmY13",
+    "TmY14",
+    "TmY15",
+    "TmY18",
+    "TmY3",
+    "TmY4",
+    "TmY5a",
+    "TmY9"
+  ],
+  "downstream_types_present": {
+    "HS": false,
+    "H2": false,
+    "bIPS": false,
+    "DNp15": false
+  },
+  "h2_known_comparison": {
+    "model_mean_pd_error_deg": 16.723519431023544,
+    "body_horizontal_reference_error_deg": 13.764840703824174
+  },
+  "bips_dnp15_known_waveform_comparisons": [
+    {
+      "variant": "expanded_intact",
+      "cohort": "bIPS|sytGC7f|axon|native",
+      "condition": "all",
+      "mean": 0.4573810802203907,
+      "median": 0.49296627672880206,
+      "pooled": 0.4255565880030313
+    },
+    {
+      "variant": "expanded_intact",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "condition": "all",
+      "mean": -0.25729654386759315,
+      "median": 0.34686091781808037,
+      "pooled": 0.33117442256847407
+    },
+    {
+      "variant": "lpi_intact",
+      "cohort": "bIPS|sytGC7f|axon|native",
+      "condition": "all",
+      "mean": 0.3254350545279786,
+      "median": 0.34536001212444,
+      "pooled": 0.3002505039842003
+    },
+    {
+      "variant": "lpi_intact",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "condition": "all",
+      "mean": 0.09977591198991949,
+      "median": 0.37853214163955895,
+      "pooled": 0.27114256253176816
+    }
+  ],
+  "hs_known_ratio": {
+    "utc": "2026-10-30T16:55:16.781436+00:00",
+    "n_PD": 12,
+    "n_ND": 12,
+    "mean_PD": 0.015635075231551193,
+    "mean_ND": 0.0030227700185951386,
+    "ratio": 0.1933326174533055,
+    "unpaired_recording_row_interval": [
+      -0.17017411730368434,
+      0.9016040898069678
+    ],
+    "unverified_paired_row_interval": [
+      -0.17333218819315319,
+      0.730541850643422
+    ],
+    "animal_pairing_verified": false,
+    "no_fitting": true
+  },
+  "physiological_frontend_known_status": "CONVERGED_MEAN_HORIZONTAL_TRANSFER_INCOMPLETE",
+  "reconstruction_gaps": [
+    "Spatial CT1 contacts are not resolved by aggregate body-to-body counts.",
+    "T4/T5 voltage-to-MaleCNS drive lacks an experimentally calibrated conversion.",
+    "Repeatedly inspected recording sets cannot be claimed as untouched validation.",
+    "The published visual network does not include the named downstream pathway.",
+    "Horizontal LPi physiological strengths and gap conductances cannot be supplied from vertical circuits without explicit new assumptions."
+  ],
+  "action": "Preserve existing tested physiological alternatives and their failures; do not fabricate a complete source-supported replacement."
+}

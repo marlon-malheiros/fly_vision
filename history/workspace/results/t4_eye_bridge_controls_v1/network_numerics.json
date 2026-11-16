@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "condition": "grey",
+      "max_wide_abs": 0.0,
+      "max_solver_difference": 0.0,
+      "passed": true
+    },
+    {
+      "condition": "bright_plus",
+      "max_wide_abs": 0.00024430198135279025,
+      "max_solver_difference": 1.1675989764880351e-12,
+      "passed": true
+    },
+    {
+      "condition": "bright_minus",
+      "max_wide_abs": 0.00010324680755974323,
+      "max_solver_difference": 4.790570812761817e-13,
+      "passed": true
+    },
+    {
+      "condition": "dark_plus",
+      "max_wide_abs": 0.0,
+      "max_solver_difference": 0.0,
+      "passed": true
+    },
+    {
+      "condition": "dark_minus",
+      "max_wide_abs": 0.0,
+      "max_solver_difference": 0.0,
+      "passed": true
+    }
+  ],
+  "guard": 1e-08,
+  "interpretation": "sparse technical controls, no biological or walking qualification"
+}

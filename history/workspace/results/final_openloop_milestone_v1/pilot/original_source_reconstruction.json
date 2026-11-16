@@ -1,0 +1,47 @@
+{
+  "utc": "2026-10-29T21:07:55.607126+00:00",
+  "changed_sources": [
+    {
+      "original": {
+        "path": "scripts/final_openloop_milestone_v1.py",
+        "size_bytes": 17170,
+        "sha256": "7b6ccd3b10fb4ebd703296a4d111fc9a8122514d4586731e846f79998cbf9ed6"
+      },
+      "snapshot": {
+        "path": "results/final_openloop_milestone_v1/pilot/original_before_pilot_sources/scripts/final_openloop_milestone_v1.py",
+        "size_bytes": 17170,
+        "sha256": "7b6ccd3b10fb4ebd703296a4d111fc9a8122514d4586731e846f79998cbf9ed6"
+      },
+      "reconstruction": "exact documented review diff reversed; bytes verified against initial freeze"
+    },
+    {
+      "original": {
+        "path": "scripts/analyze_final_openloop_v1.py",
+        "size_bytes": 10607,
+        "sha256": "794ed1d562ea0f908942b0f62331a245722036b93b2bc1786cae514cbb38d052"
+      },
+      "snapshot": {
+        "path": "results/final_openloop_milestone_v1/pilot/original_before_pilot_sources/scripts/analyze_final_openloop_v1.py",
+        "size_bytes": 10607,
+        "sha256": "794ed1d562ea0f908942b0f62331a245722036b93b2bc1786cae514cbb38d052"
+      },
+      "reconstruction": "exact documented review diff reversed; bytes verified against initial freeze"
+    },
+    {
+      "original": {
+        "path": "scripts/review_final_openloop_v1.py",
+        "size_bytes": 8907,
+        "sha256": "88c74560f1a6e71db8ae3c4823003671a9f3f909a9d9ccf026da6d8d50e07346"
+      },
+      "snapshot": {
+        "path": "results/final_openloop_milestone_v1/pilot/original_before_pilot_sources/scripts/review_final_openloop_v1.py",
+        "size_bytes": 8907,
+        "sha256": "88c74560f1a6e71db8ae3c4823003671a9f3f909a9d9ccf026da6d8d50e07346"
+      },
+      "reconstruction": "exact documented review diff reversed; bytes verified against initial freeze"
+    }
+  ],
+  "original_hashes_recovered": true,
+  "scientific_input_or_criterion_changes": false,
+  "current_frozen_sources_untouched": true
+}

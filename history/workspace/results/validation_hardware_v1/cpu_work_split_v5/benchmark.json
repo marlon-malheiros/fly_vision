@@ -1,0 +1,3646 @@
+{
+  "status": "COMPLETE",
+  "records": [
+    {
+      "candidate": "batched_strict",
+      "repeat": 0,
+      "directory": "batched_strict_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.07236895698588341,
+        "first_frame_processing_s": 0.0016432639968115836,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.439162501716055,
+          "p95_ms": 10.82054324797354,
+          "p99_ms": 12.158499825163744,
+          "maximum_ms": 13.164510994101875,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.707886500516906,
+          "p95_ms": 12.834680116793605,
+          "p99_ms": 14.145072899118526,
+          "maximum_ms": 14.880040995194577,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199397376,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 0,
+      "directory": "batched_strict_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.057772265005041845,
+        "first_frame_processing_s": 0.0015826690068934113,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.93120700068539,
+          "p95_ms": 12.058105409960262,
+          "p99_ms": 12.319625123636797,
+          "maximum_ms": 12.499115997343324,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.959245995967649,
+          "p95_ms": 13.689202750538243,
+          "p99_ms": 14.051175419153878,
+          "maximum_ms": 14.992048993008211,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 199639040,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 0,
+      "directory": "batched_strict_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.05938636600330938,
+        "first_frame_processing_s": 0.0015823839930817485,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.116602497058921,
+          "p95_ms": 12.509766597941052,
+          "p99_ms": 12.827041146811098,
+          "maximum_ms": 13.312958006281406,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.439029498840682,
+          "p95_ms": 14.210274360812035,
+          "p99_ms": 14.747391508863075,
+          "maximum_ms": 14.893311003106646,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 199639040,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 0,
+      "directory": "batched_parallel4_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.08035089199256618,
+        "first_frame_processing_s": 0.0016242099954979494,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.1698465027147904,
+          "p95_ms": 5.010982496605719,
+          "p99_ms": 6.330023235350382,
+          "maximum_ms": 7.455207989551127,
+          "budget_ms": 5.0,
+          "missed_deadlines": 21
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.539570498513058,
+          "p95_ms": 7.0763913667178695,
+          "p99_ms": 8.605217873555375,
+          "maximum_ms": 8.851191989379004,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199901184,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 0,
+      "directory": "batched_parallel4_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.07106252000085078,
+        "first_frame_processing_s": 0.001576706999912858,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.4128824991057627,
+          "p95_ms": 5.206156900385395,
+          "p99_ms": 6.015200308174825,
+          "maximum_ms": 6.612611003220081,
+          "budget_ms": 5.0,
+          "missed_deadlines": 28
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.6946885015349835,
+          "p95_ms": 7.1909772959770635,
+          "p99_ms": 8.305135307164164,
+          "maximum_ms": 8.870727004250512,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200417280,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 0,
+      "directory": "batched_parallel4_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.062233528995420784,
+        "first_frame_processing_s": 0.0016360840090783313,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.383122500963509,
+          "p95_ms": 5.250527901080203,
+          "p99_ms": 5.516077503125415,
+          "maximum_ms": 5.813593001221307,
+          "budget_ms": 5.0,
+          "missed_deadlines": 26
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.859756005520467,
+          "p95_ms": 6.873122245451668,
+          "p99_ms": 7.325256949116009,
+          "maximum_ms": 7.466431998182088,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 200540160,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 0,
+      "directory": "split_parallel4_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.09885348899115343,
+        "first_frame_processing_s": 0.0016130409931065515,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.8574405077961273,
+          "p95_ms": 3.729568699782248,
+          "p99_ms": 4.859089315868911,
+          "maximum_ms": 6.354925004416145,
+          "budget_ms": 5.0,
+          "missed_deadlines": 4
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.723727503209375,
+          "p95_ms": 6.94840899814153,
+          "p99_ms": 9.561720076744672,
+          "maximum_ms": 10.52711100783199,
+          "budget_ms": 10.0,
+          "missed_deadlines": 2
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 200175616,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 0,
+      "directory": "split_parallel4_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.07580718399549369,
+        "first_frame_processing_s": 0.0015775580104673281,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.7754434995586053,
+          "p95_ms": 3.2960978540359056,
+          "p99_ms": 3.798412320029455,
+          "maximum_ms": 4.95672901161015,
+          "budget_ms": 5.0,
+          "missed_deadlines": 0
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.552041497139726,
+          "p95_ms": 6.43671161524253,
+          "p99_ms": 7.1399219700833765,
+          "maximum_ms": 7.648828002857044,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200249344,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 0,
+      "directory": "split_parallel4_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.07480613399820868,
+        "first_frame_processing_s": 0.0015742280083941296,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.7899425040232018,
+          "p95_ms": 3.6191551000229065,
+          "p99_ms": 4.404957710939924,
+          "maximum_ms": 5.354307999368757,
+          "budget_ms": 5.0,
+          "missed_deadlines": 1
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.627697493764572,
+          "p95_ms": 6.8787596923357315,
+          "p99_ms": 8.62239207504899,
+          "maximum_ms": 9.5330980111612,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 201281536,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 0,
+      "directory": "split_strict_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.093553945000167,
+        "first_frame_processing_s": 0.0016906329983612522,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.8575894983951,
+          "p95_ms": 7.208260946936207,
+          "p99_ms": 7.399283985578222,
+          "maximum_ms": 9.001316997455433,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.749994010140654,
+          "p95_ms": 14.34631349038682,
+          "p99_ms": 14.896212599851422,
+          "maximum_ms": 15.16650800476782,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199921664,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 0,
+      "directory": "split_strict_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.08690235900576226,
+        "first_frame_processing_s": 0.0016061229980550706,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.830494508903939,
+          "p95_ms": 7.140955641079927,
+          "p99_ms": 7.242522696760715,
+          "maximum_ms": 7.434273007675074,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.702743512112647,
+          "p95_ms": 14.144142119039316,
+          "p99_ms": 14.321852993452922,
+          "maximum_ms": 14.473896007984877,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200282112,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 0,
+      "directory": "split_strict_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.08436627000628505,
+        "first_frame_processing_s": 0.0016842159966472536,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.850022000435274,
+          "p95_ms": 7.180463292752392,
+          "p99_ms": 7.330509527382673,
+          "maximum_ms": 7.489091993193142,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.728092002565973,
+          "p95_ms": 14.262811349908588,
+          "p99_ms": 14.507834621035727,
+          "maximum_ms": 14.678787993034348,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 200347648,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 1,
+      "directory": "split_parallel4_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.07312352200096939,
+        "first_frame_processing_s": 0.0015728750004200265,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.823897491907701,
+          "p95_ms": 3.7843158526811713,
+          "p99_ms": 5.078447283012791,
+          "maximum_ms": 8.827858007862233,
+          "budget_ms": 5.0,
+          "missed_deadlines": 5
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.69787849963177,
+          "p95_ms": 7.379403892264233,
+          "p99_ms": 9.48870173830072,
+          "maximum_ms": 12.854353015427478,
+          "budget_ms": 10.0,
+          "missed_deadlines": 2
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 200306688,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 1,
+      "directory": "split_parallel4_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.07780303100298624,
+        "first_frame_processing_s": 0.0018012040090980008,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.3367619980708696,
+          "p95_ms": 4.765421347838127,
+          "p99_ms": 6.0437671169347595,
+          "maximum_ms": 6.841459005954675,
+          "budget_ms": 5.0,
+          "missed_deadlines": 16
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 6.6889485096908174,
+          "p95_ms": 9.517775753192833,
+          "p99_ms": 11.992540496721631,
+          "maximum_ms": 12.50675501069054,
+          "budget_ms": 10.0,
+          "missed_deadlines": 6
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200380416,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 1,
+      "directory": "split_parallel4_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.0747053480008617,
+        "first_frame_processing_s": 0.001682135000010021,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.8324874947429635,
+          "p95_ms": 4.677290152903878,
+          "p99_ms": 6.7585661482007655,
+          "maximum_ms": 10.824664001120254,
+          "budget_ms": 5.0,
+          "missed_deadlines": 11
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.6760365041554905,
+          "p95_ms": 9.155925204686355,
+          "p99_ms": 13.541308938729339,
+          "maximum_ms": 19.818122003925964,
+          "budget_ms": 10.0,
+          "missed_deadlines": 6
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 201093120,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 1,
+      "directory": "batched_strict_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.07943926000734791,
+        "first_frame_processing_s": 0.0016734459932195023,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.295727500400972,
+          "p95_ms": 12.519174197950633,
+          "p99_ms": 14.962161728326455,
+          "maximum_ms": 27.04874300980009,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.557352998759598,
+          "p95_ms": 14.660327699675683,
+          "p99_ms": 17.388399372575776,
+          "maximum_ms": 29.850193008314818,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199630848,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 1,
+      "directory": "batched_strict_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.06712799800152425,
+        "first_frame_processing_s": 0.001613733998965472,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.1829844999010675,
+          "p95_ms": 12.407743659423431,
+          "p99_ms": 12.747410502488492,
+          "maximum_ms": 14.644378010416403,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.582116000179667,
+          "p95_ms": 14.09405989688821,
+          "p99_ms": 15.048349400458383,
+          "maximum_ms": 16.26364199910313,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200347648,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 1,
+      "directory": "batched_strict_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.06948246799584012,
+        "first_frame_processing_s": 0.001653560990234837,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.403328494343441,
+          "p95_ms": 12.358366849366575,
+          "p99_ms": 12.564277817582479,
+          "maximum_ms": 13.42429401120171,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.585986504040193,
+          "p95_ms": 14.108512641541893,
+          "p99_ms": 14.682313970115498,
+          "maximum_ms": 15.208875993266702,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 200429568,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 1,
+      "directory": "batched_parallel4_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.08289761299965903,
+        "first_frame_processing_s": 0.0016137630009325221,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.3141140011139214,
+          "p95_ms": 5.250820447690779,
+          "p99_ms": 6.7669868987286454,
+          "maximum_ms": 7.807251997292042,
+          "budget_ms": 5.0,
+          "missed_deadlines": 28
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.707182484911755,
+          "p95_ms": 7.783314006519502,
+          "p99_ms": 9.129868880409047,
+          "maximum_ms": 9.850779999396764,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199733248,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 1,
+      "directory": "batched_parallel4_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.06180315600067843,
+        "first_frame_processing_s": 0.0015674840105930343,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.2303019979735836,
+          "p95_ms": 5.153679405339061,
+          "p99_ms": 5.813478059862972,
+          "maximum_ms": 6.6920399985974655,
+          "budget_ms": 5.0,
+          "missed_deadlines": 26
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.594443995505571,
+          "p95_ms": 7.009006395674077,
+          "p99_ms": 8.056912883330362,
+          "maximum_ms": 8.828929989249445,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200085504,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 1,
+      "directory": "batched_parallel4_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.06096499699924607,
+        "first_frame_processing_s": 0.0015673739981139079,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.382007002073806,
+          "p95_ms": 5.381663953448879,
+          "p99_ms": 6.494701311603421,
+          "maximum_ms": 6.992862996412441,
+          "budget_ms": 5.0,
+          "missed_deadlines": 32
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.668583500664681,
+          "p95_ms": 8.096594602102414,
+          "p99_ms": 8.782236798724625,
+          "maximum_ms": 8.99283699982334,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 200085504,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 1,
+      "directory": "split_strict_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.09880471600627061,
+        "first_frame_processing_s": 0.001671146004809998,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.835282503743656,
+          "p95_ms": 7.144225201045629,
+          "p99_ms": 7.34685398478177,
+          "maximum_ms": 9.221854998031631,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.695859495783225,
+          "p95_ms": 14.13278673280729,
+          "p99_ms": 15.098526205256348,
+          "maximum_ms": 15.983960998710245,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199712768,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 1,
+      "directory": "split_strict_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.08715061699331272,
+        "first_frame_processing_s": 0.0015546869981335476,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.849249999504536,
+          "p95_ms": 7.237502546922769,
+          "p99_ms": 7.488919102033832,
+          "maximum_ms": 8.485066005960107,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.749320998613257,
+          "p95_ms": 14.384986391814891,
+          "p99_ms": 14.701580497930982,
+          "maximum_ms": 16.65512598992791,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200073216,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 1,
+      "directory": "split_strict_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.08850764199451078,
+        "first_frame_processing_s": 0.001523865998024121,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.841220500064082,
+          "p95_ms": 7.329367203783477,
+          "p99_ms": 7.753686509531689,
+          "maximum_ms": 8.92500500776805,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.719727001443971,
+          "p95_ms": 14.365842447296018,
+          "p99_ms": 15.455810408020621,
+          "maximum_ms": 15.972506007528864,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 201191424,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 2,
+      "directory": "batched_parallel4_r2",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.08249347799574025,
+        "first_frame_processing_s": 0.0016022569907363504,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.6762194940820336,
+          "p95_ms": 5.1214591469033595,
+          "p99_ms": 7.455224669101881,
+          "maximum_ms": 8.653469994897023,
+          "budget_ms": 5.0,
+          "missed_deadlines": 23
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.535254000278655,
+          "p95_ms": 7.508839436195556,
+          "p99_ms": 10.483423449477412,
+          "maximum_ms": 11.547150003025308,
+          "budget_ms": 10.0,
+          "missed_deadlines": 3
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199462912,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 2,
+      "directory": "batched_parallel4_r2",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.061312188001465984,
+        "first_frame_processing_s": 0.0015925320039968938,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.990151995618362,
+          "p95_ms": 4.420314396702451,
+          "p99_ms": 5.116620197950394,
+          "maximum_ms": 6.067376001738012,
+          "budget_ms": 5.0,
+          "missed_deadlines": 7
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.562571495829616,
+          "p95_ms": 6.237241305643692,
+          "p99_ms": 7.276849264162588,
+          "maximum_ms": 8.313414000440389,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 199970816,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_parallel4",
+      "repeat": 2,
+      "directory": "batched_parallel4_r2",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.06161172199063003,
+        "first_frame_processing_s": 0.0015715600020484999,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 3.1889855017652735,
+          "p95_ms": 4.369166052492801,
+          "p99_ms": 4.969014603411775,
+          "maximum_ms": 6.540260001202114,
+          "budget_ms": 5.0,
+          "missed_deadlines": 4
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.54861749697011,
+          "p95_ms": 6.036622601095587,
+          "p99_ms": 7.159680459444643,
+          "maximum_ms": 9.168189004412852,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 200667136,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 2,
+      "directory": "batched_strict_r2",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.06093237399181817,
+        "first_frame_processing_s": 0.0016158540092874318,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.353615495550912,
+          "p95_ms": 12.025294840714194,
+          "p99_ms": 12.248390483582625,
+          "maximum_ms": 13.236550003057346,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.831548996269703,
+          "p95_ms": 13.657432329637231,
+          "p99_ms": 13.777904078160644,
+          "maximum_ms": 14.709338996908627,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199839744,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 2,
+      "directory": "batched_strict_r2",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.06958780699642375,
+        "first_frame_processing_s": 0.0015864369925111532,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.973933002678677,
+          "p95_ms": 12.292850840458414,
+          "p99_ms": 12.69372651586309,
+          "maximum_ms": 13.46000398916658,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.432047991955187,
+          "p95_ms": 14.026526750240008,
+          "p99_ms": 14.652653600205666,
+          "maximum_ms": 15.021947998320684,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 199839744,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "batched_strict",
+      "repeat": 2,
+      "directory": "batched_strict_r2",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "batched",
+        "initialization_s": 0.07061298099870328,
+        "first_frame_processing_s": 0.0015889229980530217,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.036401500750799,
+          "p95_ms": 12.28078615895356,
+          "p99_ms": 12.593135125935069,
+          "maximum_ms": 14.624433999415487,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.436436995107215,
+          "p95_ms": 14.022174295678267,
+          "p99_ms": 15.09433901606826,
+          "maximum_ms": 16.441935003967956,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 200019968,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 2,
+      "directory": "split_strict_r2",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.09783359899302013,
+        "first_frame_processing_s": 0.0016395879938500002,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.082968997361604,
+          "p95_ms": 6.496969640284077,
+          "p99_ms": 6.753998034837422,
+          "maximum_ms": 9.43634400027804,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 12.184802995761856,
+          "p95_ms": 12.898780288378473,
+          "p99_ms": 13.98016401712083,
+          "maximum_ms": 15.824066998902708,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199835648,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 2,
+      "directory": "split_strict_r2",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.07021878099476453,
+        "first_frame_processing_s": 0.0016010550025384873,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.160108496260364,
+          "p95_ms": 7.121707599435467,
+          "p99_ms": 7.444105728936847,
+          "maximum_ms": 7.55939599184785,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 12.242863500432577,
+          "p95_ms": 14.149851456750184,
+          "p99_ms": 14.480370218516327,
+          "maximum_ms": 14.99316398985684,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 201146368,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_strict",
+      "repeat": 2,
+      "directory": "split_strict_r2",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.06864964700071141,
+        "first_frame_processing_s": 0.0017198620043927804,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.966802003968041,
+          "p95_ms": 6.272117001935839,
+          "p99_ms": 6.5058308938751,
+          "maximum_ms": 6.922745989868417,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.987551995844115,
+          "p95_ms": 12.349134614487411,
+          "p99_ms": 12.864372237236237,
+          "maximum_ms": 13.171840997529216,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 201146368,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 2,
+      "directory": "split_parallel4_r2",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.09586673400190193,
+        "first_frame_processing_s": 0.0016459420003229752,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.9616374959005043,
+          "p95_ms": 3.3089827120420523,
+          "p99_ms": 3.550135804398451,
+          "maximum_ms": 6.467390994657762,
+          "budget_ms": 5.0,
+          "missed_deadlines": 1
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.935842498729471,
+          "p95_ms": 6.478838159819133,
+          "p99_ms": 6.798114417033499,
+          "maximum_ms": 9.378311995533295,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 199737344,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 2,
+      "directory": "split_parallel4_r2",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.08581028399930801,
+        "first_frame_processing_s": 0.0016762940067565069,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.986533501825761,
+          "p95_ms": 3.70352989557432,
+          "p99_ms": 4.5753153976693275,
+          "maximum_ms": 5.187401999137364,
+          "budget_ms": 5.0,
+          "missed_deadlines": 1
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.9590389937511645,
+          "p95_ms": 7.367136402172036,
+          "p99_ms": 8.91488912355271,
+          "maximum_ms": 9.404053998878226,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 200470528,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "split_parallel4",
+      "repeat": 2,
+      "directory": "split_parallel4_r2",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.08662738800921943,
+        "first_frame_processing_s": 0.001700331995380111,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 2.988018997712061,
+          "p95_ms": 3.275976148142945,
+          "p99_ms": 3.51979891929659,
+          "maximum_ms": 4.280622000806034,
+          "budget_ms": 5.0,
+          "missed_deadlines": 0
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 5.990633508190513,
+          "p95_ms": 6.434312583587598,
+          "p99_ms": 7.202005563740386,
+          "maximum_ms": 7.609622000018135,
+          "budget_ms": 10.0,
+          "missed_deadlines": 0
+        },
+        "libraries": {
+          "neural_cpu.so": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 201330688,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    }
+  ],
+  "numerical_pass": true,
+  "neural_parameters_changed": false,
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "hard_real_time_certified": false
+}

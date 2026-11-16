@@ -1,0 +1,100 @@
+{
+  "source_commit": "f4dc4340dc0cb556dc888fd67dc6080074722384",
+  "created_utc": "2026-11-02T01:59:40.964147+00:00",
+  "files": [
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/before_calibration.json",
+      "size_bytes": 1006,
+      "sha256": "15b729dd4f1593becac303284c6dbf7ef06ff097453d7b6a53f7e6aa4f2baf2a"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/before_fit.json",
+      "size_bytes": 2018,
+      "sha256": "b4290f5ac6676d157c52fc549a034a10bbb81cc2a35efe1a71496d0de36a6473"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/calibration_results.json",
+      "size_bytes": 199492,
+      "sha256": "6ec2257aef627caacb086424daec3b1f8f81d5f71db46a06fb40429b32456941"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/calibration_score_curves.npz",
+      "size_bytes": 436173,
+      "sha256": "fb52e342a4dbaa550c76510c6ac3b6ae14f338aaaa2225e62cf60ef64aa1e3ec"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/independent_review.json",
+      "size_bytes": 535,
+      "sha256": "92692fe928176982302086f19b8d901a984ee82722b4b608681ff40c828c7c56"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/input_manifest.json",
+      "size_bytes": 106176,
+      "sha256": "cd578163c4eed30d570e53ab95844f62007d4f94f884fa616b37bb9264f61b23"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/models.json",
+      "size_bytes": 2035,
+      "sha256": "9b4a5e92c70f24b10b7c271f262956dcdc8b9ea391e12efb8eafb60fb9ca7531"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay/training_selection.json",
+      "size_bytes": 31104,
+      "sha256": "0f3ca8e81168fc50cdb66addb1da0c0038a309985d0b6ab35f7539232371ba2a"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/active_readout_replay.log",
+      "size_bytes": 507,
+      "sha256": "afdff5420433a39b4d4377969f54ee87cf6fc37a145f580380fba94c3fa47054"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/before_retirement.json",
+      "size_bytes": 2731276,
+      "sha256": "fee761546348060f4bbb5018cd41ae9cb9c45744144c35894e7dec71682b4758"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/completion_v2/PROJECT_PROGRESS_REPORT_2026-11-01.md",
+      "size_bytes": 486750,
+      "sha256": "37bd908235d8efd91c342c8053bbace65005f0f7a2aa1175e73a02004862bb05"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/completion_v2/sources/docs/LEGACY_MOVIE_RETIREMENT_REPORT_V2.md",
+      "size_bytes": 5611,
+      "sha256": "5b8e60e8e61c68c91d6ef55e0e3e4cd97c4f24da256cf308175ffa32dd4f7a97"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/completion_v2/sources/scripts/retire_legacy_generated_movies_v2.py",
+      "size_bytes": 9275,
+      "sha256": "c0a3712cd04667b8c249c2222800370665112ab41b9c98e9c049c9d4b85bb6a6"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/completion_v2/sources/scripts/review_bilateral_energy_pilot_r3.py",
+      "size_bytes": 6825,
+      "sha256": "098877cf0e08f1bb7a71ba4380db3e3e53fb5221145eecafe3ffde92151f9b24"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/execution.log",
+      "size_bytes": 931,
+      "sha256": "e98ff8ca0dab1cc925fd22be184a3ae8d5696b7341ba842aaa9a0dbcdd4c774c"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/result.json",
+      "size_bytes": 903,
+      "sha256": "c88b99e45f7c0ab082cb6da6f25dc242c162c2e8c48b11288fa7a0998ad52f85"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/retirement.jsonl",
+      "size_bytes": 682199,
+      "sha256": "efdeb7c5645888eb55605f9cd8f44ae184271d2662d9ffb4479021488ce96d2b"
+    },
+    {
+      "path": "results/legacy_movie_retirement_v2/selection_plan.json",
+      "size_bytes": 254977,
+      "sha256": "869f1d2b001e47a8399839345de6ff6be2a02e052257887360437e183455654e"
+    }
+  ],
+  "indexed_bytes": 4957793,
+  "scope": "Retirement ledgers, exact sources and post-retirement saved-neural replay; original historical movie availability is intentionally not preserved.",
+  "live_progress_and_AGENTS_excluded": true,
+  "scientific_validation_claim": false
+}

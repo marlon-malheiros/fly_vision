@@ -1,0 +1,6 @@
+{
+  "bitwise_native_flow_and_final_state": true,
+  "direct_full_state_pooling": true,
+  "population_features": 816,
+  "flow_features": 48
+}

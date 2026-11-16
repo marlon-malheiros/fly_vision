@@ -1,0 +1,94 @@
+{
+  "status": "FRONTEND_MEMORY_NUMERICAL_PREFLIGHT_PASS",
+  "completed_utc": "2026-10-21T14:06:12.595277+00:00",
+  "records": [
+    {
+      "build": "portable",
+      "case": "walking",
+      "frames": 81,
+      "targets": 13579,
+      "compiled_drive_and_state_bit_identical": true,
+      "python_maximum_drive_error": 8.881784197001252e-16,
+      "reset_and_invalid_input_preservation": true
+    },
+    {
+      "build": "portable",
+      "case": "random",
+      "frames": 32,
+      "targets": 13579,
+      "compiled_drive_and_state_bit_identical": true,
+      "python_maximum_drive_error": 0.0,
+      "reset_and_invalid_input_preservation": true
+    },
+    {
+      "build": "portable",
+      "case": "patterns",
+      "frames": 6,
+      "targets": 13579,
+      "compiled_drive_and_state_bit_identical": true,
+      "python_maximum_drive_error": 0.0,
+      "reset_and_invalid_input_preservation": true
+    },
+    {
+      "build": "native",
+      "case": "walking",
+      "frames": 81,
+      "targets": 13579,
+      "compiled_drive_and_state_bit_identical": true,
+      "python_maximum_drive_error": 8.881784197001252e-16,
+      "reset_and_invalid_input_preservation": true
+    },
+    {
+      "build": "native",
+      "case": "random",
+      "frames": 32,
+      "targets": 13579,
+      "compiled_drive_and_state_bit_identical": true,
+      "python_maximum_drive_error": 0.0,
+      "reset_and_invalid_input_preservation": true
+    },
+    {
+      "build": "native",
+      "case": "patterns",
+      "frames": 6,
+      "targets": 13579,
+      "compiled_drive_and_state_bit_identical": true,
+      "python_maximum_drive_error": 0.0,
+      "reset_and_invalid_input_preservation": true
+    }
+  ],
+  "builds": [
+    {
+      "label": "portable",
+      "command": [
+        "g++",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_frontend_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/frontend_memory_v3/frontend_portable.so"
+      ]
+    },
+    {
+      "label": "native",
+      "command": [
+        "g++",
+        "-march=native",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_frontend_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/frontend_memory_v3/frontend_native.so"
+      ]
+    }
+  ],
+  "physiological_reconstruction": false
+}

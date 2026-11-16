@@ -1,0 +1,150 @@
+{
+  "utc": "2026-10-27T09:28:35.980848+00:00",
+  "selected": {
+    "method": "backward_current",
+    "window_s": 0.1,
+    "development_pass": true,
+    "numerical_pass": true,
+    "nominal_latency_s": 0.1
+  },
+  "setup": [
+    {
+      "key": "f00_v16.5_y+0",
+      "repeat": -1,
+      "seconds": 0.059281266
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "repeat": 0,
+      "seconds": 0.046716103
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "repeat": 1,
+      "seconds": 0.045405565
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "repeat": 2,
+      "seconds": 0.045015404
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "repeat": 3,
+      "seconds": 0.062938996
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "repeat": 4,
+      "seconds": 0.045304556
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "repeat": -1,
+      "seconds": 0.045188864
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "repeat": 0,
+      "seconds": 0.046916342
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "repeat": 1,
+      "seconds": 0.045154699
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "repeat": 2,
+      "seconds": 0.045431119
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "repeat": 3,
+      "seconds": 0.045525862
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "repeat": 4,
+      "seconds": 0.045471707
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "repeat": -1,
+      "seconds": 0.055898958
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "repeat": 0,
+      "seconds": 0.064725326
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "repeat": 1,
+      "seconds": 0.062919233
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "repeat": 2,
+      "seconds": 0.066853879
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "repeat": 3,
+      "seconds": 0.059278724
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "repeat": 4,
+      "seconds": 0.05985983
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "repeat": -1,
+      "seconds": 0.044966629
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "repeat": 0,
+      "seconds": 0.045151315
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "repeat": 1,
+      "seconds": 0.045564776
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "repeat": 2,
+      "seconds": 0.048625117
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "repeat": 3,
+      "seconds": 0.04521464
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "repeat": 4,
+      "seconds": 0.045226415
+    }
+  ],
+  "measured_output_calls": 1840,
+  "output_seconds": {
+    "mean": 0.007712495894021738,
+    "p50": 0.0075948295,
+    "p95": 0.0086320027,
+    "p99": 0.009349719869999999,
+    "maximum": 0.012532469
+  },
+  "aggregate_seconds": 14.265225034,
+  "nominal_stream_seconds": 18.400000000000002,
+  "soft_CPU_budget_pass": true,
+  "excludes": [
+    "setup",
+    "rendering",
+    "disk reads",
+    "camera transfer"
+  ],
+  "hard_real_time_guarantee": false
+}

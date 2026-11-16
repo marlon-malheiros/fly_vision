@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "method": "dnp_linear",
+      "max_independent_training_prediction_error": 1.4488410471358293e-14,
+      "training_samples": 19488
+    },
+    {
+      "method": "individual_linear",
+      "max_independent_training_prediction_error": 8.515410598874951e-14,
+      "training_samples": 19488
+    },
+    {
+      "method": "spatial_linear",
+      "max_independent_training_prediction_error": 4.385936058781681e-13,
+      "training_samples": 19488
+    },
+    {
+      "method": "spatial_mlp",
+      "max_independent_training_prediction_error": 2.6645352591003757e-15,
+      "training_samples": 19488
+    }
+  ]
+}

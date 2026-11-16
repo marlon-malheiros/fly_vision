@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-30T18:44:09.233023+00:00",
+  "case": "rr24_v5.5_y-2",
+  "images_replayed": 261,
+  "raw_image_estimates_exact": true,
+  "future_after_1p19_changed": true,
+  "earlier_prefix_exact": true,
+  "invalid_clock_or_image_cases_rejected": 3,
+  "label_free_cli_records": 131,
+  "ready_decisions_checked": 102,
+  "max_cli_score_error": 2.220446049250313e-16,
+  "source": {
+    "path": "results/dense_image_hybrid_r3/additional_causal_validation_v1/source.py",
+    "size_bytes": 3073,
+    "sha256": "e2a4e345f0b864c0af7b7a48cf524cccb6d556a0526251dca5aed472e19b9826"
+  },
+  "passed": true
+}

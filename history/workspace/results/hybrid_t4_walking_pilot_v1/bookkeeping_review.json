@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "cases": 3,
+  "voltage_drives_checked": 12,
+  "max_voltage_to_drive_error": 0.0,
+  "max_stored_score_summary_error": 0.0,
+  "scope": "retrospective numerical bookkeeping"
+}

@@ -1,0 +1,237 @@
+{
+  "status": "PASS",
+  "scope": "Selected source files only; no full predecessor rehash",
+  "manifests": [
+    {
+      "path": "results/yaw_sensitivity_ablation_v1/artifact_index.json",
+      "size_bytes": 277286,
+      "sha256": "107fcde834be1f6af943a6a937cdd5aa9c9cafa645f7552ba90fbb2298c359f6"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/artifact_index.json",
+      "size_bytes": 197923,
+      "sha256": "af9438dd0b4928d2e07f6d6e1f7c6b5a2fc690d6bbf79c2d5e709e98f1b7c101"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json",
+      "size_bytes": 1597191,
+      "sha256": "c3821b8e13771988d5a078b2ff95d550ccb2da082201012a4aec663760caea7c"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiology_review_v2/report_provenance_v1.json",
+      "size_bytes": 1301,
+      "sha256": "e98c12552da00e7784b7ff665df510b9445196d65d37e74e5e24175bb96fc0aa"
+    }
+  ],
+  "files": [
+    {
+      "path": "results/yaw_sensitivity_ablation_v1/decoder_predictions.csv",
+      "size_bytes": 1714046,
+      "sha256": "ed0101b8813711c5ee817cfbb00b172a34274da33bef1035b44d841d8eba9640",
+      "matched_prior_manifests": [
+        "results/yaw_sensitivity_ablation_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/yaw_sensitivity_ablation_v1/detection_curves.csv",
+      "size_bytes": 276207,
+      "sha256": "7bd8cb499591a8073dc815ee5bac4e694fc34a601bb36a25b2ca5f2888c4232d",
+      "matched_prior_manifests": [
+        "results/yaw_sensitivity_ablation_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/yaw_sensitivity_ablation_v1/detection_thresholds.csv",
+      "size_bytes": 30086,
+      "sha256": "b920e7f4bf2df79f62f0cec33e4d71cce2dc76b39ecb6af0984c5d8235901769",
+      "matched_prior_manifests": [
+        "results/yaw_sensitivity_ablation_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/decoder_predictions.csv",
+      "size_bytes": 3286247,
+      "sha256": "c207f2ebd00576add6cef255e860eeaa2f077c65aacac05d12b64d92fafd1024",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/detection_curves.csv",
+      "size_bytes": 523190,
+      "sha256": "53b5a4373253b9e9825819d874632b2b5d8513c5a515ba646e332b76fe455e3b",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/detection_thresholds.csv",
+      "size_bytes": 57796,
+      "sha256": "f493b07ed2d6878dcd2180d170acfa33ba4551d02c802e304878eb755606a0a2",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/decoder_predictions.csv",
+      "size_bytes": 8472758,
+      "sha256": "7d78e6b4027f1d1c659462f3cb18a11b0c422f3bc85286f10d72cbb79d3dd784",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/detection_curves.csv",
+      "size_bytes": 438380,
+      "sha256": "5dd9736b478ec59cb4ea7c21e5a46b15e2b0bd0884731e81ba3348a01492c9dc",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/detection_thresholds.csv",
+      "size_bytes": 58186,
+      "sha256": "716a93e09c60882c18266f762373094788a60847888bd028c36dc7fcfc8a9acb",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/postscore_dnp15_scene_pairs.csv",
+      "size_bytes": 218515,
+      "sha256": "30c2c210c77b9cd3d298618887757fa233b8f5cf3f86e11599a4ea3ad820e327",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/postscore_dnp15_mechanism_summary.csv",
+      "size_bytes": 13012,
+      "sha256": "9c50dee4a0d7d89cb32662d8d34ba7b89b1b687ebd909caf49652cea695342e6",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/numerical_refinement.csv",
+      "size_bytes": 869535,
+      "sha256": "92c1032b1b7abf35dc0e643509ac104ca8cfdba42377bc7e8ea32f4983926d76",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/refinement_decisions.csv",
+      "size_bytes": 1930229,
+      "sha256": "615bf5d4c923a3941992581c13fa2391c59e3771e063cef0ba4650382809a7a0",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/analysis_review_v1_r2/independent_review.json",
+      "size_bytes": 3242,
+      "sha256": "164b1471979f825df69aeceb6527c39ec74e4a759e0d0b48e1521e25932f883b",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/geometry_replay_review_v1/checks_complete.json",
+      "size_bytes": 614,
+      "sha256": "839b531d44593046e4bbb16df0c00da6abf98dd5547d722aa3ac63a9d39ec1de",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/validation_hardware_v1/physiology_review_v2/independent_review.json",
+      "size_bytes": 2208,
+      "sha256": "9ffa6e7d93fae39484701ffbdbfa307c10d6e25202b72fb36b25b1997de3e6fa",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/physiology_review_v2/report_provenance_v1.json"
+      ]
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/incoming_normalization_by_cell.csv",
+      "size_bytes": 446072,
+      "sha256": "c2df0a4dcfb93a3fd5868d76e21f313fbf9878ffc215ac8e8a50404e5c5eaaa0",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/anatomical_audit.json",
+      "size_bytes": 2013,
+      "sha256": "8cce85fe837f994854ebdc7343d2f9dede665f1e417ed5f20b94a9da1722e973",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/normalization_audit.json",
+      "size_bytes": 2522,
+      "sha256": "33bff01fd63a9847526da4d7c8b37a094e2faf33071ef0acb167d565c924a30e",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "docs/YAW_SENSITIVITY_ABLATION_REPORT_V1.md",
+      "size_bytes": 14079,
+      "sha256": "6826a1c3d40b915f4e075d4cbb8cd84c730e6a21fdc75903090e91a51f6aaf25",
+      "matched_prior_manifests": [
+        "results/yaw_sensitivity_ablation_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "docs/ANATOMICAL_STRENGTHENING_REPORT_V1.md",
+      "size_bytes": 22355,
+      "sha256": "f1938d44e38aef144a9df1c7e9a155d7693f467a370d07ed5509b6599509e140",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "docs/VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "size_bytes": 18101,
+      "sha256": "44ae26bb3eeb53c4e876c40da7e1ddeb1456535aefff487ca84478ebfee877c0",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    },
+    {
+      "path": "docs/CORRECTED_PHYSIOLOGICAL_DIAGNOSTICS_REPORT_V2.md",
+      "size_bytes": 9931,
+      "sha256": "c7d9caeee11405c2de2f0fdce83997220f92c8a72ef665af291283532548c7bb",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/physiology_review_v2/report_provenance_v1.json"
+      ]
+    },
+    {
+      "path": "docs/YAW_SENSITIVITY_ABLATION_PROTOCOL_V1.md",
+      "size_bytes": 6835,
+      "sha256": "f2fa9873211393c11968076b5eddbdaea2dfb562a59db54a3f8024149310a3bd",
+      "matched_prior_manifests": [
+        "results/yaw_sensitivity_ablation_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "docs/ANATOMICAL_STRENGTHENING_PROTOCOL_V1.md",
+      "size_bytes": 8717,
+      "sha256": "b485dbaaee1310c95413a5cb4f69f576564b14d03e795f56bce3879afca8961c",
+      "matched_prior_manifests": [
+        "results/anatomical_strengthening_v1/artifact_index.json"
+      ]
+    },
+    {
+      "path": "docs/VALIDATION_HARDWARE_PROTOCOL_V1.md",
+      "size_bytes": 5923,
+      "sha256": "bdb21b5e659cc29c092f5828a8f31590fee367b8e3cfc6fa667b7bdea4dcfa03",
+      "matched_prior_manifests": [
+        "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json"
+      ]
+    }
+  ],
+  "physiology_manifest_is_component_seal": false
+}

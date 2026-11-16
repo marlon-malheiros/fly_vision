@@ -1,0 +1,434 @@
+[
+  {
+    "seed": 202610279100,
+    "role": "bips",
+    "side": "L",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": 0.0018202346146522627,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": -8.454199104987459e-06,
+      "h2": 7.570450854618976e-06,
+      "bips": 1.0270524637100727e-06,
+      "dnp15": 0.0,
+      "ulptcrn": -0.00011929601652796895,
+      "h2rn": 0.0019323792986747639
+    },
+    "fractions_of_rate_change": {
+      "t4t5": 0.0,
+      "hs": -0.004644565616395855,
+      "h2": 0.004159052241771171,
+      "bips": 0.0005642418045688471,
+      "dnp15": 0.0,
+      "ulptcrn": -0.06553881327586952,
+      "h2rn": 1.0616100161593318
+    },
+    "sum_current_minus_rate_contrast": -7.008028292126208e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279100,
+    "role": "bips",
+    "side": "L",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.0014187416774916793,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 2.5156473442543986e-06,
+      "h2": -6.262901570222492e-06,
+      "bips": 1.0714981538796575e-06,
+      "dnp15": 0.0,
+      "ulptcrn": 9.480867086676702e-05,
+      "h2rn": -0.0015079917489607755
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.0017731539040299691,
+      "h2": 0.004414405856670988,
+      "bips": -0.0007552454198526508,
+      "dnp15": -0.0,
+      "ulptcrn": -0.06682588689040825,
+      "h2rn": 1.0629079083846253
+    },
+    "sum_current_minus_rate_contrast": 2.8828433255823852e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279100,
+    "role": "bips",
+    "side": "R",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": -0.000862951401091658,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 9.813404907487756e-06,
+      "h2": -6.261464126950224e-06,
+      "bips": -6.481464694699198e-06,
+      "dnp15": 0.0,
+      "ulptcrn": 0.00024221513231838156,
+      "h2rn": -0.0010982739902093413
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.011371909119185068,
+      "h2": 0.00725587109428097,
+      "bips": 0.007510810790155693,
+      "dnp15": -0.0,
+      "ulptcrn": -0.2806822400565925,
+      "h2rn": 1.2726950658171405
+    },
+    "sum_current_minus_rate_contrast": 3.963019286536617e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279100,
+    "role": "bips",
+    "side": "R",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.0009002956186068677,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 4.569945201331541e-06,
+      "h2": -5.643805829712908e-06,
+      "bips": 5.051834537998456e-06,
+      "dnp15": 0.0,
+      "ulptcrn": 0.00014145151936333393,
+      "h2rn": -0.0010411485018851246
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.005076049585138656,
+      "h2": 0.006268836272297121,
+      "bips": -0.005611306368252406,
+      "dnp15": -0.0,
+      "ulptcrn": -0.15711674747703241,
+      "h2rn": 1.1564518146786218
+    },
+    "sum_current_minus_rate_contrast": 4.576609994694138e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279100,
+    "role": "dnp15",
+    "side": "L",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": 0.0015943039903950976,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": -5.084540605580085e-07,
+      "h2": 1.598530246875625e-05,
+      "bips": 0.00013625131291417243,
+      "dnp15": 0.0,
+      "ulptcrn": -3.484402442682159e-05,
+      "h2rn": 0.0014706106788844409
+    },
+    "fractions_of_rate_change": {
+      "t4t5": 0.0,
+      "hs": -0.00031891914190844135,
+      "h2": 0.010026508473327474,
+      "bips": 0.08546131335994893,
+      "dnp15": 0.0,
+      "ulptcrn": -0.021855320338366967,
+      "h2rn": 0.9224154789451394
+    },
+    "sum_current_minus_rate_contrast": -6.809174615107511e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279100,
+    "role": "dnp15",
+    "side": "L",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.0011534466436409147,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 3.650664653813765e-07,
+      "h2": -1.2990104592125809e-05,
+      "bips": 0.00014634196572360268,
+      "dnp15": 0.0,
+      "ulptcrn": 2.1256785067745717e-05,
+      "h2rn": -0.0013073042539808672
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.00031650052249406624,
+      "h2": 0.011261990022461607,
+      "bips": -0.1268736326299989,
+      "dnp15": -0.0,
+      "ulptcrn": -0.018428927930855616,
+      "h2rn": 1.1333894473473805
+    },
+    "sum_current_minus_rate_contrast": 1.1161023246515807e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279100,
+    "role": "dnp15",
+    "side": "R",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": -0.001389418549001483,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 1.0467315365650376e-06,
+      "h2": -1.336223135692087e-05,
+      "bips": -0.0002719706829142567,
+      "dnp15": 0.0,
+      "ulptcrn": 7.394745394204746e-05,
+      "h2rn": -0.0011730745301353751
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.0007533594087377628,
+      "h2": 0.009617139030225087,
+      "bips": 0.1957442435972304,
+      "dnp15": -0.0,
+      "ulptcrn": -0.05322187039692999,
+      "h2rn": 0.844291686604022
+    },
+    "sum_current_minus_rate_contrast": 6.005290073542776e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279100,
+    "role": "dnp15",
+    "side": "R",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.000839922259592652,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 1.3833120813527139e-06,
+      "h2": -1.151062929047493e-05,
+      "bips": 0.00021347346134260165,
+      "dnp15": 0.0,
+      "ulptcrn": 3.402045835569444e-05,
+      "h2rn": -0.0010721709417718349
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.0016469525191814738,
+      "h2": 0.013704398423798638,
+      "bips": -0.25415859492297854,
+      "dnp15": -0.0,
+      "ulptcrn": -0.04050429425717778,
+      "h2rn": 1.2765121170759537
+    },
+    "sum_current_minus_rate_contrast": 5.1179203099909875e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "bips",
+    "side": "L",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": 0.002016785525637348,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": -1.0053594766700619e-05,
+      "h2": 8.464924882615067e-06,
+      "bips": 1.3879544036211216e-06,
+      "dnp15": 0.0,
+      "ulptcrn": -0.00013881825726170475,
+      "h2rn": 0.0021566606663711825
+    },
+    "fractions_of_rate_change": {
+      "t4t5": 0.0,
+      "hs": -0.004984959798104196,
+      "h2": 0.004197236034773686,
+      "bips": 0.0006882012915986681,
+      "dnp15": 0.0,
+      "ulptcrn": -0.06883144265815531,
+      "h2rn": 1.0693554862208916
+    },
+    "sum_current_minus_rate_contrast": 8.561679916653173e-07,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "bips",
+    "side": "L",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.0013256601176525181,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 1.2199916448116244e-06,
+      "h2": -5.806197568056226e-06,
+      "bips": 1.4415097023531385e-06,
+      "dnp15": 0.0,
+      "ulptcrn": 8.200454235188974e-05,
+      "h2rn": -0.0014022489162041434
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.0009202899208976644,
+      "h2": 0.004379853848464457,
+      "bips": -0.001087390110902459,
+      "dnp15": -0.0,
+      "ulptcrn": -0.061859402164940715,
+      "h2rn": 1.0577740836672742
+    },
+    "sum_current_minus_rate_contrast": 2.2710475793730374e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "bips",
+    "side": "R",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": -0.0011661889139816025,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 1.2484907146595794e-05,
+      "h2": -8.308411959112062e-06,
+      "bips": -7.18134029315555e-06,
+      "dnp15": 0.0,
+      "ulptcrn": 0.0003124579376216352,
+      "h2rn": -0.0014748758279595734
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.010705733005101054,
+      "h2": 0.007124413428648948,
+      "bips": 0.006157956234240828,
+      "dnp15": -0.0,
+      "ulptcrn": -0.2679308076723532,
+      "h2rn": 1.264697177513077
+    },
+    "sum_current_minus_rate_contrast": 7.661785379924676e-07,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "bips",
+    "side": "R",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.0012111872190435713,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 7.148556110354171e-06,
+      "h2": -7.719414190413519e-06,
+      "bips": 4.720391086166119e-06,
+      "dnp15": 0.0,
+      "ulptcrn": 0.00021006809897387477,
+      "h2rn": -0.0014242620723187295
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.005902106625595929,
+      "h2": 0.0063734277154189655,
+      "bips": -0.0038973257081540485,
+      "dnp15": -0.0,
+      "ulptcrn": -0.17343982471987907,
+      "h2rn": 1.175922309883203
+    },
+    "sum_current_minus_rate_contrast": 1.1427787048234796e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "dnp15",
+    "side": "L",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": 0.0018279679809951963,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": -5.740244945900974e-07,
+      "h2": 1.7902309239621952e-05,
+      "bips": 0.00018468959688108994,
+      "dnp15": 0.0,
+      "ulptcrn": -4.0575108747039745e-05,
+      "h2rn": 0.0016676963596905226
+    },
+    "fractions_of_rate_change": {
+      "t4t5": 0.0,
+      "hs": -0.00031402327642390246,
+      "h2": 0.009793557341127737,
+      "bips": 0.10103546604822904,
+      "dnp15": 0.0,
+      "ulptcrn": -0.022196837783203145,
+      "h2rn": 0.9123225226202171
+    },
+    "sum_current_minus_rate_contrast": 1.1711515744083044e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "dnp15",
+    "side": "L",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.0010055635810990874,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 3.238119496862951e-07,
+      "h2": -1.1989009711082209e-05,
+      "bips": 0.00019613997208937917,
+      "dnp15": 0.0,
+      "ulptcrn": 1.7268079033864222e-05,
+      "h2rn": -0.0012053587802471656
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.0003220203632796313,
+      "h2": 0.011922676931058048,
+      "bips": -0.19505476906293379,
+      "dnp15": -0.0,
+      "ulptcrn": -0.017172538224773517,
+      "h2rn": 1.1986897724852972
+    },
+    "sum_current_minus_rate_contrast": 1.9476542137692853e-06,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "dnp15",
+    "side": "R",
+    "stimulus": "yaw",
+    "silenced_minus_intact_rate_contrast": -0.0017960595332079249,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 1.4509473089500957e-06,
+      "h2": -1.766607810800569e-05,
+      "bips": -0.00030113913297636697,
+      "dnp15": 0.0,
+      "ulptcrn": 9.442693996952842e-05,
+      "h2rn": -0.0015725976140497065
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.0008078503424430327,
+      "h2": 0.009836020344187854,
+      "bips": 0.1676665652827806,
+      "dnp15": -0.0,
+      "ulptcrn": -0.05257450447696094,
+      "h2rn": 0.8755821201766653
+    },
+    "sum_current_minus_rate_contrast": 5.345953523242485e-07,
+    "accounting_not_path_specific_intervention": true
+  },
+  {
+    "seed": 202610279101,
+    "role": "dnp15",
+    "side": "R",
+    "stimulus": "translation",
+    "silenced_minus_intact_rate_contrast": -0.0012387703316422286,
+    "chemical_input_contrast_changes": {
+      "t4t5": 0.0,
+      "hs": 1.8091984172966674e-06,
+      "h2": -1.5856379859091954e-05,
+      "bips": 0.00019981869091301738,
+      "dnp15": 0.0,
+      "ulptcrn": 5.367060411038397e-05,
+      "h2rn": -0.0014772867823154446
+    },
+    "fractions_of_rate_change": {
+      "t4t5": -0.0,
+      "hs": -0.0014604792923141989,
+      "h2": 0.01280009655871502,
+      "bips": -0.16130406566011252,
+      "dnp15": -0.0,
+      "ulptcrn": -0.04332570997178569,
+      "h2rn": 1.1925429150026676
+    },
+    "sum_current_minus_rate_contrast": 9.256629083900011e-07,
+    "accounting_not_path_specific_intervention": true
+  }
+]

@@ -1,0 +1,7 @@
+# Population observation arithmetic correction R2
+
+1 November 2026. The V1 observer first reproduced the full canonical decoder and final state bitwise. Its additional direct-pooling check then failed at 1.86e-9 because float32 reductions over differently laid-out arrays were compared for exact equality. No training, calibration or fresh test episode had been executed. Preserve V1's initial freeze, exact methods and failure.
+
+R2 uses float64 accumulation for every spatial mean, then explicitly stores the declared float32 observation. The independent direct check uses the same declared precision with separately indexed full-state inputs. Retain exact equality for stored observations and native trajectory parity; do not relax a behavioral or scientific acceptance threshold. All neural dynamics, decoder parameters, split definitions, feature windows, fitting algorithms and target criteria remain unchanged. Freeze R2 before generating inputs under results/published_population_yaw_r2.
+
+The first R2 setup correctly detected that V1 had already reserved the same test seeds, then stopped before a new freeze or any images. Preserve that setup failure separately. R2 explicitly reuses V1's identical, verified-unrendered reservation; the original V1 test directory must contain no NPZ observations. All other prior scene inventories remain in the exclusion set. This is not reuse of an inspected validation sample or a change in test seeds.

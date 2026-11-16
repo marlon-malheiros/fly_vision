@@ -1,0 +1,33 @@
+{
+  "status": "PASS_INDEPENDENT_EXTRACTION_AND_SPLIT_CHECKS",
+  "reviewed_utc": "2026-10-21T12:24:27.568919+00:00",
+  "traces_recomputed": 240,
+  "maximum_normalization_mean_error": 1.4210854715202004e-14,
+  "rejected_trial_roi_units": 284,
+  "calibration_flies": 35,
+  "validation_flies": 28,
+  "calibration_validation_overlap": false,
+  "selected_observation_models_checked": 16,
+  "duration_checks": [
+    {
+      "stimulus": "erginkaya_dot_progressive",
+      "first_motion_samples": 200,
+      "second_motion_samples": 200,
+      "record_samples": 1301
+    },
+    {
+      "stimulus": "erginkaya_dot_yaw",
+      "first_motion_samples": 200,
+      "second_motion_samples": 200,
+      "record_samples": 1301
+    },
+    {
+      "stimulus": "erginkaya_dot_yaw_right_flipped",
+      "first_motion_samples": 200,
+      "second_motion_samples": 200,
+      "record_samples": 1301
+    }
+  ],
+  "physiological_validation_established": false,
+  "scope": "array_layout_normalization_prospective_selection_and_source_clock_checks_not_biological_validation"
+}

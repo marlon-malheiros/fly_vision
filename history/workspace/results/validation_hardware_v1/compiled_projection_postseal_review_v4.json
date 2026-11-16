@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "verified_entries": 414,
+  "after_sealer_exit": true,
+  "index": {
+    "path": "results/validation_hardware_v1/cpu_camera_projection_v4/completion_v4/artifact_index.json",
+    "size_bytes": 93484,
+    "sha256": "1bc4aa7436614583e80b2d12d7c2a944537030edaef03300136349a17e3f4bd6"
+  },
+  "completed_utc": "2026-10-22T11:17:10.619816+00:00",
+  "goal_complete": false
+}

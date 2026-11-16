@@ -1,0 +1,40 @@
+{
+  "passed": true,
+  "date": "2026-11-16",
+  "manuscript_pages": 10,
+  "references": 12,
+  "reference_year_span": [
+    1971,
+    2026
+  ],
+  "all_pages_visually_reviewed": true,
+  "render_overfull_or_underfull_boxes": 0,
+  "scientific_figures": 2,
+  "numeric_summary_tokens_checked": 9,
+  "local_links_checked": 11,
+  "focused_tests": {
+    "passed": 8,
+    "command": "PYTHONDONTWRITEBYTECODE=1 OPENBLAS_NUM_THREADS=1 PYTHONPATH=src:scripts python -m pytest -q tests/test_alignment_assessment_v1.py tests/test_alignment_assessment_ties_r2.py"
+  },
+  "pdf": {
+    "path": "output/pdf/alignment_assessment_manuscript_v1.pdf",
+    "sha256": "473f95766965f05a6a200e14f83def12eb3db5d68c4879ac0b6bacd370909e84"
+  },
+  "source_markdown": {
+    "path": "manuscripts/alignment_assessment_pilot_v1/manuscript.md",
+    "sha256": "3f3cf61c0974378a2e61efab044adc73d9e56f4c007a63b80bff16f73a252fa0"
+  },
+  "page_png_sha256": {
+    "page-01.png": "95a4736bb37eab96754e664450fdd4378a9763b78bb11de8d4c0a0ac2837c4e1",
+    "page-02.png": "7fa3d68ec707a9fb0033f7a1f145ef15cec40e132207e84beb46a49f6d009651",
+    "page-03.png": "44b3de7dc18042cf01b644d475142cd6e04f60a06e0c795648078cc1dc6be8cd",
+    "page-04.png": "70e20fc7431bf09a9ef3b82ec0776444bb38ef84d36995cedd7efd5df263477e",
+    "page-05.png": "aaa477e99a33fe13196e0547245b687e5c9d7682841ac1b37fdbaf8c9a6908e7",
+    "page-06.png": "20361d39aeb842e8101aea2da86127964521b03f739a56d81cab461d15834519",
+    "page-07.png": "ffd98b54b454c2a68bdf77ecd59f239834a5a550ea1623ac90f0c9255c9dca71",
+    "page-08.png": "02572320636c48f75876c906ce21fea8333c2141297ff039d955bf23ea881ea0",
+    "page-09.png": "0173692e4903c5bb5b7299fe2afa5c31c75d185f6d103d901472d0cfad7758b2",
+    "page-10.png": "bf8df4081186f37debdb9cae5889128fa267a8cb9f233c6e5405760e58b04646"
+  },
+  "scope": "document and numerical QA, not biological validity, exhaustive novelty review, or publication acceptance"
+}

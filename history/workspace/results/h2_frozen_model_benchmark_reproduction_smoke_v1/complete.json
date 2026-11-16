@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "fresh_source_build": [
+    "g++",
+    "-std=c++17",
+    "-O3",
+    "-fno-fast-math",
+    "-ffp-contract=off",
+    "-shared",
+    "-fPIC",
+    "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+    "-o",
+    "<WORKSPACE>/results/h2_frozen_model_benchmark_reproduction_smoke_v1/methods/streaming_core_v1.so"
+  ],
+  "cases": [
+    {
+      "case": "0ab572c10bb10db703dc",
+      "exact_source_rate_final": true,
+      "seconds": 2.388709443999687
+    },
+    {
+      "case": "daabc926b5aa6f414900",
+      "exact_source_rate_final": true,
+      "seconds": 3.9021436699986225
+    },
+    {
+      "case": "248df6368174682b7ab3",
+      "exact_source_rate_final": true,
+      "seconds": 2.290759313000308
+    }
+  ],
+  "full_main_replay": false,
+  "numerical_and_analysis_full_replay": false,
+  "previous_predictions_known": true,
+  "physiological_validation": false
+}

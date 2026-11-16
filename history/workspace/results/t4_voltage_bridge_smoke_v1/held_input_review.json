@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "kind": "post-failure numerical diagnostic",
+  "input_convention": "sample held constant on each half-open 10 ms interval",
+  "solver_dt_s": [
+    0.001,
+    0.0005
+  ],
+  "max_abs_wide_rate_difference": 9.48493338720751e-13,
+  "prior_guard": 1e-08,
+  "historical_solver_modified": false,
+  "physiological_validation": false
+}

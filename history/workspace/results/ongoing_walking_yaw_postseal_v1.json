@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T10:28:27.064936+00:00",
+  "index": {
+    "path": "results/ongoing_walking_yaw_v1/completion_v1/artifact_index.json",
+    "size_bytes": 547806,
+    "sha256": "e2c0402c77361d6916cc36a0d9f7a67a1a5fe78571dde64616b89ae3374c8465"
+  },
+  "checked_files": 2562,
+  "checked_bytes": 24878041202,
+  "checked_after_sealer_exited": true,
+  "original_frontend_graph_parameters_readouts_unchanged": true,
+  "physiological_validation": false
+}

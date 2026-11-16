@@ -1,0 +1,37 @@
+{
+  "utc": "2026-10-25T15:19:53.461327+00:00",
+  "held_out_inputs_not_generated": true,
+  "model_or_algorithm_selection_on_test": false,
+  "files": [
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/readouts/models.json",
+      "size_bytes": 63435,
+      "sha256": "1138e3603b15b4b13c68f6552c95ec16e90aa185270270f2d06f9f0fd74d258c"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/analysis/development_features.json",
+      "size_bytes": 1413637,
+      "sha256": "c8c5efaaad4e16c4d7be148386fa50c66f9c49756fa97c99dc87145f87a21aeb"
+    },
+    {
+      "path": "configs/geometry_grounded_small_yaw_v2.json",
+      "size_bytes": 1598,
+      "sha256": "307311f855198c5c56491c854d419c80365c6bdc504251e24a17ebe1c2489f5f"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/plans.json",
+      "size_bytes": 137843,
+      "sha256": "8c91a1a2d31e34cdcbca21b29871977792b6a12f0a53a8642dd71f883f27c5d2"
+    },
+    {
+      "path": "scripts/analyze_geometry_grounded_small_yaw_v1.py",
+      "size_bytes": 10344,
+      "sha256": "a666938af3ef314a8656328713f358caac3b28c4cb60c7760929498dfca4c930"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    }
+  ]
+}

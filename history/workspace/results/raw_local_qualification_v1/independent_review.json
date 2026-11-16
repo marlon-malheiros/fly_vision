@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "utc": "2026-11-02T03:56:02.469719+00:00",
+  "seconds": 0.4421700480161235,
+  "calibration_episodes": 256,
+  "calibration_group_gates": 6,
+  "numeric_comparisons": 81,
+  "numeric_failed": 0,
+  "score_values_compared": 62696,
+  "maximum_score_error": 2.6645352591003757e-15,
+  "exact_pilot_model_preserved": true,
+  "original_pilot_indexed_files_unchanged": true,
+  "model_refitted": false,
+  "physiological_validation": false
+}

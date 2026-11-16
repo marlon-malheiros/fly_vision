@@ -1,0 +1,12 @@
+{
+  "status": "FAIL",
+  "original_guard": 1e-08,
+  "max_abs_wide_rate_difference": 1.386129099654642e-07,
+  "max_reference_wide_rate": 0.00012765876649770757,
+  "relative_error_vs_peak": 0.0010858080002516188,
+  "saved_max_wide_rate": 0.00012766577486007793,
+  "recomputed_max_wide_rate": 0.00012766577486007793,
+  "fine_solver_dt_s": 0.0005,
+  "coarse_solver_dt_s": 0.001,
+  "reason": "The independent fine-solver comparison exceeded the guard; the preliminary smoke remains a wiring check only."
+}

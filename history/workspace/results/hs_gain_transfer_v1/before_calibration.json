@@ -1,0 +1,152 @@
+{
+  "utc": "2026-11-02T13:31:02.037961+00:00",
+  "frequency_response_values_not_inspected": true,
+  "contrast_responses_already_inspected": true,
+  "files": [
+    {
+      "path": "configs/hs_gain_transfer_v1.json",
+      "size_bytes": 725,
+      "sha256": "0de1b9c8f9bb71dae9d554e27b1b57e72a0ed8cb3606b89c0a377f0a187632fa"
+    },
+    {
+      "path": "docs/HS_GAIN_TRANSFER_PROTOCOL_V1.md",
+      "size_bytes": 9233,
+      "sha256": "ef1b6af93329db1eb1bf211f68c7f3131be20b215ea8e92489633b45639cdbdf"
+    },
+    {
+      "path": "scripts/hs_gain_transfer_v1.py",
+      "size_bytes": 19412,
+      "sha256": "f509e2318e98e6dc61f9625cce615a5b2c465aa2b929a5351f082f2766527b44"
+    },
+    {
+      "path": "scripts/review_hs_gain_transfer_v1.py",
+      "size_bytes": 10802,
+      "sha256": "c6f6141b388fecad5c0150c481ba16ffb07eb866abbb1e2687e81741241e292e"
+    },
+    {
+      "path": "src/male_optic_frontend/hs_gain_transfer_v1.py",
+      "size_bytes": 4867,
+      "sha256": "a21d5f21c066bf91190476e053f2831a4590771d3e5a273088c1f4d51ce110b1"
+    },
+    {
+      "path": "tests/test_hs_gain_transfer_v1.py",
+      "size_bytes": 2635,
+      "sha256": "eeaf72fad917f2ffdcd5a8ad00017af7ab8432fe2e865fce25da9903dd0773c2"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_v1.py",
+      "size_bytes": 6523,
+      "sha256": "6319db9e70cb1be83413dd6e95c1223209eb8674098eca5927580ee0cb701030"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_core_v1.cpp",
+      "size_bytes": 3242,
+      "sha256": "b82dd104ffb75d1d5c1e1fc8d06461de8f244124e51b4c302e5c3de5b4d6cf9e"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/source.zip",
+      "size_bytes": 156151246,
+      "sha256": "9483c77dfe49b04d794b7cb17e0521c4acef937990cf41d26d252fafd4c71e38"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_correction_r2/corrected_recording_values.csv",
+      "size_bytes": 5722,
+      "sha256": "ead08375678035bf760cc279ee354b699083e3c4af22685eb0a3d48922ceb3ae"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_correction_r2/target.json",
+      "size_bytes": 4003,
+      "sha256": "f5048b59ae1ac646ee674b131a758a480afdb79d4e742681467ecca499915830"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/completion_v1/artifact_index.json",
+      "size_bytes": 115044,
+      "sha256": "00048226c7c7eff91d431f4ff173015d972dbd8c1fce5c22ae1698382181a04c"
+    },
+    {
+      "path": "results/raw_local_calibration_repair_v1/model.json",
+      "size_bytes": 2802,
+      "sha256": "8d2e9a7f091043a9b5618d5c421f36b3494169614a85f11df20a85c273584b1b"
+    },
+    {
+      "path": "results/raw_local_calibration_repair_v1/cutoff.json",
+      "size_bytes": 15327,
+      "sha256": "d2a40a9cc5e2de05d0720a974f9233e8031bc8728a7546572bb32c4862a6311b"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/methods/circuit.so",
+      "size_bytes": 24592,
+      "sha256": "e09085e5ed9bcc1f6277504f9e67e99eab4da651f3765e7e798cb27f09181d13"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph.json",
+      "size_bytes": 1916,
+      "sha256": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz",
+      "size_bytes": 64837,
+      "sha256": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz",
+      "size_bytes": 716856,
+      "sha256": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1/sources/make_group_plots.m",
+      "size_bytes": 11004,
+      "sha256": "75d9cd27c8739b84c2687fc6cdcb9de29b5240558060e16fd5cc81c6b3959586"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1/sources/make_group_plots_norm.m",
+      "size_bytes": 14555,
+      "sha256": "f5b8c352c587ced4c019598acfff4330a971cc7fa1dc370191a21c9acafdfcfe"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1/sources/vel_tuning_one_recording.m",
+      "size_bytes": 10174,
+      "sha256": "87251b9e0942bcb965db12d6ec4b6aea3c4620aa4e3d5b0b6274c867e47e7228"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1/sources/all_speed_spfreq_param_vel_tuning.m",
+      "size_bytes": 836,
+      "sha256": "f29cd09b3a71f67f2996f77864c0c00778dbc79aa5bbf9d36d6140e6c4fa7939"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1/sources/acquisition.json",
+      "size_bytes": 1457,
+      "sha256": "8813572e95b3d76374cfa01fedad87feb4a43764d38e7b7f291c1832336f12fb"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1/plans.json",
+      "size_bytes": 18605,
+      "sha256": "8981b0757fa73c88fd18d5eb69dd748e3f4b4e5b7f65993128667ba9d57d8d9d"
+    }
+  ]
+}

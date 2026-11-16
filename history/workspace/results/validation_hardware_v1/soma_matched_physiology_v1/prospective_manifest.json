@@ -1,0 +1,128 @@
+{
+  "frozen_utc": "2026-10-21T12:02:08.559478+00:00",
+  "files": [
+    {
+      "path": "scripts/run_soma_matched_physiology_v1.py",
+      "size_bytes": 12557,
+      "sha256": "4a034d85bab7a34dac9dfe6092181647989df253ecff30b5f4df5de4e495d817"
+    },
+    {
+      "path": "scripts/analyze_soma_matched_physiology_v1.py",
+      "size_bytes": 12022,
+      "sha256": "be1f2965be745c1d79a48411a67ff4fc2c4bff08745e0a2ba489e4d1c0961b94"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "tests/test_physiology_observation_v1.py",
+      "size_bytes": 1272,
+      "sha256": "8f3eec79fecf69147d79567d56ba18050ff6ddd67cd2cd317f2f3ba7e57cbc22"
+    },
+    {
+      "path": "docs/SOMA_MATCHED_PHYSIOLOGY_PROTOCOL_V1.md",
+      "size_bytes": 5924,
+      "sha256": "f775fe961535fada3b6a61f4d36528595296d3f9aaa8182f51d3e92f6a38d9ce"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/methods/anatomical_batch_solver_v1_strict.so",
+      "size_bytes": 21368,
+      "sha256": "13aa60021f4fe5f864e0b89d852a4bd4dbd5e8f5b713793afa8dc0262eaf5a81"
+    },
+    {
+      "path": "results/validation_hardware_v1/preflight/physiology_observation_tests.log",
+      "size_bytes": 98,
+      "sha256": "e6b15272559f05ba2345b5a4012f6994a4d3e464d8ea6c091a728ddf3c02489e"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/config.json",
+      "size_bytes": 5817,
+      "sha256": "64fbca6c6879d284da4ff80841a03fedf0c25c7dd8190aa727c586b5a3b4fdf6"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/plans.json",
+      "size_bytes": 430231,
+      "sha256": "0f0cc72d65926d951b4fbadb384cf14fabfc90b72fc6fa9f8da8495969cac8b4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/metadata_exclusions.json",
+      "size_bytes": 165779,
+      "sha256": "cc4eaa996d0823fc7ac26b61e0094fa115862105f1e60ddee77131995bc8e2f3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/split_audit.json",
+      "size_bytes": 1238,
+      "sha256": "b5d9cc1b3d0361432435629637e6929bbf17421766c63d5fcb8f044a94f87c98"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/physiology_inputs/erginkaya_dot_yaw.npz",
+      "size_bytes": 1129582,
+      "sha256": "d185e774ea38c5bd245439922050caf527ea58442fa9c454b659383a4649ac11"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/physiology_inputs/erginkaya_dot_progressive.npz",
+      "size_bytes": 11779678,
+      "sha256": "2211f2e1ab59fa01b426d796cb9255af5c1ef9c6909fc3d53738b8a73593d370"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/physiology_inputs/erginkaya_dot_yaw_right_flipped.npz",
+      "size_bytes": 1374991,
+      "sha256": "79c159a062dd94a8c8f338e6e1aaa206d1953ffde1c83bf66770559cce17d7b3"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/graph.json",
+      "size_bytes": 1376,
+      "sha256": "e4edb43cca309d9ad28717de4a2eb3de8047062978f0e5b9dbf84f624804c9c1"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/graph_arrays.npz",
+      "size_bytes": 64772,
+      "sha256": "1f59dedc65c4eb8d2f7884dc4df17284611f185ef05299a42a130ca3d44fde66"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/chemical_weights.npz",
+      "size_bytes": 638376,
+      "sha256": "0dacd787df2d1e43c9e6b351b7e287052d3ebcf489e5732a65ac199fd01b702e"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/gap_weights.npz",
+      "size_bytes": 1042,
+      "sha256": "8dbe77c9f81a583e2aeea53601d170da73b51502f24bb30dde0878730d95df29"
+    },
+    {
+      "path": "src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/code/scripts/matlab/PaperFiguresImaging.m",
+      "sha256": "19983ab9378bce5ec975be07fe11dfd08ae246c52dd4213338b5e6817b9f7d17",
+      "size_bytes": 375695
+    }
+  ],
+  "physiological_response_outcomes_inspected": false,
+  "new_model_outputs_inspected": false,
+  "scope": "conditional_recording_prediction_not_full_image_to_calcium_validation"
+}

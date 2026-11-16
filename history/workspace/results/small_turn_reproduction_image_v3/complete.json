@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "kind": "image",
+  "source_built": [
+    [
+      "g++",
+      "-std=c++17",
+      "-O3",
+      "-fno-fast-math",
+      "-ffp-contract=off",
+      "-shared",
+      "-fPIC",
+      "<WORKSPACE>/src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "-o",
+      "<WORKSPACE>/results/small_turn_reproduction_image_v3/methods/renderer.so"
+    ]
+  ],
+  "cases": [
+    {
+      "key": "c00_v11_y+0",
+      "profile": "primary",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "key": "u00_v16.5_y+2",
+      "profile": "primary",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "profile": "spatial",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "profile": "temporal",
+      "all_retained_arrays_exact": true
+    }
+  ],
+  "all_primary_execution": false,
+  "analysis_or_independent_review_repeated": false,
+  "seconds": 103.95952175199636,
+  "physiological_validation": false
+}

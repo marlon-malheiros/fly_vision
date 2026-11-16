@@ -1,0 +1,9 @@
+{
+  "status": "COMPLETE",
+  "completed_utc": "2026-10-15T19:12:26.392187+00:00",
+  "study": "virtual_walking_openloop_v1",
+  "scientific_status": "EXPLORATORY_OPEN_LOOP_PREDICTIONS",
+  "parameters_refitted": false,
+  "physiological_validation": false,
+  "closed_loop": false
+}

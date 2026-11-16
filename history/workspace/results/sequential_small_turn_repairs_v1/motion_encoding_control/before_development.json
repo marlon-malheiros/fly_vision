@@ -1,0 +1,34 @@
+{
+  "utc": "2026-10-27T00:10:29.293763+00:00",
+  "original_test_images_partly_generated": true,
+  "original_test_classifications_not_scored": true,
+  "control_development_responses_not_computed": true,
+  "new_weight_or_gain_fits": 0,
+  "files": [
+    {
+      "path": "scripts/matched_motion_encoding_control_v1.py",
+      "size_bytes": 8810,
+      "sha256": "0667274db23b9c61bc3e2cc7f6ad4cb3df5cd7808456babe9a99e148cc61c968"
+    },
+    {
+      "path": "docs/MATCHED_MOTION_ENCODING_CONTROL_PROTOCOL_V1.md",
+      "size_bytes": 3022,
+      "sha256": "893e111e2056381f298fc873241a3a3ae444f8ba6d489bba39400c0c8cc065c2"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/calibration/frontend.json",
+      "size_bytes": 1856,
+      "sha256": "3d5c2eb25f00ef2df840ce57af1755f8ea6af194dedb4086a854726266f392f6"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/before_test.json",
+      "size_bytes": 7698,
+      "sha256": "0756a8db49cdd36f281fb7b14259b59da71e79b86b0574aeed1837453cea8485"
+    },
+    {
+      "path": "src/male_optic_frontend/sequential_repairs_v1.py",
+      "size_bytes": 7267,
+      "sha256": "09c0e546ecbcba1958cdb2bcae6357e27b665a8395f70456e6b1ed68c82f8b85"
+    }
+  ]
+}

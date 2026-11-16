@@ -1,0 +1,247 @@
+{
+  "status": "DECLARED_CUDA_NUMERICAL_PREFLIGHT_PASS",
+  "completed_utc": "2026-10-21T13:49:41.566448+00:00",
+  "solver_dt": 0.001,
+  "maximum_activation_error": 4.440892098500626e-16,
+  "cases": [
+    {
+      "case": "s01_v16.5_y+0",
+      "graph_family": "original",
+      "variant": "intact",
+      "samples": 201,
+      "maximum_state_error": 6.938893903907228e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.03612759907029537,
+      "sealed_rate_error": 2.6020852139652106e-18,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 13.455899501423119,
+      "gpu_advance_max_ms": 14.409562994842418
+    },
+    {
+      "case": "s01_v16.5_y+2",
+      "graph_family": "original",
+      "variant": "intact",
+      "samples": 201,
+      "maximum_state_error": 3.469446951953614e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.034931374915360615,
+      "sealed_rate_error": 2.6020852139652106e-18,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 12.988568501896225,
+      "gpu_advance_max_ms": 13.989529994432814
+    },
+    {
+      "case": "s01_v16.5_y-2",
+      "graph_family": "original",
+      "variant": "intact",
+      "samples": 201,
+      "maximum_state_error": 6.938893903907228e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.037127785892557844,
+      "sealed_rate_error": 2.6020852139652106e-18,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 12.815353999030776,
+      "gpu_advance_max_ms": 14.326666998385917
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "graph_family": "original",
+      "variant": "intact",
+      "samples": 201,
+      "maximum_state_error": 3.469446951953614e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.020089190651249686,
+      "sealed_rate_error": 3.469446951953614e-18,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 12.750904497806914,
+      "gpu_advance_max_ms": 14.024991003680043
+    },
+    {
+      "case": "original_bips_silence",
+      "graph_family": "original",
+      "variant": "bips_silence",
+      "samples": 201,
+      "maximum_state_error": 3.469446951953614e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.03493137641102273,
+      "sealed_rate_error": null,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 13.480790501489537,
+      "gpu_advance_max_ms": 14.684674999443814
+    },
+    {
+      "case": "original_bips_out_all",
+      "graph_family": "original",
+      "variant": "bips_out_all",
+      "samples": 201,
+      "maximum_state_error": 3.469446951953614e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.03493137641102273,
+      "sealed_rate_error": null,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 12.841789499361767,
+      "gpu_advance_max_ms": 14.419279003050178
+    },
+    {
+      "case": "expanded_intact",
+      "graph_family": "expanded",
+      "variant": "intact",
+      "samples": 201,
+      "maximum_state_error": 3.469446951953614e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.034931371425618425,
+      "sealed_rate_error": null,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3390058,
+      "gpu_advance_median_ms": 13.314786501723574,
+      "gpu_advance_max_ms": 14.457202996709384
+    },
+    {
+      "case": "expanded_new_families_silence",
+      "graph_family": "expanded",
+      "variant": "new_families_silence",
+      "samples": 201,
+      "maximum_state_error": 6.938893903907228e-18,
+      "maximum_rate_error": 8.673617379884035e-19,
+      "maximum_absolute_state": 0.03493137207855875,
+      "sealed_rate_error": null,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3390058,
+      "gpu_advance_median_ms": 13.761033998889616,
+      "gpu_advance_max_ms": 15.421140000398736
+    },
+    {
+      "case": "synthetic_strong_input",
+      "graph_family": "original",
+      "variant": "intact",
+      "samples": 31,
+      "maximum_state_error": 2.220446049250313e-16,
+      "maximum_rate_error": 1.1102230246251565e-16,
+      "maximum_absolute_state": 0.7981838025983361,
+      "sealed_rate_error": null,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 14.787113501370186,
+      "gpu_advance_max_ms": 15.11265299632214
+    },
+    {
+      "case": "synthetic_large_initial_state",
+      "graph_family": "original",
+      "variant": "bips_silence",
+      "samples": 31,
+      "maximum_state_error": 3.552713678800501e-15,
+      "maximum_rate_error": 1.1102230246251565e-16,
+      "maximum_absolute_state": 30.0,
+      "sealed_rate_error": null,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": null,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 15.031463499326492,
+      "gpu_advance_max_ms": 21.775588000309654
+    },
+    {
+      "case": "python_reference_random_input",
+      "graph_family": "original",
+      "variant": "intact",
+      "samples": 7,
+      "maximum_state_error": 1.1102230246251565e-16,
+      "maximum_rate_error": 2.7755575615628914e-17,
+      "maximum_absolute_state": 0.36819905369502126,
+      "sealed_rate_error": null,
+      "device": {
+        "ordinal": 0,
+        "name": "NVIDIA GeForce RTX 2050",
+        "total_memory_bytes": 4007919616,
+        "driver_api_version": 13040
+      },
+      "reset_error": 0.0,
+      "ptx_sha256": "ac166fc139f47809e004bb66ead222705be247ba71441d4dfcb0bfcb0aa8bc25",
+      "model_device_allocation_bytes": 3384253,
+      "gpu_advance_median_ms": 14.990313502494246,
+      "gpu_advance_max_ms": 15.294358003302477
+    }
+  ],
+  "python_state_error": 1.1102230246251565e-16,
+  "python_rate_error": 2.7755575615628914e-17,
+  "guarded_invalid_inputs": true,
+  "reset_multiple_context_and_electrical_rejection_pass": true,
+  "full_deployment_equivalence_established": false,
+  "physiological_validation_established": false,
+  "physical_camera_tested": false,
+  "method": "CPU_CSR_FP64_reference_plus_short_independent_Python_RK4"
+}

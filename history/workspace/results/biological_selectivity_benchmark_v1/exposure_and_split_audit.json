@@ -1,0 +1,45 @@
+{
+  "sessions": 79,
+  "flies": 63,
+  "fresh_validation_animals": 0,
+  "inherited_whole_fly_splits": true,
+  "primary_existing_test_outcomes_previously_inspected": true,
+  "unilateral_conditions_excluded_from_observation_fit": true,
+  "unilateral_literature_previously_inspected": true,
+  "response_arrays_loaded_during_setup": false,
+  "speed_metadata": "45 audited sessions contain pure yaw only, no YawRightFlipped counterpart",
+  "counts": {
+    "DNp15|GC6f|dendrite|WT": {
+      "calibration": 4,
+      "validation": 5
+    },
+    "DNp15|GC7f|dendrite|native": {
+      "calibration": 4,
+      "validation": 1
+    },
+    "H2|sytGC7f|axon|native": {
+      "calibration": 6,
+      "validation": 2
+    },
+    "HS|GC7f|axon|native": {
+      "calibration": 1,
+      "validation": 3
+    },
+    "HS|sytGC7f|axon|native": {
+      "calibration": 6,
+      "validation": 3
+    },
+    "bIPS|GC6f|axon|WT": {
+      "calibration": 9,
+      "validation": 9
+    },
+    "bIPS|GC7f|axon|native": {
+      "calibration": 1,
+      "validation": 1
+    },
+    "bIPS|sytGC7f|axon|native": {
+      "calibration": 4,
+      "validation": 4
+    }
+  }
+}

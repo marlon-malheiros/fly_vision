@@ -1,0 +1,147 @@
+{
+  "status": "PASS",
+  "date": "2026-10-24",
+  "scope": "Post-protocol geometric explanation; no criterion or parameter change",
+  "rows": [
+    {
+      "side": "L",
+      "pitch": 1.0,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.5,
+        0.5
+      ],
+      "equal_corner_average_bit_identical": true
+    },
+    {
+      "side": "L",
+      "pitch": 0.5,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.25,
+        0.25
+      ],
+      "equal_corner_average_bit_identical": true
+    },
+    {
+      "side": "L",
+      "pitch": 0.25,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.125,
+        0.125
+      ],
+      "equal_corner_average_bit_identical": true
+    },
+    {
+      "side": "L",
+      "pitch": 0.125,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.0625,
+        0.0625
+      ],
+      "equal_corner_average_bit_identical": true
+    },
+    {
+      "side": "R",
+      "pitch": 1.0,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.5,
+        0.5
+      ],
+      "equal_corner_average_bit_identical": true
+    },
+    {
+      "side": "R",
+      "pitch": 0.5,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.25,
+        0.25
+      ],
+      "equal_corner_average_bit_identical": true
+    },
+    {
+      "side": "R",
+      "pitch": 0.25,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.125,
+        0.125
+      ],
+      "equal_corner_average_bit_identical": true
+    },
+    {
+      "side": "R",
+      "pitch": 0.125,
+      "receptor_points": 29929,
+      "unique_horizontal_weights": [
+        0.5
+      ],
+      "unique_vertical_weights": [
+        0.5
+      ],
+      "each_corner_weight": 0.25,
+      "corner_angular_offsets_deg": [
+        -0.0625,
+        0.0625
+      ],
+      "equal_corner_average_bit_identical": true
+    }
+  ],
+  "interpretation": "At this integer-angle receptor grid, dyadic-pitch bilinear interpolation equals averaging four corner point samples, with float32 output rounding. Refining pitch shrinks this implicit angular footprint toward the direct point sample.",
+  "physical_aperture_measured": false,
+  "optical_validation": false,
+  "source_sha256": "e514d7529baaab659b5efb34812722c5ca1bfeffe07a4e7caae07572d3e6c704"
+}

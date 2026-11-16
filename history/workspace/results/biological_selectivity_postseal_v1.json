@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T21:09:20.605905+00:00",
+  "verified_after_sealer_exited": true,
+  "index": {
+    "path": "results/biological_selectivity_benchmark_v1/completion_v1/artifact_index.json",
+    "size_bytes": 204225,
+    "sha256": "e893d4f2d2e681539fccb3703fbe3306250791a9700a09d90d323e30fc5d9c8d"
+  },
+  "files": 893,
+  "bytes": 1068646050,
+  "frozen_frontend_graph_parameters_and_observation_models_unchanged": true
+}

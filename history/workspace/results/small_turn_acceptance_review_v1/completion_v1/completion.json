@@ -1,0 +1,9 @@
+{
+  "status": "COMPLETE_RETROSPECTIVE_ACCEPTANCE_AUDIT",
+  "date": "2026-10-26",
+  "source_commit": "56dc7dc5d66afc2e4b17154cf0574fdbd08d5265",
+  "new_simulations": 0,
+  "condition_summaries": 120,
+  "old_criteria_changed": false,
+  "biological_validation": false
+}

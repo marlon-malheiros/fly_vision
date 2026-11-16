@@ -1,0 +1,112 @@
+{
+  "status": "PASS",
+  "date": "2026-10-24",
+  "documents": [
+    {
+      "path": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "size_bytes": 11247,
+      "sha256": "0d67288f7960952874819d46e6fca16a28c286cbaabd439d0be8d0c4b9d4de3e"
+    },
+    {
+      "path": "docs/IMAGE_SAMPLING_DIAGNOSTIC_PROTOCOL_V1.md",
+      "size_bytes": 5438,
+      "sha256": "2bdbbe4915cef6a4cc19060878a2caca01c9fbe314bc6ded9d7736741981a222"
+    },
+    {
+      "path": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPRODUCTION_V1.md",
+      "size_bytes": 3251,
+      "sha256": "5818ca7b2dcca2e108cdc0c63da64ccc33120c3b200c862439cf167c70e8e26d"
+    }
+  ],
+  "profile_rows_checked": 4,
+  "local_links_checked": 15,
+  "links": [
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "IMAGE_SAMPLING_DIAGNOSTIC_PROTOCOL_V1.md"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../configs/image_sampling_diagnostic_v1.json"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/before_main.json"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/execution_complete.json"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/sampler_footprint_v1.json"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/analysis_v1/comparisons.csv"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/analysis_v1/cell_responses.csv"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/presentation_v1/stages_against_direct.png"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/analysis_v1/complete.json"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/analysis_v1/score_comparisons.csv"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/decoder_explanation_v1/provenance.json"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/analysis_v1/diagnostic_counts.csv"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/presentation_v1/dnp15_frozen_scores.png"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "../results/image_sampling_diagnostic_v1/independent_review_v1/complete.json"
+    },
+    {
+      "document": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "target": "IMAGE_SAMPLING_DIAGNOSTIC_REPRODUCTION_V1.md"
+    }
+  ],
+  "explanatory_score_bounds_checked": 1176,
+  "categorical_decisions_certified_by_sufficient_bound": 881,
+  "horizon_fraction_of_grid": 0.06358381502890173,
+  "median_finest_image_error_fraction": 0.699302903142633,
+  "visual_review": {
+    "figures": 2,
+    "scope": "Both PNGs visually inspected: titles, axes, legends, all rooms/speeds, tolerance/cutoff lines and footer labels readable"
+  },
+  "image_files": [
+    {
+      "path": "results/image_sampling_diagnostic_v1/presentation_v1/dnp15_frozen_scores.png",
+      "size_bytes": 267250,
+      "sha256": "08900aea73fb84a5b3b43b304d3e09a88f04235a0f434d7b3c046bbbc44d9207"
+    },
+    {
+      "path": "results/image_sampling_diagnostic_v1/presentation_v1/stages_against_direct.png",
+      "size_bytes": 376008,
+      "sha256": "87145ec1d452ffb92ca4cbfe7edb7c33a8fbbc99d7ca94d833b934b5826ab07c"
+    }
+  ],
+  "source": {
+    "path": "scripts/review_sampling_report_v1.py",
+    "size_bytes": 4743,
+    "sha256": "b373ec113237a1d81c51def8beb066149b57d8b5cdedc950d225ce24405d8513"
+  },
+  "new_acceptance_rule": false,
+  "biological_validation": false
+}

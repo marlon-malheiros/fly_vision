@@ -1,0 +1,42 @@
+{
+  "status": "PASS",
+  "primary_cases": 704,
+  "output_and_mean_error": 2.168404344971009e-18,
+  "arithmetic_rows": 34048,
+  "independent_elementwise_source_checks": [
+    {
+      "key": "s07_v16.5_y+0",
+      "model": "baseline",
+      "error": 2.0816681711721685e-17
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "model": "t4_field",
+      "error": 1.1709383462843448e-17
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "model": "t4t5_field_hypothesis",
+      "error": 1.3660947373317356e-17
+    },
+    {
+      "key": "s12_v16.5_y-2",
+      "model": "baseline",
+      "error": 1.0408340855860843e-17
+    },
+    {
+      "key": "s12_v16.5_y-2",
+      "model": "t4_field",
+      "error": 1.5178830414797062e-17
+    },
+    {
+      "key": "s12_v16.5_y-2",
+      "model": "t4t5_field_hypothesis",
+      "error": 1.734723475976807e-17
+    }
+  ],
+  "failed_approximation_gates_preserved": true,
+  "original_graph_and_parameters_unchanged": true,
+  "old_results_used_retrospectively": true,
+  "biological_validation": false
+}

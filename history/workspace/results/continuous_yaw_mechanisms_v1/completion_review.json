@@ -1,0 +1,786 @@
+{
+  "status": "PASS",
+  "main_visual_inputs": 520,
+  "finer_time_inputs": 3,
+  "main_network_trajectories": 1352,
+  "supplementary_solver_trajectories": 12,
+  "total_study_trajectories": 1364,
+  "source_built_reproduction_smoke": true,
+  "smoke_npz_arrays_bit_identical": 23,
+  "smoke_retina_bit_identical": true,
+  "full_second_520_input_sweep": false,
+  "core_table": [
+    {
+      "world": "s07_A",
+      "speed": "0.0",
+      "yaw_gain": "0.00010336676795931032",
+      "straight_difference": "0.0",
+      "yaw_equivalent_offset": "0.0"
+    },
+    {
+      "world": "s07_A",
+      "speed": "5.5",
+      "yaw_gain": "0.00012644791424213793",
+      "straight_difference": "-0.00011709098386820569",
+      "yaw_equivalent_offset": "-0.9260017025190748"
+    },
+    {
+      "world": "s07_A",
+      "speed": "11.0",
+      "yaw_gain": "0.00010673707750077005",
+      "straight_difference": "-0.0002219409741132714",
+      "yaw_equivalent_offset": "-2.0793240672311852"
+    },
+    {
+      "world": "s07_A",
+      "speed": "16.5",
+      "yaw_gain": "9.021050721637802e-05",
+      "straight_difference": "-0.00032295091724934876",
+      "yaw_equivalent_offset": "-3.5799700856877115"
+    },
+    {
+      "world": "s07_S",
+      "speed": "0.0",
+      "yaw_gain": "5.8485460770149025e-05",
+      "straight_difference": "0.0",
+      "yaw_equivalent_offset": "0.0"
+    },
+    {
+      "world": "s07_S",
+      "speed": "5.5",
+      "yaw_gain": "7.35904380510383e-05",
+      "straight_difference": "-3.794662798223286e-05",
+      "yaw_equivalent_offset": "-0.5156461761501562"
+    },
+    {
+      "world": "s07_S",
+      "speed": "11.0",
+      "yaw_gain": "6.396316857353718e-05",
+      "straight_difference": "-6.347573972252717e-05",
+      "yaw_equivalent_offset": "-0.9923795386957789"
+    },
+    {
+      "world": "s07_S",
+      "speed": "16.5",
+      "yaw_gain": "5.330194240709443e-05",
+      "straight_difference": "-8.159040993056083e-05",
+      "yaw_equivalent_offset": "-1.5307211378417092"
+    },
+    {
+      "world": "s12_A",
+      "speed": "0.0",
+      "yaw_gain": "9.774467833584247e-05",
+      "straight_difference": "0.0",
+      "yaw_equivalent_offset": "0.0"
+    },
+    {
+      "world": "s12_A",
+      "speed": "5.5",
+      "yaw_gain": "0.00012535404829129207",
+      "straight_difference": "0.00011291478849676163",
+      "yaw_equivalent_offset": "0.9007669878708292"
+    },
+    {
+      "world": "s12_A",
+      "speed": "11.0",
+      "yaw_gain": "0.00011257327694978535",
+      "straight_difference": "0.0002047442523953044",
+      "yaw_equivalent_offset": "1.81876425687273"
+    },
+    {
+      "world": "s12_A",
+      "speed": "16.5",
+      "yaw_gain": "9.437459251117282e-05",
+      "straight_difference": "0.0002700759103870093",
+      "yaw_equivalent_offset": "2.861743857119548"
+    },
+    {
+      "world": "s12_S",
+      "speed": "0.0",
+      "yaw_gain": "3.502051147830161e-05",
+      "straight_difference": "0.0",
+      "yaw_equivalent_offset": "0.0"
+    },
+    {
+      "world": "s12_S",
+      "speed": "5.5",
+      "yaw_gain": "4.387342666145247e-05",
+      "straight_difference": "-2.103400485294983e-05",
+      "yaw_equivalent_offset": "-0.47942470997895564"
+    },
+    {
+      "world": "s12_S",
+      "speed": "11.0",
+      "yaw_gain": "4.040393439935952e-05",
+      "straight_difference": "-3.421439037501402e-05",
+      "yaw_equivalent_offset": "-0.8468083834814953"
+    },
+    {
+      "world": "s12_S",
+      "speed": "16.5",
+      "yaw_gain": "3.8145285466610076e-05",
+      "straight_difference": "-4.472247102510599e-05",
+      "yaw_equivalent_offset": "-1.1724245992143159"
+    }
+  ],
+  "local_links": [
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "docs/CONTINUOUS_YAW_MECHANISMS_PROTOCOL_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "docs/CONTINUOUS_YAW_MECHANISMS_REPRODUCTION_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "docs/CONTINUOUS_YAW_CONTROL_VALIDATION_ADDENDUM_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/core_analysis/yaw_gains.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/core_analysis"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/core_analysis/symmetry.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/core_analysis/neural_parity.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/control_analysis/probe_transfer.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/control_analysis/normalization_means.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/report_tables"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/held_out/summary.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/held_out/predictions.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/readouts/before_held_out.json"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/independent_review_v2/complete.json"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/independent_review_v2/counterfactual_solver_checks.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "docs/CONTINUOUS_YAW_VERIFICATION_CORRECTION_V2.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_independent_review_v1.log"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/presentation_v2/controlled_retinal_images.png"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/presentation_v2/yaw_gain_and_straight_bias.png"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/presentation_v2/symmetric_input_stages.png"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/presentation_v2/normalized_probe_transfer.png"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/presentation_v2/normalization_control.png"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/presentation_v2/dnp15_time_courses.png"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/presentation_v2/fresh_readout_comparison.png"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "target": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/physiology_audit/primary_sessions.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/physiology_audit/primary_metadata_fields.json"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/physiology_audit/source_snapshot"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/physiology_audit/benchmark_gates.csv"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/physiology_audit/benchmark_specification.json"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/physiology_audit/complete.json"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPRODUCTION_V1.md",
+      "target": "docs/CONTINUOUS_YAW_CONTROL_VALIDATION_ADDENDUM_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPRODUCTION_V1.md",
+      "target": "docs/CONTINUOUS_YAW_VERIFICATION_CORRECTION_V2.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPRODUCTION_V1.md",
+      "target": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_MECHANISMS_REPRODUCTION_V1.md",
+      "target": "docs/CONTINUOUS_YAW_MECHANISMS_PROTOCOL_V1.md"
+    },
+    {
+      "document": "docs/CONTINUOUS_YAW_VERIFICATION_CORRECTION_V2.md",
+      "target": "results/continuous_yaw_mechanisms_v1/flow_reprojection_precheck_v1.json"
+    },
+    {
+      "document": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/stimulus_search_followup_v1/supplements/41593_2025_1948_MOESM3_ESM.mp4"
+    },
+    {
+      "document": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/stimulus_search_followup_v1/supplements/41593_2025_1948_MOESM4_ESM.mp4"
+    },
+    {
+      "document": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/stimulus_search_followup_v1/supplements/41593_2025_1948_MOESM5_ESM.mp4"
+    },
+    {
+      "document": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/stimulus_search_followup_v1/supplements/41593_2025_1948_MOESM1_ESM.pdf"
+    },
+    {
+      "document": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/stimulus_search_followup_v1/retrieval.json"
+    },
+    {
+      "document": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "target": "results/continuous_yaw_mechanisms_v1/stimulus_search_followup_v1/history_extension/complete.json"
+    },
+    {
+      "document": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "target": "results/published_circuit_comparison_v1/audit/zenodo_archive_inventory.json"
+    }
+  ],
+  "figure_pairs": 7,
+  "visual_inspection_record_required": true,
+  "original_temporal_gate_met": true,
+  "supplementary_control_solver_gate_met": true,
+  "held_out_scene_summary": [
+    {
+      "copy": "intact",
+      "family": "dnp15_means",
+      "speed": "5.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.0978525705876176",
+      "yaw_mae": "0.9119793081113517",
+      "straight_score_rms": "0.9857981743640297",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "0.7578125"
+    },
+    {
+      "copy": "intact",
+      "family": "dnp15_means",
+      "speed": "5.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.0978525705876176",
+      "yaw_mae": "0.9119793081113517",
+      "straight_score_rms": "0.9857981743640297",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "1.0"
+    },
+    {
+      "copy": "intact",
+      "family": "dnp15_means",
+      "speed": "11.0",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.281139322307578",
+      "yaw_mae": "1.912874548486662",
+      "straight_score_rms": "2.0689081410365215",
+      "raw_sign_accuracy": "0.75",
+      "scene_auroc": "0.5703125"
+    },
+    {
+      "copy": "intact",
+      "family": "dnp15_means",
+      "speed": "11.0",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.281139322307578",
+      "yaw_mae": "1.912874548486662",
+      "straight_score_rms": "2.0689081410365215",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "0.765625"
+    },
+    {
+      "copy": "intact",
+      "family": "dnp15_means",
+      "speed": "16.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.627176794581631",
+      "yaw_mae": "2.184945371713492",
+      "straight_score_rms": "2.1170938212780284",
+      "raw_sign_accuracy": "0.625",
+      "scene_auroc": "0.53125"
+    },
+    {
+      "copy": "intact",
+      "family": "dnp15_means",
+      "speed": "16.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.627176794581631",
+      "yaw_mae": "2.184945371713492",
+      "straight_score_rms": "2.1170938212780284",
+      "raw_sign_accuracy": "0.875",
+      "scene_auroc": "0.65625"
+    },
+    {
+      "copy": "intact",
+      "family": "all_means",
+      "speed": "5.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.3264221099361586",
+      "yaw_mae": "1.125150660550229",
+      "straight_score_rms": "1.15994649442109",
+      "raw_sign_accuracy": "0.9375",
+      "scene_auroc": "0.6640625"
+    },
+    {
+      "copy": "intact",
+      "family": "all_means",
+      "speed": "5.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.3264221099361586",
+      "yaw_mae": "1.125150660550229",
+      "straight_score_rms": "1.15994649442109",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "1.0"
+    },
+    {
+      "copy": "intact",
+      "family": "all_means",
+      "speed": "11.0",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.2369676061673447",
+      "yaw_mae": "1.7573230587948891",
+      "straight_score_rms": "2.0758218013282375",
+      "raw_sign_accuracy": "0.8125",
+      "scene_auroc": "0.578125"
+    },
+    {
+      "copy": "intact",
+      "family": "all_means",
+      "speed": "11.0",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.2369676061673447",
+      "yaw_mae": "1.7573230587948891",
+      "straight_score_rms": "2.0758218013282375",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "0.8203125"
+    },
+    {
+      "copy": "intact",
+      "family": "all_means",
+      "speed": "16.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "3.3156916874820554",
+      "yaw_mae": "2.652039424528246",
+      "straight_score_rms": "3.1120957075430615",
+      "raw_sign_accuracy": "0.625",
+      "scene_auroc": "0.546875"
+    },
+    {
+      "copy": "intact",
+      "family": "all_means",
+      "speed": "16.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "3.3156916874820554",
+      "yaw_mae": "2.652039424528246",
+      "straight_score_rms": "3.1120957075430615",
+      "raw_sign_accuracy": "0.875",
+      "scene_auroc": "0.6875"
+    },
+    {
+      "copy": "intact",
+      "family": "means_and_slopes",
+      "speed": "5.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.3576397006268113",
+      "yaw_mae": "1.0986148220224041",
+      "straight_score_rms": "1.188327081407972",
+      "raw_sign_accuracy": "0.875",
+      "scene_auroc": "0.703125"
+    },
+    {
+      "copy": "intact",
+      "family": "means_and_slopes",
+      "speed": "5.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.3576397006268113",
+      "yaw_mae": "1.0986148220224041",
+      "straight_score_rms": "1.188327081407972",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "1.0"
+    },
+    {
+      "copy": "intact",
+      "family": "means_and_slopes",
+      "speed": "11.0",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.9362269960608494",
+      "yaw_mae": "2.5620427901314473",
+      "straight_score_rms": "2.784726929851621",
+      "raw_sign_accuracy": "0.6875",
+      "scene_auroc": "0.4765625"
+    },
+    {
+      "copy": "intact",
+      "family": "means_and_slopes",
+      "speed": "11.0",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.9362269960608494",
+      "yaw_mae": "2.5620427901314473",
+      "straight_score_rms": "2.784726929851621",
+      "raw_sign_accuracy": "0.875",
+      "scene_auroc": "0.65625"
+    },
+    {
+      "copy": "intact",
+      "family": "means_and_slopes",
+      "speed": "16.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "3.582577050991719",
+      "yaw_mae": "3.009908259244048",
+      "straight_score_rms": "3.349028357420099",
+      "raw_sign_accuracy": "0.6875",
+      "scene_auroc": "0.515625"
+    },
+    {
+      "copy": "intact",
+      "family": "means_and_slopes",
+      "speed": "16.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "3.582577050991719",
+      "yaw_mae": "3.009908259244048",
+      "straight_score_rms": "3.349028357420099",
+      "raw_sign_accuracy": "0.8125",
+      "scene_auroc": "0.59375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "dnp15_means",
+      "speed": "5.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.0341113190162172",
+      "yaw_mae": "1.639797669863033",
+      "straight_score_rms": "1.4427145498730938",
+      "raw_sign_accuracy": "0.75",
+      "scene_auroc": "0.5625"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "dnp15_means",
+      "speed": "5.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.0341113190162172",
+      "yaw_mae": "1.639797669863033",
+      "straight_score_rms": "1.4427145498730938",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "0.796875"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "dnp15_means",
+      "speed": "11.0",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "7.887151172051094",
+      "yaw_mae": "7.302563783398199",
+      "straight_score_rms": "7.774896680690778",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.484375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "dnp15_means",
+      "speed": "11.0",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "7.887151172051094",
+      "yaw_mae": "7.302563783398199",
+      "straight_score_rms": "7.774896680690778",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5234375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "dnp15_means",
+      "speed": "16.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "8.080236588861545",
+      "yaw_mae": "7.482327638626967",
+      "straight_score_rms": "7.955427996306431",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5078125"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "dnp15_means",
+      "speed": "16.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "8.080236588861545",
+      "yaw_mae": "7.482327638626967",
+      "straight_score_rms": "7.955427996306431",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "all_means",
+      "speed": "5.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.686295241029224",
+      "yaw_mae": "2.2937918093729683",
+      "straight_score_rms": "2.279465884667087",
+      "raw_sign_accuracy": "0.5625",
+      "scene_auroc": "0.484375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "all_means",
+      "speed": "5.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "2.686295241029224",
+      "yaw_mae": "2.2937918093729683",
+      "straight_score_rms": "2.279465884667087",
+      "raw_sign_accuracy": "0.9375",
+      "scene_auroc": "0.5234375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "all_means",
+      "speed": "11.0",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "7.845747643514729",
+      "yaw_mae": "7.608815171292312",
+      "straight_score_rms": "7.695503697030568",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5078125"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "all_means",
+      "speed": "11.0",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "7.845747643514729",
+      "yaw_mae": "7.608815171292312",
+      "straight_score_rms": "7.695503697030568",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5078125"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "all_means",
+      "speed": "16.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "11.93057689739779",
+      "yaw_mae": "11.749308455236598",
+      "straight_score_rms": "11.795261593499415",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "all_means",
+      "speed": "16.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "11.93057689739779",
+      "yaw_mae": "11.749308455236598",
+      "straight_score_rms": "11.795261593499415",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5078125"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "means_and_slopes",
+      "speed": "5.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.800775699146019",
+      "yaw_mae": "1.466093792207559",
+      "straight_score_rms": "0.9133724328966114",
+      "raw_sign_accuracy": "0.875",
+      "scene_auroc": "0.6484375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "means_and_slopes",
+      "speed": "5.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "1.800775699146019",
+      "yaw_mae": "1.466093792207559",
+      "straight_score_rms": "0.9133724328966114",
+      "raw_sign_accuracy": "1.0",
+      "scene_auroc": "0.9453125"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "means_and_slopes",
+      "speed": "11.0",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "8.21196474652911",
+      "yaw_mae": "7.897442434663648",
+      "straight_score_rms": "8.06291068533617",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.484375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "means_and_slopes",
+      "speed": "11.0",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "8.21196474652911",
+      "yaw_mae": "7.897442434663648",
+      "straight_score_rms": "8.06291068533617",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.515625"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "means_and_slopes",
+      "speed": "16.5",
+      "magnitude": "2.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "8.909923003488982",
+      "yaw_mae": "8.584840507212352",
+      "straight_score_rms": "8.752223223636637",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.484375"
+    },
+    {
+      "copy": "bips_silence",
+      "family": "means_and_slopes",
+      "speed": "16.5",
+      "magnitude": "5.0",
+      "rooms": "8",
+      "turn_cases": "16",
+      "yaw_rmse": "8.909923003488982",
+      "yaw_mae": "8.584840507212352",
+      "straight_score_rms": "8.752223223636637",
+      "raw_sign_accuracy": "0.5",
+      "scene_auroc": "0.5234375"
+    }
+  ],
+  "physiological_validation": false,
+  "recording_matched_scoring_complete": false,
+  "new_detection_threshold": false,
+  "source_before_scoring": {
+    "path": "results/continuous_yaw_mechanisms_v1/analysis_before_scoring.json",
+    "size_bytes": 767,
+    "sha256": "a0d2c7ef07110e6b24ba17f1f92d74c1962a341ec03169bd39e2e308f7800467"
+  }
+}

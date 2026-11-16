@@ -1,0 +1,18 @@
+{
+  "recorded_utc": "2026-10-13T03:59:17.215920+00:00",
+  "reason": "Original worker stopped under memory/swap guard after 38 cases; peak RSS 1869488128 below RSS ceiling, so zero-swap clause was implicated.",
+  "completed_cases_preserved": 38,
+  "remaining_uncompleted_cases": 9,
+  "remaining_scientific_scores_inspected": false,
+  "correction": "Release temporary per-eye arrays; one fresh supervised process per remaining movie.",
+  "original_methods_unchanged": true,
+  "scientific_configuration_unchanged": true,
+  "files": [
+    {
+      "path": "scripts/recover_fixed_neighbor_motion_memory_v1.py",
+      "size_bytes": 5820,
+      "sha256": "a707f646ff1c9470c2688da1c67f1dab2bf9fdb99915813acbb89f2887420692"
+    }
+  ],
+  "original_failure": "results/fixed_neighbor_motion_v1/execute_source_supervisor.json"
+}

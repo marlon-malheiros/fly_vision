@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "receipt_files": 588,
+  "output_hashes_verified": 1660,
+  "core_mean_rows_checked": 8960,
+  "maximum_mean_error": 0.0,
+  "restored_control_cases": 36,
+  "maximum_restored_muted_rate_error": 0.0,
+  "small_yaw_landmarks_checked": 80,
+  "maximum_flow_reprojection_error_rad_s": 1.100563196132498e-08,
+  "ridge_candidates_checked": 36,
+  "maximum_ridge_coefficient_error": 1.5134560271690134e-12,
+  "test_predictions_checked": 720,
+  "maximum_test_prediction_error": 4.622968674539152e-13,
+  "temporal_gate_met": true,
+  "python_solver_checks": [
+    {
+      "kind": "visual",
+      "copy": "intact",
+      "rate_error": 2.168404344971009e-19,
+      "final_state_error": 2.710505431213761e-20
+    },
+    {
+      "kind": "visual",
+      "copy": "bips_silence",
+      "rate_error": 2.168404344971009e-19,
+      "final_state_error": 2.710505431213761e-20
+    },
+    {
+      "kind": "probe",
+      "copy": "intact",
+      "rate_error": 6.938893903907228e-18,
+      "final_state_error": 4.336808689942018e-19
+    },
+    {
+      "kind": "probe",
+      "copy": "bips_silence",
+      "rate_error": 6.938893903907228e-18,
+      "final_state_error": 4.336808689942018e-19
+    },
+    {
+      "kind": "probe",
+      "copy": "restored_intact",
+      "rate_error": 6.938893903907228e-18,
+      "final_state_error": 4.336808689942018e-19
+    },
+    {
+      "kind": "probe",
+      "copy": "restored_muted",
+      "rate_error": 6.938893903907228e-18,
+      "final_state_error": 4.336808689942018e-19
+    }
+  ],
+  "physiological_validation": false,
+  "supplementary_control_solver_gate_met": true,
+  "supplementary_solver_trajectories": 12,
+  "scope": "Independent saved arithmetic, graph identities, development-only fits and six original-Python solver replays; not biological validation"
+}

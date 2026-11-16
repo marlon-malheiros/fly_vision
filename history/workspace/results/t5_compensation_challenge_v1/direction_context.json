@@ -1,0 +1,725 @@
+{
+  "completed_utc": "2026-10-12T13:38:43.276345+00:00",
+  "post_score_descriptive_addition": true,
+  "scientific_gates_or_scores_changed": false,
+  "source": {
+    "path": "results/t5_compensation_challenge_v1/analysis.json",
+    "size_bytes": 229893,
+    "sha256": "b368b3f274470eba2b965bb1295107fef315d5b2465fb167fb22692a5df75f34"
+  },
+  "algorithm": "Group each frozen pair classification by bar pairs 0..15 and grating pairs 16..25; count passed/resolved/unresolved and raw sign; retain every unresolved pair and its frozen failure list.",
+  "context": {
+    "primary": {
+      "primary_mv": {
+        "baseline_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 8,
+            "resolved": 8,
+            "unresolved": 2,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 1,
+            "unresolved_pairs": [
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": 0.008590158161138547,
+                "failures": [
+                  "difference_floor",
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.04442100538537895,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        },
+        "candidate_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 8,
+            "resolved": 8,
+            "unresolved": 2,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 1,
+            "unresolved_pairs": [
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": 0.007814136170019012,
+                "failures": [
+                  "difference_floor",
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.03834602510117226,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "mean_mv": {
+        "baseline_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 0,
+            "resolved": 0,
+            "unresolved": 10,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 2,
+            "unresolved_pairs": [
+              {
+                "pair": 16,
+                "conditions": [
+                  "grating_s10_p2_d1",
+                  "grating_s10_p2_d-1"
+                ],
+                "dsi": 0.029913472668543044,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": -0.03002021035282401,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 18,
+                "conditions": [
+                  "grating_s20_p2_d1",
+                  "grating_s20_p2_d-1"
+                ],
+                "dsi": 0.04886432971398674,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.04672449293595244,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 20,
+                "conditions": [
+                  "grating_s60_p2_d1",
+                  "grating_s60_p2_d-1"
+                ],
+                "dsi": 0.04612770413332006,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 21,
+                "conditions": [
+                  "grating_s60_p6_d1",
+                  "grating_s60_p6_d-1"
+                ],
+                "dsi": 0.009749483791089504,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 22,
+                "conditions": [
+                  "grating_s120_p2_d1",
+                  "grating_s120_p2_d-1"
+                ],
+                "dsi": 0.08393655133971231,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 23,
+                "conditions": [
+                  "grating_s120_p6_d1",
+                  "grating_s120_p6_d-1"
+                ],
+                "dsi": 0.08243234484589315,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 24,
+                "conditions": [
+                  "grating_s240_p2_d1",
+                  "grating_s240_p2_d-1"
+                ],
+                "dsi": 0.07932360488925981,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 25,
+                "conditions": [
+                  "grating_s240_p6_d1",
+                  "grating_s240_p6_d-1"
+                ],
+                "dsi": 0.07932067849390435,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        },
+        "candidate_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 0,
+            "resolved": 0,
+            "unresolved": 10,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 2,
+            "unresolved_pairs": [
+              {
+                "pair": 16,
+                "conditions": [
+                  "grating_s10_p2_d1",
+                  "grating_s10_p2_d-1"
+                ],
+                "dsi": 0.03011792511266908,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": -0.030199713132508403,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 18,
+                "conditions": [
+                  "grating_s20_p2_d1",
+                  "grating_s20_p2_d-1"
+                ],
+                "dsi": 0.047862264484444014,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.04558532229641647,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 20,
+                "conditions": [
+                  "grating_s60_p2_d1",
+                  "grating_s60_p2_d-1"
+                ],
+                "dsi": 0.046284725344972806,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 21,
+                "conditions": [
+                  "grating_s60_p6_d1",
+                  "grating_s60_p6_d-1"
+                ],
+                "dsi": 0.010012245722015527,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 22,
+                "conditions": [
+                  "grating_s120_p2_d1",
+                  "grating_s120_p2_d-1"
+                ],
+                "dsi": 0.08196826616865117,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 23,
+                "conditions": [
+                  "grating_s120_p6_d1",
+                  "grating_s120_p6_d-1"
+                ],
+                "dsi": 0.07987443554480618,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 24,
+                "conditions": [
+                  "grating_s240_p2_d1",
+                  "grating_s240_p2_d-1"
+                ],
+                "dsi": 0.07839570234799391,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 25,
+                "conditions": [
+                  "grating_s240_p6_d1",
+                  "grating_s240_p6_d-1"
+                ],
+                "dsi": 0.07838549301867871,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "fine": {
+      "primary_mv": {
+        "baseline_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 8,
+            "resolved": 8,
+            "unresolved": 2,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 1,
+            "unresolved_pairs": [
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": 0.00911787973643643,
+                "failures": [
+                  "difference_floor",
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.04427567690708561,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        },
+        "candidate_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 8,
+            "resolved": 8,
+            "unresolved": 2,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 1,
+            "unresolved_pairs": [
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": 0.008443999524716726,
+                "failures": [
+                  "difference_floor",
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.03810173611302133,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "mean_mv": {
+        "baseline_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 0,
+            "resolved": 0,
+            "unresolved": 10,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 2,
+            "unresolved_pairs": [
+              {
+                "pair": 16,
+                "conditions": [
+                  "grating_s10_p2_d1",
+                  "grating_s10_p2_d-1"
+                ],
+                "dsi": 0.02989249878750518,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": -0.02999871709598973,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 18,
+                "conditions": [
+                  "grating_s20_p2_d1",
+                  "grating_s20_p2_d-1"
+                ],
+                "dsi": 0.04880187031883068,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.04666425206530034,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 20,
+                "conditions": [
+                  "grating_s60_p2_d1",
+                  "grating_s60_p2_d-1"
+                ],
+                "dsi": 0.04609815569935513,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 21,
+                "conditions": [
+                  "grating_s60_p6_d1",
+                  "grating_s60_p6_d-1"
+                ],
+                "dsi": 0.009778225460597353,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 22,
+                "conditions": [
+                  "grating_s120_p2_d1",
+                  "grating_s120_p2_d-1"
+                ],
+                "dsi": 0.08393675073255612,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 23,
+                "conditions": [
+                  "grating_s120_p6_d1",
+                  "grating_s120_p6_d-1"
+                ],
+                "dsi": 0.08243352730789472,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 24,
+                "conditions": [
+                  "grating_s240_p2_d1",
+                  "grating_s240_p2_d-1"
+                ],
+                "dsi": 0.07932360710029386,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 25,
+                "conditions": [
+                  "grating_s240_p6_d1",
+                  "grating_s240_p6_d-1"
+                ],
+                "dsi": 0.07932068095981541,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        },
+        "candidate_pairs": {
+          "bar": {
+            "total": 16,
+            "passed": 16,
+            "resolved": 16,
+            "unresolved": 0,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 0,
+            "unresolved_pairs": []
+          },
+          "grating": {
+            "total": 10,
+            "passed": 0,
+            "resolved": 0,
+            "unresolved": 10,
+            "resolved_wrong_sign": 0,
+            "raw_opposite_sign": 2,
+            "unresolved_pairs": [
+              {
+                "pair": 16,
+                "conditions": [
+                  "grating_s10_p2_d1",
+                  "grating_s10_p2_d-1"
+                ],
+                "dsi": 0.030094059243714825,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 17,
+                "conditions": [
+                  "grating_s10_p6_d1",
+                  "grating_s10_p6_d-1"
+                ],
+                "dsi": -0.030175488618191807,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 18,
+                "conditions": [
+                  "grating_s20_p2_d1",
+                  "grating_s20_p2_d-1"
+                ],
+                "dsi": 0.04779895415267337,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 19,
+                "conditions": [
+                  "grating_s20_p6_d1",
+                  "grating_s20_p6_d-1"
+                ],
+                "dsi": -0.04552472597051109,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 20,
+                "conditions": [
+                  "grating_s60_p2_d1",
+                  "grating_s60_p2_d-1"
+                ],
+                "dsi": 0.04625819294488628,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 21,
+                "conditions": [
+                  "grating_s60_p6_d1",
+                  "grating_s60_p6_d-1"
+                ],
+                "dsi": 0.010038971898761252,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 22,
+                "conditions": [
+                  "grating_s120_p2_d1",
+                  "grating_s120_p2_d-1"
+                ],
+                "dsi": 0.08196856938863242,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 23,
+                "conditions": [
+                  "grating_s120_p6_d1",
+                  "grating_s120_p6_d-1"
+                ],
+                "dsi": 0.07987572008086044,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 24,
+                "conditions": [
+                  "grating_s240_p2_d1",
+                  "grating_s240_p2_d-1"
+                ],
+                "dsi": 0.07839570677667841,
+                "failures": [
+                  "dsi_floor"
+                ]
+              },
+              {
+                "pair": 25,
+                "conditions": [
+                  "grating_s240_p6_d1",
+                  "grating_s240_p6_d-1"
+                ],
+                "dsi": 0.07838549778032927,
+                "failures": [
+                  "dsi_floor"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

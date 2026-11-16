@@ -1,0 +1,449 @@
+{
+  "status": "PASS",
+  "historical_source_and_images_bit_identical": true,
+  "historical_rate_error": 0.0,
+  "numpy_renderer_checks": [
+    {
+      "world": "s07_A",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_A",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_A",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_A",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_A",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_A",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_M",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_M",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_M",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_M",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_M",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_M",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_G",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_G",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_G",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_G",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_G",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_G",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_T",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_T",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_T",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_T",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_T",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_T",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_S",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_S",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_S",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_S",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_S",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s07_S",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_A",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_A",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_A",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_A",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_A",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_A",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 4.973799150320701e-14
+    },
+    {
+      "world": "s12_M",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_M",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_M",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_M",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_M",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_M",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_G",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_G",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_G",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_G",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_G",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_G",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 4.973799150320701e-14
+    },
+    {
+      "world": "s12_T",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_T",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_T",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_T",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_T",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_T",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 4.973799150320701e-14
+    },
+    {
+      "world": "s12_S",
+      "time": 0.0,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_S",
+      "time": 0.0,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_S",
+      "time": 0.75,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_S",
+      "time": 0.75,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_S",
+      "time": 1.25,
+      "side": "L",
+      "luminance": 0.0,
+      "depth": 0.0
+    },
+    {
+      "world": "s12_S",
+      "time": 1.25,
+      "side": "R",
+      "luminance": 0.0,
+      "depth": 4.973799150320701e-14
+    }
+  ],
+  "mirror_image_errors": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "symmetric_image_errors": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ]
+}

@@ -1,0 +1,11 @@
+# Professor brief: false-alarm mechanism and first independent HS constraint
+
+2026-10-30. We completed the two bounded follow-up tasks without changing the frozen model, decoder or prior verdict.
+
+The false-alarm study analyzed all 180 straight-walking controls, reproduced 18 representative cases exactly, and ran 12 visual-input interventions. Scene-induced left–right input differences propagate through the HS-labeled group to DNp15 and cross the external yaw threshold. Removing only the shared response component does not solve the problem. Faster trials also cover more of each room, but matched-distance analysis retains a speed-dependent failure. In three selected failures, both complementary same-eye binocular clamps remove alarms without rescaling that eye's contrast. These artificial controls support a mechanism within the model; they are not a deployable repair or biological causality evidence.
+
+The public HS data access problem is resolved. We acquired the source archive and executed a fixed, gain-independent PD/ND comparison using 24 published control-response rows, 24 shared model inputs and 72 graph solves. Recorded ND/PD is 0.1933, with a broad descriptive row-bootstrap interval [-0.1702, 0.9016]. Original, expanded and LPi models predict approximately 0.1752, 0.1758 and -0.0797; all lie inside that interval. This constraint cannot select a circuit, and LPi is not closer to the observed mean. Exact display registration, animal identities and observation calibration remain unresolved. Full physiological validation is not established.
+
+We wanted to replace repeated broad testing with specific answers. We now have a supported cause for selected model false alarms and an executed, limited recording comparison. The next change should target rejection of scene-induced translation asymmetry while preserving real-turn sensitivity in a new study; the biological route needs stronger matched constraints from the acquired recordings. The original reliable-detector target remains failed, and closed-loop robotics remains deferred.
+
+[False-alarm report](YAW_FALSE_ALARM_LOCALIZATION_REPORT_V1.md) · [HS comparison](HS_VOLTAGE_BENCHMARK_REPORT_V1.md) · [Reproduction](YAW_HS_FOLLOWUP_REPRODUCIBILITY_V1.md).

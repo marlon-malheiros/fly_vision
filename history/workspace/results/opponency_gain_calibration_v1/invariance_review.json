@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "indices": 108,
+  "gain_invariant_cosines": 648,
+  "maximum_index_error": 4.440892098500626e-16,
+  "original_transfer_selectivity_reproduced": true
+}

@@ -1,0 +1,50 @@
+{
+  "utc": "2026-11-01T02:47:17.281391+00:00",
+  "files": [
+    {
+      "path": "docs/NEURAL_POPULATION_FIVE_DEGREE_NUMERICS_ADDENDUM_V1.md",
+      "size_bytes": 1954,
+      "sha256": "8c4e78ddff3408b71c7fd48246ce7a2c77f603f92e194d9eb8b827a9d5d6d1f3"
+    },
+    {
+      "path": "results/neural_population_cutoff_r2/before_test.json",
+      "size_bytes": 1329,
+      "sha256": "d66b18398aab44879b1e073ab5799fd73f387c07e160eac3e3d96167c9ea2f46"
+    },
+    {
+      "path": "results/neural_population_cutoff_r2/cutoffs.json",
+      "size_bytes": 512,
+      "sha256": "31fa6ad7bf9b1e69b55547d7cb50cc4a80d2003c4da87b0e00a96a96bf446a1d"
+    },
+    {
+      "path": "results/neural_population_cutoff_r2/five_degree_numerics_v1/plans.json",
+      "size_bytes": 14199,
+      "sha256": "782a483a2a4ac35074f776191b21e8c1095a405262f42b0151270a2e0e6dc347"
+    },
+    {
+      "path": "results/neural_population_cutoff_r2/verdict.json",
+      "size_bytes": 1357,
+      "sha256": "3236cbe353d919d950508b6177018152366cd21858a4df7ff0daa6ade982511a"
+    },
+    {
+      "path": "results/neural_population_readout_v1/before_test.json",
+      "size_bytes": 4947,
+      "sha256": "41e1adba5cd8d46aa4a3ec9ad393eaea08a9e5d645fecca06a59c791fd38124a"
+    },
+    {
+      "path": "results/neural_population_readout_v1/readouts.json",
+      "size_bytes": 859562,
+      "sha256": "034dfe1df2d1e42ce2f836048de6ca74f92631811f1560c2a396fe9438b1c093"
+    },
+    {
+      "path": "scripts/neural_population_five_degree_numerics_v1.py",
+      "size_bytes": 6608,
+      "sha256": "bc52da598ec6b3624991d128f96e557bca326650a1960f7559b9267ef529d0df"
+    }
+  ],
+  "no_new_five_degree_refinement_responses": true,
+  "no_refit": true,
+  "prior_two_degree_failure_preserved": true,
+  "behavioral_test_already_inspected": true,
+  "conditional_secondary_magnitude": 5.0
+}

@@ -1,0 +1,6 @@
+{
+  "action": "independent temporary-workspace prepare",
+  "error": "FileNotFoundError: <TEMP>/neural_population_portability_v1/tests/test_neural_population_readout_v1.py",
+  "cause": "The temporary workspace setup omitted tests while the source freeze correctly requires the test file. Main model and outputs were unaffected.",
+  "correction": "Retry in a fresh R2 workspace including the tests directory; do not alter scientific source or criteria."
+}

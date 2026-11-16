@@ -1,0 +1,18 @@
+{
+  "frozen_utc": "2026-10-24T22:39:40.758170+00:00",
+  "probe_outcomes_inspected": false,
+  "normalization_outcomes_inspected": false,
+  "original_gates_unchanged": true,
+  "files": [
+    {
+      "path": "docs/CONTINUOUS_YAW_CONTROL_VALIDATION_ADDENDUM_V1.md",
+      "size_bytes": 1781,
+      "sha256": "dedb17ed6fcf71db36b0604cef078a36cc6745b1b1c88e6da09258ecc61ead28"
+    },
+    {
+      "path": "scripts/review_continuous_yaw_mechanisms_v1.py",
+      "size_bytes": 19519,
+      "sha256": "322be7a94f0d8316dcc758370d175a547f32d84e25709d8587a56fa3cd701c77"
+    }
+  ]
+}

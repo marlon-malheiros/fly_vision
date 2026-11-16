@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "case": "p00_v16.5_y+2",
+  "both_feedback_copies": true,
+  "rerendered_image_hash_matches": true,
+  "independent_literal_neurons_direct_feature_max_error": 0.0
+}

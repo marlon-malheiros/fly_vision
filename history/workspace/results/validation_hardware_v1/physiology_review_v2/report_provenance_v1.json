@@ -1,0 +1,35 @@
+{
+  "created_utc": "2026-10-21T13:35:50.542940+00:00",
+  "report": "docs/CORRECTED_PHYSIOLOGICAL_DIAGNOSTICS_REPORT_V2.md",
+  "physiological_validation_established": false,
+  "descriptive_bootstrap_added_after_scoring": true,
+  "bootstrap_seed": 20261021,
+  "bootstrap_repeats": 10000,
+  "files": [
+    {
+      "path": "scripts/report_corrected_physiology_v2.py",
+      "sha256": "a00ee69596df3b5348b6deaf63836bc1d75040155d021424415b1fcc14f30f2b",
+      "size_bytes": 14303
+    },
+    {
+      "path": "scripts/review_corrected_physiology_v2.py",
+      "sha256": "95635cdc3241aff9c6dd962ebf7ccc2d26f6d59498cde1eac3539c14f9f6c5de",
+      "size_bytes": 22275
+    },
+    {
+      "path": "docs/CORRECTED_PHYSIOLOGICAL_DIAGNOSTICS_REPORT_V2.md",
+      "sha256": "c7d9caeee11405c2de2f0fdce83997220f92c8a72ef665af291283532548c7bb",
+      "size_bytes": 9931
+    },
+    {
+      "path": "results/validation_hardware_v1/physiology_review_v2/independent_review.json",
+      "sha256": "9ffa6e7d93fae39484701ffbdbfa307c10d6e25202b72fb36b25b1997de3e6fa",
+      "size_bytes": 2208
+    },
+    {
+      "path": "results/validation_hardware_v1/physiology_review_v2/speed_cohort_overall_summary.csv",
+      "sha256": "b01b9575f4cbaca80e55534c78ff2600334479f4ffea475705dfdee3b5f8d758",
+      "size_bytes": 49265
+    }
+  ]
+}

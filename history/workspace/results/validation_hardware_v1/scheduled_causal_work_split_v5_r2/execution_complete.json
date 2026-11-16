@@ -1,0 +1,3018 @@
+{
+  "status": "COMPLETE",
+  "completed_utc": "2026-10-22T11:54:37.937582+00:00",
+  "episodes": 300,
+  "frame_pairs": 120300,
+  "noninitial_neural_updates": 60000,
+  "scheduled_availability_span_s": 601.495,
+  "observed_execution_span_s": 601.50011345,
+  "recording_flush_end_ns": 102584834519034,
+  "chunks": [
+    {
+      "chunk": 0,
+      "writer_start_ns": 102003384094755,
+      "writer_end_ns": 102003386276701,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_000.npz",
+        "size_bytes": 1416376,
+        "sha256": "37361662bfed270e77ac0245d3ac8611b52344034b86ed18fc8f635559a8911e"
+      }
+    },
+    {
+      "chunk": 1,
+      "writer_start_ns": 102023433787590,
+      "writer_end_ns": 102023434753414,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_001.npz",
+        "size_bytes": 1416376,
+        "sha256": "8074118e63aa6ebcd96e8d8b4b4c9ce3fb4af6111b0b6146e501f9557c479e4d"
+      }
+    },
+    {
+      "chunk": 2,
+      "writer_start_ns": 102043485613812,
+      "writer_end_ns": 102043487155990,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_002.npz",
+        "size_bytes": 1416376,
+        "sha256": "fd648ca1b04dbef7f37de356ff5079d4e7a15135089271f90f0bd4151637f181"
+      }
+    },
+    {
+      "chunk": 3,
+      "writer_start_ns": 102063533897676,
+      "writer_end_ns": 102063535575976,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_003.npz",
+        "size_bytes": 1416376,
+        "sha256": "12c7234924b00c4a098431933280b9ef82e0187ae49e2eb60cdfe6c3209e02ce"
+      }
+    },
+    {
+      "chunk": 4,
+      "writer_start_ns": 102083584476687,
+      "writer_end_ns": 102083586130999,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_004.npz",
+        "size_bytes": 1416376,
+        "sha256": "8ad54d53f33dee7edfbf0bb58b2d26e067b7fd064127275b4774f14d0569c25c"
+      }
+    },
+    {
+      "chunk": 5,
+      "writer_start_ns": 102103634673732,
+      "writer_end_ns": 102103636358220,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_005.npz",
+        "size_bytes": 1416376,
+        "sha256": "8f984960b33d2c1607a4af02a1f9f3cc52776829182659a4cd0797d69884b28c"
+      }
+    },
+    {
+      "chunk": 6,
+      "writer_start_ns": 102123684071765,
+      "writer_end_ns": 102123685788299,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_006.npz",
+        "size_bytes": 1416376,
+        "sha256": "1c27e5214a5953186cd7f170792b1f337c17caee4c7e2f81abbf8b62cb6f6c42"
+      }
+    },
+    {
+      "chunk": 7,
+      "writer_start_ns": 102143733954227,
+      "writer_end_ns": 102143735669248,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_007.npz",
+        "size_bytes": 1416376,
+        "sha256": "2b5e78bb7c6b1798471e0d9b568d7a00b76a344c3fdf6b0d96540e52fce473bc"
+      }
+    },
+    {
+      "chunk": 8,
+      "writer_start_ns": 102163783798386,
+      "writer_end_ns": 102163785514882,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_008.npz",
+        "size_bytes": 1416376,
+        "sha256": "3d97127781d7b25010e0c36cd75153aa461ef7cbcba6084e9ea0474262c115c0"
+      }
+    },
+    {
+      "chunk": 9,
+      "writer_start_ns": 102183833819146,
+      "writer_end_ns": 102183835400925,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_009.npz",
+        "size_bytes": 1416376,
+        "sha256": "8a1ecf3c5b99b707b86d3ba032e6421920b5437fde3771c0a2caa777cf3c44eb"
+      }
+    },
+    {
+      "chunk": 10,
+      "writer_start_ns": 102203883987748,
+      "writer_end_ns": 102203885623134,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_010.npz",
+        "size_bytes": 1416376,
+        "sha256": "3ccbbcc457fe7e31d89ddd44146508709f9580c5d329f3412724c314ed187727"
+      }
+    },
+    {
+      "chunk": 11,
+      "writer_start_ns": 102223934751075,
+      "writer_end_ns": 102223936320035,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_011.npz",
+        "size_bytes": 1416376,
+        "sha256": "a7fdf46bd06867d8721205a3f5f1378cc5d6c72a383a5ba683fcdd3cf9eb8526"
+      }
+    },
+    {
+      "chunk": 12,
+      "writer_start_ns": 102243983822211,
+      "writer_end_ns": 102243985518171,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_012.npz",
+        "size_bytes": 1416376,
+        "sha256": "d8f18af42d9720303dc045f2e35f74153dbc95c70e938c4596ba7e24257425e8"
+      }
+    },
+    {
+      "chunk": 13,
+      "writer_start_ns": 102264034622433,
+      "writer_end_ns": 102264036336792,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_013.npz",
+        "size_bytes": 1416376,
+        "sha256": "1926fabffa69ccf2aa51cf9619dc38197e1b71423870dce8bc5b7fb5d11fa971"
+      }
+    },
+    {
+      "chunk": 14,
+      "writer_start_ns": 102284085136146,
+      "writer_end_ns": 102284086809147,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_014.npz",
+        "size_bytes": 1416376,
+        "sha256": "e6338b3ccd205c0f149da8c3cce5cde19042d339062a3cc6993efbc4b67faef4"
+      }
+    },
+    {
+      "chunk": 15,
+      "writer_start_ns": 102304135857276,
+      "writer_end_ns": 102304137898747,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_015.npz",
+        "size_bytes": 1416376,
+        "sha256": "12e3bef7e7c4c6522865d40aa8b02a97e216e0165da4f8e8556ca9055992ee2a"
+      }
+    },
+    {
+      "chunk": 16,
+      "writer_start_ns": 102324183871445,
+      "writer_end_ns": 102324185542918,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_016.npz",
+        "size_bytes": 1416376,
+        "sha256": "d340a0a7c25dc91fb9533ae61c4bd2dd8be85f4c5f7bcadd09d3a474e1a5f0dc"
+      }
+    },
+    {
+      "chunk": 17,
+      "writer_start_ns": 102344235427572,
+      "writer_end_ns": 102344236823270,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_017.npz",
+        "size_bytes": 1416376,
+        "sha256": "644ca4c7b1152af19c2c402ecb71eccfbd9159b18e7b37fdf63ae669e09e987e"
+      }
+    },
+    {
+      "chunk": 18,
+      "writer_start_ns": 102364284082070,
+      "writer_end_ns": 102364285477883,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_018.npz",
+        "size_bytes": 1416376,
+        "sha256": "c273405209c0d57e4a52e2aeb073ed1d51a85631e7fca431f5d17776d39ca914"
+      }
+    },
+    {
+      "chunk": 19,
+      "writer_start_ns": 102384333677608,
+      "writer_end_ns": 102384334812655,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_019.npz",
+        "size_bytes": 1416376,
+        "sha256": "8e4e8ea35b4a434b5dc81f68bc054973a4946826f8ea4e25d703f70546be825a"
+      }
+    },
+    {
+      "chunk": 20,
+      "writer_start_ns": 102404383719293,
+      "writer_end_ns": 102404385434467,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_020.npz",
+        "size_bytes": 1416376,
+        "sha256": "ec1168c9c68bfea23b132eb40ac7b1ec5cdec9efff91b4d57a4b5ceb0f05f3f7"
+      }
+    },
+    {
+      "chunk": 21,
+      "writer_start_ns": 102424433851757,
+      "writer_end_ns": 102424435542784,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_021.npz",
+        "size_bytes": 1416376,
+        "sha256": "9f0493d79c55bdeedad6a41d0bc5844682413c800d39ff307af2cfb9e17986c2"
+      }
+    },
+    {
+      "chunk": 22,
+      "writer_start_ns": 102444485377082,
+      "writer_end_ns": 102444486950565,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_022.npz",
+        "size_bytes": 1416376,
+        "sha256": "05b69bb91665adedf3758231f694838dbe7f29fdb54ec97799de948ef0891313"
+      }
+    },
+    {
+      "chunk": 23,
+      "writer_start_ns": 102464533861177,
+      "writer_end_ns": 102464535533499,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_023.npz",
+        "size_bytes": 1416376,
+        "sha256": "3b398ed0b26c20ba94dba7e7ea81571c6c9940e1b3119d1f380f08b462993954"
+      }
+    },
+    {
+      "chunk": 24,
+      "writer_start_ns": 102484584223808,
+      "writer_end_ns": 102484585992611,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_024.npz",
+        "size_bytes": 1416376,
+        "sha256": "2edf7b6ea82d07690ad68ed73983c2c51d06eb5aea9a779367c194e9347404eb"
+      }
+    },
+    {
+      "chunk": 25,
+      "writer_start_ns": 102504635237416,
+      "writer_end_ns": 102504637075812,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_025.npz",
+        "size_bytes": 1416376,
+        "sha256": "48a73afd35ff5c25abfe9e2576fb0896e42b65b3a3cc0c180890d4c5cf4445de"
+      }
+    },
+    {
+      "chunk": 26,
+      "writer_start_ns": 102524684023566,
+      "writer_end_ns": 102524684996500,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_026.npz",
+        "size_bytes": 1416376,
+        "sha256": "3750182e03d5b4cfa2576cee1a537b77d318a5b277b84aab49bb54710bc2b7e4"
+      }
+    },
+    {
+      "chunk": 27,
+      "writer_start_ns": 102544733810446,
+      "writer_end_ns": 102544734806948,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_027.npz",
+        "size_bytes": 1416376,
+        "sha256": "0992e313337143db3ea6636bd2d8e8b46d9aeb0ce3dd6f28072623260cc18aac"
+      }
+    },
+    {
+      "chunk": 28,
+      "writer_start_ns": 102564791304834,
+      "writer_end_ns": 102564792679422,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_028.npz",
+        "size_bytes": 1416376,
+        "sha256": "0503e680e4456c6233969b218e7bf4d944decbca087f6d5c8b655269d001c111"
+      }
+    },
+    {
+      "chunk": 29,
+      "writer_start_ns": 102584832343161,
+      "writer_end_ns": 102584833298049,
+      "file": {
+        "path": "results/validation_hardware_v1/scheduled_causal_work_split_v5_r2/chunks/chunk_029.npz",
+        "size_bytes": 1416376,
+        "sha256": "82f662ab2980d5bfe823bb0f8a16ccd53b2c118b4cb36cfb9b26ceaa2a911efb"
+      }
+    }
+  ],
+  "episodes_review": [
+    {
+      "episode": 0,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 1,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 2,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 3,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 4,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 5,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 6,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 7,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 8,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 9,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 379486208
+    },
+    {
+      "episode": 10,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 11,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 12,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 13,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 14,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 15,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 16,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 17,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 18,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 19,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 20,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 21,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 22,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 23,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 24,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 25,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 26,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 27,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 28,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 29,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 30,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 31,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 32,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 33,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 34,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 35,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 36,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 37,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 38,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 39,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 40,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 41,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 42,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 43,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 44,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 45,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 46,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 47,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 48,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 49,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 50,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 51,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 52,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 53,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 54,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 55,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 56,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 57,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 58,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 59,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 60,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 61,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 62,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 63,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 64,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 65,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 66,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 67,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 68,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 69,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 70,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 71,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 72,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 73,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 74,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 75,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 76,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 77,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 78,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 79,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 80,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 81,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 82,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 83,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 84,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 85,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 86,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 87,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 88,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 89,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 90,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 91,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 92,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 93,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 94,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 95,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 96,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 97,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 98,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 99,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 100,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 101,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 102,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 103,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 104,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 105,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 106,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 107,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 108,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 109,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 110,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 111,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 112,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 113,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 114,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 115,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 116,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 117,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 118,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 119,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 120,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 121,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 122,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 123,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 124,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 125,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 126,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 127,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 128,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 129,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 130,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 131,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 132,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 133,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 134,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 135,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 136,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 137,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 138,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 139,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 140,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 141,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 142,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 143,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 144,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 145,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 146,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 147,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 148,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 149,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 150,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 151,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 152,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 153,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 154,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 155,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 156,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 157,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 158,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 159,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 160,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 161,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 162,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 163,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 164,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 165,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 166,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 167,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 168,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 169,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 170,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 171,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 172,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 173,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 174,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 175,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 176,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 177,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 178,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 179,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 180,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 181,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 182,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 183,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 184,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 185,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 186,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 187,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 188,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 189,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 190,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 191,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 192,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 193,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 194,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 195,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 196,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 197,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 198,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 199,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 200,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 201,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 202,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 203,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 204,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 205,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 206,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 207,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 208,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 209,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 210,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 211,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 212,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 213,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 214,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 215,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 216,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 217,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 218,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 219,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 220,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 221,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 222,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 223,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 224,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 225,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 226,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 227,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 228,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 229,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 230,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 231,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 232,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 233,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 234,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 235,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 236,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 237,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 238,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 239,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 240,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 241,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 242,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 243,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 244,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 245,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 246,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 247,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 248,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 249,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 250,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 251,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 252,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 253,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 254,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381059072
+    },
+    {
+      "episode": 255,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 256,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 257,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 258,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 259,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 260,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 261,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 262,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 263,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 264,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 265,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 266,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 267,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 268,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 269,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 270,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 271,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 272,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 273,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 274,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 275,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 276,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 277,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 278,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 279,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 280,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 281,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 282,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 283,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 284,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 285,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 286,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 287,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 288,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 289,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 290,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 291,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 292,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 293,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 294,
+      "case": "s01_v16.5_y-20",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 295,
+      "case": "s01_v16.5_y-20",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 296,
+      "case": "s01_v16.5_y+0",
+      "mode": 0,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 297,
+      "case": "s01_v16.5_y+20",
+      "mode": 1,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 298,
+      "case": "s01_v16.5_y+0",
+      "mode": 1,
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    },
+    {
+      "episode": 299,
+      "case": "s01_v16.5_y+20",
+      "mode": 0,
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "episode_decisions_equal": true,
+      "peak_rss_bytes": 381190144
+    }
+  ],
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "hard_real_time_certified": false,
+  "scope": "Balanced matched batched/split fixed-time software availability; all reset episodes and background logging retained; not camera capture"
+}

@@ -1,0 +1,33 @@
+{
+  "created_utc": "2026-10-19T14:06:03.076385+00:00",
+  "failed_library": {
+    "path": "results/anatomical_strengthening_v1/methods/anatomical_batch_solver_v1.so",
+    "sha256": "afc0fce5e0951df96b81b21f0d23d6deccd7ac2011da8463331d90332377c86f",
+    "size_bytes": 25520
+  },
+  "corrected_library": {
+    "path": "results/anatomical_strengthening_v1/methods/anatomical_batch_solver_v1_strict.so",
+    "sha256": "13aa60021f4fe5f864e0b89d852a4bd4dbd5e8f5b713793afa8dc0262eaf5a81",
+    "size_bytes": 21368
+  },
+  "failure_scope": "artificial_non_yaw_preflight_only",
+  "old_flag": "-ffast-math",
+  "new_flags": [
+    "-fno-fast-math",
+    "-ffp-contract=off"
+  ],
+  "original_sham_bitwise_criterion_retained": true,
+  "parameters_graph_and_clocks_unchanged": true,
+  "new_walking_outcomes_inspected": false,
+  "preflight": {
+    "status": "PASS",
+    "random_non_yaw_input_seed": 916992,
+    "original_kernel_rate_error": 1.3010426069826053e-18,
+    "graph_copy_python_replays": 15,
+    "maximum_rate_error": 8.673617379884035e-19,
+    "maximum_final_error": 1.734723475976807e-18,
+    "source_identity_coverage": true,
+    "negative_new_family_outputs": true
+  },
+  "clarification": "failed_fast_math_preflight.json neural_outputs_inspected false refers to new walking/yaw outcomes, not the retained artificial numerical arrays"
+}

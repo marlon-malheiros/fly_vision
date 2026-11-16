@@ -1,0 +1,64 @@
+{
+  "status": "PASS",
+  "prior_indexes": [
+    {
+      "index": {
+        "path": "results/final_openloop_milestone_v1/completion_v1/artifact_index.json",
+        "size_bytes": 1667753,
+        "sha256": "2202ac0a61c53d28242f0f0d6d132cdce23d704e309cace7e1f52d87ab44f554"
+      },
+      "files": 7949
+    },
+    {
+      "index": {
+        "path": "results/final_openloop_release_review_r2/completion/artifact_index.json",
+        "size_bytes": 2817,
+        "sha256": "934f2ab254c3b0cd0f7b6da916ef8eb27d2041c027f35f8934f42546e9583829"
+      },
+      "files": 13
+    },
+    {
+      "index": {
+        "path": "results/yaw_false_alarm_localization_v1/completion_v1/artifact_index.json",
+        "size_bytes": 29358,
+        "sha256": "35b834274d5ad2e513b7e2aa98b3b83096cf3d6afcc81b1400688dc5aefb8523"
+      },
+      "files": 133
+    },
+    {
+      "index": {
+        "path": "results/hs_voltage_benchmark_v1/completion_v1/artifact_index.json",
+        "size_bytes": 22237,
+        "sha256": "2716d012a4b865160739a71160dff385c093565a60c1397223fe6df7a12b2c0b"
+      },
+      "files": 103
+    },
+    {
+      "index": {
+        "path": "results/continuous_readout_repair_v1/completion_v1/artifact_index.json",
+        "size_bytes": 540748,
+        "sha256": "099563ecf6a7555024e9f1a5346e63eea9a54d33e28518abe884844c03dbfba0"
+      },
+      "files": 2617
+    },
+    {
+      "index": {
+        "path": "results/continuous_readout_repair_r2/completion_v1/artifact_index.json",
+        "size_bytes": 6980,
+        "sha256": "3fec3255655e7d57d12f55f13020a17af942387f0a88871b11f297fb2afe4f9c"
+      },
+      "files": 31
+    },
+    {
+      "index": {
+        "path": "results/dense_image_hybrid_r3/completion_v1/artifact_index.json",
+        "size_bytes": 2275759,
+        "sha256": "ff6e3e88f5550b2d6e303a73c58a13c8dc6c820bc4665700b9ba6d1d3f8e3c49"
+      },
+      "files": 11041
+    }
+  ],
+  "total_files": 21887,
+  "earlier_path_lookup_failure_preserved": true,
+  "old_models_and_results_unchanged": true
+}

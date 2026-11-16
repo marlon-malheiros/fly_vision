@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T18:23:14.423678+00:00",
+  "trajectories_reviewed": 6552,
+  "maximum_voltage_error_mv": 6.181721801112872e-12,
+  "maximum_state_error": 7.052136652418994e-13,
+  "maximum_independent_feature_error_mv": 3.488764832582092e-12,
+  "maximum_scaled_jacobian_error": 1.1025391710717258e-10,
+  "all_schedules_independently_reconstructed": true,
+  "all_readout_pair_and_candidate_decisions_reviewed": true,
+  "conductance_and_waveform_metrics_reviewed": true,
+  "svd_reconstruction_and_orthogonality_checked": true,
+  "derived_bank_replayed": true,
+  "biological_validation": false
+}

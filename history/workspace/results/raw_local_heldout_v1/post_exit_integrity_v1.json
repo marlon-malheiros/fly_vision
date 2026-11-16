@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/raw_local_heldout_v1/completion_v1/artifact_index.json",
+    "size_bytes": 243070,
+    "sha256": "8d0253e7352de71643f71ae54548aa57e856e80875be433ce775b241ce5f9f00"
+  },
+  "indexed_files": 1218,
+  "indexed_bytes": 18965415,
+  "total_artifact_bytes": 19208885,
+  "independent_small_turn_qualification": false,
+  "physiological_validation": false
+}

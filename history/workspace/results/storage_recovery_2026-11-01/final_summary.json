@@ -1,0 +1,18 @@
+{
+  "before_available_bytes": 179441664,
+  "after_available_bytes": 13016403968,
+  "net_available_space_gain_bytes": 12836962304,
+  "duplicate_groups": 406,
+  "duplicate_destination_files": 475,
+  "duplicate_files_full_hash_checked_before_and_after": 881,
+  "retinal_files_compressed_and_full_hash_checked": 583,
+  "disposable_cache_files_removed": 347,
+  "redundant_download_archives_removed": 1,
+  "retained_recording_members_verified": 4,
+  "indexed_result_files_deleted": 0,
+  "original_index_files_unchanged": 113,
+  "metadata_review_passed": true,
+  "unique_recording_payloads_deleted": 0,
+  "scope_note": "Compression and archive cleanup overlapped: individual phase free-space deltas must not be added or attributed to compression alone. Final before/after filesystem availability is the aggregate measure. Concurrent external filesystem activity is possible.",
+  "source_archive_availability_exception": "The redundant H2 ZIP was evicted; all four extracted files remain. The original source lock and URL are retained, so container-only checks require reacquisition."
+}

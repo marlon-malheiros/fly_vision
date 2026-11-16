@@ -1,0 +1,67 @@
+{
+  "schema": "root_relative_report_handoff_artifact_index_v1",
+  "created_utc": "2026-10-13T13:54:02.796730+00:00",
+  "files": [
+    {
+      "path": "docs/PROFESSOR_FUNCTIONAL_FRONTEND_TECHNICAL_REPORT_V1.md",
+      "size_bytes": 108516,
+      "sha256": "1fdae42b510fdba1095d489bbce7d65fdba98bbadae1999243f32b9992be5642"
+    },
+    {
+      "path": "docs/PROFESSOR_FUNCTIONAL_FRONTEND_TLDR_V1.md",
+      "size_bytes": 2651,
+      "sha256": "62dfa254d8b691ca259aa7f61ade6acc194a86b3c89df4682643d25ea6772790"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/artifact_index.json",
+      "size_bytes": 74428,
+      "sha256": "25d1390b8d96eb573d2f191df6faab95e52b4bd4402e8296abe9c2da7ef51c6a"
+    },
+    {
+      "path": "results/professor_frontend_handoff_v1/completion.json",
+      "size_bytes": 438,
+      "sha256": "dc1f56f7061fd5fa29dd7a4bd014a25d1b77073bc16b01bc246752bd80baf3c6"
+    },
+    {
+      "path": "results/professor_frontend_handoff_v1/git_checkpoint.json",
+      "size_bytes": 365,
+      "sha256": "f713bb4defa01af5ec3dbeba89a95d0c441d683f124ea53927b5dd7c10a33c88"
+    },
+    {
+      "path": "results/professor_frontend_handoff_v1/package_manifest.json",
+      "size_bytes": 35231,
+      "sha256": "c2f0a849d4604484a0014d277fbbd0b9ae1e3ce6f67522967b04bcea6916bc8d"
+    },
+    {
+      "path": "results/professor_frontend_handoff_v1/professor_frontend_handoff_v1.zip",
+      "size_bytes": 6623245,
+      "sha256": "ab47f71290ce73650ff9a22dd2cba20268489207bff9d890e59a9c09aba0c6e7"
+    },
+    {
+      "path": "results/professor_frontend_handoff_v1/project_progress_completion_snapshot.md",
+      "size_bytes": 53884,
+      "sha256": "04b70b6f70fdcc1f07d525ef6d9204cc15d334948ea20576abde88a2027add30"
+    },
+    {
+      "path": "results/professor_frontend_handoff_v1/project_progress_snapshot.md",
+      "size_bytes": 52489,
+      "sha256": "12a0a48fcaa09a20aa1c66114ddeca6e50eb78521173c95e1f91405123313ac2"
+    },
+    {
+      "path": "results/professor_frontend_handoff_v1/verification.json",
+      "size_bytes": 1247,
+      "sha256": "1706d7eb82a295210c6453c3809c71ce2e3480df3eed0f1fae19b43987c1d63e"
+    },
+    {
+      "path": "scripts/prepare_professor_frontend_handoff_v1.py",
+      "size_bytes": 19939,
+      "sha256": "2f4ea4f58800c8b4513d5834fd87f181dd9efda8be63bd03667741ab3117b47b"
+    }
+  ],
+  "previous_index": {
+    "path": "results/fixed_neighbor_motion_v1/artifact_index.json",
+    "sha256": "25d1390b8d96eb573d2f191df6faab95e52b4bd4402e8296abe9c2da7ef51c6a"
+  },
+  "mutable_live_progress_excluded": true,
+  "package_members_manifest": "results/professor_frontend_handoff_v1/package_manifest.json"
+}

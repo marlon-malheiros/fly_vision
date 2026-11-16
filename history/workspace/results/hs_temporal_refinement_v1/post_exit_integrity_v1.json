@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/hs_temporal_refinement_v1/completion_v1/artifact_index.json",
+    "size_bytes": 46330,
+    "sha256": "1d7d7f7ef5b0453e41d6c9138ae3672c441f8bfed6e2805fc9344ce5da87719c"
+  },
+  "indexed_files": 200,
+  "bytes_before_audit": 4437815,
+  "dependency_hashes_pass": true,
+  "scientific_decision": {
+    "primary_checks": 20,
+    "passed": 20,
+    "all_primary_numerical_checks_pass": true,
+    "complete_frequency_bank_convergence_established": false,
+    "spatial_convergence_established": false,
+    "biological_validation_established": false,
+    "walking_advancement": false,
+    "parameters_fitted": 0,
+    "original_models_and_results_preserved": true
+  }
+}

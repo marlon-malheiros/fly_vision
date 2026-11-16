@@ -1,0 +1,503 @@
+{
+  "status": "COMPLETE",
+  "conditions": [
+    {
+      "condition": 0,
+      "label": "STATIC",
+      "role_results": [
+        {
+          "role": "hs",
+          "n": 8,
+          "intact_mean": 0.044354588281142075,
+          "silenced_mean": 0.04430831317482549,
+          "mean_abs_difference": 6.862728840052779e-05,
+          "max_abs_difference": 0.00022448562763653646
+        },
+        {
+          "role": "h2",
+          "n": 2,
+          "intact_mean": 0.050415076501274116,
+          "silenced_mean": 0.05041622710630404,
+          "mean_abs_difference": 2.2794460965566896e-06,
+          "max_abs_difference": 3.430241191162975e-06
+        },
+        {
+          "role": "bips",
+          "n": 2,
+          "intact_mean": 0.015392626898976419,
+          "silenced_mean": 0.0,
+          "mean_abs_difference": 0.015392626898976419,
+          "max_abs_difference": 0.017108890431360952
+        },
+        {
+          "role": "dnp15",
+          "n": 2,
+          "intact_mean": 0.01964933891082824,
+          "silenced_mean": 0.021903144475534563,
+          "mean_abs_difference": 0.002253805564706323,
+          "max_abs_difference": 0.002371860239334493
+        },
+        {
+          "role": "lpi",
+          "n": 6,
+          "intact_mean": 0.05218147583869724,
+          "silenced_mean": 0.05218144296530058,
+          "mean_abs_difference": 4.2620429603788876e-08,
+          "max_abs_difference": 1.375848840759475e-07
+        },
+        {
+          "role": "ulptcrn",
+          "n": 17,
+          "intact_mean": 0.014738023988830172,
+          "silenced_mean": 0.01646968897211812,
+          "mean_abs_difference": 0.0020201779398255604,
+          "max_abs_difference": 0.006384876647444061
+        },
+        {
+          "role": "h2rn",
+          "n": 8,
+          "intact_mean": 0.024090945889462242,
+          "silenced_mean": 0.024096054734595293,
+          "mean_abs_difference": 0.0001049025087793511,
+          "max_abs_difference": 0.00035057282285181485
+        }
+      ],
+      "source_hash": "f13caed05373c685efef2ee608d3e8988098bcfb039d531049818290c9741604",
+      "trace_path": "results/shared_eye_t4t5_bips_v1/traces/condition_00.npz",
+      "trace_sha256": "b8923e9241c65fcf565bead5a4873dcae73096f38f4ecd89277dc17b0ae1aaaa",
+      "bips_silenced_ids": [
+        "11919",
+        "12072"
+      ]
+    },
+    {
+      "condition": 1,
+      "label": "HORIZONTAL_GLOBAL_POSITIVE",
+      "role_results": [
+        {
+          "role": "hs",
+          "n": 8,
+          "intact_mean": 0.038491520608626824,
+          "silenced_mean": 0.03845054064433393,
+          "mean_abs_difference": 6.0373885416416285e-05,
+          "max_abs_difference": 0.00022052907871193683
+        },
+        {
+          "role": "h2",
+          "n": 2,
+          "intact_mean": 0.04490960062265522,
+          "silenced_mean": 0.04491050882463633,
+          "mean_abs_difference": 1.9604419182503145e-06,
+          "max_abs_difference": 3.1147882249144e-06
+        },
+        {
+          "role": "bips",
+          "n": 2,
+          "intact_mean": 0.013377143038413534,
+          "silenced_mean": 0.0,
+          "mean_abs_difference": 0.013377143038413534,
+          "max_abs_difference": 0.015929888653018295
+        },
+        {
+          "role": "dnp15",
+          "n": 2,
+          "intact_mean": 0.017289724901237494,
+          "silenced_mean": 0.01925897673863271,
+          "mean_abs_difference": 0.0019692518373952204,
+          "max_abs_difference": 0.002232881672081844
+        },
+        {
+          "role": "lpi",
+          "n": 6,
+          "intact_mean": 0.046048326222678355,
+          "silenced_mean": 0.04604829557410326,
+          "mean_abs_difference": 3.900110497874873e-08,
+          "max_abs_difference": 1.3598963927163865e-07
+        },
+        {
+          "role": "ulptcrn",
+          "n": 17,
+          "intact_mean": 0.012841001815750304,
+          "silenced_mean": 0.014348287435745552,
+          "mean_abs_difference": 0.0017642465220331378,
+          "max_abs_difference": 0.006015664421135533
+        },
+        {
+          "role": "h2rn",
+          "n": 8,
+          "intact_mean": 0.021325519437470075,
+          "silenced_mean": 0.021330922533570724,
+          "mean_abs_difference": 9.344613451482044e-05,
+          "max_abs_difference": 0.0003443692441124323
+        }
+      ],
+      "source_hash": "bb09cd0f47abac3d9af6e0da21153e0ca90f32636157a69c69c4159fed6c9c8f",
+      "trace_path": "results/shared_eye_t4t5_bips_v1/traces/condition_01.npz",
+      "trace_sha256": "3341fae3d3c5ba5b2dedf0f20eba63186ee479b2add6f55a9a475a3e03df6d2b",
+      "bips_silenced_ids": [
+        "11919",
+        "12072"
+      ]
+    },
+    {
+      "condition": 2,
+      "label": "HORIZONTAL_GLOBAL_NEGATIVE",
+      "role_results": [
+        {
+          "role": "hs",
+          "n": 8,
+          "intact_mean": 0.038912833165737,
+          "silenced_mean": 0.038871850259233086,
+          "mean_abs_difference": 6.089783698685404e-05,
+          "max_abs_difference": 0.00021389176633405255
+        },
+        {
+          "role": "h2",
+          "n": 2,
+          "intact_mean": 0.04468487564398806,
+          "silenced_mean": 0.04468589932185337,
+          "mean_abs_difference": 2.0355657398374504e-06,
+          "max_abs_difference": 3.369593615645816e-06
+        },
+        {
+          "role": "bips",
+          "n": 2,
+          "intact_mean": 0.013596684724100618,
+          "silenced_mean": 0.0,
+          "mean_abs_difference": 0.013596684724100618,
+          "max_abs_difference": 0.01686567996455796
+        },
+        {
+          "role": "dnp15",
+          "n": 2,
+          "intact_mean": 0.0173782412327295,
+          "silenced_mean": 0.01937521881544272,
+          "mean_abs_difference": 0.001996977582713222,
+          "max_abs_difference": 0.0023405741227654833
+        },
+        {
+          "role": "lpi",
+          "n": 6,
+          "intact_mean": 0.04616461808638175,
+          "silenced_mean": 0.046164588964168266,
+          "mean_abs_difference": 3.801922457531031e-08,
+          "max_abs_difference": 1.3421517999767651e-07
+        },
+        {
+          "role": "ulptcrn",
+          "n": 17,
+          "intact_mean": 0.013051561366632682,
+          "silenced_mean": 0.01458919980152394,
+          "mean_abs_difference": 0.0017915457830257474,
+          "max_abs_difference": 0.006300125252464938
+        },
+        {
+          "role": "h2rn",
+          "n": 8,
+          "intact_mean": 0.021561064347827858,
+          "silenced_mean": 0.021564635357054676,
+          "mean_abs_difference": 9.203206766387442e-05,
+          "max_abs_difference": 0.00032960839412101914
+        }
+      ],
+      "source_hash": "7f26fb34fb106042bc9c71b27e53f81db275b3ca7afa84668dc465a64b8c77ce",
+      "trace_path": "results/shared_eye_t4t5_bips_v1/traces/condition_02.npz",
+      "trace_sha256": "853351dd3a7c67f681fe18added8acd9f6b922300d80e4af905707272e86172d",
+      "bips_silenced_ids": [
+        "11919",
+        "12072"
+      ]
+    },
+    {
+      "condition": 3,
+      "label": "LEFT_FIELD_POSITIVE",
+      "role_results": [
+        {
+          "role": "hs",
+          "n": 8,
+          "intact_mean": 0.04027140076032148,
+          "silenced_mean": 0.04022860972065128,
+          "mean_abs_difference": 6.295795936888326e-05,
+          "max_abs_difference": 0.00022195660578649273
+        },
+        {
+          "role": "h2",
+          "n": 2,
+          "intact_mean": 0.048436382600737675,
+          "silenced_mean": 0.04843732152529693,
+          "mean_abs_difference": 2.028582100631189e-06,
+          "max_abs_difference": 3.149489096250513e-06
+        },
+        {
+          "role": "bips",
+          "n": 2,
+          "intact_mean": 0.013967420323354804,
+          "silenced_mean": 0.0,
+          "mean_abs_difference": 0.013967420323354804,
+          "max_abs_difference": 0.01606975588038774
+        },
+        {
+          "role": "dnp15",
+          "n": 2,
+          "intact_mean": 0.01834713046103258,
+          "silenced_mean": 0.020401177617607225,
+          "mean_abs_difference": 0.0020540471565746463,
+          "max_abs_difference": 0.0022506638642011655
+        },
+        {
+          "role": "lpi",
+          "n": 6,
+          "intact_mean": 0.048613524335793384,
+          "silenced_mean": 0.048613492312661655,
+          "mean_abs_difference": 4.062160952948503e-08,
+          "max_abs_difference": 1.3654084902309238e-07
+        },
+        {
+          "role": "ulptcrn",
+          "n": 17,
+          "intact_mean": 0.013568778283650289,
+          "silenced_mean": 0.01513899539807004,
+          "mean_abs_difference": 0.0018393261513644616,
+          "max_abs_difference": 0.0060632250235665795
+        },
+        {
+          "role": "h2rn",
+          "n": 8,
+          "intact_mean": 0.02302792040237137,
+          "silenced_mean": 0.023034094844620642,
+          "mean_abs_difference": 9.804914845923125e-05,
+          "max_abs_difference": 0.0003467277688517338
+        }
+      ],
+      "source_hash": "303564eb216492212e6b2b93660a79fc4bb823953ff9e434898c0da668a817c8",
+      "trace_path": "results/shared_eye_t4t5_bips_v1/traces/condition_03.npz",
+      "trace_sha256": "f7c2a78e6e33d7c7e25753794e6af74fbf3280acaa1654a1d6feb4a2d5fcd578",
+      "bips_silenced_ids": [
+        "11919",
+        "12072"
+      ]
+    },
+    {
+      "condition": 4,
+      "label": "LEFT_FIELD_NEGATIVE",
+      "role_results": [
+        {
+          "role": "hs",
+          "n": 8,
+          "intact_mean": 0.04238771176814569,
+          "silenced_mean": 0.042343441441158175,
+          "mean_abs_difference": 6.548440612190932e-05,
+          "max_abs_difference": 0.00022192125337629903
+        },
+        {
+          "role": "h2",
+          "n": 2,
+          "intact_mean": 0.046198333528887324,
+          "silenced_mean": 0.0461993844434257,
+          "mean_abs_difference": 2.1493586782805788e-06,
+          "max_abs_difference": 3.452373042722723e-06
+        },
+        {
+          "role": "bips",
+          "n": 2,
+          "intact_mean": 0.014602682742174676,
+          "silenced_mean": 0.0,
+          "mean_abs_difference": 0.014602682742174676,
+          "max_abs_difference": 0.017151782176484
+        },
+        {
+          "role": "dnp15",
+          "n": 2,
+          "intact_mean": 0.018454756914564576,
+          "silenced_mean": 0.02059900987056678,
+          "mean_abs_difference": 0.0021442529560022033,
+          "max_abs_difference": 0.002377010771839893
+        },
+        {
+          "role": "lpi",
+          "n": 6,
+          "intact_mean": 0.04911721347297354,
+          "silenced_mean": 0.04911718147722175,
+          "mean_abs_difference": 4.1256237435713386e-08,
+          "max_abs_difference": 1.360598593791451e-07
+        },
+        {
+          "role": "ulptcrn",
+          "n": 17,
+          "intact_mean": 0.01403440535344247,
+          "silenced_mean": 0.015679668997249836,
+          "mean_abs_difference": 0.0019216753168719589,
+          "max_abs_difference": 0.006397963101081441
+        },
+        {
+          "role": "h2rn",
+          "n": 8,
+          "intact_mean": 0.022327906669389757,
+          "silenced_mean": 0.022333094623124543,
+          "mean_abs_difference": 0.0001005335955406341,
+          "max_abs_difference": 0.00034588259547884206
+        }
+      ],
+      "source_hash": "cb858a6fdadb51258f437d8b88e1608547c522c2d6d7ae6c7391d597914fac01",
+      "trace_path": "results/shared_eye_t4t5_bips_v1/traces/condition_04.npz",
+      "trace_sha256": "75199873e99919a20d636988e4427c7736fb5b68bb39af4e0476bcbff7601ce1",
+      "bips_silenced_ids": [
+        "11919",
+        "12072"
+      ]
+    },
+    {
+      "condition": 5,
+      "label": "RIGHT_FIELD_POSITIVE",
+      "role_results": [
+        {
+          "role": "hs",
+          "n": 8,
+          "intact_mean": 0.04254241676486091,
+          "silenced_mean": 0.04249797595984355,
+          "mean_abs_difference": 6.600993007800642e-05,
+          "max_abs_difference": 0.0002226076348243594
+        },
+        {
+          "role": "h2",
+          "n": 2,
+          "intact_mean": 0.04688764315412356,
+          "silenced_mean": 0.04688876259236231,
+          "mean_abs_difference": 2.2102868129173247e-06,
+          "max_abs_difference": 3.3924706400179083e-06
+        },
+        {
+          "role": "bips",
+          "n": 2,
+          "intact_mean": 0.0147943345121143,
+          "silenced_mean": 0.0,
+          "mean_abs_difference": 0.0147943345121143,
+          "max_abs_difference": 0.016941945372019356
+        },
+        {
+          "role": "dnp15",
+          "n": 2,
+          "intact_mean": 0.018586345580159275,
+          "silenced_mean": 0.020754197678636968,
+          "mean_abs_difference": 0.002167852098477693,
+          "max_abs_difference": 0.0023499916550949844
+        },
+        {
+          "role": "lpi",
+          "n": 6,
+          "intact_mean": 0.04959550491766407,
+          "silenced_mean": 0.049595473426871775,
+          "mean_abs_difference": 4.098366970968492e-08,
+          "max_abs_difference": 1.3626906657238091e-07
+        },
+        {
+          "role": "ulptcrn",
+          "n": 17,
+          "intact_mean": 0.014002754239506015,
+          "silenced_mean": 0.01567060874188656,
+          "mean_abs_difference": 0.0019440580364266272,
+          "max_abs_difference": 0.006326208094783242
+        },
+        {
+          "role": "h2rn",
+          "n": 8,
+          "intact_mean": 0.02238729209746409,
+          "silenced_mean": 0.022391622677712966,
+          "mean_abs_difference": 0.00010024004171398879,
+          "max_abs_difference": 0.00034762144993341973
+        }
+      ],
+      "source_hash": "499bf4c09a35afd94503e89e64e81c869e38bb0fef5a60eb81a31b7ad9692dc1",
+      "trace_path": "results/shared_eye_t4t5_bips_v1/traces/condition_05.npz",
+      "trace_sha256": "ff128b926f693d62c33d14f59a57dfc2ba430c07d6d4c31be2fb44ef00bfb034",
+      "bips_silenced_ids": [
+        "11919",
+        "12072"
+      ]
+    },
+    {
+      "condition": 6,
+      "label": "RIGHT_FIELD_NEGATIVE",
+      "role_results": [
+        {
+          "role": "hs",
+          "n": 8,
+          "intact_mean": 0.04083192143204736,
+          "silenced_mean": 0.04078896504873354,
+          "mean_abs_difference": 6.399358930081521e-05,
+          "max_abs_difference": 0.00021595575840529374
+        },
+        {
+          "role": "h2",
+          "n": 2,
+          "intact_mean": 0.048912016514414534,
+          "silenced_mean": 0.048913138806704864,
+          "mean_abs_difference": 2.163865476105382e-06,
+          "max_abs_difference": 3.346674513418635e-06
+        },
+        {
+          "role": "bips",
+          "n": 2,
+          "intact_mean": 0.01437508415903545,
+          "silenced_mean": 0.0,
+          "mean_abs_difference": 0.01437508415903545,
+          "max_abs_difference": 0.01681085729208524
+        },
+        {
+          "role": "dnp15",
+          "n": 2,
+          "intact_mean": 0.018568003228480647,
+          "silenced_mean": 0.020672881853312564,
+          "mean_abs_difference": 0.002104878624831911,
+          "max_abs_difference": 0.002336218164344008
+        },
+        {
+          "role": "lpi",
+          "n": 6,
+          "intact_mean": 0.04919874021186783,
+          "silenced_mean": 0.04919871022257793,
+          "mean_abs_difference": 3.936510086573528e-08,
+          "max_abs_difference": 1.3482616360860344e-07
+        },
+        {
+          "role": "ulptcrn",
+          "n": 17,
+          "intact_mean": 0.013743564520321336,
+          "silenced_mean": 0.015366318061906498,
+          "mean_abs_difference": 0.001888559665657956,
+          "max_abs_difference": 0.0062893127039685155
+        },
+        {
+          "role": "h2rn",
+          "n": 8,
+          "intact_mean": 0.023325064371989872,
+          "silenced_mean": 0.023328554839208364,
+          "mean_abs_difference": 9.632883790755241e-05,
+          "max_abs_difference": 0.0003336000607863168
+        }
+      ],
+      "source_hash": "8fb0e96b63296cb1d9665be0b3dc61928ac03b65369afe8a2f0c9b00aa1119df",
+      "trace_path": "results/shared_eye_t4t5_bips_v1/traces/condition_06.npz",
+      "trace_sha256": "a43fab742576a4f40949a11ed7d4be6c80a152d914768402e315cca4d6707f96",
+      "bips_silenced_ids": [
+        "11919",
+        "12072"
+      ]
+    }
+  ],
+  "numerical": {
+    "coarse_dt_s": 0.001,
+    "fine_dt_s": 0.0005,
+    "max_difference": 4.365411207702969e-10,
+    "guard": 1e-08,
+    "independent_python_max_difference": 2.7755575615628914e-17,
+    "parity_guard": 1e-10
+  },
+  "biological_gate": "unqualified: no matched downstream recording in these inputs",
+  "source_previous_selectivity": "0/8 subtype-eye groups met previous 75% engineering gate",
+  "walking_test": "not run; source selectivity and matched physiology prerequisites unmet",
+  "outcome_scope": "retrospective visual controls and in-model bIPS perturbation; no real-fly causality",
+  "wall_seconds": 42.31077554100011,
+  "process_cpu_seconds": 41.580991896,
+  "peak_rss_bytes": 167510016
+}

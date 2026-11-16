@@ -1,0 +1,37 @@
+{
+  "utc": "2026-10-25T15:22:16.551443+00:00",
+  "unused_test_inputs_not_generated": true,
+  "readouts_and_criteria_fixed": true,
+  "files": [
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/readouts/models.json",
+      "size_bytes": 63435,
+      "sha256": "1138e3603b15b4b13c68f6552c95ec16e90aa185270270f2d06f9f0fd74d258c"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/readouts/before_test.json",
+      "size_bytes": 1320,
+      "sha256": "c431db12da0522fee8c1f13a7b0e48944627ab94cc225e124b4721bb51c79192"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/pretest_serialization_check.json",
+      "size_bytes": 423,
+      "sha256": "c4830335333e877ad50ac14b0c42952ecfb935cd0b482abef118f128de941329"
+    },
+    {
+      "path": "scripts/score_geometry_grounded_small_yaw_v2.py",
+      "size_bytes": 2085,
+      "sha256": "2d8065acc3e757acd6ec05dac6389309086c9da43dd18adcce2b79239b485f5f"
+    },
+    {
+      "path": "scripts/validate_geometry_grounded_small_yaw_v2.py",
+      "size_bytes": 6166,
+      "sha256": "d051060637b31d7eed3388ff4f7e432d14b2196008caca82cd9741aa166299a5"
+    },
+    {
+      "path": "scripts/review_geometry_grounded_small_yaw_v2.py",
+      "size_bytes": 8579,
+      "sha256": "f620b7b7a3a5de54c274f7784bef2ed7fdf9d950037b43f82192b7efd4973924"
+    }
+  ]
+}

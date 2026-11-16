@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/mi1_calcium_benchmark_v1/completion_r2/artifact_index.json",
+    "bytes": 8208,
+    "sha256": "15c43a8b6f27f461c0105d56385d0714a08471e6ec187846721a7993459e1793"
+  },
+  "verified_files": 40,
+  "verified_after_sealer_exit": true
+}

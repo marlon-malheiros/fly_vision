@@ -1,0 +1,64 @@
+{
+  "status": "COMPLETE",
+  "cases": [
+    {
+      "case": "f00_v11_y+0_primary",
+      "selected_source_max_abs_difference": 0.0938993012430347,
+      "wide_max_abs_difference": 7.882065256499082e-05,
+      "wide_primary_window_max_abs_difference": 7.871323148802645e-05,
+      "functional_score_at_1_19_s": -0.19224407196206342,
+      "hybrid_score_at_1_19_s": -0.2470015115014396,
+      "decoder_cutoff_for_context": 1.1329958232706985,
+      "trace_path": "results/hybrid_t4_walking_pilot_v1/traces/f00_v11_y+0_primary.npz",
+      "trace_sha256": "bb824f110c4ae8b7a5cbd457c5fe9421c3b6c083957dfaf49d014fc2fecc1e1e"
+    },
+    {
+      "case": "f00_v11_y-2_primary",
+      "selected_source_max_abs_difference": 0.0938993012430347,
+      "wide_max_abs_difference": 7.879874190158112e-05,
+      "wide_primary_window_max_abs_difference": 7.867911813426529e-05,
+      "functional_score_at_1_19_s": -2.39032337615745,
+      "hybrid_score_at_1_19_s": -2.443413955971069,
+      "decoder_cutoff_for_context": 1.1329958232706985,
+      "trace_path": "results/hybrid_t4_walking_pilot_v1/traces/f00_v11_y-2_primary.npz",
+      "trace_sha256": "da7db0680354a1de4ec98cd7ef64f7ae002f483e5fe89a2cb6d6d7a90f5e9925"
+    },
+    {
+      "case": "f00_v11_y+2_primary",
+      "selected_source_max_abs_difference": 0.0938993012430347,
+      "wide_max_abs_difference": 7.884483871701642e-05,
+      "wide_primary_window_max_abs_difference": 7.874803720964683e-05,
+      "functional_score_at_1_19_s": 1.9915064200487957,
+      "hybrid_score_at_1_19_s": 1.9349570900209563,
+      "decoder_cutoff_for_context": 1.1329958232706985,
+      "trace_path": "results/hybrid_t4_walking_pilot_v1/traces/f00_v11_y+2_primary.npz",
+      "trace_sha256": "73d6ffddab025b4ec86a251d29a37481ed2e22466fd39e6c935655834bec84c1"
+    }
+  ],
+  "network_refinements": [
+    {
+      "variant": "functional",
+      "max_wide_difference": 1.1107360040410463e-11,
+      "passed": true
+    },
+    {
+      "variant": "hybrid",
+      "max_wide_difference": 1.110633010255671e-11,
+      "passed": true
+    },
+    {
+      "variant": "hybrid_independent_python",
+      "max_wide_difference": 9.75781955236954e-19,
+      "passed": true
+    }
+  ],
+  "network_refinement_guard": 1e-08,
+  "identical_causal_prefixes": true,
+  "untouched_t4_t5_sources_bit_identical": true,
+  "fixed_decoder_not_refitted": true,
+  "walking_detection_qualified": false,
+  "biological_validation": false,
+  "duration_s": 25.55541157499829,
+  "process_cpu_seconds": 25.465873687000002,
+  "peak_rss_bytes": 282763264
+}

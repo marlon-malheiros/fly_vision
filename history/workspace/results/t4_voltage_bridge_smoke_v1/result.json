@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "kind": "retrospective sparse wiring smoke only",
+  "voltage_source": "results/t4_reserved_transfer_v1/motion/c06_h160_ND_fine_voltage.npz",
+  "voltage_sha256": "2ee7c5bfb943c05166c41381d7184e1db191203e8407676edb677902991475c4",
+  "source_is_single_saved_individual_trace_not_registration_ensemble": true,
+  "voltage_trace_reused_from_already_inspected_recording": true,
+  "target_selection": "horizontal T4 with largest absolute summed direct HS/H2 weight",
+  "target_body_id": "547634",
+  "target_type": "T4a",
+  "target_weight_sum": 0.006565333598005082,
+  "source_cells": 13579,
+  "replaced_cells": 1,
+  "other_sources": "zero, including all T5",
+  "coupling": "max(voltage_mv + 65, 0) / 65",
+  "coupling_is_biologically_calibrated": false,
+  "time_s": [
+    0.0,
+    1.5
+  ],
+  "input_dt_s": 0.01,
+  "solver_dt_s": 0.001,
+  "voltage_min_mv": -65.0,
+  "voltage_max_mv": -56.01581161432334,
+  "max_drive": 0.138218282856564,
+  "max_abs_wide_rate": 0.00012766577486007793,
+  "zero_drive_control_max_abs_wide_rate": 0.0,
+  "no_direct_wide_drive": true,
+  "nontarget_source_unchanged": true,
+  "walking_or_physiological_validation": false,
+  "graph_file_sha256": {
+    "graph.json": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8",
+    "graph_arrays.npz": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54",
+    "chemical_weights.npz": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa",
+    "gap_weights.npz": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+  }
+}

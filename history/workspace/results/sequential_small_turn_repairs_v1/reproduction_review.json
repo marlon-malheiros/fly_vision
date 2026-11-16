@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "cases": [
+    "f00_v16.5_y+0",
+    "f04_v11_y+0",
+    "z00_v16.5_y+2",
+    "z23_v16.5_y-2"
+  ],
+  "every_retained_array_exact": true,
+  "fresh_renderer_and_neural_build": true,
+  "scope": "Four predetermined cases; not a second complete 496-case sweep"
+}

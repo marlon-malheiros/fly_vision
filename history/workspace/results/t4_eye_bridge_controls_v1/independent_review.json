@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "source_and_input_hashes_match": true,
+  "scalar_samples": 1980,
+  "max_scalar_contrast_error": 8.715250743307479e-15,
+  "one_cell_graph_reference_max_abs_difference": 0.0,
+  "scope": "numerical implementation review only; not independent biological validation"
+}

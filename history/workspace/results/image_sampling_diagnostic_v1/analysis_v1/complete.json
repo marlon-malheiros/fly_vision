@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "planned_trajectories": 220,
+  "inputs": 44,
+  "comparison_rows": 308,
+  "cell_rows": 4312,
+  "scores": 840,
+  "score_comparisons": 1176,
+  "primary_comparisons": 132,
+  "stability_gate_met": false,
+  "stationary_max_source": 0.0,
+  "stationary_max_response": 0.0,
+  "component_failures": {
+    "retina_gate": 44,
+    "drive_gate": 0,
+    "mean_gate": 0,
+    "contrast_gate": 6,
+    "score_gate": 45,
+    "decision_gate": 0
+  },
+  "adjacent_score_failures": 30,
+  "adjacent_decision_failures": 0,
+  "new_threshold_estimated": false,
+  "biological_validation": false,
+  "model_or_decoder_fitted": false
+}

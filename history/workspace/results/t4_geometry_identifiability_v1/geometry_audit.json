@@ -1,0 +1,715 @@
+{
+  "cells": [
+    {
+      "cell": 3,
+      "conditions": 44,
+      "selected_shift": [
+        0,
+        0
+      ],
+      "selected_aliases": [
+        [
+          0,
+          -2
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          2
+        ]
+      ],
+      "class_count": 5,
+      "exact_classes": [
+        {
+          "sha256": "3b161d1b5eb8a84d83db79dd5220f8694112c42b400543f4efa1f10514471218",
+          "shifts": [
+            [
+              -2,
+              -2
+            ],
+            [
+              -2,
+              -1
+            ],
+            [
+              -2,
+              0
+            ],
+            [
+              -2,
+              1
+            ],
+            [
+              -2,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "5f2c8c658ef4863dd57f871b1bc8e6041166b40786e9bf8ca4b12d02944fb49e",
+          "shifts": [
+            [
+              -1,
+              -2
+            ],
+            [
+              -1,
+              -1
+            ],
+            [
+              -1,
+              0
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "b351c5aa17b252bc0cb6566af465dbf380cb80b47ee89c41f00f3699b349e5b4",
+          "shifts": [
+            [
+              0,
+              -2
+            ],
+            [
+              0,
+              -1
+            ],
+            [
+              0,
+              0
+            ],
+            [
+              0,
+              1
+            ],
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "6210b2d67fc942e1df5c60f76262bf68807dc9a41dcc83ae45ab01b4bae82620",
+          "shifts": [
+            [
+              1,
+              -2
+            ],
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              0
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "64e95d2bd8042906abf77fa07b3defbd651185d077935f6d48aa13578678b6ce",
+          "shifts": [
+            [
+              2,
+              -2
+            ],
+            [
+              2,
+              -1
+            ],
+            [
+              2,
+              0
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              2,
+              2
+            ]
+          ]
+        }
+      ],
+      "hashes": [
+        "3b161d1b5eb8a84d83db79dd5220f8694112c42b400543f4efa1f10514471218",
+        "3b161d1b5eb8a84d83db79dd5220f8694112c42b400543f4efa1f10514471218",
+        "3b161d1b5eb8a84d83db79dd5220f8694112c42b400543f4efa1f10514471218",
+        "3b161d1b5eb8a84d83db79dd5220f8694112c42b400543f4efa1f10514471218",
+        "3b161d1b5eb8a84d83db79dd5220f8694112c42b400543f4efa1f10514471218",
+        "5f2c8c658ef4863dd57f871b1bc8e6041166b40786e9bf8ca4b12d02944fb49e",
+        "5f2c8c658ef4863dd57f871b1bc8e6041166b40786e9bf8ca4b12d02944fb49e",
+        "5f2c8c658ef4863dd57f871b1bc8e6041166b40786e9bf8ca4b12d02944fb49e",
+        "5f2c8c658ef4863dd57f871b1bc8e6041166b40786e9bf8ca4b12d02944fb49e",
+        "5f2c8c658ef4863dd57f871b1bc8e6041166b40786e9bf8ca4b12d02944fb49e",
+        "b351c5aa17b252bc0cb6566af465dbf380cb80b47ee89c41f00f3699b349e5b4",
+        "b351c5aa17b252bc0cb6566af465dbf380cb80b47ee89c41f00f3699b349e5b4",
+        "b351c5aa17b252bc0cb6566af465dbf380cb80b47ee89c41f00f3699b349e5b4",
+        "b351c5aa17b252bc0cb6566af465dbf380cb80b47ee89c41f00f3699b349e5b4",
+        "b351c5aa17b252bc0cb6566af465dbf380cb80b47ee89c41f00f3699b349e5b4",
+        "6210b2d67fc942e1df5c60f76262bf68807dc9a41dcc83ae45ab01b4bae82620",
+        "6210b2d67fc942e1df5c60f76262bf68807dc9a41dcc83ae45ab01b4bae82620",
+        "6210b2d67fc942e1df5c60f76262bf68807dc9a41dcc83ae45ab01b4bae82620",
+        "6210b2d67fc942e1df5c60f76262bf68807dc9a41dcc83ae45ab01b4bae82620",
+        "6210b2d67fc942e1df5c60f76262bf68807dc9a41dcc83ae45ab01b4bae82620",
+        "64e95d2bd8042906abf77fa07b3defbd651185d077935f6d48aa13578678b6ce",
+        "64e95d2bd8042906abf77fa07b3defbd651185d077935f6d48aa13578678b6ce",
+        "64e95d2bd8042906abf77fa07b3defbd651185d077935f6d48aa13578678b6ce",
+        "64e95d2bd8042906abf77fa07b3defbd651185d077935f6d48aa13578678b6ce",
+        "64e95d2bd8042906abf77fa07b3defbd651185d077935f6d48aa13578678b6ce"
+      ],
+      "previous_fit": {
+        "cell": 3,
+        "offset_pixels": 0,
+        "delay_ms": 30,
+        "gain": 1.3703626313203696,
+        "mse": 5.564450253796552
+      },
+      "image_only": true
+    },
+    {
+      "cell": 4,
+      "conditions": 68,
+      "selected_shift": [
+        0,
+        1
+      ],
+      "selected_aliases": [
+        [
+          -1,
+          0
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "class_count": 21,
+      "exact_classes": [
+        {
+          "sha256": "0d88f21d92183ff1c6541a5307054e2eb16ef98616c7618b821d22483557a0c0",
+          "shifts": [
+            [
+              -2,
+              -2
+            ]
+          ]
+        },
+        {
+          "sha256": "fed2914a978ae8855f1043a83567493115fa43655bb8d18dd1ea614fe4f8ba6c",
+          "shifts": [
+            [
+              -2,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "ef45c878ba1e69d057381508f303f61b33f741b85c62dd67e35f2b127ad91275",
+          "shifts": [
+            [
+              -2,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "8e796f7ebbee2099fcefece75431011600cd523b556cfef9cf877faed54301b3",
+          "shifts": [
+            [
+              -2,
+              1
+            ],
+            [
+              -1,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "15c6b8848ed059d2e1ebf87ea81a7699479de65118da4a9a845e3a6da7b069e9",
+          "shifts": [
+            [
+              -2,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "65fc2085fff722e82906053c6168f02811b60fe77a88ae87584c5a9a9305b36a",
+          "shifts": [
+            [
+              -1,
+              -2
+            ]
+          ]
+        },
+        {
+          "sha256": "08799b4e14e80f1d6796b85925375170df3f304a834feab113df7e05aa52bb20",
+          "shifts": [
+            [
+              -1,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "2cb6ac2de1afcfbd22f1a8c9493aba2a771a565495c997327320a12a218bb666",
+          "shifts": [
+            [
+              -1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "sha256": "10853f2ad08b12b71e996e38f2c1046d0681f398f7d9690e413b554b36279333",
+          "shifts": [
+            [
+              -1,
+              1
+            ]
+          ]
+        },
+        {
+          "sha256": "409b1f5d18617f7d1b5865bd4c543ea23954752b93f6e9cfaf00338ed26c3848",
+          "shifts": [
+            [
+              0,
+              -2
+            ]
+          ]
+        },
+        {
+          "sha256": "a657c3c6826635871efe0c34e990cb5dc027db947365ea09a50d3327ad7c9562",
+          "shifts": [
+            [
+              0,
+              -1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "05cdbf9296a6165a3d9916c9a6c7a8e5853ca5b496918c03b67d19b29a4ac0d1",
+          "shifts": [
+            [
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "442e5ae31aa7f605effc8b41d9e5d1fd0701caea62c078d11bf4b92cf89cbd7a",
+          "shifts": [
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "275ffb1171c7791d49338817bd6098236b6175a1498d2d9aab124c2da282bfb7",
+          "shifts": [
+            [
+              1,
+              -2
+            ],
+            [
+              2,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "677fd9ede8c2f98796194399e6eb95fef65c116ad4bcb7a71cab3af3caf72193",
+          "shifts": [
+            [
+              1,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "a6631b31e493fea056bcb837ea9cc00b919f525c4787ee4c713d3273bdca9de3",
+          "shifts": [
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "sha256": "761ed63fcff99cf2338aab2363e556553bbf4143c907666d7d13b63cfe10536f",
+          "shifts": [
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "d14b6d1ec08e583a529089e25dd062c4c9c3c835ca63bb8848a900c1e40ab8dc",
+          "shifts": [
+            [
+              2,
+              -2
+            ]
+          ]
+        },
+        {
+          "sha256": "f50d9570c1550f2b0a3701bd0e7d99c51f8b3b175ee67a7d599efec937f53c33",
+          "shifts": [
+            [
+              2,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "ec93f47af57df7b2e2e960254ae84274ed4e93a3462ccae6f07fd42bf8c6272f",
+          "shifts": [
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "sha256": "1a29d9e26c0022dad75a7e5eb6e95834836bc403d772e998c520ce5887afa355",
+          "shifts": [
+            [
+              2,
+              2
+            ]
+          ]
+        }
+      ],
+      "hashes": [
+        "0d88f21d92183ff1c6541a5307054e2eb16ef98616c7618b821d22483557a0c0",
+        "fed2914a978ae8855f1043a83567493115fa43655bb8d18dd1ea614fe4f8ba6c",
+        "ef45c878ba1e69d057381508f303f61b33f741b85c62dd67e35f2b127ad91275",
+        "8e796f7ebbee2099fcefece75431011600cd523b556cfef9cf877faed54301b3",
+        "15c6b8848ed059d2e1ebf87ea81a7699479de65118da4a9a845e3a6da7b069e9",
+        "65fc2085fff722e82906053c6168f02811b60fe77a88ae87584c5a9a9305b36a",
+        "08799b4e14e80f1d6796b85925375170df3f304a834feab113df7e05aa52bb20",
+        "2cb6ac2de1afcfbd22f1a8c9493aba2a771a565495c997327320a12a218bb666",
+        "10853f2ad08b12b71e996e38f2c1046d0681f398f7d9690e413b554b36279333",
+        "8e796f7ebbee2099fcefece75431011600cd523b556cfef9cf877faed54301b3",
+        "409b1f5d18617f7d1b5865bd4c543ea23954752b93f6e9cfaf00338ed26c3848",
+        "a657c3c6826635871efe0c34e990cb5dc027db947365ea09a50d3327ad7c9562",
+        "05cdbf9296a6165a3d9916c9a6c7a8e5853ca5b496918c03b67d19b29a4ac0d1",
+        "2cb6ac2de1afcfbd22f1a8c9493aba2a771a565495c997327320a12a218bb666",
+        "442e5ae31aa7f605effc8b41d9e5d1fd0701caea62c078d11bf4b92cf89cbd7a",
+        "275ffb1171c7791d49338817bd6098236b6175a1498d2d9aab124c2da282bfb7",
+        "677fd9ede8c2f98796194399e6eb95fef65c116ad4bcb7a71cab3af3caf72193",
+        "a657c3c6826635871efe0c34e990cb5dc027db947365ea09a50d3327ad7c9562",
+        "a6631b31e493fea056bcb837ea9cc00b919f525c4787ee4c713d3273bdca9de3",
+        "761ed63fcff99cf2338aab2363e556553bbf4143c907666d7d13b63cfe10536f",
+        "d14b6d1ec08e583a529089e25dd062c4c9c3c835ca63bb8848a900c1e40ab8dc",
+        "275ffb1171c7791d49338817bd6098236b6175a1498d2d9aab124c2da282bfb7",
+        "f50d9570c1550f2b0a3701bd0e7d99c51f8b3b175ee67a7d599efec937f53c33",
+        "ec93f47af57df7b2e2e960254ae84274ed4e93a3462ccae6f07fd42bf8c6272f",
+        "1a29d9e26c0022dad75a7e5eb6e95834836bc403d772e998c520ce5887afa355"
+      ],
+      "previous_fit": {
+        "cell": 4,
+        "offset_pixels": -1,
+        "delay_ms": 20,
+        "gain": 0.781752828621388,
+        "mse": 3.9580172544540497
+      },
+      "image_only": true
+    },
+    {
+      "cell": 5,
+      "conditions": 52,
+      "selected_shift": [
+        0,
+        -1
+      ],
+      "selected_aliases": [
+        [
+          0,
+          -1
+        ],
+        [
+          1,
+          0
+        ]
+      ],
+      "class_count": 19,
+      "exact_classes": [
+        {
+          "sha256": "b7efc5bed21cef5c59b4b8e74f1363b1a039ec2530d1488ee6e5f60d3f1b8652",
+          "shifts": [
+            [
+              -2,
+              -2
+            ]
+          ]
+        },
+        {
+          "sha256": "f23451bc84a200b21f3e56fd4dfbd96a0a8833df10b4ead2ec497434c337b867",
+          "shifts": [
+            [
+              -2,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "46487755b15f4913577bad9d8574076b90a9aef873212df526f23b81d9940f38",
+          "shifts": [
+            [
+              -2,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "aa34d5472865bb2aea4307e157285882eddc62e17edb84b69310f7ff77c1b23f",
+          "shifts": [
+            [
+              -2,
+              1
+            ],
+            [
+              -1,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "6c00bbe64c5458856d9e2b79cbd7ff2e15cb1d2f33b4804ae2099907ee1d3127",
+          "shifts": [
+            [
+              -2,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "455207873df62908782de55ee4b0b54d82df153f538c99aa60d1554c6a8dbf0f",
+          "shifts": [
+            [
+              -1,
+              -2
+            ]
+          ]
+        },
+        {
+          "sha256": "53706c5811b628cc30a2cbeb2591f212f9c689a3591fb21ef4361b86ce0e3458",
+          "shifts": [
+            [
+              -1,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "c22dea9232f597055e03450eefbc79303e9c2a4497db5dc72e86bc4fac26b673",
+          "shifts": [
+            [
+              -1,
+              0
+            ],
+            [
+              0,
+              1
+            ]
+          ]
+        },
+        {
+          "sha256": "026f294dabf6ebc5c5bd83cfcd034e58c7b40dcaba0514286f4f1c8d21ffd2d1",
+          "shifts": [
+            [
+              -1,
+              1
+            ],
+            [
+              0,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "8bb44fb14a0957a3455b0dae1291c329d0eb13e4752f32e922a3d96d2b157c38",
+          "shifts": [
+            [
+              0,
+              -2
+            ],
+            [
+              1,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "2706aedb44f7fd24fb50e2a9b00457b9812337b2dc4553cf16db6a8590af471a",
+          "shifts": [
+            [
+              0,
+              -1
+            ],
+            [
+              1,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "388d92f24c6bb3918489310dc28994e10671a98b121b947d7598cad07d0186e7",
+          "shifts": [
+            [
+              0,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "32a8f906ac4cd44e77fe5e8e287be29d3127fce6d665495b8395bb69a19dd8e5",
+          "shifts": [
+            [
+              1,
+              -2
+            ],
+            [
+              2,
+              -1
+            ]
+          ]
+        },
+        {
+          "sha256": "6942ba4d5172795282f4488bc798dc50a143b68ffe1a3a3c790086fb690d2463",
+          "shifts": [
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "sha256": "9651977a5539cad11170b9560bc1ec502364cd5d7029e31faec3e9f043d634e9",
+          "shifts": [
+            [
+              1,
+              2
+            ]
+          ]
+        },
+        {
+          "sha256": "8d9a331c0b04dbf6e3c15182eaa0186e5f86d4a7ba24f972e370883f3c7985aa",
+          "shifts": [
+            [
+              2,
+              -2
+            ]
+          ]
+        },
+        {
+          "sha256": "242fea181289070f259ba8d3bda0dc7992482bff6553ef1680cb9852a6bc586a",
+          "shifts": [
+            [
+              2,
+              0
+            ]
+          ]
+        },
+        {
+          "sha256": "3f688d5feed6552e5bc16d211498534bbba74cc9bdd019aa6839f94052046dfb",
+          "shifts": [
+            [
+              2,
+              1
+            ]
+          ]
+        },
+        {
+          "sha256": "9a5cd2d7ec78dc27fdce580b20356f5eba515d7bf90eab65406ef143b2ea45d7",
+          "shifts": [
+            [
+              2,
+              2
+            ]
+          ]
+        }
+      ],
+      "hashes": [
+        "b7efc5bed21cef5c59b4b8e74f1363b1a039ec2530d1488ee6e5f60d3f1b8652",
+        "f23451bc84a200b21f3e56fd4dfbd96a0a8833df10b4ead2ec497434c337b867",
+        "46487755b15f4913577bad9d8574076b90a9aef873212df526f23b81d9940f38",
+        "aa34d5472865bb2aea4307e157285882eddc62e17edb84b69310f7ff77c1b23f",
+        "6c00bbe64c5458856d9e2b79cbd7ff2e15cb1d2f33b4804ae2099907ee1d3127",
+        "455207873df62908782de55ee4b0b54d82df153f538c99aa60d1554c6a8dbf0f",
+        "53706c5811b628cc30a2cbeb2591f212f9c689a3591fb21ef4361b86ce0e3458",
+        "c22dea9232f597055e03450eefbc79303e9c2a4497db5dc72e86bc4fac26b673",
+        "026f294dabf6ebc5c5bd83cfcd034e58c7b40dcaba0514286f4f1c8d21ffd2d1",
+        "aa34d5472865bb2aea4307e157285882eddc62e17edb84b69310f7ff77c1b23f",
+        "8bb44fb14a0957a3455b0dae1291c329d0eb13e4752f32e922a3d96d2b157c38",
+        "2706aedb44f7fd24fb50e2a9b00457b9812337b2dc4553cf16db6a8590af471a",
+        "388d92f24c6bb3918489310dc28994e10671a98b121b947d7598cad07d0186e7",
+        "c22dea9232f597055e03450eefbc79303e9c2a4497db5dc72e86bc4fac26b673",
+        "026f294dabf6ebc5c5bd83cfcd034e58c7b40dcaba0514286f4f1c8d21ffd2d1",
+        "32a8f906ac4cd44e77fe5e8e287be29d3127fce6d665495b8395bb69a19dd8e5",
+        "8bb44fb14a0957a3455b0dae1291c329d0eb13e4752f32e922a3d96d2b157c38",
+        "2706aedb44f7fd24fb50e2a9b00457b9812337b2dc4553cf16db6a8590af471a",
+        "6942ba4d5172795282f4488bc798dc50a143b68ffe1a3a3c790086fb690d2463",
+        "9651977a5539cad11170b9560bc1ec502364cd5d7029e31faec3e9f043d634e9",
+        "8d9a331c0b04dbf6e3c15182eaa0186e5f86d4a7ba24f972e370883f3c7985aa",
+        "32a8f906ac4cd44e77fe5e8e287be29d3127fce6d665495b8395bb69a19dd8e5",
+        "242fea181289070f259ba8d3bda0dc7992482bff6553ef1680cb9852a6bc586a",
+        "3f688d5feed6552e5bc16d211498534bbba74cc9bdd019aa6839f94052046dfb",
+        "9a5cd2d7ec78dc27fdce580b20356f5eba515d7bf90eab65406ef143b2ea45d7"
+      ],
+      "previous_fit": {
+        "cell": 5,
+        "offset_pixels": 1,
+        "delay_ms": 40,
+        "gain": 0.6783307005050749,
+        "mse": 3.4577056533463146
+      },
+      "image_only": true
+    }
+  ],
+  "conditions": 164,
+  "registrations_per_cell": 25,
+  "flash_repetitions_verified": 820,
+  "exact_equality": true,
+  "finite_grid_only": true,
+  "unique_biological_RF_identified": false
+}

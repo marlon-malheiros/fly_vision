@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "cell_means_checked": 504,
+  "class_rows_checked": 144,
+  "selectivity_rows_checked": 36,
+  "decoder_fits_checked": 5,
+  "decoder_predictions_checked": 180,
+  "method": "math.fsum raw trajectories and independently fitted scalar centroid classifier"
+}

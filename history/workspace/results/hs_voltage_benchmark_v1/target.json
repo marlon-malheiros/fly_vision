@@ -1,0 +1,18 @@
+{
+  "utc": "2026-10-30T16:55:16.781436+00:00",
+  "n_PD": 12,
+  "n_ND": 12,
+  "mean_PD": 0.015635075231551193,
+  "mean_ND": 0.0030227700185951386,
+  "ratio": 0.1933326174533055,
+  "unpaired_recording_row_interval": [
+    -0.17017411730368434,
+    0.9016040898069678
+  ],
+  "unverified_paired_row_interval": [
+    -0.17333218819315319,
+    0.730541850643422
+  ],
+  "animal_pairing_verified": false,
+  "no_fitting": true
+}

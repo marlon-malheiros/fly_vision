@@ -1,0 +1,27 @@
+{
+  "continue_candidate": false,
+  "guards": {
+    "numerical": true,
+    "images_and_baseline_sources_match": true,
+    "one_bitwise_neural_replay": true,
+    "other_source_columns_bitwise": true,
+    "source_range_and_zero_clipping": true,
+    "positive_PD1": true,
+    "stationary_endpoint": true,
+    "baseline_drift": true,
+    "frequency_rmse": true,
+    "frequency_violation_count": true,
+    "null_suppression_error": true,
+    "half_contrast_both_inside": false
+  },
+  "failed_guards": [
+    "half_contrast_both_inside"
+  ],
+  "biological_validation": false,
+  "physiological_coupling_calibrated": false,
+  "small_turn_reliability_tested": false,
+  "parameters_fitted": 0,
+  "graph_and_decoder_unchanged": true,
+  "numerical_passes": 6,
+  "numerical_total": 6
+}

@@ -1,0 +1,64 @@
+{
+  "utc": "2026-11-02T12:29:49.778845+00:00",
+  "response_values_already_inspected": true,
+  "new_model_responses_scored": false,
+  "mapping_justification": "Author export preserves high-to-low order; published figure supports reversal of spreadsheet labels.",
+  "no_model_parameter_or_input_changed": true,
+  "files": [
+    {
+      "path": "docs/HS_CONTRAST_SOURCE_CORRECTION_PROTOCOL_R2.md",
+      "size_bytes": 4040,
+      "sha256": "c1d41b04ad139af400c3b0b707b297ba9dd68ca15b7755efdef887bd874daa85"
+    },
+    {
+      "path": "scripts/hs_contrast_source_correction_r2.py",
+      "size_bytes": 10110,
+      "sha256": "476738770626d05b0188325a26ffd0d7af817f0e66611561a1548fa5a15d68d3"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/target.json",
+      "size_bytes": 3940,
+      "sha256": "b8ad24623c6aca4292ae0838e36ba9130d8ebbcf0df19cfc03e029f36575d1ab"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/recording_values.csv",
+      "size_bytes": 5878,
+      "sha256": "d49f3985f3d44ec99f848416a0f6256e4209e3721d01259ebe1c9eee9ee56a79"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/before_new_values_and_model.json",
+      "size_bytes": 7525,
+      "sha256": "eaaa45b05187377b12af9a73f8f376081c7e955a1d94ffc1a20556ccb57f2be5"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_audit/acquisition_receipt.json",
+      "size_bytes": 385,
+      "sha256": "f53c5481b9fff67ff643796f1bdbbc915f57437b08b511b5bc530d23fb0caf8d"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_audit/contrast_levels_one_recording.m",
+      "size_bytes": 5130,
+      "sha256": "2e2fb3a23d3a7aa325492f9bc4f80764b8bfef0a85b9db0bc19a0f393bcc09cf"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_audit/contrast_levels_readme.txt",
+      "size_bytes": 1839,
+      "sha256": "bbd0baee5fc1f63851746d0b2612e9ff7c1185eb933c9db776349c73cbec5dbb"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_audit/figure5.png",
+      "size_bytes": 679558,
+      "sha256": "4cebeefb0d205b597c1e8539f9628837693d2fd0084428f6fddb65d3e31a3f15"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_audit/grating_stimuli_contrast_levels.m",
+      "size_bytes": 9159,
+      "sha256": "74f15b009f8331b4c966ca6c94885c14e633d27f2492c8c7abef703c732df4b3"
+    },
+    {
+      "path": "results/hs_contrast_validation_v1/source_audit/make_group_plots_contrast_levels.m",
+      "size_bytes": 13387,
+      "sha256": "d32b06340d5fcbb87d271970df3aaa870d05556f905435f5384422cdca40066a"
+    }
+  ]
+}

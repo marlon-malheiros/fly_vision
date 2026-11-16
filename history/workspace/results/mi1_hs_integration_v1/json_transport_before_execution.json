@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-05T15:46:30.434764+00:00",
+  "files": [
+    {
+      "path": "scripts/mi1_hs_integration_cli_v1.py",
+      "size_bytes": 1337,
+      "sha256": "aa38a3ef19c52c7c223c24c4ae39c5ff5553afb6e9116ba396efc75d7d2ec502"
+    }
+  ],
+  "HS_visual_outcomes_not_computed": true,
+  "change": "Normalize NumPy scalar JSON transport only; all equations/criteria unchanged"
+}

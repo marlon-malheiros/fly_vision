@@ -1,0 +1,89 @@
+{
+  "status": "PASS",
+  "conditions": 8,
+  "checks": [
+    {
+      "row": 1,
+      "key": [
+        1,
+        1,
+        1
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    },
+    {
+      "row": 53,
+      "key": [
+        1,
+        1,
+        53
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    },
+    {
+      "row": 192,
+      "key": [
+        1,
+        2,
+        96
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    },
+    {
+      "row": 384,
+      "key": [
+        2,
+        2,
+        96
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    },
+    {
+      "row": 577,
+      "key": [
+        4,
+        1,
+        1
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    },
+    {
+      "row": 768,
+      "key": [
+        4,
+        2,
+        96
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    },
+    {
+      "row": 1152,
+      "key": [
+        6,
+        2,
+        96
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    },
+    {
+      "row": 1344,
+      "key": [
+        7,
+        2,
+        96
+      ],
+      "count_match": true,
+      "endpoint_match": true
+    }
+  ],
+  "fresh_process": true,
+  "full_second_replay": false,
+  "independence": "Production smoke; separate independent reviewers cover full data"
+}

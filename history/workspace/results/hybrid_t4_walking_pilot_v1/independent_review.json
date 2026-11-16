@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "scalar_native_position_checks": 792,
+  "max_image_contrast_error": 1.6653345369377348e-16,
+  "independent_two_variant_graph_max_difference": 1.3010426069826053e-18,
+  "literal_fixed_decoder_max_score_difference_at_1_19_s": 1.3322676295501878e-15,
+  "scope": "previously inspected scene; numerical/software review only"
+}

@@ -1,0 +1,16 @@
+{
+  "path": "results/validation_hardware_v1/scientific_sealing_execution_v1.log",
+  "recorded_hashes": [
+    {
+      "index": "results/validation_hardware_v1/scientific_completion_v1/artifact_index.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "index": "results/validation_hardware_v1/scientific_completion_v2/artifact_index.json",
+      "sha256": "84575aeb7adb8770e09e79e65a773947705ec4b009c2e2133aa7e8dc6a1a3184"
+    }
+  ],
+  "current_sha256": "84575aeb7adb8770e09e79e65a773947705ec4b009c2e2133aa7e8dc6a1a3184",
+  "touched_by_cleanup": false,
+  "meaning": "Original indexes disagree about this earlier execution log; cleanup preserves both indexes and the log. No claim of whole-project archive integrity."
+}

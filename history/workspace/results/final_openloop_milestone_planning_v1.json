@@ -1,0 +1,52 @@
+{
+  "status": "PLAN_CHECKED_NOT_EXECUTED",
+  "date": "2026-10-29",
+  "utc": "2026-10-29T19:41:26.936327+00:00",
+  "files": [
+    {
+      "path": "configs/final_openloop_milestone_plan_v1.json",
+      "size_bytes": 6125,
+      "sha256": "50399c4c25eae9e6bf76964a04fddef7b54673de2793a87a27ec15f8143ed0e7"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_MILESTONE_PLAN_V1.md",
+      "size_bytes": 19084,
+      "sha256": "f267d53de58304e6ab8f03c5cb4e56b149d14e1bb2b92644d592966c685347b1"
+    }
+  ],
+  "planning_arithmetic_consistent": true,
+  "local_links_checked": 10,
+  "planned_image_episodes": 2424,
+  "planned_neural_copies": 10,
+  "prior_evidence": [
+    {
+      "path": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "size_bytes": 13499,
+      "sha256": "fc116326fa257522d9446f10602c26793bc9ebe8a831aacbaf3458d473b5af2c"
+    },
+    {
+      "path": "docs/AGREEMENT_YAW_REPORT_V1.md",
+      "size_bytes": 14549,
+      "sha256": "f77f210d4d810ffa83661d95c8d68aa43ffaaa63825b3c82f6e75334f9a802af"
+    },
+    {
+      "path": "docs/HORIZONTAL_OPPONENCY_REPORT_V1.md",
+      "size_bytes": 16711,
+      "sha256": "0beab4896329de1975a776b4b94604c143322ae8656a894c60314f2a693492f3"
+    },
+    {
+      "path": "docs/OPPONENCY_GAIN_CALIBRATION_REPORT_V1.md",
+      "size_bytes": 14039,
+      "sha256": "b84528d4a1616062c1cc382abff91463f5e5797d8264126cc59bb903a343b490"
+    },
+    {
+      "path": "docs/SMALL_TURN_ACCEPTANCE_REVIEW_V1.md",
+      "size_bytes": 7006,
+      "sha256": "5a48470175c154c74f336d119a77747d235a648090ec29dc36699d79f07d82a3"
+    }
+  ],
+  "new_simulations": 0,
+  "new_fits": 0,
+  "new_physiological_comparisons": 0,
+  "criteria_are_prospective_not_retroactive": true
+}

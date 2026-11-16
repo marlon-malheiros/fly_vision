@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "negative_episode_peaks": 320,
+  "independent_primary_numerical_rows": 162,
+  "all_score_errors_unchanged_from_V1": 810,
+  "independent_test_curve_rows": 60,
+  "threshold_overlap_certificate": {
+    "scope": "Known calibration rooms; fixed individual_linear score and one global scalar cutoff",
+    "minimum_cutoff_for_all_group_false_alarm_limits": 1.6219391228674396,
+    "fast_small_turn_joint_at_minimum": 18,
+    "required_joint": 26,
+    "all_scalar_cutoffs_fail_calibration": true,
+    "justification": "Every lower cutoff violates an episode false-alarm bound; every higher cutoff can only reduce joint detections."
+  },
+  "parent_neural_replays": [
+    "np00_v0_y+0",
+    "np00_v5.5_y-2",
+    "np00_v11_y+2",
+    "np00_v16.5_y+0"
+  ]
+}

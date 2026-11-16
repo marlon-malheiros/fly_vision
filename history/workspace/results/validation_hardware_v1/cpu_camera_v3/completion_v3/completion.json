@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETE_PORTABLE_CPU_CAMERA_SOFTWARE_COMPONENT",
+  "created_utc": "2026-10-21T21:11:01.207427+00:00",
+  "source_commit": "2716c65e8aaff694e8eb06e5afb0f9e5d58c3e02",
+  "portable_cpu_default": true,
+  "strict_solver_dt": 0.001,
+  "standalone_full_episode_tests": 3,
+  "independent_reviewed_episodes": 42,
+  "numerical_validation": "PASS_scoped_synthetic_cases",
+  "default_real_time_deadline_validation": "FAIL_600_of_600_paired_updates",
+  "best_matrix_deadline_validation": "FAIL_213_of_1200_paired_updates",
+  "calibration_status": "SYNTHETIC_TEST_ONLY",
+  "physiologically_validated": false,
+  "physical_camera_validated": false,
+  "broad_goal_complete": false,
+  "report": "docs/PORTABLE_CPU_CAMERA_REPORT_V3.md"
+}

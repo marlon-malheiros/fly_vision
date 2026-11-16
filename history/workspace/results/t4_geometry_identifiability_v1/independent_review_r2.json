@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "version": "signed_event_clock_R2",
+  "integer_pixel_evaluations": 144804,
+  "maximum_time_difference_ms": 0.0,
+  "maximum_prediction_difference_mv": 3.907985046680551e-14,
+  "metric_bootstrap_max_difference": 8.881784197001252e-16,
+  "solver_checks": 8,
+  "solver_max_error_mv": 0.002866684296833455,
+  "prior_indexed_files_unchanged": 4267,
+  "identical_source_parameters_and_sites": true,
+  "all75_image_registrations_checked": true,
+  "fresh_biological_validation": false
+}

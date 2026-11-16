@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "prior_studies": [
+    {
+      "index": {
+        "path": "results/neural_population_readout_v1/completion_v1/artifact_index.json",
+        "size_bytes": 906426,
+        "sha256": "48dbbb7a980e4b25f8e30c292ad0131b5a612f1667f840564089ee564663675b"
+      },
+      "files": 4284,
+      "bytes": 1256020637
+    },
+    {
+      "index": {
+        "path": "results/neural_population_cutoff_r2/completion_v1/artifact_index.json",
+        "size_bytes": 63705,
+        "sha256": "1427491d8dc87eae50535ceaa3183714eafdf83698ac60222a9b23432d3d33c9"
+      },
+      "files": 269,
+      "bytes": 64515224
+    }
+  ],
+  "prior_scientific_artifacts_modified": false
+}

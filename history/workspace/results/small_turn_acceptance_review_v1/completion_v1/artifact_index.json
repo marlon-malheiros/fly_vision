@@ -1,0 +1,61 @@
+{
+  "files": [
+    {
+      "path": "configs/small_turn_target_decision_v4.json",
+      "size_bytes": 820,
+      "sha256": "48aa8aa7500d9ddcb430fcefe51990c6ef914497baae588305266b21ff72a079"
+    },
+    {
+      "path": "docs/SMALL_TURN_ACCEPTANCE_REVIEW_V1.md",
+      "size_bytes": 7006,
+      "sha256": "5a48470175c154c74f336d119a77747d235a648090ec29dc36699d79f07d82a3"
+    },
+    {
+      "path": "docs/SMALL_TURN_TARGET_DECISION_PROTOCOL_V4.md",
+      "size_bytes": 4277,
+      "sha256": "9f7b93b471b910c383fe50d44c09f25fddc1faf3532bc46b85f3faf8c6501d59"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/analysis/test_predictions.json",
+      "size_bytes": 2511533,
+      "sha256": "782f1fa9123d28e64ae99db7084c294b4fbc9141602a982b122bfdc4b2788de2"
+    },
+    {
+      "path": "results/small_turn_acceptance_review_v1/completion_v1/PROJECT_PROGRESS_REPORT_2026-10-26.md",
+      "size_bytes": 270296,
+      "sha256": "a5baa6b8a900fdeca556022c17cdd05694d283cce8b3deca27a494b727bd74f8"
+    },
+    {
+      "path": "results/small_turn_acceptance_review_v1/completion_v1/completion.json",
+      "size_bytes": 266,
+      "sha256": "6bf50c278624f18e5f9800c56c9fe01b861be12f42a05a73514fc63e6cb5c616"
+    },
+    {
+      "path": "results/small_turn_acceptance_review_v1/metrics.json",
+      "size_bytes": 49338,
+      "sha256": "3724e98c81a432fd5d1b58e52829ca6a8bbb25542d58630e1062c55cba5cdb43"
+    },
+    {
+      "path": "results/small_turn_acceptance_review_v1/review.json",
+      "size_bytes": 1529,
+      "sha256": "208e52bc1c9f0ed77e90a7e8e9477d0ee97e1729dea336445ca590c8371029bb"
+    },
+    {
+      "path": "results/small_turn_target_decision_v4/analysis/predictions.json",
+      "size_bytes": 1067765,
+      "sha256": "3b9c9bdecc7b2e7b64780e4e17d1cf098ffa321ae74bda9e47a370cd5f3d533b"
+    },
+    {
+      "path": "scripts/review_small_turn_acceptance_v1.py",
+      "size_bytes": 3979,
+      "sha256": "9c1226b365c11533f3a5ceca59aef9bb0f5ccd7567c1caeb1e6ad0ea368c86ea"
+    }
+  ],
+  "scope": "Retrospective audit outputs, source inputs, report, code, dated progress copy; no new simulation or altered old criterion",
+  "excluded": [
+    "live progress",
+    "AGENTS.md",
+    "index itself",
+    "post-exit integrity review"
+  ]
+}

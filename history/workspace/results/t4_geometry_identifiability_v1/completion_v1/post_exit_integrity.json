@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/t4_geometry_identifiability_v1/completion_v1/artifact_index.json",
+    "bytes": 48041,
+    "sha256": "f9f921af6a13468e28c7e9e729523252a098996837d4bfb83696e226242c68ae"
+  },
+  "files": 234,
+  "bytes": 3810483,
+  "prior": {
+    "index": {
+      "path": "results/t4_flash_transfer_v1/completion_v1/artifact_index.json",
+      "bytes": 898738,
+      "sha256": "9c4a68806b5e074c96d8e9a1da8ca1ac99571d6280da4cc6b208e0829c07693b"
+    },
+    "files": 4267,
+    "unchanged": true
+  },
+  "separate_process_after_sealer_exit": true,
+  "full_biological_validation": false,
+  "reliable_small_yaw_established": false
+}

@@ -1,0 +1,53 @@
+{
+  "status": "COMPLETED_RETROSPECTIVE_DIAGNOSTIC",
+  "full_network_cases": 48,
+  "conditional_reference_cases": 16,
+  "known_recording_summaries": 234,
+  "valid_paired_units": 1696,
+  "inherited_valid_units": 1696,
+  "expanded_bips_raw_indices": [
+    {
+      "variant": "expanded_intact",
+      "seed": 202610279100,
+      "role": "bips",
+      "side": "L",
+      "translation_contrast": 0.0073493926820395045,
+      "yaw_contrast": 0.0037075153673671217,
+      "magnitude": 0.32937574396015945
+    },
+    {
+      "variant": "expanded_intact",
+      "seed": 202610279100,
+      "role": "bips",
+      "side": "R",
+      "translation_contrast": 0.0051144296002957074,
+      "yaw_contrast": -0.004238869208279041,
+      "magnitude": 0.09360979585234529
+    },
+    {
+      "variant": "expanded_intact",
+      "seed": 202610279101,
+      "role": "bips",
+      "side": "L",
+      "translation_contrast": 0.00761673637252168,
+      "yaw_contrast": 0.003873594474877116,
+      "magnitude": 0.32576450124514417
+    },
+    {
+      "variant": "expanded_intact",
+      "seed": 202610279101,
+      "role": "bips",
+      "side": "R",
+      "translation_contrast": 0.005726286607295206,
+      "yaw_contrast": -0.0038731407899020706,
+      "magnitude": 0.19304753718270679
+    }
+  ],
+  "expanded_sign_improvement_requires_new_family_activity_within_model": true,
+  "unique_responsible_family_identified": false,
+  "DNp15_waveform_mismatch_remains": true,
+  "circuit_replacement_selected": false,
+  "new_small_yaw_test": false,
+  "new_independent_biological_validation": false,
+  "prior_sealed_failure_preserved": true
+}

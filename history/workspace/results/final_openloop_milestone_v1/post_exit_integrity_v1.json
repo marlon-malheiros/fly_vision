@@ -1,0 +1,14 @@
+{
+  "utc": "2026-10-30T13:58:22.581237+00:00",
+  "status": "PASS",
+  "indexed_files": 7949,
+  "indexed_bytes": 1397066157,
+  "index": {
+    "path": "results/final_openloop_milestone_v1/completion_v1/artifact_index.json",
+    "size_bytes": 1667753,
+    "sha256": "2202ac0a61c53d28242f0f0d6d132cdce23d704e309cace7e1f52d87ab44f554"
+  },
+  "report_snapshot_matches": true,
+  "checked_after_finisher_process_exit": true,
+  "live_progress_and_agents_not_indexed": true
+}

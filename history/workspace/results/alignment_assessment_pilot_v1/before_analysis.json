@@ -1,0 +1,174 @@
+{
+  "files": [
+    {
+      "path": "scripts/alignment_assessment_pilot_v1.py",
+      "bytes": 13666,
+      "sha256": "a8fd0b974194fb72ef2b484867f7fcb5a1ba93247c2e342627afc9fd6ceaddaf"
+    },
+    {
+      "path": "docs/ALIGNMENT_ASSESSMENT_PILOT_PROTOCOL_V1.md",
+      "bytes": 6332,
+      "sha256": "9e179424cf0c81c05f53bd9bba5bcda973337aede690be54cb8289636ecaa4af"
+    },
+    {
+      "path": "src/male_optic_frontend/alignment_assessment_v1.py",
+      "bytes": 3503,
+      "sha256": "1bb850642cfaee654f0c742bb0479ca3ef0b3baf1b8df0a9e8f1c8ef806c7f48"
+    },
+    {
+      "path": "tests/test_alignment_assessment_v1.py",
+      "bytes": 2521,
+      "sha256": "6abf465da49496de32ae6db850df1b9ad9e06dcf27d320436f3e2c12c048c318"
+    },
+    {
+      "path": "results/t4_geometry_identifiability_v1/geometry_audit.json",
+      "bytes": 18712,
+      "sha256": "1d145359c14a4bc6848c730b8c47c89166f971ef4e315476ce24cb21b5d84805"
+    },
+    {
+      "path": "results/t4_geometry_identifiability_v1/decision.json",
+      "bytes": 8510,
+      "sha256": "d969bc43f03dc06a796e47d4442f20a391259a0d087931f06899f98cbc19b09f"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/alias_lock.json",
+      "bytes": 1307,
+      "sha256": "fd1f7a7ed0852c6afb036c740321877501f023d942368bca8a334e0ba3cfd124"
+    },
+    {
+      "path": "results/t4_flash_transfer_v1/recorded_timing_r3/before_execution.json",
+      "bytes": 492377,
+      "sha256": "a0804d5f14ff1dec762fbc3c2b3cbbb3c31e2feb5e68a82c861c29542936f224"
+    },
+    {
+      "path": "data/raw/t4_matching_sources_v1/9691765/assigningProtocol2CellsFiguresScript.m",
+      "bytes": 9343,
+      "sha256": "94c64bf08ea185311f7ba17f6c9e11c9e255a812bfd6f52b680e6b2477a08163"
+    },
+    {
+      "path": "results/physiology_backup_source_audit_v1/t4_reference_archive_inventory.json",
+      "bytes": 321258,
+      "sha256": "f3b102ec7fa3479d62ed58d245dabbb9b6d62be0e69b76a11899eb999b6eb4e6"
+    },
+    {
+      "path": "results/t4_flash_transfer_v1/sources/cell03_flash.mat",
+      "bytes": 50772105,
+      "sha256": "f0df6a9a80b44e58d13fa9cc1abe552fc2198f4604a920f7d42ccbfd26c2dfdb"
+    },
+    {
+      "path": "results/t4_flash_transfer_v1/sources/cell03.receipt.json",
+      "bytes": 6262,
+      "sha256": "0129adffa33d274b3121c4c0510743b7bf363f199095364a27ce6db9371a2a86"
+    },
+    {
+      "path": "results/t4_direct_voltage_v1/cell03_localizer.json",
+      "bytes": 4355,
+      "sha256": "3188ad07cd25f6f82c8bec961b09a2dd1ed2bb250fe8a6e0cbf52d8c6b0c6609"
+    },
+    {
+      "path": "results/t4_geometry_identifiability_v1/cell03_flash_inputs.npz",
+      "bytes": 1509,
+      "sha256": "d10dcfcd4b3be991634a1dbadf386c9e74bf887fa5e5810902fcfcb5acddf918"
+    },
+    {
+      "path": "results/t4_flash_transfer_v1/sources/cell04_flash.mat",
+      "bytes": 79796477,
+      "sha256": "c492cafa38c036ba13966e4842ec13e6c746d78ea4b9ab087b31dde53a6e3a18"
+    },
+    {
+      "path": "results/t4_flash_transfer_v1/sources/cell04.receipt.json",
+      "bytes": 8969,
+      "sha256": "5b6d7b2daf5edba20f37dd07895e88568cc83dd30854f62f42de9859352a335d"
+    },
+    {
+      "path": "results/t4_direct_voltage_v1/cell04_localizer.json",
+      "bytes": 4351,
+      "sha256": "3a7f30b64cec7ea49269ec0a2ec0ef9d1719c6734cec6a9e63a40ab32bdbc294"
+    },
+    {
+      "path": "results/t4_geometry_identifiability_v1/cell04_flash_inputs.npz",
+      "bytes": 1651,
+      "sha256": "b8685b1780e2ef1ce96f9aa4d68af9adaf04c90ae36ad3652aa836d433cba832"
+    },
+    {
+      "path": "results/t4_flash_transfer_v1/sources/cell05_flash.mat",
+      "bytes": 58991326,
+      "sha256": "d8815e80d961b4d7c9bd4f424d2ddf9da28b370c79ad08c679f3d839e535a2df"
+    },
+    {
+      "path": "results/t4_flash_transfer_v1/sources/cell05.receipt.json",
+      "bytes": 6943,
+      "sha256": "d9e97dc4d4cac4c0aa29081de571e9cbf1b670e3dc6f4ec1c607f1cc8b068955"
+    },
+    {
+      "path": "results/t4_direct_voltage_v1/cell05_localizer.json",
+      "bytes": 4354,
+      "sha256": "fe6a8e2501c18050c0f4685fc6fcda2c7fda8c4794d10975752cefbe4e34eba8"
+    },
+    {
+      "path": "results/t4_geometry_identifiability_v1/cell05_flash_inputs.npz",
+      "bytes": 1549,
+      "sha256": "ccbeab25f47e094659597016539031a5a76155568dc3b7c1565d05e87fa80c05"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/sources/c06_flash0.mat",
+      "bytes": 51586820,
+      "sha256": "5bf5dc9bdebf08b92a3bc24a333e5b649212a46c1ec307a065e57b9cfe619d54"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/sources/c06_flash0.receipt.json",
+      "bytes": 6310,
+      "sha256": "48404b23cb583f208e01f23a5edbe05fc100b3cc7bda7aa68bafb416069be859"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/cell06_localizer.json",
+      "bytes": 4288,
+      "sha256": "856b5c46ea05e8b2d7946f8eee72748da0bca683719a97e8b8d7e1241f4b7ef9"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/sources/c07_flash0.mat",
+      "bytes": 60920168,
+      "sha256": "f66d873ac0045856f219abdd147acb2b5994da74b8eebacabf2e2b9faf12bdd8"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/sources/c07_flash0.receipt.json",
+      "bytes": 7238,
+      "sha256": "b9ad8cbefd4ae7883dbb86e1a7db9b896a5fa901d5a5296ca73c8f19a2c89b8c"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/cell07_localizer.json",
+      "bytes": 4282,
+      "sha256": "0bcf80df3d03a8d220fe373e61560e0213e093cce3492b5fa90fef611c878027"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/sources/c08_flash0.mat",
+      "bytes": 76814873,
+      "sha256": "1ebfd5e0184c41f6ac97d842e3fb2e2c08a99a09f48b6445ef8f698b892542ff"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/sources/c08_flash0.receipt.json",
+      "bytes": 8821,
+      "sha256": "d1c1ffe72ca7adca491da7da7b55e85a7ace6e4969db09fbc388d6ee283ff9bb"
+    },
+    {
+      "path": "results/t4_reserved_transfer_v1/cell08_localizer.json",
+      "bytes": 4285,
+      "sha256": "a07e27fe13e564ebc11fa4708e83bf06249e4f864679f8ecabf0fc00622658c4"
+    }
+  ],
+  "existing_cells_already_inspected": true,
+  "study_kind": "retrospective input sensitivity plus synthetic known-truth assessment",
+  "new_analysis_outcomes_computed": false,
+  "seed": 20261116,
+  "resource_estimate": {
+    "cpu_seconds": 300,
+    "retained_bytes": 134217728,
+    "memory_bytes": 1073741824
+  },
+  "caps": {
+    "cpu_seconds": 900,
+    "retained_bytes": 268435456,
+    "rss_bytes": 2147483648
+  },
+  "free_bytes": 125713739776
+}

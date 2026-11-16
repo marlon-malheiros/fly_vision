@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "fits": 72,
+  "maximum_fit_error": 0.0,
+  "maximum_cutoff_error": 0.0,
+  "predictions": 11880,
+  "maximum_score_error": 1.4210854715202004e-14,
+  "curves": 198,
+  "thresholds": 99,
+  "all_bootstrap_draws_exact": true,
+  "maximum_bootstrap_error": 0.0,
+  "test_keys_disjoint": true,
+  "physiology_grid_check": true
+}

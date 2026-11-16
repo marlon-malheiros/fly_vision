@@ -1,0 +1,20 @@
+{
+  "status": "COMPLETE_CAUSAL_WORK_SPLIT_SOFTWARE_COMPONENT",
+  "created_utc": "2026-10-22T11:58:18.093554+00:00",
+  "source_commit": "1c6e4a157893eb383ca8df9f8ef3875676d3e6b2",
+  "benchmark_episodes": 36,
+  "standalone_episodes": 6,
+  "complete_scheduled_episodes": 300,
+  "scheduled_frame_pairs": 120300,
+  "scheduled_noninitial_updates": 60000,
+  "numerical_verification": "PASS_scoped_synthetic_inputs",
+  "scheduled_deadline_gate": "FAIL",
+  "frame_response_misses_by_mode": {
+    "batched": 8552,
+    "split": 2402
+  },
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "broad_goal_complete": false,
+  "report": "docs/PORTABLE_CPU_WORK_SPLIT_REPORT_V5.md"
+}

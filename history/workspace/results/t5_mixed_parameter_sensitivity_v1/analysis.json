@@ -1,0 +1,26 @@
+{
+  "decision": "LIMITED_FEATURE_EQUIVALENCE_FOUND",
+  "completed_utc": "2026-10-12T11:49:28.698604+00:00",
+  "parameter_sets": 85,
+  "candidate_sets": 80,
+  "trajectories": 2210,
+  "baseline_bitwise_replays": 26,
+  "material_candidates": 19,
+  "direction_preserved_candidates": 53,
+  "feature_equivalent_candidates": 6,
+  "materially_changed_feature_equivalent_candidates": [
+    "i_poles_spread"
+  ],
+  "full_waveform_equivalent_candidates": [
+    "oat_rise_e_0.75",
+    "oat_rise_e_0.9",
+    "oat_rise_e_1.1",
+    "oat_rise_e_1.25",
+    "i_poles_spread",
+    "i_poles_toward"
+  ],
+  "maximum_control_voltage_error_mv": 6.394884621840902e-14,
+  "parameters_fitted": false,
+  "new_recorded_cells": 0,
+  "biological_degeneracy_established": false
+}

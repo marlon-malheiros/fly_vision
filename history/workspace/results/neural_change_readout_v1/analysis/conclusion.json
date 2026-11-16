@@ -1,0 +1,23 @@
+{
+  "primary": "change_dnp15",
+  "endpoint_pass": false,
+  "primary_finite_case_sampling_pass": true,
+  "endpoint_by_method": {
+    "absolute_bips": false,
+    "absolute_dnp15": false,
+    "absolute_h2": false,
+    "absolute_hs": false,
+    "change_bips": false,
+    "change_dnp15": false,
+    "change_h2": false,
+    "change_hs": false,
+    "engineering_reference": false,
+    "legacy_bips": false,
+    "legacy_dnp15": false,
+    "legacy_h2": false,
+    "legacy_hs": false
+  },
+  "primary_rolling_pass": false,
+  "circuit_changed": false,
+  "physiological_validation": false
+}

@@ -1,0 +1,159 @@
+{
+  "status": "FAIL",
+  "rule": "hybrid error <=45 deg AND lower than fixed body-horizontal reference",
+  "observed_direction_rad": 0.05970005125161741,
+  "baseline_direction_rad": 0.03538418672918652,
+  "hybrid_direction_rad": -0.1901126939110038,
+  "baseline_error_deg": 1.393196412347181,
+  "hybrid_error_deg": 14.313215966395367,
+  "body_horizontal_reference_error_deg": 6.380543228121997,
+  "per_polarity_correlations": {
+    "baseline_model": [
+      0.9527205430779853,
+      0.5508619742845486
+    ],
+    "hybrid_model": [
+      0.9527205430779853,
+      0.376665832576168
+    ]
+  },
+  "source_window_ms": 840.0270208333335,
+  "conditions": [
+    {
+      "row": 1,
+      "edge": 0.0,
+      "relOrt": 0.0,
+      "recorded_hz": 37.97311603988395,
+      "baseline_model": 7.514434698018778e-05,
+      "hybrid_model": 7.514434698018778e-05
+    },
+    {
+      "row": 7,
+      "edge": 0.0,
+      "relOrt": 1.0,
+      "recorded_hz": 20.889836267681535,
+      "baseline_model": 6.840901651305262e-05,
+      "hybrid_model": 6.840901651305262e-05
+    },
+    {
+      "row": 13,
+      "edge": 0.0,
+      "relOrt": 2.0,
+      "recorded_hz": 1.0255574627950175,
+      "baseline_model": 1.118807621242862e-05,
+      "hybrid_model": 1.118807621242862e-05
+    },
+    {
+      "row": 19,
+      "edge": 0.0,
+      "relOrt": 3.0,
+      "recorded_hz": -6.522868483061861,
+      "baseline_model": -1.2014516963005662e-06,
+      "hybrid_model": -1.2014516963005662e-06
+    },
+    {
+      "row": 25,
+      "edge": 0.0,
+      "relOrt": 4.0,
+      "recorded_hz": -8.509296363550513,
+      "baseline_model": -2.590865741193888e-06,
+      "hybrid_model": -2.590865741193888e-06
+    },
+    {
+      "row": 31,
+      "edge": 0.0,
+      "relOrt": 5.0,
+      "recorded_hz": -8.112010787452782,
+      "baseline_model": 5.848341088134556e-06,
+      "hybrid_model": 5.848341088134556e-06
+    },
+    {
+      "row": 37,
+      "edge": 0.0,
+      "relOrt": 6.0,
+      "recorded_hz": 0.6282718866972861,
+      "baseline_model": 1.3042249824903914e-05,
+      "hybrid_model": 1.3042249824903914e-05
+    },
+    {
+      "row": 43,
+      "edge": 0.0,
+      "relOrt": 7.0,
+      "recorded_hz": 21.287121843779264,
+      "baseline_model": 7.60777577053593e-05,
+      "hybrid_model": 7.60777577053593e-05
+    },
+    {
+      "row": 49,
+      "edge": 1.0,
+      "relOrt": 0.0,
+      "recorded_hz": -4.139155026475478,
+      "baseline_model": 6.754964863576424e-05,
+      "hybrid_model": 0.0008504035193797021
+    },
+    {
+      "row": 55,
+      "edge": 1.0,
+      "relOrt": 1.0,
+      "recorded_hz": -0.9608704176936342,
+      "baseline_model": 6.728937929804507e-05,
+      "hybrid_model": 0.0008060612555134214
+    },
+    {
+      "row": 61,
+      "edge": 1.0,
+      "relOrt": 2.0,
+      "recorded_hz": -0.16629926549817498,
+      "baseline_model": 1.4823460405020827e-05,
+      "hybrid_model": 0.0005943475600538108
+    },
+    {
+      "row": 67,
+      "edge": 1.0,
+      "relOrt": 3.0,
+      "recorded_hz": -7.317439635257322,
+      "baseline_model": 2.6841100380645008e-06,
+      "hybrid_model": 0.0003806850890033638
+    },
+    {
+      "row": 73,
+      "edge": 1.0,
+      "relOrt": 4.0,
+      "recorded_hz": -1.3581559937913656,
+      "baseline_model": -4.300864805116468e-06,
+      "hybrid_model": 0.0002602536110216684
+    },
+    {
+      "row": 79,
+      "edge": 1.0,
+      "relOrt": 5.0,
+      "recorded_hz": -6.522868483061861,
+      "baseline_model": 3.875931529812681e-06,
+      "hybrid_model": 0.0002934530897233756
+    },
+    {
+      "row": 85,
+      "edge": 1.0,
+      "relOrt": 6.0,
+      "recorded_hz": -4.53644060257321,
+      "baseline_model": 1.230351504723526e-05,
+      "hybrid_model": 0.0004655267131767417
+    },
+    {
+      "row": 91,
+      "edge": 1.0,
+      "relOrt": 7.0,
+      "recorded_hz": 14.930552626215583,
+      "baseline_model": 6.936445359127117e-05,
+      "hybrid_model": 0.000691083125416829
+    }
+  ],
+  "limits": [
+    "already-inspected animal and responses",
+    "approximate not exact display frames",
+    "functional T5 and assumed T4 drive",
+    "single recording position",
+    "female recording vs male circuit",
+    "no general validation or walking inference"
+  ]
+}

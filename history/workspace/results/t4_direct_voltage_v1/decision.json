@@ -1,0 +1,117 @@
+{
+  "test_scored": true,
+  "models": [
+    {
+      "output": "delivered_drive",
+      "primary": true,
+      "gain": 59.90204962102407,
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 58.73360632014175,
+          "zero_mse": 67.38900359016604,
+          "blind_mse": 22.82441540171814,
+          "zero_skill": 0.12843931218605165,
+          "blind_skill": -1.573279765830081,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 4,
+          "mse": 78.26630827659511,
+          "zero_mse": 86.88297893446631,
+          "blind_mse": 25.134047392022143,
+          "zero_skill": 0.09917558955213246,
+          "blind_skill": -2.1139556258431265,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 5,
+          "mse": 55.66131817066888,
+          "zero_mse": 59.10991937649695,
+          "blind_mse": 23.561661490054032,
+          "zero_skill": 0.058342174075089126,
+          "blind_skill": -1.3623681290118235,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        }
+      ],
+      "zero_skill": 0.09710602890457165,
+      "blind_skill": -1.6938045018339083,
+      "rmse_mv": 8.01376384244436,
+      "bootstrap_joint_lower": -1.9451201268945248,
+      "waveform_pass": false,
+      "inhibition_pass": false,
+      "confirmed_inhibition_cells": 0,
+      "restricted_component_pass": false
+    },
+    {
+      "output": "signed_branch",
+      "primary": false,
+      "gain": 0.20107735872339902,
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 44.841837112366264,
+          "zero_mse": 67.38900359016604,
+          "blind_mse": 22.82441540171814,
+          "zero_skill": 0.3345822801435522,
+          "blind_skill": -0.9646434015125194,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 4,
+          "mse": 69.10772663477188,
+          "zero_mse": 86.88297893446631,
+          "blind_mse": 25.134047392022143,
+          "zero_skill": 0.20458843052678777,
+          "blind_skill": -1.7495661783747383,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 5,
+          "mse": 44.707081430858665,
+          "zero_mse": 59.10991937649695,
+          "blind_mse": 23.561661490054032,
+          "zero_skill": 0.24366194536487695,
+          "blind_skill": -0.8974502901559231,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        }
+      ],
+      "zero_skill": 0.256466252458887,
+      "blind_skill": -1.2183496850262983,
+      "rmse_mv": 7.27224507237384,
+      "bootstrap_joint_lower": -1.5044603053948404,
+      "waveform_pass": false,
+      "inhibition_pass": false,
+      "confirmed_inhibition_cells": 0,
+      "restricted_component_pass": false
+    }
+  ],
+  "full_neural_validation": false,
+  "canonical_PD_axis_calibration": true,
+  "new_walking_qualification": false,
+  "original_models_modified": false
+}

@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "raw_cell_means_verified": 71232,
+  "maximum_mean_error": 4.336808689942018e-18,
+  "predictions": 19008,
+  "curves_verified": 1440,
+  "thresholds_verified": 288
+}

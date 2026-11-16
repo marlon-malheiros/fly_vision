@@ -1,0 +1,75 @@
+{
+  "passed": true,
+  "comparisons": [
+    {
+      "key": "phase0_vx+0_vy+0",
+      "decoder_error": 5.478775292333538e-07,
+      "source_step_error": 2.559483767150539e-07
+    },
+    {
+      "key": "phase0_vx+60_vy+0",
+      "decoder_error": 5.478775292333538e-07,
+      "source_step_error": 2.559483767150539e-07
+    },
+    {
+      "key": "phase0_vx-60_vy+0",
+      "decoder_error": 5.478775292333538e-07,
+      "source_step_error": 2.559483767150539e-07
+    },
+    {
+      "key": "phase0_vx+0_vy+60",
+      "decoder_error": 5.478775292333538e-07,
+      "source_step_error": 2.559483767150539e-07
+    },
+    {
+      "key": "phase0_vx+0_vy-60",
+      "decoder_error": 5.478775292333538e-07,
+      "source_step_error": 2.559483767150539e-07
+    },
+    {
+      "key": "phase0_vx+2_vy+0",
+      "decoder_error": 5.478775292333538e-07,
+      "source_step_error": 2.559483767150539e-07
+    },
+    {
+      "key": "phase0_vx-2_vy+0",
+      "decoder_error": 5.478775292333538e-07,
+      "source_step_error": 2.559483767150539e-07
+    },
+    {
+      "key": "phase1_vx+0_vy+0",
+      "decoder_error": 6.769836666253859e-07,
+      "source_step_error": 2.666944887153022e-07
+    },
+    {
+      "key": "phase1_vx+60_vy+0",
+      "decoder_error": 6.769836666253859e-07,
+      "source_step_error": 2.666944887153022e-07
+    },
+    {
+      "key": "phase1_vx-60_vy+0",
+      "decoder_error": 6.769836666253859e-07,
+      "source_step_error": 2.666944887153022e-07
+    },
+    {
+      "key": "phase1_vx+0_vy+60",
+      "decoder_error": 6.769836666253859e-07,
+      "source_step_error": 2.666944887153022e-07
+    },
+    {
+      "key": "phase1_vx+0_vy-60",
+      "decoder_error": 6.769836666253859e-07,
+      "source_step_error": 2.666944887153022e-07
+    },
+    {
+      "key": "phase1_vx+2_vy+0",
+      "decoder_error": 6.769836666253859e-07,
+      "source_step_error": 2.666944887153022e-07
+    },
+    {
+      "key": "phase1_vx-2_vy+0",
+      "decoder_error": 6.769836666253859e-07,
+      "source_step_error": 2.666944887153022e-07
+    }
+  ]
+}

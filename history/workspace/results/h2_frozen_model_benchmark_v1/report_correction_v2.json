@@ -1,0 +1,15 @@
+{
+  "status": "CORRECTED_IN_REPORT_V2",
+  "initial_report_sha256": "3c7c933b436811c5190849090f39219dd055d0a8b3fd59ebe3cb6870d2b70b90",
+  "preserved_original": "initial_generated_report_v1.md",
+  "issue": "Initial template incorrectly described 78 phase agreements despite a preserved 180-degree difference in point_summary.json",
+  "correct_result": "77 exact agreements and one 180-degree quadrant discrepancy; DSI recovery unchanged",
+  "original_model_metrics_changed": false,
+  "source_curves_rotated": false,
+  "acceptance_criteria_changed": false,
+  "other_presentation_changes": [
+    "Clarify model vs reference error subject",
+    "Move curve amplitude annotations from data area into titles"
+  ],
+  "numerical_evidence": "analysis/phase_summary_diagnostic.json"
+}

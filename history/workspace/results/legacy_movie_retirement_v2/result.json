@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "retired_movies": 2823,
+  "nominal_file_bytes_retired": 159674482886,
+  "before_available_bytes": 13018955776,
+  "after_available_bytes": 162622304256,
+  "measured_available_space_gain_bytes": 149603348480,
+  "representative_movies_retained": 122,
+  "source_neural_files_metadata_unchanged": 5646,
+  "original_index_files_byte_identical": 113,
+  "original_full_availability_checks_pass": false,
+  "intentional_missing_paths_recorded": true,
+  "limitation": "Original recorded movie digests retained; no fresh full rehash of all obsolete movie data before deletion. Full historical pixel replays require regeneration; whole-project numerical validation was not rerun.",
+  "scientific_parameters_changed": false,
+  "biological_recordings_deleted": 0,
+  "numerical_result_arrays_deleted": 0,
+  "scientific_failures_deleted": 0,
+  "concurrent_filesystem_activity_not_excluded": true
+}

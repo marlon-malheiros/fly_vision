@@ -1,0 +1,19 @@
+{
+  "same": 77,
+  "quadrant_differences": [
+    {
+      "key": [
+        4.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "difference_deg": 179.99999999999997,
+      "atan2": -1.6017325923513248,
+      "summary": 1.5398600612384679
+    }
+  ],
+  "criterion": "Descriptive 1e-8 degree arithmetic equality; no model fitting or acceptance criterion"
+}

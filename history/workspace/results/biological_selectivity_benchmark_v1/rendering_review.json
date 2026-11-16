@@ -1,0 +1,166 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "key": "aligned_100_202610279100_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279100_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279100_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279100_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279101_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279101_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279101_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279101_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279102_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279102_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279102_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279102_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279103_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279103_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279103_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_100_202610279103_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279100_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279100_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279100_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279100_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279101_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279101_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279101_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "aligned_50_202610279101_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279100_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279100_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279100_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279100_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279101_yaw",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279101_translation",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279101_left",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    },
+    {
+      "key": "pitched_100_202610279101_right",
+      "scalar_pixel_samples": 6,
+      "maximum_gray_error": 0
+    }
+  ],
+  "independent_scalar_geometry": true
+}

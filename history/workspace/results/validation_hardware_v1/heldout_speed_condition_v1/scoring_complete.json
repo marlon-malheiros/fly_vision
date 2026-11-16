@@ -1,0 +1,12 @@
+{
+  "status": "CONDITIONAL_NEW_STIMULUS_DIAGNOSTIC_COMPLETE",
+  "completed_utc": "2026-10-21T13:25:21.848800+00:00",
+  "observed_traces": 360,
+  "modeled_traces": 225,
+  "scores": 3600,
+  "fly_metric_rows": 544,
+  "observation_parameters_fitted_here": false,
+  "world_cw_sign_selected": false,
+  "physiological_validation_established": false,
+  "scope": "new_six_second_condition; all_flies_previously_seen_in_13s_data; both_global_sign_hypotheses_retained"
+}

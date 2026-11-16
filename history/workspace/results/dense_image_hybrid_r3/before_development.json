@@ -1,0 +1,77 @@
+{
+  "utc": "2026-10-30T18:13:54.178411+00:00",
+  "files": [
+    {
+      "path": "configs/continuous_readout_repair_v1.json",
+      "size_bytes": 696,
+      "sha256": "89b9aad7cd8d0ec3b4b06fee09dad414416e07df86a83a4719ab31c3f3f4ad0d"
+    },
+    {
+      "path": "docs/CONTINUOUS_READOUT_REPAIR_PROTOCOL_V1.md",
+      "size_bytes": 6840,
+      "sha256": "e3498fdb62019b58ce0b3cee7d14af2a8e6cf75ac9afd76bb9848a1fbe00fa34"
+    },
+    {
+      "path": "docs/DENSE_IMAGE_HYBRID_PROTOCOL_R3.md",
+      "size_bytes": 4781,
+      "sha256": "8407283fcd458736e56a676fe5ad5422aac5d1f82edfa0341d0955044485ba3f"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/before_development.json",
+      "size_bytes": 40907,
+      "sha256": "5fb713df96c912ab5d835bff4939623504c9acaebd0e9981416843dd6b248b2a"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/fit_freeze.json",
+      "size_bytes": 2682,
+      "sha256": "9ba3a9ed22ef7e9ce62a8c51b7540a4d721865251b85fb98f61a87bec6e239ed"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/readouts.json",
+      "size_bytes": 4485,
+      "sha256": "be4739dc4371dc00901990458e11880d07f0aa107dcfdb80d9d4df741194cb71"
+    },
+    {
+      "path": "results/dense_image_hybrid_r3/plans.json",
+      "size_bytes": 621834,
+      "sha256": "2fe948a0b646dd6d25a2e5bf652f4bfe071e63c84bebaed7c4c931e28121ea6b"
+    },
+    {
+      "path": "results/dense_image_hybrid_r3/priority.json",
+      "size_bytes": 229,
+      "sha256": "3efae39456b92c21b836b5450833e297c1e908a36c5235f3dba29fffc4429536"
+    },
+    {
+      "path": "scripts/continuous_readout_repair_v1.py",
+      "size_bytes": 21347,
+      "sha256": "63f90b7c6250c90099c87521d759c066d2b302fd8785f00d5926c154a1dbd163"
+    },
+    {
+      "path": "scripts/dense_image_hybrid_r3.py",
+      "size_bytes": 12410,
+      "sha256": "01c4c1d070fa93768f6319adab40a1fa72e8bf285e80cf3d6cb4985366275c83"
+    },
+    {
+      "path": "scripts/replay_continuous_readout_v1.py",
+      "size_bytes": 1215,
+      "sha256": "3dbe3e5f59313070c1ce181cfd3c3d78db946d1b5d17bf982b8ed75a4e82f056"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_readout_repair_v1.py",
+      "size_bytes": 3398,
+      "sha256": "ad012d42c7e17c13a327469e7f0fd36230a2012348c04bd5ec9959ff8c623170"
+    },
+    {
+      "path": "src/male_optic_frontend/dense_causal_yaw_r3.py",
+      "size_bytes": 2550,
+      "sha256": "096349796addcda8ff8b3efdbbb2590608476905ee8622060497013a27cf8cca"
+    },
+    {
+      "path": "tests/test_continuous_readout_repair_v1.py",
+      "size_bytes": 1800,
+      "sha256": "2c28b4beafff3941c5108f49d1ac6496caaec598cd65a8ed788afdcc080852de"
+    }
+  ],
+  "final_images_generated": false,
+  "new_dense_development_outcomes_inspected": false
+}

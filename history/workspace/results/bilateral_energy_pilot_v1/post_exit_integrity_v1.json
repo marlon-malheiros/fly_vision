@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "indexed_files": 29,
+  "indexed_bytes": 1497408,
+  "index": {
+    "path": "results/bilateral_energy_pilot_v1/completion_v1/artifact_index.json",
+    "size_bytes": 6298,
+    "sha256": "f5bb09a1a7a52b2b1f49c69aeefb77d628c396b964e7e17184e033daca14dd95"
+  },
+  "artifact_bytes_before_receipt": 1503706,
+  "maximum_artifact_bytes": 2000000,
+  "scientific_success": false,
+  "physiological_validation": false,
+  "total_artifact_bytes": 1504168
+}

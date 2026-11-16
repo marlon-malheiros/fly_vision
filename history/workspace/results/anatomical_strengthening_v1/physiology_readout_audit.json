@@ -1,0 +1,371 @@
+{
+  "status": "POST_HOC_OBSERVATION_LIMITATION_AUDIT",
+  "created_utc": "2026-10-19T14:10:41.952912+00:00",
+  "component_rows": 42,
+  "pooled_endpoints_reproduced": true,
+  "raw_side_labels": [
+    {
+      "body_id": "11919",
+      "role": "bips",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS321(hb1963869636)_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "12072",
+      "role": "bips",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS321(hb1932497911)_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "11215",
+      "role": "dnp15",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "DNp15_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "12069",
+      "role": "dnp15",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "DNp15_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10019",
+      "role": "h2",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "H2_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10025",
+      "role": "h2",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "H2_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10015",
+      "role": "hs",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "HSN_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10016",
+      "role": "hs",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "HSE_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10023",
+      "role": "hs",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "HSS_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10034",
+      "role": "hs",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "HSE_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10181",
+      "role": "hs",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "HSN_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "10419",
+      "role": "hs",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "HSS_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "11793",
+      "role": "hs",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "HST_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "12521",
+      "role": "hs",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "HST(hb5813042688)_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "32628",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS072_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "34260",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS072_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "34506",
+      "role": "h2rn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "CB3740_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "35103",
+      "role": "h2rn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "CB3748_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "35185",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS074_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "39213",
+      "role": "h2rn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "CB3748_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "39912",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS072_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "41916",
+      "role": "h2rn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "CB3748_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "44944",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS072_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "54118",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS072_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "65132",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS072_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "68944",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS074_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "73647",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS072_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "76787",
+      "role": "h2rn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "CB3740_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "78362",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS070_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "93253",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS072_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "94797",
+      "role": "h2rn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "CB3740_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "110619",
+      "role": "h2rn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "CB3748_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "136904",
+      "role": "h2rn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "CB3740_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "511817",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS072_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "512038",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS072_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "513339",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS072_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "513340",
+      "role": "ulptcrn",
+      "model_side": "R",
+      "soma_side": "R",
+      "root_side": "nan",
+      "instance": "PS070_R",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "533741",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS074_L",
+      "imaged_neurite_alignment_established": false
+    },
+    {
+      "body_id": "534559",
+      "role": "ulptcrn",
+      "model_side": "L",
+      "soma_side": "L",
+      "root_side": "nan",
+      "instance": "PS074_L",
+      "imaged_neurite_alignment_established": false
+    }
+  ],
+  "annotation_sha256": "2177e246113e4cfbf1e7772ec37c6da1955ff22e8063d0b1f833101f99a9a3b2",
+  "issues": [
+    "legacy_readout_pools_both_anatomical_sides",
+    "experimental_ROIs_are_hemisphere_aligned_individual_neurites",
+    "soma_or_root_side_not_verified_imaging_neurite_map",
+    "signed_clamp_and_pooled_rate_can_cancel_or_reverse_components",
+    "calcium_kinetics_and_baseline_mapping_still_unavailable"
+  ],
+  "primary_endpoints_changed": false,
+  "side_selected_for_better_agreement": false,
+  "parameter_refit": false,
+  "biological_validation": false
+}

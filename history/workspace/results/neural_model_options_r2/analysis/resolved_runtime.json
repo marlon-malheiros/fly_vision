@@ -1,0 +1,250 @@
+{
+  "python": "3.11.16 (main, Aug 14 2026, 15:35:36) [Clang 22.1.3 ]",
+  "executable": "<HOME>/.local/bin/python3.11",
+  "path": [
+    "<TEMP>/neural-completion-flyvis-v1",
+    "<HOME>/.cache/uv/archive-v0/0YOz2eQ18KFXxNv5",
+    "<HOME>/.cache/uv/archive-v0/1xRjd1Y-s3MtJRit",
+    "<HOME>/.cache/uv/archive-v0/5gwMRM5iusSuTU2q",
+    "<HOME>/.cache/uv/archive-v0/A2NdUFmMXkm-aae7",
+    "<HOME>/.cache/uv/archive-v0/AF3AwKn3Ueu4x7eg",
+    "<HOME>/.cache/uv/archive-v0/CInXKCHWH9u2VC23",
+    "<HOME>/.cache/uv/archive-v0/EtonIXEqrF3ayiiI",
+    "<HOME>/.cache/uv/archive-v0/GMEJvrDcwFJeljsG",
+    "<HOME>/.cache/uv/archive-v0/IrDrH05J-P7eeC_N",
+    "<HOME>/.cache/uv/archive-v0/J-499g_U1FUh_Lrv",
+    "<HOME>/.cache/uv/archive-v0/JM1dCaZQv1_80UNw",
+    "<HOME>/.cache/uv/archive-v0/KUeSsctcMevZ3EPd",
+    "<HOME>/.cache/uv/archive-v0/LGjpl3DlaUNVYvfm",
+    "<HOME>/.cache/uv/archive-v0/QUIp_L_pkZ-71MRg",
+    "<HOME>/.cache/uv/archive-v0/UtXBtdPzKKnAiX1g",
+    "<HOME>/.cache/uv/archive-v0/WO_wJwQsRjESbOvf",
+    "<HOME>/.cache/uv/archive-v0/Wbw873lV48N3LIhJ",
+    "<HOME>/.cache/uv/archive-v0/X_9MahJi_HbDwVoW",
+    "<HOME>/.cache/uv/archive-v0/YMivsS-UU2Dtsd2N",
+    "<HOME>/.cache/uv/archive-v0/dXK5ieslNeN7tG6j",
+    "<HOME>/.cache/uv/archive-v0/elz7MnT_sFctyw_S",
+    "<HOME>/.cache/uv/archive-v0/gw0m5SfKNjskdrBx",
+    "<HOME>/.cache/uv/archive-v0/iOkdtDHY5JVJ7H4w",
+    "<HOME>/.cache/uv/archive-v0/k4CAPgto6BA82wul",
+    "<HOME>/.cache/uv/archive-v0/ms03lGnE6tGP33uB",
+    "<HOME>/.cache/uv/archive-v0/myLL_ShgRyKDk8Fx",
+    "<HOME>/.cache/uv/archive-v0/necdwwMWo950Ob8Q",
+    "<HOME>/.cache/uv/archive-v0/rKt-dpLUFxM77tT4",
+    "<HOME>/.cache/uv/archive-v0/sZZH2140BQx76cPz",
+    "<HOME>/.cache/uv/archive-v0/wigwrCaBQ4gtGAgw",
+    "<HOME>/.cache/uv/archive-v0/y7xYwcAHXdr_HG6z",
+    "<HOME>/.cache/uv/archive-v0/zX3pWiEQ1y5EDmrC",
+    "<HOME>/.cache/uv/archive-v0/-jN6M631adkRiusz",
+    "<HOME>/.cache/uv/archive-v0/-mTtcAgV1K7Q6jMm",
+    "<HOME>/.cache/uv/archive-v0/0ZHpN99DiCIGlokt",
+    "<HOME>/.cache/uv/archive-v0/20-YBvdUAU-lOcjV",
+    "<HOME>/.cache/uv/archive-v0/2Re6MsO_c6yvj88a",
+    "<HOME>/.cache/uv/archive-v0/2SEgZ5uwW0ma51xF",
+    "<HOME>/.cache/uv/archive-v0/2UHxcoL_fKISViYE",
+    "<HOME>/.cache/uv/archive-v0/2srqw2p8kh859NHq",
+    "<HOME>/.cache/uv/archive-v0/3N6Z8yPzXIDCYkUp",
+    "<HOME>/.cache/uv/archive-v0/4EP19VADE5goXoFI",
+    "<HOME>/.cache/uv/archive-v0/6hFFqNo3Wwbdxqku",
+    "<HOME>/.cache/uv/archive-v0/7Bn_FeZeVz_a3YNn",
+    "<HOME>/.cache/uv/archive-v0/81Ep6LvF8kNhWSsY",
+    "<HOME>/.cache/uv/archive-v0/83okaVI_MoQkWND2",
+    "<HOME>/.cache/uv/archive-v0/8SNvl7RnnzFeAucb",
+    "<HOME>/.cache/uv/archive-v0/9aaFlJiKjvrcxFj-",
+    "<HOME>/.cache/uv/archive-v0/9wxuitt_iVL1QFUM",
+    "<HOME>/.cache/uv/archive-v0/Aegk6shk1hpsMvyj",
+    "<HOME>/.cache/uv/archive-v0/BTjQYl6F1CX4lBX4",
+    "<HOME>/.cache/uv/archive-v0/DXi0aQ2PBlNl-Gtk",
+    "<HOME>/.cache/uv/archive-v0/DbrUf9PiY6XgTZg-",
+    "<HOME>/.cache/uv/archive-v0/Em_-KX7DH1cYUd--",
+    "<HOME>/.cache/uv/archive-v0/Eyu6xj9PeJfsTrZ6",
+    "<HOME>/.cache/uv/archive-v0/FH4oPbW1G5WJ0xdo",
+    "<HOME>/.cache/uv/archive-v0/FXLamfZgXmlQAN10",
+    "<HOME>/.cache/uv/archive-v0/Gstk5RKYgNsPhVKg",
+    "<HOME>/.cache/uv/archive-v0/Gv9hpOhhdW7Q0dfZ",
+    "<HOME>/.cache/uv/archive-v0/K-Ht4O7CqUfN5Hva",
+    "<HOME>/.cache/uv/archive-v0/K9qhbDSdSIHZZXtX",
+    "<HOME>/.cache/uv/archive-v0/KwfhGaHR6K0UZby4",
+    "<HOME>/.cache/uv/archive-v0/LOGOdw1g38UCGgf1",
+    "<HOME>/.cache/uv/archive-v0/MDR_B-qRnXPHKxBb",
+    "<HOME>/.cache/uv/archive-v0/NbU7bNHSZ7u6hK3a",
+    "<HOME>/.cache/uv/archive-v0/OF1OeJD103TMJFJ1",
+    "<HOME>/.cache/uv/archive-v0/OID77oxUxjIQEXUC",
+    "<HOME>/.cache/uv/archive-v0/PPsdkiubg7OUfaz4",
+    "<HOME>/.cache/uv/archive-v0/Pp-5jog0qecm6ZVj",
+    "<HOME>/.cache/uv/archive-v0/PrZHt6mhi6XpUmtH",
+    "<HOME>/.cache/uv/archive-v0/QHcp17JlBQ3FFiYp",
+    "<HOME>/.cache/uv/archive-v0/QHp2uVU5PYa3SXJj",
+    "<HOME>/.cache/uv/archive-v0/SGLMjufe60p_WsgV",
+    "<HOME>/.cache/uv/archive-v0/SQkm3XBppCMpNsr8",
+    "<HOME>/.cache/uv/archive-v0/T42MCAfYHOOR8u-3",
+    "<HOME>/.cache/uv/archive-v0/TKoS4caOUxaHV0hl",
+    "<HOME>/.cache/uv/archive-v0/TU_TkBHLtXvud1ux",
+    "<HOME>/.cache/uv/archive-v0/TZT8pDLvs4gPCiBM",
+    "<HOME>/.cache/uv/archive-v0/Troh8t82H18u9prd",
+    "<HOME>/.cache/uv/archive-v0/U3TEmsGJUSrJKD8y",
+    "<HOME>/.cache/uv/archive-v0/UIXyESKZJwro0k76",
+    "<HOME>/.cache/uv/archive-v0/UO8hLtn2WpErw49i",
+    "<HOME>/.cache/uv/archive-v0/UdG_AK1b7cuOnq56",
+    "<HOME>/.cache/uv/archive-v0/WSHTuaIkstyC-4wA",
+    "<HOME>/.cache/uv/archive-v0/Y5TT7nWJdij2Xh1u",
+    "<HOME>/.cache/uv/archive-v0/Y5dE2QlAIytV3S-q",
+    "<HOME>/.cache/uv/archive-v0/YbSFYLCLyjCd9yPz",
+    "<HOME>/.cache/uv/archive-v0/Yyd6WiyyZM9qFyu4",
+    "<HOME>/.cache/uv/archive-v0/ZgyYdfYW1o4-A7cM",
+    "<HOME>/.cache/uv/archive-v0/_9xzLU18JsOMeXjf",
+    "<HOME>/.cache/uv/archive-v0/_PyTH_VK2JmeZ083",
+    "<HOME>/.cache/uv/archive-v0/_l9JfPFBDBWGP906",
+    "<HOME>/.cache/uv/archive-v0/_q_y6g-zdkvvvfpJ",
+    "<HOME>/.cache/uv/archive-v0/a6V9f9cY9eVHqmK4",
+    "<HOME>/.cache/uv/archive-v0/b2iOGc7TvmCvriE0",
+    "<HOME>/.cache/uv/archive-v0/cAYo0JkGTTyyZSHw",
+    "<HOME>/.cache/uv/archive-v0/cH9btdikHDS-wD40",
+    "<HOME>/.cache/uv/archive-v0/gI5zDATfFUmce3Ci",
+    "<HOME>/.cache/uv/archive-v0/gVIV6MYNhnZLWm74",
+    "<HOME>/.cache/uv/archive-v0/ge_8enLWf2WL7Htm",
+    "<HOME>/.cache/uv/archive-v0/gmabzTG-E8rXexMC",
+    "<HOME>/.cache/uv/archive-v0/gpIaquSP3aOYaicP",
+    "<HOME>/.cache/uv/archive-v0/gxAFG32G6ZyQcyHJ",
+    "<HOME>/.cache/uv/archive-v0/h62PLSJMv7vsQZ1k",
+    "<HOME>/.cache/uv/archive-v0/hJE0lh5S01Z2JWWU",
+    "<HOME>/.cache/uv/archive-v0/hQ2yyMjmAS33MznJ",
+    "<HOME>/.cache/uv/archive-v0/hRjRCYX6YPWL7tc7",
+    "<HOME>/.cache/uv/archive-v0/iWCKvHSEpUgHp4mT",
+    "<HOME>/.cache/uv/archive-v0/jPSJo8u5GQdiyQHv",
+    "<HOME>/.cache/uv/archive-v0/kgl9_c_cYoPrVyZU",
+    "<HOME>/.cache/uv/archive-v0/knFVgtyDf7rFOJbe",
+    "<HOME>/.cache/uv/archive-v0/lCFbisxe9Uv2O3fP",
+    "<HOME>/.cache/uv/archive-v0/mXNcmXwPrk7dC_ML",
+    "<HOME>/.cache/uv/archive-v0/mfBbqiZGKTTlTYhL",
+    "<HOME>/.cache/uv/archive-v0/nO1kKX-iCQ_tlRuq",
+    "<HOME>/.cache/uv/archive-v0/o662MbIJ3HUwgMII",
+    "<HOME>/.cache/uv/archive-v0/q1T7Y5ZTK1sLaV-s",
+    "<HOME>/.cache/uv/archive-v0/qYWr0Kl4-jPvzYFU",
+    "<HOME>/.cache/uv/archive-v0/r2dD69JLMEYuiC1M",
+    "<HOME>/.cache/uv/archive-v0/snNERQZBbXsFg_Md",
+    "<HOME>/.cache/uv/archive-v0/uB82K6y0L-G-0vcF",
+    "<HOME>/.cache/uv/archive-v0/uIzXHkvk7Gk-LdTI",
+    "<HOME>/.cache/uv/archive-v0/uWo9OSlASo8E7-Lg",
+    "<HOME>/.cache/uv/archive-v0/v3Vg7aCt5tGsuDP5",
+    "<HOME>/.cache/uv/archive-v0/wnHW7U9jyeluPpvQ",
+    "<HOME>/.cache/uv/archive-v0/x-nddf-zLOLDSGUt",
+    "<HOME>/.cache/uv/archive-v0/xD_wGL9vvgRGifwV",
+    "<HOME>/.cache/uv/archive-v0/xTXhgarX80PmEVHa",
+    "<HOME>/.cache/uv/archive-v0/zVnhK8IBo7hh-Msz",
+    "<WORKSPACE>/src",
+    "<WORKSPACE>/scripts",
+    "<WORKSPACE>/scripts",
+    "<HOME>/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python311.zip",
+    "<HOME>/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11",
+    "<HOME>/.local/share/uv/python/cpython-3.11-linux-x86_64-gnu/lib/python3.11/lib-dynload",
+    "<HOME>/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/site-packages",
+    "<HOME>/.local/share/uv/python/cpython-3.11-linux-x86_64-gnu/lib/python3.11/site-packages"
+  ],
+  "packages": [
+    {
+      "module": "numpy",
+      "version": "2.4.6",
+      "source": {
+        "path": "<HOME>/.cache/uv/archive-v0/wigwrCaBQ4gtGAgw/numpy/__init__.py",
+        "size_bytes": 26277,
+        "sha256": "92a46f791e453926d3292af2582b89995a289475f0eaaea71a949823200b838a"
+      }
+    },
+    {
+      "module": "scipy",
+      "version": "1.17.1",
+      "source": {
+        "path": "<HOME>/.cache/uv/archive-v0/iOkdtDHY5JVJ7H4w/scipy/__init__.py",
+        "size_bytes": 4063,
+        "sha256": "335bc6e0a9909dc7534f9569a3685a92dc8001cb8c63a6da4c239849ff02d4d0"
+      }
+    },
+    {
+      "module": "torch",
+      "version": "2.13.0+cu130",
+      "source": {
+        "path": "<HOME>/.cache/uv/archive-v0/Wbw873lV48N3LIhJ/torch/__init__.py",
+        "size_bytes": 111841,
+        "sha256": "cf40c075c95864036e835795756d69b8cccfafa76f3bcde5eba9d06065ccd3d1"
+      }
+    },
+    {
+      "module": "flyvis",
+      "version": "1.2.0",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/flyvis/__init__.py",
+        "size_bytes": 1801,
+        "sha256": "aea219a5e7fe78d4eba07f8a5c9f08abfcba3ad235bcca943dd08af803ab9e3a"
+      }
+    },
+    {
+      "module": "datamate",
+      "version": "1.0.0",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/datamate/__init__.py",
+        "size_bytes": 974,
+        "sha256": "de5603883988e17875eddcbe2abf1a4937899cd2d274874bc22fe0d1956a4a7e"
+      }
+    },
+    {
+      "module": "h5py",
+      "version": "3.16.0",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/h5py/__init__.py",
+        "size_bytes": 3705,
+        "sha256": "d4a46803087247cef67ee34a4d98d797be2f55b1f9230bc5f8a1fa358f8d1b87"
+      }
+    },
+    {
+      "module": "omegaconf",
+      "version": "2.3.0",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/omegaconf/__init__.py",
+        "size_bytes": 1170,
+        "sha256": "9729f08831c414120732aac13771d18742897afcc86a9e8cc942c53643269417"
+      }
+    },
+    {
+      "module": "hydra",
+      "version": "1.3.2",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/hydra/__init__.py",
+        "size_bytes": 586,
+        "sha256": "45f5e3eddb9789e08b9dc061bc03fe74aff28815fb00fd5ce4e4f5649e26cea4"
+      }
+    },
+    {
+      "module": "yaml",
+      "version": "6.0.3",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/yaml/__init__.py",
+        "size_bytes": 12311,
+        "sha256": "b19dfcc333d6a75dfd73073901164507252f271b41d3b5f7d85510033a0547a7"
+      }
+    },
+    {
+      "module": "matplotlib",
+      "version": "3.11.2",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/matplotlib/__init__.py",
+        "size_bytes": 56239,
+        "sha256": "37abb78e74e9e0085a4e306a919606ffa8ff3c263def80ae2f4d938cfa79cd32"
+      }
+    },
+    {
+      "module": "numba",
+      "version": "0.68.1",
+      "source": {
+        "path": "<TEMP>/neural-completion-flyvis-v1/numba/__init__.py",
+        "size_bytes": 8672,
+        "sha256": "d6c3a21423072fcd3d00d5445f97f62de79744b6f351a3800eac8bcd2cf85420"
+      }
+    }
+  ],
+  "torch_build": "2.13.0+cu130",
+  "cuda_available": false,
+  "execution_device": "cpu",
+  "alternate_binary_stack_tested": false,
+  "note": "The earlier metadata inventory includes visible duplicate distributions; these are the modules actually resolved in the tested bootstrap."
+}

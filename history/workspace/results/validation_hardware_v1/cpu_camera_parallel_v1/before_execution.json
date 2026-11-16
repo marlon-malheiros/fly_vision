@@ -1,0 +1,161 @@
+{
+  "created_utc": "2026-10-21T21:00:45.740336+00:00",
+  "source_sha256": "0ad065966f945e1a12a2e31ccbe33ff6cbd56906388d4e2404f2a4bf1d9e3ba1",
+  "methods": {
+    "benchmark_cpu_camera_parallel_v1.py": "0ad065966f945e1a12a2e31ccbe33ff6cbd56906388d4e2404f2a4bf1d9e3ba1",
+    "streaming_core_v1.cpp": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857",
+    "deployment_neural_v3.cpp": "1873c4bc53c662b50623b11a024fc3471487121cc684928c6bfd58263eaf0f64"
+  },
+  "package_index_sha256": "53633e88e79427e432deb73ab8b0d21f6b3380018a24ec97cdc77c0e01f16842",
+  "frontend_sha256": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+  "candidates": [
+    {
+      "name": "strict",
+      "threads": 1,
+      "parallel": false,
+      "approximate": false,
+      "wait": "PASSIVE"
+    },
+    {
+      "name": "bounded",
+      "threads": 1,
+      "parallel": false,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "name": "parallel_2_passive",
+      "threads": 2,
+      "parallel": true,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "name": "parallel_2_active",
+      "threads": 2,
+      "parallel": true,
+      "approximate": true,
+      "wait": "ACTIVE"
+    },
+    {
+      "name": "parallel_4_passive",
+      "threads": 4,
+      "parallel": true,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "name": "parallel_4_active",
+      "threads": 4,
+      "parallel": true,
+      "approximate": true,
+      "wait": "ACTIVE"
+    }
+  ],
+  "order": [
+    {
+      "repeat": 0,
+      "name": "parallel_4_passive",
+      "threads": 4,
+      "parallel": true,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "repeat": 0,
+      "name": "bounded",
+      "threads": 1,
+      "parallel": false,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "repeat": 0,
+      "name": "parallel_2_active",
+      "threads": 2,
+      "parallel": true,
+      "approximate": true,
+      "wait": "ACTIVE"
+    },
+    {
+      "repeat": 0,
+      "name": "parallel_4_active",
+      "threads": 4,
+      "parallel": true,
+      "approximate": true,
+      "wait": "ACTIVE"
+    },
+    {
+      "repeat": 0,
+      "name": "strict",
+      "threads": 1,
+      "parallel": false,
+      "approximate": false,
+      "wait": "PASSIVE"
+    },
+    {
+      "repeat": 0,
+      "name": "parallel_2_passive",
+      "threads": 2,
+      "parallel": true,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "repeat": 1,
+      "name": "parallel_2_passive",
+      "threads": 2,
+      "parallel": true,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "repeat": 1,
+      "name": "parallel_2_active",
+      "threads": 2,
+      "parallel": true,
+      "approximate": true,
+      "wait": "ACTIVE"
+    },
+    {
+      "repeat": 1,
+      "name": "strict",
+      "threads": 1,
+      "parallel": false,
+      "approximate": false,
+      "wait": "PASSIVE"
+    },
+    {
+      "repeat": 1,
+      "name": "parallel_4_active",
+      "threads": 4,
+      "parallel": true,
+      "approximate": true,
+      "wait": "ACTIVE"
+    },
+    {
+      "repeat": 1,
+      "name": "parallel_4_passive",
+      "threads": 4,
+      "parallel": true,
+      "approximate": true,
+      "wait": "PASSIVE"
+    },
+    {
+      "repeat": 1,
+      "name": "bounded",
+      "threads": 1,
+      "parallel": false,
+      "approximate": true,
+      "wait": "PASSIVE"
+    }
+  ],
+  "full_camera_cases": 3,
+  "repeats": 2,
+  "solver_dt": 0.001,
+  "rate_and_final_state_absolute_tolerance": 1e-10,
+  "frame_budget_ms": 5.0,
+  "paired_budget_ms": 10.0,
+  "default_changed": false,
+  "scope": "Scientific workers finished; actual external host load recorded, no affinity/system changes"
+}

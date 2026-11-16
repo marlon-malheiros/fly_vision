@@ -1,0 +1,107 @@
+{
+  "frozen_utc": "2026-10-21T14:13:43.948671+00:00",
+  "cycles": 1500,
+  "numerical_tolerance": 1e-10,
+  "update_budget_ms": 10.0,
+  "chunk_cycles": 50,
+  "solver_dt": 0.001,
+  "files": [
+    {
+      "path": "scripts/run_sustained_cuda_replay_v1.py",
+      "size_bytes": 9070,
+      "sha256": "6ba306802cfc201c58dc7b9e681df6f5eef1cff293c1a1c1052459a1b206a63a"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v3.py",
+      "size_bytes": 1503,
+      "sha256": "c00eef2aaba8781e6efca533a70ee79932cfccab8bc313dbe864bb802ba285ae"
+    },
+    {
+      "path": "docs/SUSTAINED_CUDA_REPLAY_PROTOCOL_V1.md",
+      "size_bytes": 2729,
+      "sha256": "98262b26613ea73b5dd5aa4d9f7743d3bfc109b7be67536abd84f9face767b30"
+    },
+    {
+      "path": "results/validation_hardware_v1/hardware_frontend_benchmark_v3/raw_measurements.npz",
+      "size_bytes": 1301623,
+      "sha256": "e0a68bfde95d0a54a502706759a5f9ca863c3778966321396b335954e199346b"
+    },
+    {
+      "path": "results/validation_hardware_v1/hardware_benchmark_v1/calibrated_retina_fixture.npz",
+      "size_bytes": 16709723,
+      "sha256": "407fd905fe637f4842566c10c21b07490e54ec98bfa2c1e542fc7f7bb86013a7"
+    },
+    {
+      "path": "results/validation_hardware_v1/frontend_memory_v3/frontend_portable.so",
+      "size_bytes": 16344,
+      "sha256": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015"
+    },
+    {
+      "path": "results/validation_hardware_v1/cuda_driver_v3/preflight_r1/preflight.json",
+      "size_bytes": 8956,
+      "sha256": "621b196452d61c70c7f49632c699c9eeb5a1f7205213365edad3c7bc0422ddd2"
+    },
+    {
+      "path": "results/validation_hardware_v1/frontend_memory_v3/preflight.json",
+      "size_bytes": 2689,
+      "sha256": "df9a2bad5081685dc22eda8d8e0e1325f106a39abf86097bc655f8b07d4e7c87"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v1.py",
+      "size_bytes": 18506,
+      "sha256": "c923510f8ba715977cb7c704ad472111ba9b8dd798a1d8da1edc5f402f8d7cec"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v2.py",
+      "size_bytes": 9864,
+      "sha256": "453f6212e4300cb2976ad886defe61690bdf3c93f1ef62c677124fb29fe7d6f8"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v3.py",
+      "size_bytes": 5329,
+      "sha256": "93ec347bb5d4a17f48e70da959d45e2dae08cd4c88697f5df4b8093e8d97cf5c"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v1.py",
+      "size_bytes": 1793,
+      "sha256": "ceefa9da2b8c701571deda259b94c25a0a997e637c469fd22f4598a3c4369b9f"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v2.py",
+      "size_bytes": 946,
+      "sha256": "1f600f9f506d23ad1f4a8daef2be935a9f389140115152195e66bd463f740c38"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_v1.py",
+      "size_bytes": 4536,
+      "sha256": "01690d344d4146c6884814526fa1ed8cf34de1e3620724021f1aec44371b0904"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_v2.py",
+      "size_bytes": 7068,
+      "sha256": "412461ad5e46cc0df0c86afb892065fd932828031c233f106c993ac0579f625c"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_frontend_v2.py",
+      "size_bytes": 3142,
+      "sha256": "ea7f96e231f29ef2b144869abe2fa53c53dba18e8c7824f760361228b9a2298e"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "results/validation_hardware_v1/methods/streaming_core_v1_r2.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_v2/model/model.json",
+      "size_bytes": 2642124,
+      "sha256": "468f51caf4a87bf74e4b6b6e564af6ca6b94142622089c1e8f4b138dbcb163a1"
+    }
+  ],
+  "scientific_parameters_changed": false,
+  "sustained_outcomes_inspected": false
+}

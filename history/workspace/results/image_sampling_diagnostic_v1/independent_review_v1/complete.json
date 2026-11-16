@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "date": "2026-10-24",
+  "verified_output_files": 660,
+  "all_retinal_comparisons": 308,
+  "score_rows": 840,
+  "cell_rows": 4312,
+  "stability_gate_met": false,
+  "stationary_maximum": 0.0,
+  "offline_frontend_python_neural_replay": {
+    "case": "s07_v16.5_y+2",
+    "profile": "direct",
+    "source_max_error": 0.0,
+    "pooled_max_error": 0.0,
+    "rate_max_error": 8.673617379884035e-19,
+    "final_state_max_error": 8.131516293641283e-20
+  },
+  "independent_direct_geometry": {
+    "checked_retinal_values": 76296,
+    "maximum_error": 0.0
+  },
+  "arithmetic_review": true,
+  "biological_validation": false,
+  "parameters_changed": false
+}

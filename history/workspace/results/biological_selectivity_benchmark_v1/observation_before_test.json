@@ -1,0 +1,519 @@
+{
+  "utc": "2026-10-27T21:02:02.999262+00:00",
+  "files": [
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observation_candidates.json",
+      "size_bytes": 92703,
+      "sha256": "5f8b5f532db90e626086656fbb1a6be97e21fa8a358b9464a672b24024e62883"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observation_models.json",
+      "size_bytes": 2118,
+      "sha256": "2321938e22e8fe510ebfc42c0b9dd68e48969aa8309992c55a00b156dd9dbf9e"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/calibration_observations.json",
+      "size_bytes": 43635,
+      "sha256": "24f35bcd92f34a5b8aef9f3095c6bdfd03d9dee0a258b7a8070047dd8b55ff48"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/calibration_exclusions.json",
+      "size_bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/simulation_complete.json",
+      "size_bytes": 83,
+      "sha256": "4f4836264e730862f51ec5242f8d3d23457840e8fae97b5047e944b5d0c54437"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/numerical_review.json",
+      "size_bytes": 1409,
+      "sha256": "ec4af2e05e8b86b8037a5b7bbc53a958e26b288f81b3b0d7f5f282bee4fd8944"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/ef092a65e4e4183b1f61.npz",
+      "size_bytes": 9394,
+      "sha256": "dba767b59d088251b0c21806647b72710f3bd299f2e44b46c010a30999824c3d"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/8153e5b345f39b6b3131.npz",
+      "size_bytes": 9485,
+      "sha256": "ed9b88249a0e398bf400253806b7c703dacd5359a1ec74fe43f38f6024d767f5"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/96045ba91756dbc9a3f1.npz",
+      "size_bytes": 9297,
+      "sha256": "d137aee74ec31bc231365dddf40043f2086b8c7f164194d95c0ee4a63d57ea7e"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/630c7304a995fcc22696.npz",
+      "size_bytes": 9932,
+      "sha256": "7faec500eb19f276f90617489203e80df0f004a2616c3920cdb2cfe2606b4a83"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/6b1d11886405a50e88d9.npz",
+      "size_bytes": 9722,
+      "sha256": "580c158048b75698023e5bd7fd0619f9e450a28bcf6a3316c945d117279cf7b0"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/4238f64120bb45ca3db9.npz",
+      "size_bytes": 9798,
+      "sha256": "cf2f65074b97703a3c6441ca2946830fafe096dda3d5331c692e1e1749e1808b"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/480194ae84b3554decb9.npz",
+      "size_bytes": 12267,
+      "sha256": "14b52040b06f797bb8f52fb757209c1d611a45a01e9d9283de3122169a619a4f"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/d18330e7f517e58b78d7.npz",
+      "size_bytes": 12725,
+      "sha256": "1cda46c3c864b14ed7202d2a2d17d69fca67cf353d8e5492f7b25d2cbac21117"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/a082995d17e9f72cd93b.npz",
+      "size_bytes": 11580,
+      "sha256": "f89c70e138f048a1753e12ade2d26de2e6a949a6f9fa210787468792ec32e4ba"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/0ef903692d7d21168550.npz",
+      "size_bytes": 10837,
+      "sha256": "eb5cf939439f8c61b9f8b50c85f5141d36ebca1b1b3b5aace785432a1f7e0dbc"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/65f0485d73190418dfec.npz",
+      "size_bytes": 13513,
+      "sha256": "260eba5fc4b9f60e9434cbfc9338a4d857849e4edf09c5f0d4c9ac5e90e675ca"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/95d81d9652bb822f5464.npz",
+      "size_bytes": 13542,
+      "sha256": "9f7fd787f6ad8bd473c2c3a38af70f3d168c9212e01ee23924b43d36ef947bba"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/e10a6d4d5364985ffdbe.npz",
+      "size_bytes": 13658,
+      "sha256": "37d0cf2e0dd24b6c9ad46310b5119c68225276a39ffc0c85db0e809b2136d825"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/74382d210be3dfece7c1.npz",
+      "size_bytes": 13765,
+      "sha256": "e6eb8626e53187221c2a30ea2d3dc10c07bb3ec778f959733a8197b39146f091"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/37333ef1f3a00ce0b7fb.npz",
+      "size_bytes": 11087,
+      "sha256": "3c1fe42137016e751c310cc0faccc9094a25c795a3a2a4ff4e64b227dc89fa13"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/d59f5e9ac8369be1c0df.npz",
+      "size_bytes": 11910,
+      "sha256": "d0448146eca02d160eb450931003d9c20bdf118343b974bf8e1d77a70c3b3397"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/791938fc3d7a58ee9320.npz",
+      "size_bytes": 10597,
+      "sha256": "c83ab3f86ece1c13c1827ef7e4a05a58e9700aace430df20536a7b2276750140"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/6464d2c4c70f63da6039.npz",
+      "size_bytes": 10722,
+      "sha256": "8211f0041950c0f17f526a56c9872e60413bb235c27410556f05f028fbc1e071"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/49d9e91081f7058e49c0.npz",
+      "size_bytes": 7897,
+      "sha256": "5d018ca1a397e014afd51c372227434dd558e89a08bebaa5682529be74212c93"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/ef7bc6557b49d6c246fa.npz",
+      "size_bytes": 8683,
+      "sha256": "914e4b3849c7cc20f664e81512ab38a70cab362d83c1f556130a325f9d9b92dd"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/74024bb90f42cd6b2f29.npz",
+      "size_bytes": 12155,
+      "sha256": "f55386028595cdba51b7bab24c1b199f8e0db70b6b5c1771e9790f001286a1ba"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/c59a789e8d6c2c484897.npz",
+      "size_bytes": 13721,
+      "sha256": "9306785c445cb83a6ad88d34036efd79beb6ece706885a96b35e9a2d28c7a5df"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/cd0e543f2166c16123c6.npz",
+      "size_bytes": 11510,
+      "sha256": "c9187d9d388d86398a2014d178056c589a7d563d27e0293e8ce5004f01f77cf3"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/79efd57c102ac085a708.npz",
+      "size_bytes": 10863,
+      "sha256": "ff87bf30d695c72e8660787893b8b5ec98f9008cfe93b2e5af8c02b4c89d02dc"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/efda8fc143c803da60dd.npz",
+      "size_bytes": 13691,
+      "sha256": "688c0ff5b7a23c18b626dc78f952514c8bf7aaccdd9f1d0c03bd4019ead458e3"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/a590335d5819bd800af1.npz",
+      "size_bytes": 13796,
+      "sha256": "2720abc49d06d62b63d56da6af4ac18548e914e26e1c86ae175f34942b782261"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/23e29f62d20d973c66ca.npz",
+      "size_bytes": 13227,
+      "sha256": "09c1621c65cc53d275dd82503d737efd3bcec4840e03a9a071238ad66bf931a8"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/03a68fb2ef901694d661.npz",
+      "size_bytes": 12352,
+      "sha256": "a62a6f7d8443b8a8340b80b49c098897fdaf6f07aff8ef428b188d45e4a0c58b"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/73a644b1af80b6c270f7.npz",
+      "size_bytes": 12857,
+      "sha256": "f342bb18790da5b5603d57e14a378a874b38659534264ecad9647112c81d24bf"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/387e2917d0c2230fdc09.npz",
+      "size_bytes": 12917,
+      "sha256": "b3e27452088572ed1ddd1f2c9ec5d53627061086c5f0c3f09594902de560cb7b"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/e2b659806ffecfa25798.npz",
+      "size_bytes": 9130,
+      "sha256": "9d5f2843c93e24ec631dac1ebf6e728347d3dbd9cf110020cfd93292f6474f53"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/292baead618de33bc9fe.npz",
+      "size_bytes": 10001,
+      "sha256": "9acc150d9d5fa087c9fec05b29e02ff231244013757e0d7ff04c2c742018760c"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/85e12f7109023293d246.npz",
+      "size_bytes": 11334,
+      "sha256": "9f3537a0e00d743d2f8dd9e1ed97b1c75384bb9f2362792d7d050ec19ef2ffc7"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/665cdde8ef0bd870263f.npz",
+      "size_bytes": 11421,
+      "sha256": "ac3ccc9ee4f630d8de9a08c1d2389e0c2071e5ca0591192d7ff6d1f599074636"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/b1340007650e73c894e6.npz",
+      "size_bytes": 12483,
+      "sha256": "8533502c7512022c112181298785c6f7843a0c435080cf5b7667926f848d2c5e"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/fa992de0b8da8c00f925.npz",
+      "size_bytes": 10540,
+      "sha256": "3e5269b32e5f17cae5ed86bd36a548f858549e4a2e74e9e0c3e8e61696c2bbd7"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/2f32086e30fc55464287.npz",
+      "size_bytes": 11166,
+      "sha256": "7200d5de68b33737252d94f1d70868b4cd4849bd4eb8970193fbcf0534da2440"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/ca510ab6f0aca53f3e04.npz",
+      "size_bytes": 11173,
+      "sha256": "5f67858684be02009225d86c5523b553dac06ec0ea9d68c814c5e2fa3a89c3b5"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/8cbb0603f65b9d54dac9.npz",
+      "size_bytes": 11082,
+      "sha256": "65d5bcf168b9a95eda6d7be80585cd8617b2f8d2a978d8e4b39584769452a390"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/2c00ea51bfade2164165.npz",
+      "size_bytes": 11790,
+      "sha256": "a7b4d8dfb58fa6f6c34d2fca39f0ee3aaf42443a81d564e55f5a2a51b9ce3a18"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/89c0e7d07c77aa7f0914.npz",
+      "size_bytes": 13291,
+      "sha256": "f6643f7b70122db47d3c2cc0ec41f39920aa2a81c2246ff150ac22e1ec56bb7a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/e967d686634dd8e922de.npz",
+      "size_bytes": 13891,
+      "sha256": "6e7d7bb1c1a50cc1a09694928e247f8e5ec5ca4c46217260a7a549267602c826"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/cbb3576e458233cda2c9.npz",
+      "size_bytes": 13853,
+      "sha256": "e9f643a5fc344cda0941e4bd776b5d3e5ec8c5838a25434594688e15e95704dc"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/7511c12999a9f9f11464.npz",
+      "size_bytes": 13970,
+      "sha256": "a6703040f2334e2278eebf8b37dd42c653ec0eb07ae4c47770fd2c98ed956b66"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/7910b1f5d899af6d5ba0.npz",
+      "size_bytes": 12772,
+      "sha256": "aa219022adb432e123ebd66b56f95a6c6b39dacb3aad55e2dc5d02c0e2e25fc8"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/3652844a14c7c7d994ca.npz",
+      "size_bytes": 12860,
+      "sha256": "6496ce08545bf59b6ae81745e2d2590d04ed126c67b8deae7a9e9cec92305b25"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/58e5b36428269069bb7c.npz",
+      "size_bytes": 13964,
+      "sha256": "74cb0a34b1ab08f1197a04fe039c8ee50ea43c4628724fde61af5c780fda0228"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/643dae0db8ec3506f43e.npz",
+      "size_bytes": 14058,
+      "sha256": "4bfed6fae8308a30ac67385858b64e390893612488708e6b452db9186bfa8ea1"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/0ea50a91aa131c0d2289.npz",
+      "size_bytes": 13931,
+      "sha256": "102fa784bb63800905555b3dce6d4a6ebde96d02d63eb415dfd289ddc4e7abb9"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/68911f21b61dc7c5cd30.npz",
+      "size_bytes": 12338,
+      "sha256": "b805aa27afc1051db97984d967f3199e61dad26a21b09e63b17484b6061ab309"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/1d03cd90080b1ce87803.npz",
+      "size_bytes": 13086,
+      "sha256": "9d55adc7b48f4b7bc41ec90ecb35e5824c7dbe7be38894536141ca5c27324297"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/d233a323ca06223613e4.npz",
+      "size_bytes": 12950,
+      "sha256": "76fecd8d6bd8546bf0d4a4f36afc98eb8dd2626565808ccc24c5e9401b2070f1"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/a112fa777b2700e82d53.npz",
+      "size_bytes": 11029,
+      "sha256": "faff73cd3d0c7c7e71fbcf19d234a32d850ac99ade611d480cb45f331c31a5b4"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/d2bef5bd8136c556b4a6.npz",
+      "size_bytes": 10963,
+      "sha256": "1b8a2f58b7b8481d1e13313481bb6581f10a0bae5bc9e924c708dfb077a255bc"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/27f7798bc9b49f167daf.npz",
+      "size_bytes": 12636,
+      "sha256": "52bb97c309f5ed5823ed4fc56783e50dfca55955a082ddc7d38c04db396d0b39"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/988eeb2098811e5f5ce7.npz",
+      "size_bytes": 13190,
+      "sha256": "4f93595948ce11f23904006a0988ac2696a71cdd73ab1a6fb09302859b8b289a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/10d8491e01777efa57b5.npz",
+      "size_bytes": 10962,
+      "sha256": "00a50a41f27e6501e1f31c9f0b89b4ed6e19823685b233d78f34393d8022e89a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/946c72e2b20d909a3ce7.npz",
+      "size_bytes": 11005,
+      "sha256": "bd2446a13cd2a038bc2f76ec9964e81ad2ba49a760b71ebf726a3521784239e3"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/9e22e610f77125cf10ee.npz",
+      "size_bytes": 7942,
+      "sha256": "5a397a70b84203b4d59c7cd718025da07c205d2591e9146ccd452c3d40a4f802"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/7e03ab0685af80948ca3.npz",
+      "size_bytes": 10973,
+      "sha256": "7b3d1ee6efad58b09d2179e772497248802bd7f2757725aa4d9777af19fc1eee"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/157dcafe0e59fb95c5ff.npz",
+      "size_bytes": 12387,
+      "sha256": "e33a62f96641577709f70ff04b92f39dff65e8e67ff42de35a515ddad93162be"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/af51e8c77d870d834d79.npz",
+      "size_bytes": 12308,
+      "sha256": "8df2131e55c8c4d658447e41890a3d0ee2dc721493ac10d13abbcb92c03b1da2"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/671bc36a26d3090a99c7.npz",
+      "size_bytes": 9387,
+      "sha256": "2789cc28ea05950ac35635286c467abe7d927b4a02d7c237a3795d8e77ef1c24"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/081ddc23322df3cfd43c.npz",
+      "size_bytes": 9420,
+      "sha256": "602a8093e4fbb4df36d471e0be3ea1b4fb7b0bc23a26ed5810e1dd45a7f4d1e2"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/9c53c55b78ab09b83ea3.npz",
+      "size_bytes": 11393,
+      "sha256": "04dd24d4a338b1511b110b41298ca01f69966a8343125e77cce608b7ce2f3c07"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/71589f8c08a786da4f47.npz",
+      "size_bytes": 11414,
+      "sha256": "6b388ac762163fe471f72ffba5f5a8a8c648bd56146466ce7853bc49799fea7d"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/1c430958bff40a951079.npz",
+      "size_bytes": 13327,
+      "sha256": "b71880ca84b4c61913098913f51e33323283b1f575ffcb1ae3e4fc02da4333fa"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/44d88c2d9f350258580c.npz",
+      "size_bytes": 13049,
+      "sha256": "43a5adbb9eee49be6d5d330aaf4b78be98e4ebb14382cd7e858dd6c8e5f45af7"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/2b227f6e1a72e86b225c.npz",
+      "size_bytes": 13414,
+      "sha256": "f35255c752a2e008b3c8472be86856e4b57271b5f9c66110ee3f5c99644ae038"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/efdd107e5d4b7bd49c42.npz",
+      "size_bytes": 10529,
+      "sha256": "520bdda20ea89b664cf9f479b82456a9d8c8a42b8256ca45c0396562063a5be8"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/6f633d7288787689730e.npz",
+      "size_bytes": 11382,
+      "sha256": "aff9a8d7b7eaaa19198276ae197a77f72bafbc21a17fea88bc9879bfa02e2459"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/6f19c7af9e7c92960141.npz",
+      "size_bytes": 11321,
+      "sha256": "4ab0f409538f4ae58b99836b694ede1d5ffcdaa807c00420d3c61a21f3b96212"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/fe9339aa52becd0f1f54.npz",
+      "size_bytes": 11641,
+      "sha256": "d5701ceb212e6db72aeb341adda4de8cd511480d998f1fdc373a93833d5d3abf"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/5833c1f0d03880f15792.npz",
+      "size_bytes": 11636,
+      "sha256": "b3ef8a6ced5642e09c3bc2f948a0cd410bf10e6c0d86ab50b9943adc3c8c5785"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/ec1cb19306ffa3fcbf1e.npz",
+      "size_bytes": 11151,
+      "sha256": "49d1d9bc1a4f9156bd38efe81951af8cafd1600d4f988fc0edc1df20259bcea0"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/52ccd0e22e4f6352b389.npz",
+      "size_bytes": 11081,
+      "sha256": "d5a2a91a8e179fabf7a899aee959cf8f0fea8151a841ea75ecc85d01ca35674a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/b24af7ae73e66fed2523.npz",
+      "size_bytes": 11780,
+      "sha256": "bd3f7cee5b767da4a3ad8d25c3353f06958623d6cb1713b61d854e0191264d3a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/ba7e8d36cd74c761f533.npz",
+      "size_bytes": 11694,
+      "sha256": "504247dd6cf27661c75e57e8eef04e3a0d2bfff35b0c50747a5fd6fae5372134"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/c5e67c41753fb7609336.npz",
+      "size_bytes": 11925,
+      "sha256": "c6517b6868ca9cf1d198580f4ad6553e02530ff4e5ae8b44d6699b5246399b24"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/eb4f99c85d51303e6e7c.npz",
+      "size_bytes": 11853,
+      "sha256": "e834e686301ff50faf28c7dcf31a3cee93004858a547867b15a216a664efba17"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/5299dd9f74a8ca5c8e58.npz",
+      "size_bytes": 10723,
+      "sha256": "63a81df5d1db23fc6aaa34228795b1e4ea6f40e3673b14172692d08e28b068ac"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/7d6913042536b535a769.npz",
+      "size_bytes": 9865,
+      "sha256": "3a4e9c4f6a129b95bd49ef9e95be4ec9137a64a616c6d5c9e02d1b0f0ad9524e"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/3290bd0e72eae27a1598.npz",
+      "size_bytes": 14942,
+      "sha256": "fee7edea75492e9a57c8ed09a14270ccbeb31b308392f4ce6a28ed2df9fc58c9"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/34ce09ac122d8b04b36c.npz",
+      "size_bytes": 14931,
+      "sha256": "0b7484ff2858e164b42aeea0304442206ac0a9e609777d4aa668f672b3e9c76a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/6c25333f4c86db286052.npz",
+      "size_bytes": 8371,
+      "sha256": "30883580e66f21844a023ef56a7fdd82dcc50e25054ad107af94e310ef3dda96"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/fe905bcbf6967c15bee4.npz",
+      "size_bytes": 7898,
+      "sha256": "43c7a9c6eaba7bcfc8c89c49f7703e4b024bc7e5e805fcb90c6a7a3cf488f6be"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/77ff3df05c6dcc80cd62.npz",
+      "size_bytes": 13213,
+      "sha256": "fc4a11163ad91fc9b6d3469f4e0425cba965e28b2133948059ecbfea4f541d5e"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/17003489025aa04798c0.npz",
+      "size_bytes": 12906,
+      "sha256": "c3f23e7f325281b945bd6bd8562267c665a143d98db7928d92635af6536c07c4"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/6167f79a5f3969985195.npz",
+      "size_bytes": 13516,
+      "sha256": "d96fc6471ebae50cb909130d2fcfe6e8af82cfe88c203b919c9a654b27252253"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/34c5712a4be3851cfc5f.npz",
+      "size_bytes": 15298,
+      "sha256": "68b33878c1cee30e728960ae7da46630650615977ad99441a5c03e7b3433c20e"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/0f8192efbddd0b6ee271.npz",
+      "size_bytes": 13732,
+      "sha256": "1372df091d56cf7880e1e8c8c6d277683803dcb0792533ac537e7293a100364a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/744d6ad2d50e7a9962a6.npz",
+      "size_bytes": 12176,
+      "sha256": "c14309b65c129346d2f8de52cf4afa7c340178fabeb18c8ca7de29154a2ca0f8"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/66ded52695dfb7acf424.npz",
+      "size_bytes": 13512,
+      "sha256": "801fbb0afaa19dcafe403e0e1697b51e7b9eb03c2360021f51a6307b000dcce9"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/869548a9260a71354ce7.npz",
+      "size_bytes": 13487,
+      "sha256": "ed279f419c407ab5f9b5d2e3194bfd721f910ce1a9edc28a081a1c7b4e1ead66"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/a30d7c95584873264060.npz",
+      "size_bytes": 13770,
+      "sha256": "3d7d18563119e0baac5a48355d7d578ed615dee2f844faedcff3c0fd24b54f87"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/observed/91778586a5ff3dc9bfea.npz",
+      "size_bytes": 14592,
+      "sha256": "c2267fc137a6d96fc37871eee4899fe3be097650549a7fc0c461c911def340b9"
+    }
+  ],
+  "test_recordings_used_to_fit": false,
+  "unilateral_recordings_used_to_fit": false,
+  "primary_rendering_only": true,
+  "neural_parameters_changed": false
+}

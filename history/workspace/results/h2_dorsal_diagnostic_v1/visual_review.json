@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "date": "2026-10-25",
+  "initial_set_preserved": true,
+  "final_directory": "presentation_v2",
+  "figures": [
+    "localization_and_support_v1",
+    "dorsal_tuning_v1",
+    "stimulus_lesion_numerical_v1"
+  ],
+  "png_and_pdf_pairs": 3,
+  "review": "Inspected all initial plots and final tuning layout; final tuning legends outside data; other two layouts unchanged; titles, units and raw analysis versus display scaling distinguished",
+  "numerical_data_changed": false
+}

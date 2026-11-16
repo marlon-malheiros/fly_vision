@@ -1,0 +1,19 @@
+{
+  "reviewed_utc": "2026-10-21T13:37:51.628827+00:00",
+  "scope": "explicit_visual_inspection_of_all_three_PNGs_for_labels_cohort_coverage_sign_hypotheses_and_visible_failures",
+  "figures": [
+    {
+      "path": "results/validation_hardware_v1/physiology_review_v2/figures/speed_condition_coordinate_rectified.png",
+      "sha256": "a0df7a96a444b8b8ab9d8c1d6d3fa3474c8742559c6e2a62d7df77085c3e0093"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiology_review_v2/figures/speed_condition_coordinate_signed.png",
+      "sha256": "223fcfeeaab3883ed963698a163fad448bd4247586cc6dc51500b0d380d5f3d1"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiology_review_v2/figures/thirteen_proxy_comparison.png",
+      "sha256": "bb5ff9b44207b12a4145bc0380af341949bbff0817a2a552a8fc062e1cbdcbec"
+    }
+  ],
+  "physiological_validation_established": false
+}

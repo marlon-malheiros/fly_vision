@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "review_date": "2026-10-26",
+  "retrospective_review_not_new_experiment": true,
+  "sources_match_existing_seals": [
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/analysis/test_predictions.json",
+      "size_bytes": 2511533,
+      "sha256": "782f1fa9123d28e64ae99db7084c294b4fbc9141602a982b122bfdc4b2788de2"
+    },
+    {
+      "path": "results/small_turn_target_decision_v4/analysis/predictions.json",
+      "size_bytes": 1067765,
+      "sha256": "3b9c9bdecc7b2e7b64780e4e17d1cf098ffa321ae74bda9e47a370cd5f3d533b"
+    },
+    {
+      "path": "configs/small_turn_target_decision_v4.json",
+      "size_bytes": 820,
+      "sha256": "48aa8aa7500d9ddcb430fcefe51990c6ef914497baae588305266b21ff72a079"
+    },
+    {
+      "path": "docs/SMALL_TURN_TARGET_DECISION_PROTOCOL_V4.md",
+      "size_bytes": 4277,
+      "sha256": "9f7b93b471b910c383fe50d44c09f25fddc1faf3532bc46b85f3faf8c6501d59"
+    }
+  ],
+  "script": {
+    "path": "scripts/review_small_turn_acceptance_v1.py",
+    "size_bytes": 3979,
+    "sha256": "9c1226b365c11533f3a5ceca59aef9bb0f5ccd7567c1caeb1e6ad0ea368c86ea"
+  },
+  "condition_summaries": 120,
+  "original_48turn_minimum_detected": 39,
+  "original_48turn_minimum_raw_direction": 39,
+  "original_24straight_maximum_false_alarms": 2,
+  "zero_of_24_false_alarm_Wilson_95_upper": 0.1379762046749802,
+  "original_acceptance_criteria_changed": false,
+  "model_or_cutoffs_changed": false,
+  "added_joint_metric_not_used_to_reclassify_old_studies": true,
+  "biological_validation": false
+}

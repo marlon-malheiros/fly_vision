@@ -1,0 +1,88 @@
+{
+  "schema": "h2_direction_tuning_benchmark_v1",
+  "timestamp_utc": "2026-10-25T10:50:57.610612+00:00",
+  "status": "SPECIFIED_NOT_MODEL_SCORED",
+  "source": "Zhao et al. 2025 H2 raw deposit v2",
+  "task": "Local left-H2 preferred-direction comparison with real recorded moving-edge responses",
+  "study_link": "docs/H2_DIRECTION_TUNING_BENCHMARK_SPEC_V1.md",
+  "gate_status": {
+    "trial_index": "PASS",
+    "source_spike_windows": "PASS",
+    "source_counts_independent": "PASS",
+    "published_dsi_recovery": "DESCRIPTIVE_ALL_78_MATCH_TO_ROUNDOFF",
+    "arena_geometry_and_head_pitch": "PRIMARY_HELPER_AVAILABLE_NOT_RENDERER_VALIDATED",
+    "arena_direction": "PRIMARY_SCRIPT_COMMENTS_AVAILABLE_NOT_YET_RENDERER_VALIDATED",
+    "exact_pixel_patterns_and_photometry": "NOT_ESTABLISHED",
+    "model_eye_coordinate_and_time_mapping": "NOT_FROZEN_FOR_THIS_BENCHMARK",
+    "model_observation_mapping": "NOT_CALIBRATED",
+    "prediction_freeze": "NOT_YET_CREATED"
+  },
+  "stimulus": {
+    "directions": 16,
+    "polarities": [
+      0,
+      1
+    ],
+    "patch_diameter_pixels": 21,
+    "table_mask_radius": 10,
+    "background_table_value": 0.49,
+    "step_interval_s_by_cell": {
+      "1": 0.04,
+      "2": 0.04,
+      "3": 0.04,
+      "4": 0.08,
+      "5": 0.04,
+      "6": 0.04,
+      "7": 0.04
+    },
+    "recorded_side": "left",
+    "contralateral_eye": "painted/occluded",
+    "sex": "female",
+    "source_clock_hz": 20000,
+    "exact_replay_supported": false,
+    "approximate_family_comparison": "FEASIBLE_SEPARATE_RENDERER_FREEZE_REQUIRED"
+  },
+  "conditions": {
+    "full_source": 1344,
+    "source_curves": 84,
+    "published_summary_curves": 78,
+    "omitted_published_curves": "cell 7 aligned protocol 2 original protocol 3, three positions x two polarities",
+    "raw_repeats": 4032,
+    "aligned_repeats": 4000
+  },
+  "primary_statistic": "Cell-weighted mean absolute circular PD error; average signed polarities before min-shift/vector sum",
+  "secondary": [
+    "per-polarity PD",
+    "min-shift DSI",
+    "curve correlation with specified observation mapping"
+  ],
+  "phase": "atan2; no response-selected side/rotation",
+  "potential_calibration_cells": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "potential_test_cells": [
+    5,
+    6,
+    7
+  ],
+  "prior_summary_inspection": true,
+  "fresh_validation_animals": false,
+  "neural_parameter_fit_allowed": false,
+  "quantitative_physiological_validation": false,
+  "uncertainty": {
+    "animal_bootstrap_draws": 10000,
+    "seed": 20261025,
+    "within_condition_repeat_resampling": true
+  },
+  "physical_limitations": [
+    "male connectome vs female recordings",
+    "functional surrogate input routing",
+    "model activity vs intracellular spike observable",
+    "incomplete spatial coverage",
+    "source raster-to-original raw trial row identity not independently established"
+  ],
+  "no_small_yaw_threshold_claim": true
+}

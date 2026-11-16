@@ -1,0 +1,562 @@
+[
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": -10.0,
+    "raw": -0.0012103451621083058,
+    "normalized": -0.00703425512061668,
+    "mean_energy": 0.062092563098595996
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": -5.0,
+    "raw": -0.0006096653289677852,
+    "normalized": -0.0035458669286664002,
+    "mean_energy": 0.06213453408358308
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": -2.0,
+    "raw": -0.000244525436005075,
+    "normalized": -0.0014227145361637415,
+    "mean_energy": 0.062398621809803184
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.06255481360701688
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 2.0,
+    "raw": 0.00024467964341531265,
+    "normalized": 0.0014263922252551896,
+    "mean_energy": 0.06261081546416866
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 5.0,
+    "raw": 0.0006103250877697696,
+    "normalized": 0.0035513630075511633,
+    "mean_energy": 0.06247934531139616
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 10.0,
+    "raw": 0.0012107713653501271,
+    "normalized": 0.007032701571917438,
+    "mean_energy": 0.06215710936810396
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": -10.0,
+    "raw": -0.001212844875485585,
+    "normalized": -0.0070652663166433614,
+    "mean_energy": 0.06283397322013948
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": -5.0,
+    "raw": -0.0006102640999537567,
+    "normalized": -0.0035553273797178176,
+    "mean_energy": 0.06252794669199872
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": -2.0,
+    "raw": -0.0002445505806097538,
+    "normalized": -0.0014248131171097922,
+    "mean_energy": 0.062457132471114944
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.06255481360701688
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 2.0,
+    "raw": 0.00024477263683196377,
+    "normalized": 0.0014255612792798769,
+    "mean_energy": 0.06273562229357087
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 5.0,
+    "raw": 0.000611243171385062,
+    "normalized": 0.003561841046298136,
+    "mean_energy": 0.06299064045771118
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 10.0,
+    "raw": 0.0012139245127193604,
+    "normalized": 0.007059613656670756,
+    "mean_energy": 0.06296291635442512
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": -10.0,
+    "raw": -0.004841380648433222,
+    "normalized": -0.007034255120616681,
+    "mean_energy": 0.24837025239438393
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": -5.0,
+    "raw": -0.0024386613158711413,
+    "normalized": -0.0035458669286664002,
+    "mean_energy": 0.24853813633433233
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": -2.0,
+    "raw": -0.0009781017440202997,
+    "normalized": -0.001422714536163742,
+    "mean_energy": 0.24959448723921276
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.25021925442806753
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 2.0,
+    "raw": 0.0009787185736612504,
+    "normalized": 0.0014263922252551902,
+    "mean_energy": 0.25044326185667465
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 5.0,
+    "raw": 0.0024413003510790785,
+    "normalized": 0.0035513630075511638,
+    "mean_energy": 0.24991738124558457
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 10.0,
+    "raw": 0.0048430854614005085,
+    "normalized": 0.007032701571917439,
+    "mean_energy": 0.24862843747241584
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": -10.0,
+    "raw": -0.00485137950194234,
+    "normalized": -0.007065266316643361,
+    "mean_energy": 0.2513358928805579
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": -5.0,
+    "raw": -0.002441056399815027,
+    "normalized": -0.0035553273797178167,
+    "mean_energy": 0.25011178676799484
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": -2.0,
+    "raw": -0.0009782023224390148,
+    "normalized": -0.0014248131171097922,
+    "mean_energy": 0.24982852988445978
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.25021925442806753
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 2.0,
+    "raw": 0.000979090547327855,
+    "normalized": 0.001425561279279877,
+    "mean_energy": 0.2509424891742835
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 5.0,
+    "raw": 0.002444972685540248,
+    "normalized": 0.003561841046298136,
+    "mean_energy": 0.25196256183084464
+  },
+  {
+    "wavelength": 24.0,
+    "split": "calibration",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 10.0,
+    "raw": 0.0048556980508774415,
+    "normalized": 0.007059613656670756,
+    "mean_energy": 0.25185166541770043
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": -10.0,
+    "raw": -0.000716639986605083,
+    "normalized": -0.005143846443934631,
+    "mean_energy": 0.06342837139510692
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": -5.0,
+    "raw": -0.0003623458680036256,
+    "normalized": -0.0025560312223370982,
+    "mean_energy": 0.06403256993076314
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": -2.0,
+    "raw": -0.00014548824110345509,
+    "normalized": -0.001019869122204174,
+    "mean_energy": 0.06413766967280238
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.0641505584915638
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 2.0,
+    "raw": 0.00014571639758986766,
+    "normalized": 0.001018313107530211,
+    "mean_energy": 0.06415084464775885
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 5.0,
+    "raw": 0.00036372801649761443,
+    "normalized": 0.00254281295142348,
+    "mean_energy": 0.06414862380066652
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 0,
+    "speed": 10.0,
+    "raw": 0.0007216409489850663,
+    "normalized": 0.005082612514084463,
+    "mean_energy": 0.06399731582519352
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": -10.0,
+    "raw": -0.0006973590964366921,
+    "normalized": -0.005282893341052759,
+    "mean_energy": 0.05968119778196124
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": -5.0,
+    "raw": -0.0003567697401165408,
+    "normalized": -0.002613380749953742,
+    "mean_energy": 0.06195049038753966
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": -2.0,
+    "raw": -0.00014456998163054689,
+    "normalized": -0.0010308157169761658,
+    "mean_energy": 0.06335325099422008
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.0641505584915638
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 2.0,
+    "raw": 0.0001466163331712535,
+    "normalized": 0.0010090375809065054,
+    "mean_energy": 0.06479361504063558
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 5.0,
+    "raw": 0.00036899789311765967,
+    "normalized": 0.0024930215210948814,
+    "mean_energy": 0.06545519517735615
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.25,
+    "axis": 1,
+    "speed": 10.0,
+    "raw": 0.0007385581132726214,
+    "normalized": 0.004927080650862988,
+    "mean_energy": 0.0658216387287446
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": -10.0,
+    "raw": -0.002866559946420332,
+    "normalized": -0.005143846443934632,
+    "mean_energy": 0.25371348558042767
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": -5.0,
+    "raw": -0.0014493834720145026,
+    "normalized": -0.0025560312223370982,
+    "mean_energy": 0.25613027972305247
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": -2.0,
+    "raw": -0.0005819529644138203,
+    "normalized": -0.001019869122204174,
+    "mean_energy": 0.2565506786912095
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.2566022339662552
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 2.0,
+    "raw": 0.0005828655903594707,
+    "normalized": 0.0010183131075302114,
+    "mean_energy": 0.2566033785910353
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 5.0,
+    "raw": 0.0014549120659904577,
+    "normalized": 0.0025428129514234814,
+    "mean_energy": 0.2565944952026661
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 0,
+    "speed": 10.0,
+    "raw": 0.002886563795940265,
+    "normalized": 0.005082612514084465,
+    "mean_energy": 0.2559892633007741
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": -10.0,
+    "raw": -0.0027894363857467693,
+    "normalized": -0.0052828933410527575,
+    "mean_energy": 0.23872479112784495
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": -5.0,
+    "raw": -0.0014270789604661632,
+    "normalized": -0.0026133807499537404,
+    "mean_energy": 0.24780196155015863
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": -2.0,
+    "raw": -0.0005782799265221875,
+    "normalized": -0.0010308157169761653,
+    "mean_energy": 0.2534130039768803
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 0.0,
+    "raw": 0.0,
+    "normalized": 0.0,
+    "mean_energy": 0.2566022339662552
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 2.0,
+    "raw": 0.000586465332685014,
+    "normalized": 0.0010090375809065051,
+    "mean_energy": 0.2591744601625423
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 5.0,
+    "raw": 0.0014759915724706385,
+    "normalized": 0.0024930215210948823,
+    "mean_energy": 0.26182078070942455
+  },
+  {
+    "wavelength": 32.0,
+    "split": "standard_check",
+    "contrast": 0.5,
+    "axis": 1,
+    "speed": 10.0,
+    "raw": 0.0029542324530904855,
+    "normalized": 0.004927080650862989,
+    "mean_energy": 0.2632865549149784
+  }
+]

@@ -1,0 +1,2634 @@
+{
+  "documents": [
+    {
+      "path": "docs/AGREEMENT_YAW_PROTOCOL_V1.md",
+      "bytes": 4572,
+      "sha256": "e6462c88029fd3272ce4527629b6c2c00398ee79ca84547d28d2d4b71df1ff4e",
+      "title": "Neural/image agreement for small-turn onset, V1"
+    },
+    {
+      "path": "docs/AGREEMENT_YAW_REPORT_V1.md",
+      "bytes": 14549,
+      "sha256": "f77f210d4d810ffa83661d95c8d68aa43ffaaa63825b3c82f6e75334f9a802af",
+      "title": "A working neural/image hybrid for simulated small-turn onset, V1"
+    },
+    {
+      "path": "docs/ANATOMICAL_STRENGTHENING_DATASET_MAP_V1.md",
+      "bytes": 5983,
+      "sha256": "7e31f2d44b04c58ec34db45455c42731042b0a7e0c79ffd9cfadd9eb028ba9ea",
+      "title": "Study B physiological datasets and measurement map, V1"
+    },
+    {
+      "path": "docs/ANATOMICAL_STRENGTHENING_PROTOCOL_V1.md",
+      "bytes": 8717,
+      "sha256": "b485dbaaee1310c95413a5cb4f69f576564b14d03e795f56bce3879afca8961c",
+      "title": "Study B \u2014 evidence-constrained anatomical strengthening V1"
+    },
+    {
+      "path": "docs/ANATOMICAL_STRENGTHENING_REPORT_V1.md",
+      "bytes": 22355,
+      "sha256": "f1938d44e38aef144a9df1c7e9a155d7693f467a370d07ed5509b6599509e140",
+      "title": "Study B \u2014 chemical reconstruction and physiological benchmarking, V1"
+    },
+    {
+      "path": "docs/ANATOMICAL_STRENGTHENING_REPRODUCTION_V1.md",
+      "bytes": 3749,
+      "sha256": "8ca2860b1661c66ead6e50dd0c205f0176a6d7269ae52a505186c5da70ac127b",
+      "title": "Study B reproduction V1"
+    },
+    {
+      "path": "docs/ANTI_DIRECTION_LEAKAGE_AUDIT.md",
+      "bytes": 4108,
+      "sha256": "dffbe1c28c8bba98b3628b4f8247485ec84d92247e451d8c14dda35e14ac6e48",
+      "title": "Anti-direction-leakage audit"
+    },
+    {
+      "path": "docs/ANTI_DIRECTION_LEAKAGE_AUDIT_V2.md",
+      "bytes": 2558,
+      "sha256": "db187b85c58fb93239fd3a49901b954cdc556601b2246b0c7f53732c1cfa6cbb",
+      "title": "Anti-direction leakage audit V2"
+    },
+    {
+      "path": "docs/ARTIFACT_SEAL_CORRECTION_V2.md",
+      "bytes": 1544,
+      "sha256": "9c90e81b96d4a7bc738d32807b654713e80757bbdffac0f0bc9a23a67622f0af",
+      "title": "Numerical component seal correction \u2014 V2"
+    },
+    {
+      "path": "docs/BILATERAL_ENERGY_PILOT_PROTOCOL_V1.md",
+      "bytes": 8245,
+      "sha256": "53477b23e06f8fba69ed9a8e6f8d985cbc89fef69d110f3fb2d2d565678896e5",
+      "title": "Saved-array bilateral energy pilot V1 \u2014 2026-11-01"
+    },
+    {
+      "path": "docs/BILATERAL_ENERGY_PILOT_REPORT_V1.md",
+      "bytes": 13885,
+      "sha256": "7730b871f149b56069606d6d079d4bf80ec9b413c5802b4640a1768e642c4fb2",
+      "title": "Bilateral neural energy normalization pilot V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_FAILURE_LOCALIZATION_PROTOCOL_V1.md",
+      "bytes": 8832,
+      "sha256": "926e46559bafa370b786f7506119cea48a40718f1c34498f83d80d0d7bc8c2e6",
+      "title": "Biological comparison failure localization V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_FAILURE_LOCALIZATION_REPORT_V1.md",
+      "bytes": 23934,
+      "sha256": "a4f7187ff41fdc63591e6a6ecb61ea8da46e30276ee4f67e67ec6d962f71f002",
+      "title": "Biological failure localization V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_FAMILY_AUDIT_CORRECTION_R2.md",
+      "bytes": 915,
+      "sha256": "833745f9cb0305019ea331a5d3f59e53ebf9577b4606dd5011a6613b3b4e8fc0",
+      "title": "DNp15 audit execution correction R2"
+    },
+    {
+      "path": "docs/BIOLOGICAL_FAMILY_DISSECTION_PROTOCOL_V1.md",
+      "bytes": 6810,
+      "sha256": "d83dcdcace54eb3ae5016294efe668fcc9cb365ee65ca1aaeb259db7f70fe04b",
+      "title": "Biological family dissection and DNp15 audit V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_FAMILY_DISSECTION_REPORT_V1.md",
+      "bytes": 16037,
+      "sha256": "472e25e5a3c407b9ddc6bd5cb82fc06d7205517cba24fe565d3d8ec5c1d64dea",
+      "title": "Family-specific circuit dissection and DNp15 audit V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_FAMILY_SHAPE_CORRECTION_R3.md",
+      "bytes": 975,
+      "sha256": "c8c758ea564f66fd235cc7322af40b67a155054e8a3d5160f6d3a48ef2aa78ac",
+      "title": "DNp15 shape-audit execution correction R3"
+    },
+    {
+      "path": "docs/BIOLOGICAL_SELECTIVITY_BENCHMARK_PROTOCOL_V1.md",
+      "bytes": 7953,
+      "sha256": "7fd6b79bddefcef27dd238538c13c5a8cf66bf97c4b3d82224afb5fff69b475f",
+      "title": "Image-to-recording selectivity benchmark V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_SELECTIVITY_BENCHMARK_REPORT_V1.md",
+      "bytes": 12439,
+      "sha256": "88a90fc38eac16155395bdc7d25b22b883543221e2e0af9828b724979cab6911",
+      "title": "Biological selectivity benchmark \u2014 V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_SELECTIVITY_NUMERICAL_CONTROL_AMENDMENT_R2.md",
+      "bytes": 2003,
+      "sha256": "6d5873c39eea834f0eade6057fa546ea8549658a374644b3517624f231349f7b",
+      "title": "Fixed-waveform numerical control correction R2"
+    },
+    {
+      "path": "docs/BIOLOGICAL_VALIDATION_STATUS_2026-11-02.md",
+      "bytes": 2214,
+      "sha256": "81c4207010dbe30cea31ac40aee53125087b135f99b4d842f0f45f452945f6fc",
+      "title": "Biological validation status \u2014 2026-11-02"
+    },
+    {
+      "path": "docs/BIOLOGICAL_WALKING_TRANSFER_PROTOCOL_V1.md",
+      "bytes": 3329,
+      "sha256": "c6fb0e7564e8e56b9bc3510261da18c623910a806a11ac2fa5341ca8925e0c1f",
+      "title": "Independent-animal bIPS transfer supplement V1"
+    },
+    {
+      "path": "docs/BIOLOGICAL_WALKING_TRANSFER_REPORT_V1.md",
+      "bytes": 6204,
+      "sha256": "44d52ef6bcafdfea374b62c7401a2918b1f9104a43e8f1920de13a624ff29513",
+      "title": "Independent-animal bIPS transfer supplement V1"
+    },
+    {
+      "path": "docs/C2C3_DATA_SUITABILITY_PROTOCOL_V1.md",
+      "bytes": 4305,
+      "sha256": "e758786214c5f39dbea63247781bd863b9de316421993cb40c15f2d2efb9ca47",
+      "title": "C2/C3 physiological-data suitability audit V1"
+    },
+    {
+      "path": "docs/C2C3_DATA_SUITABILITY_REPORT_V1.md",
+      "bytes": 8893,
+      "sha256": "db395423d4d190404d216acf56dcc752cbdcea5328dae8725bb8f8375403fb8d",
+      "title": "C2/C3 physiological-data suitability audit V1"
+    },
+    {
+      "path": "docs/CAMERA_CLOCK_FRESHNESS_PROTOCOL_V6.md",
+      "bytes": 5908,
+      "sha256": "9549789dd9043be38fc4d46425a09e70073bacc0943e9be2c67c6f51e5e68f53",
+      "title": "Camera clock and result freshness contract \u2014 V6"
+    },
+    {
+      "path": "docs/CAMERA_CLOCK_RETROSPECTIVE_SCENARIOS_V6.md",
+      "bytes": 2296,
+      "sha256": "ef2a229803cd81f8a7421b56fbe1387d0d18c90c3b6ac5326dcd0626c58d8365",
+      "title": "Fixed retrospective clock scenarios \u2014 V6"
+    },
+    {
+      "path": "docs/CAMERA_INPUT_CONTRACT_V1.md",
+      "bytes": 3984,
+      "sha256": "f7775c6d2aa83de0cfe58733fe962958c51369a95c731a65d1a84334d724b95c",
+      "title": "Camera-to-retina implementation contract \u2014 V1"
+    },
+    {
+      "path": "docs/CAUSAL_SHORT_WINDOW_YAW_PROTOCOL_V1.md",
+      "bytes": 7135,
+      "sha256": "9942bd4ac4e1d2571c597b6b7826f44aa241654be4a1de9ec1172d00372a47f0",
+      "title": "Causal and shorter-window yaw detection, V1"
+    },
+    {
+      "path": "docs/CAUSAL_SHORT_WINDOW_YAW_REPORT_V1.md",
+      "bytes": 15585,
+      "sha256": "0263fc66c50be48602035363dd1f7c8025f88e9d30d0449c6362bb01a80d5923",
+      "title": "Causal and shorter-window yaw detection, V1"
+    },
+    {
+      "path": "docs/CAUSAL_SOLVER_WORK_SPLIT_PROTOCOL_V5.md",
+      "bytes": 3154,
+      "sha256": "1500c360b64a2a49059e274f2e064cb73001668011c036c6440d04d2b2a32126",
+      "title": "Causal solver work distribution \u2014 V5"
+    },
+    {
+      "path": "docs/COMPILED_CAMERA_PROJECTION_PROTOCOL_V4.md",
+      "bytes": 3760,
+      "sha256": "91039981a596e03a004b75fdb68584253e5f889d5bd9cc79408c7f108e9531e3",
+      "title": "Compiled stereo projection and CPU replay \u2014 V4"
+    },
+    {
+      "path": "docs/CONTINUING_CAMERA_PROTOCOL_V8.md",
+      "bytes": 6601,
+      "sha256": "a9a930d88bbd4df3b29f8d242a12969fe6fc37c37e68bb92568293568e293fb4",
+      "title": "Preserve neural history through complete delayed frames \u2014 V8"
+    },
+    {
+      "path": "docs/CONTINUOUS_READOUT_REPAIR_PROTOCOL_R2.md",
+      "bytes": 2728,
+      "sha256": "8704e26dea0bbadbeb6ba4cdc1d44d1724a88160311623e3e10f0be682cad7e7",
+      "title": "Continuous readout repair R2: causal confidence smoothing"
+    },
+    {
+      "path": "docs/CONTINUOUS_READOUT_REPAIR_PROTOCOL_V1.md",
+      "bytes": 6840,
+      "sha256": "e3498fdb62019b58ce0b3cee7d14af2a8e6cf75ac9afd76bb9848a1fbe00fa34",
+      "title": "Continuous readout repair V1"
+    },
+    {
+      "path": "docs/CONTINUOUS_READOUT_REPAIR_REPORT_R2.md",
+      "bytes": 7528,
+      "sha256": "6848b66862181607dcea8d4c7b8ad2e450f6528a0a63ab1e3ea8b941092a166b",
+      "title": "Continuous readout development report R2"
+    },
+    {
+      "path": "docs/CONTINUOUS_READOUT_REPAIR_REPORT_V1.md",
+      "bytes": 9436,
+      "sha256": "ca474dd84e6cee429221daf6f5a20cbf3ef66c93d2e350d2f9b1e3403ea9044e",
+      "title": "Continuous readout development report V1"
+    },
+    {
+      "path": "docs/CONTINUOUS_YAW_CONTROL_VALIDATION_ADDENDUM_V1.md",
+      "bytes": 1781,
+      "sha256": "dedb17ed6fcf71db36b0604cef078a36cc6745b1b1c88e6da09258ecc61ead28",
+      "title": "Preserved-weight control: supplementary solver check"
+    },
+    {
+      "path": "docs/CONTINUOUS_YAW_MECHANISMS_PROTOCOL_V1.md",
+      "bytes": 10246,
+      "sha256": "d79c1961c16988de473809f3ca0754fd3aa2c4612a022c37ab8401c4d0fb56d7",
+      "title": "Continuous yaw mechanisms: prospective protocol V1"
+    },
+    {
+      "path": "docs/CONTINUOUS_YAW_MECHANISMS_REPORT_V1.md",
+      "bytes": 21206,
+      "sha256": "4b2754eebb41bc3ad24c16aa4251ba87cf0b74b0c771becbc453c39c4dbc8e28",
+      "title": "Continuous yaw responses, symmetry and normalization controls V1"
+    },
+    {
+      "path": "docs/CONTINUOUS_YAW_MECHANISMS_REPRODUCTION_V1.md",
+      "bytes": 5210,
+      "sha256": "ea709623fd3734b90e8d443cb1c5574ec7644fadd7439c715a5ac7ca4921b054",
+      "title": "Reproducing the continuous-yaw mechanisms study"
+    },
+    {
+      "path": "docs/CONTINUOUS_YAW_PHYSIOLOGY_BENCHMARK_V1.md",
+      "bytes": 4466,
+      "sha256": "a199e33ad9e4d9c8b620150de671a4ef3d2b7ce80479479b5f02af038999e53c",
+      "title": "Recording-matched benchmark specification and source audit V1"
+    },
+    {
+      "path": "docs/CONTINUOUS_YAW_VERIFICATION_CORRECTION_V2.md",
+      "bytes": 1578,
+      "sha256": "0a9e9872f50c094f3a878e4c19ea50b88cb18ef3e6946625372ea13a2b91a676",
+      "title": "Geometry-verification correction V2"
+    },
+    {
+      "path": "docs/CONTROLLED_FRONTEND_VALIDATION_EXECUTION_PLAN_V1.md",
+      "bytes": 23293,
+      "sha256": "e257e909a56a7d05511da68a39aca61d6cdc882e81bb99766db0514993c8660d",
+      "title": "Execution plan: controlled biological validation of the image frontend"
+    },
+    {
+      "path": "docs/CORRECTED_PHYSIOLOGICAL_DIAGNOSTICS_REPORT_V2.md",
+      "bytes": 9931,
+      "sha256": "c7d9caeee11405c2de2f0fdce83997220f92c8a72ef665af291283532548c7bb",
+      "title": "Corrected physiological diagnostics \u2014 V2"
+    },
+    {
+      "path": "docs/CPU_CAMERA_DEPLOYMENT_PROTOCOL_V3.md",
+      "bytes": 4783,
+      "sha256": "2486fc2e4e7645337e00919a9ca489f85840f861524ff210c7e21d8b695bcd21",
+      "title": "Portable Linux CPU and full raw-camera replay \u2014 V3"
+    },
+    {
+      "path": "docs/CPU_WORKER_PLACEMENT_PROTOCOL_V7.md",
+      "bytes": 5783,
+      "sha256": "3a8f932e1f63fa96fa4748d660be86ed2e14195d1bf6da8a47a9545b95df8d14",
+      "title": "CPU worker placement comparison \u2014 V7"
+    },
+    {
+      "path": "docs/CPU_WORKER_PLACEMENT_STARTUP_CORRECTION_V7_R2.md",
+      "bytes": 1633,
+      "sha256": "45f3dfb33a05c1576043cec1b1966a21a4c5fe63e6451beb32f2f51979032275",
+      "title": "V7 startup observation correction \u2014 R2"
+    },
+    {
+      "path": "docs/CUDA_DEPLOYMENT_PREFLIGHT_PROTOCOL_V1.md",
+      "bytes": 3560,
+      "sha256": "c226731f97c6a32e83bf11aa2978da8d12906287e30a554524e1b50552e56f69",
+      "title": "Original-clock CUDA deployment preflight \u2014 V1"
+    },
+    {
+      "path": "docs/CUDA_DEPLOYMENT_PRODUCTS_PROTOCOL_V2.md",
+      "bytes": 2286,
+      "sha256": "3cd25e33ad4024f52f6ab20e693a51766f757df005d64bc31d48835082eb5ddf",
+      "title": "Ordered-product CUDA deployment \u2014 V2"
+    },
+    {
+      "path": "docs/CUDA_DEPLOYMENT_PROGRESS_REPORT_V1.md",
+      "bytes": 11111,
+      "sha256": "b47075df124446ec093e6b64451a6153cb574da5ea04fc6724d722184cd44a93",
+      "title": "Original-clock GPU deployment progress \u2014 V1"
+    },
+    {
+      "path": "docs/CUDA_DEPLOYMENT_SHARED_PROTOCOL_V3.md",
+      "bytes": 2607,
+      "sha256": "62cdce4935931efe8eb9bb3f87e4193f598bfe7db2c9dc77a3b9b19c256da645",
+      "title": "Ordered shared-memory CUDA deployment \u2014 V3"
+    },
+    {
+      "path": "docs/DENSE_IMAGE_HYBRID_PROFESSOR_BRIEF_R3.md",
+      "bytes": 2026,
+      "sha256": "1f7e5b20f3cb977ed7fae2ebc5317837f0ef37e6f8736773cce4bf9e476a1e1c",
+      "title": "Small-turn detection: professor brief, R3"
+    },
+    {
+      "path": "docs/DENSE_IMAGE_HYBRID_PROTOCOL_R3.md",
+      "bytes": 4781,
+      "sha256": "8407283fcd458736e56a676fe5ad5422aac5d1f82edfa0341d0955044485ba3f",
+      "title": "Dense image hybrid R3"
+    },
+    {
+      "path": "docs/DENSE_IMAGE_HYBRID_REPORT_R3.md",
+      "bytes": 15884,
+      "sha256": "c4205a8ba53bdadb79d796a1189156604ee0c476e7d78c1550f1beaba4334ff7",
+      "title": "Dense image / frozen-neural hybrid report R3"
+    },
+    {
+      "path": "docs/DEPLOYMENT_FRONTEND_MEMORY_PROTOCOL_V3.md",
+      "bytes": 1883,
+      "sha256": "1803aa27f841171aeed87a26dbc8e7a21ef6c094f192de598f3bcdd30c08da7a",
+      "title": "Deployment frontend memory-access preflight \u2014 V3"
+    },
+    {
+      "path": "docs/DEPLOYMENT_VALIDATION_PROTOCOL_V2.md",
+      "bytes": 3982,
+      "sha256": "f47e0c46ac9529c81d136f5798bc978592c706fae00e1c7e64235c707a68aa4e",
+      "title": "Separate deployment validation \u2014 V2"
+    },
+    {
+      "path": "docs/ERGINKAYA_PUBLIC_STIMULUS_FOLLOWUP_V1.md",
+      "bytes": 4934,
+      "sha256": "8290ea0b58e7ea27b198023367bbf8c051c6713090cddbb9375edef0110c989b",
+      "title": "Public stimulus retrieval and practical benchmark path"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_EXECUTION_CORRECTION_R3.md",
+      "bytes": 1230,
+      "sha256": "64377e74e9eba664e44c063dd03eec2065edb8d9002c2cb82221cf9efad3e77c",
+      "title": "Execution wording correction R3"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_EXECUTION_PROTOCOL_V1.md",
+      "bytes": 7240,
+      "sha256": "0cd09c0b31fffa187dd1b2d8de8652f1c1cc371fe2a1f8bd7ad90e4ae8e0e075",
+      "title": "Final open-loop execution protocol V1"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_INTERPRETATION_R2.md",
+      "bytes": 6140,
+      "sha256": "b70b6c668c543839181d3175710a6aa4db3378789c357d2915cb4d9075f25636",
+      "title": "Final open-loop interpretation and figure correction R2"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_MILESTONE_PLAN_V1.md",
+      "bytes": 19084,
+      "sha256": "f267d53de58304e6ab8f03c5cb4e56b149d14e1bb2b92644d592966c685347b1",
+      "title": "Final open-loop research milestone: one bounded end-to-end answer"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_MILESTONE_REPORT_V1.md",
+      "bytes": 16785,
+      "sha256": "3e435abad9ba20b86dc8889aa5589f8949223acc72bf4fcb1405eb4b2477ef2c",
+      "title": "Final open-loop milestone report V1"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_PHYSIOLOGY_AUDIT_V1.md",
+      "bytes": 3474,
+      "sha256": "42100f2c21d937eaa25b83d266ea172e0c311fdad6ae7fbc09222e3967cf1115",
+      "title": "Bounded independent physiology source audit V1"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_PROFESSOR_BRIEF_V1.md",
+      "bytes": 2615,
+      "sha256": "50abe7978f6d16c7f0229c14736c8382bc849600af518b6cc5003d9c105f02de",
+      "title": "Professor brief: final open-loop milestone"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_REPRODUCIBILITY_V1.md",
+      "bytes": 3640,
+      "sha256": "d8da9fd934fefa85598402cdfe27270e1864e2f1063d8ca5643af5f7f696557e",
+      "title": "Final open-loop reproduction V1"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_REPRODUCTION_ADDENDUM_V1.md",
+      "bytes": 2058,
+      "sha256": "77220236f8bae5968d0ca3c8cd4460873d70cfc19109eeefe50e51b5269409d1",
+      "title": "Isolated reproduction support V1"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_RESUMPTION_NOTE_R2.md",
+      "bytes": 1634,
+      "sha256": "0a73d1a87820bf972911f9ad1b7e3f1cce2710972399c92fdb03985c65ecde06",
+      "title": "Final open-loop resumption R2"
+    },
+    {
+      "path": "docs/FIXED_NEIGHBOR_MOTION_ARCHITECTURE_V1.md",
+      "bytes": 3602,
+      "sha256": "33d85cba8445119648dc9da6f570c2120a38bbd14ab1fb7e787cc3adc426f3e2",
+      "title": "Fixed-neighbor functional frontend architecture V1"
+    },
+    {
+      "path": "docs/FIXED_NEIGHBOR_MOTION_PROTOCOL_V1.md",
+      "bytes": 9085,
+      "sha256": "cc76cbf712cfc5558dda5a304b6c3ed211a71906ce4a40ced3bdd79b529bbec0",
+      "title": "Fixed-neighbor functional motion frontend \u2014 protocol V1"
+    },
+    {
+      "path": "docs/FIXED_NEIGHBOR_MOTION_REPORT_V1.md",
+      "bytes": 10107,
+      "sha256": "29c7c525db1b1e7f576b639644119f78e19cc2bf6d53eb0fab91b1a199677ff6",
+      "title": "Fixed-neighbor functional frontend \u2014 technical report V1"
+    },
+    {
+      "path": "docs/FIXED_NEIGHBOR_MOTION_REPRODUCTION_V1.md",
+      "bytes": 6265,
+      "sha256": "06f22470515a03159d212b0e3e2d3846b49f5a5169b9eebf3ebf6e8d8ab5934b",
+      "title": "Functional frontend reproduction V1"
+    },
+    {
+      "path": "docs/FIXED_NEIGHBOR_MOTION_SUPERVISOR_BRIEF_V1.md",
+      "bytes": 2663,
+      "sha256": "0dbb248a1df819176e217db893cf0287407ff92acbe3088ce2ab757b1669ad7c",
+      "title": "Functional frontend result for supervisor review \u2014 13 October 2026"
+    },
+    {
+      "path": "docs/FIXED_NEIGHBOR_MOTION_TLDR_V1.md",
+      "bytes": 1335,
+      "sha256": "2a2ec69d27a90d6814e6a17812ec3ecf33ce89735c4713279227bcdc7b73638e",
+      "title": "Functional motion frontend \u2014 simple summary"
+    },
+    {
+      "path": "docs/FLOW_CLAMP_INTERFACE_AUDIT_V1.md",
+      "bytes": 1989,
+      "sha256": "862f8f0a1168d4a79af1a933d38babfc2e7aab67ba89fb96fe7321a30123ba32",
+      "title": "Inherited flow-clamp interface audit \u2014 V1"
+    },
+    {
+      "path": "docs/FLYVIS_CHECKPOINT_COMPARISON_PROTOCOL_V1.md",
+      "bytes": 6478,
+      "sha256": "4c7256677226b60f8bd732614ab2f5095e74c194524581d2b38de86ad4490e71",
+      "title": "Bounded checkpoint comparison and conditional physiological backup"
+    },
+    {
+      "path": "docs/FLYVIS_CHECKPOINT_COMPARISON_REPORT_V1.md",
+      "bytes": 12891,
+      "sha256": "764a22d3f2fe3de10c26a7d9796eabf4f64d54f26ae9193095faa4db7ff05434",
+      "title": "Checkpoint comparison and physiological backup \u2014 technical report V1"
+    },
+    {
+      "path": "docs/FLYVIS_CHECKPOINT_COMPARISON_TLDR_V1.md",
+      "bytes": 1485,
+      "sha256": "477a1f3c2ad6b13b914defa06a3d37d1c3c0d468e20724b662613f2095443498",
+      "title": "Checkpoint comparison and backup \u2014 TL;DR"
+    },
+    {
+      "path": "docs/FLYVIS_CHECKPOINT_REVIEW_SERIALIZATION_AMENDMENT_V2.md",
+      "bytes": 821,
+      "sha256": "e5eabfbbb472f357c8312e9e289dbe60e63dcb80b3e57d1a63f2950bd6d9a763",
+      "title": "Checkpoint saved-data review serialization correction"
+    },
+    {
+      "path": "docs/FLYVIS_FEASIBILITY_V1.md",
+      "bytes": 5822,
+      "sha256": "d224d30507bf958c433b5f5ed2c16ae9c5dfae8a74dd5c8f65cc39d98d3e18c0",
+      "title": "Round 3 \u2014 FlyVis feasibility result"
+    },
+    {
+      "path": "docs/FLYVIS_MALECNS_COMPATIBILITY_GATE_PROMPT.md",
+      "bytes": 8610,
+      "sha256": "9b2233ba525955f149ddf67ca531c57e01ed7c25faafca9ef68a26e020ef02dc",
+      "title": "Execution prompt \u2014 FlyVis-to-MaleCNS compatibility gate"
+    },
+    {
+      "path": "docs/FLYVIS_MALECNS_COMPATIBILITY_GATE_RESULT.md",
+      "bytes": 13802,
+      "sha256": "8b3ce448bc6837c875482520c50fb4e2650a31266fdf186981355c689f8b76ce",
+      "title": "FlyVis-to-MaleCNS compatibility gate"
+    },
+    {
+      "path": "docs/FLYVIS_MINIMAL_NEURAL_V1_AUDIT.md",
+      "bytes": 6176,
+      "sha256": "e583e1a21617d11e01f1bc2f678de8bca8021f45059cc77616dbef4cd91f874d",
+      "title": "Audit \u2014 first image-driven FlyVis T4/T5 run"
+    },
+    {
+      "path": "docs/FLYVIS_MINIMAL_NEURAL_V1_RESULT.md",
+      "bytes": 10445,
+      "sha256": "9556a3ca3f8e90a4086e282b60076cd9f409b76b566722035ad56561905b4725",
+      "title": "Round 4 \u2014 minimal FlyVis T4/T5 neural run"
+    },
+    {
+      "path": "docs/FLYVIS_MOVING_EDGE_POSITIVE_CONTROL_V1_RESULT.md",
+      "bytes": 2782,
+      "sha256": "c06fd354c61b5a1806f13b5b21b9028484a809fe347735d13606be8965801e39",
+      "title": "FlyVis MovingEdge positive control v1"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ANGLE_AUDIT_V1.md",
+      "bytes": 5727,
+      "sha256": "0e73a39781e0c8e8b3c43e8a5c557934f95adea1c53442dd73a79063691bd779",
+      "title": "FlyVis T5 canonical v1: saved-data angle audit"
+    },
+    {
+      "path": "docs/FLYVIS_T5_CANONICAL_V1_DECISION.md",
+      "bytes": 2687,
+      "sha256": "23a1f10d7aa9e096f7a5603fe328653867e845d2d1910900e2001ba79b23207e",
+      "title": "FlyVis T5 canonical v1 decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_CANONICAL_V1_RECOVERY_R1_DECISION.md",
+      "bytes": 4173,
+      "sha256": "58c60f342f05155912fd3922c4a7efbde560fa0203c55edc60c3bc10a498fca5",
+      "title": "FlyVis T5 canonical v1 offline recovery r1"
+    },
+    {
+      "path": "docs/FLYVIS_T5_CANONICAL_V1_RECOVERY_R1_EXECUTION_PLAN.md",
+      "bytes": 15132,
+      "sha256": "0a2f94c74854c59d4a8bda5c867a12353289f92f10e96983d7a33c362026c2ea",
+      "title": "Execution plan \u2014 FlyVis T5 canonical v1 offline recovery, r1"
+    },
+    {
+      "path": "docs/FLYVIS_T5_CANONICAL_VALIDATION_EXECUTION_PLAN.md",
+      "bytes": 18751,
+      "sha256": "ba948adfb21b282a0d8a80c855e71b197f9a728e244fef0c78acf5f0e0ec1d21",
+      "title": "Execution plan \u2014 source-aligned FlyVis T5 validation gate"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_DECISION.md",
+      "bytes": 2907,
+      "sha256": "bf4236784a0e9454884ccb2e1019edf7e267ee2436499ab4a186f753071a8842",
+      "title": "Round 4A \u2014 FlyVis T5 native-tuning decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_EXECUTION_PLAN.md",
+      "bytes": 14523,
+      "sha256": "25da62748faa577e7993c7a4dadb56a8880150e5973bf09e18af35f31c5b5168",
+      "title": "Round 4A execution plan \u2014 FlyVis T5 stimulus and recording benchmark"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V2_DECISION.md",
+      "bytes": 1185,
+      "sha256": "f086b27b40faf2528bb2e8f7ea8312ef5f7e0dc9db7a71a29c8fde78b1238aaa",
+      "title": "FlyVis T5 Round 4A v2 retry decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V3_DECISION.md",
+      "bytes": 2305,
+      "sha256": "c05c9f02d7ba8769ea0808ef6c8195c842e288c8dd1a1dd671689bc6a5cb85a4",
+      "title": "FlyVis T5 Round 4A v3 decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V4_DECISION.md",
+      "bytes": 963,
+      "sha256": "4b30151b287d7121e8e4a75a9eb37657aed7a0fef6fad1f274a66aef6e2f6fc9",
+      "title": "FlyVis T5 Round 4A v4 decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V4_STALL_AUDIT.md",
+      "bytes": 2952,
+      "sha256": "7c6e8465e263f74fc98a2e70ed926a9f5feed0e4aae20a574f1a8633aa36b9fb",
+      "title": "Round 4A v4 stall audit and v5 retry"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V5_DECISION.md",
+      "bytes": 1253,
+      "sha256": "c88cbf01985f3540358d9c4733e4d915d1ddc6b78be8c4b4625f1c4edc370bca",
+      "title": "FlyVis T5 Round 4A v5 decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V6_DECISION.md",
+      "bytes": 1328,
+      "sha256": "dfb23a4c1e51dcb0922463443d8b93c2f28273a0d0c2ad6a04b16555a778bec0",
+      "title": "FlyVis T5 Round 4A v6 decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V7_DECISION.md",
+      "bytes": 1231,
+      "sha256": "9ac898ee7c40a8cdc3a2f87e27c2dac52d2a025017f47a5a2a3d404e38784edd",
+      "title": "FlyVis T5 Round 4A v7 decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V8_DECISION.md",
+      "bytes": 4015,
+      "sha256": "baf6503667eee7e831f5fdb46a7e9bb3c0455e606e54cbc88d3449b5b637ee54",
+      "title": "FlyVis T5 Round 4A v8 decision"
+    },
+    {
+      "path": "docs/FLYVIS_T5_ROUND4A_V8_RENDERER_CORRECTION_EXECUTION_PLAN.md",
+      "bytes": 13385,
+      "sha256": "6908b6829eda39ee4da9473cc8d46b832016aabc4a4fdf7629e7032c5ae51308",
+      "title": "Round 4A v8 \u2014 controlled FlyVis rotation correction"
+    },
+    {
+      "path": "docs/FRONTEND_NEXT_GATE_SOURCE_NATIVE_EDGE_V1_EXECUTION_PLAN.md",
+      "bytes": 19518,
+      "sha256": "de19dbe2a517ad89dde044cd64ae53b609333b804fca976afbca842a844c9ff3",
+      "title": "Execution plan \u2014 source-native FlyVis T4/T5 positive control, v1"
+    },
+    {
+      "path": "docs/FRONTEND_RECOVERY_MULTI_ROUTE_EXECUTION_PLAN.md",
+      "bytes": 25133,
+      "sha256": "461108439a42c473659203130c584942b8e764126b716f77512f0379778d489b",
+      "title": "Execution plan \u2014 multi-route frontend recovery and biological evidence"
+    },
+    {
+      "path": "docs/FRONTEND_RECOVERY_R0_CONTRACT.md",
+      "bytes": 6868,
+      "sha256": "10dbb35d18a9a2496eede24ab3580b184c9b681ca55eb47086cb1d1bcf36edf2",
+      "title": "Frontend recovery \u2014 Round 0 contract freeze"
+    },
+    {
+      "path": "docs/GEMINI_SMALL_TURN_REVIEW_PROMPT_V1.md",
+      "bytes": 3107,
+      "sha256": "068ba64eb6ab3beef51c1e99072d1f422cf1465822876760d487b6510827081d",
+      "title": "Prompt for Gemini: independent, cost-conscious technical review"
+    },
+    {
+      "path": "docs/GEOMETRY_GROUNDED_SMALL_YAW_AMENDMENT_V2.md",
+      "bytes": 3372,
+      "sha256": "e29abf5e199b26d04a1a9403e2b2a6447ddc6d9782d3694a11093ce3ee9899d1",
+      "title": "Small-yaw implementation amendment V2 before unused-room testing"
+    },
+    {
+      "path": "docs/GEOMETRY_GROUNDED_SMALL_YAW_PROTOCOL_V1.md",
+      "bytes": 9067,
+      "sha256": "ee2907a9536ef69bff1b291e7d3d4e205a566fc00727381c0a35c0612d213e73",
+      "title": "Geometry-grounded small-yaw study V1"
+    },
+    {
+      "path": "docs/GEOMETRY_GROUNDED_SMALL_YAW_REPORT_V2.md",
+      "bytes": 8744,
+      "sha256": "047972567d2e9515760bb5b5d6973c0a60b08aa617e2a992c0df8fb27b1c3016",
+      "title": "Published direction fields and frozen MaleCNS small-turn detection V2"
+    },
+    {
+      "path": "docs/H2_DIRECTION_TUNING_BENCHMARK_SPEC_V1.md",
+      "bytes": 6692,
+      "sha256": "290e22aca2c580252fbfcda24caef9d406862d12758f4c8f78ba513777469d61",
+      "title": "One H2 direction-tuning benchmark: specification V1"
+    },
+    {
+      "path": "docs/H2_DORSAL_DIAGNOSTIC_PROTOCOL_V1.md",
+      "bytes": 5860,
+      "sha256": "2b39f7732c07642cebd743c61735767328f6047b71ca4debdbfd7107030ebfa4",
+      "title": "H2 upper-field discrepancy diagnostic V1"
+    },
+    {
+      "path": "docs/H2_DORSAL_DIAGNOSTIC_REPORT_V1.md",
+      "bytes": 12343,
+      "sha256": "fc5bd4f7cd0275b1787e28bf617b2bf55f846da36d3810247f35fe2bbb2e5dc8",
+      "title": "H2 upper-field discrepancy diagnostic V1"
+    },
+    {
+      "path": "docs/H2_DORSAL_DIAGNOSTIC_REPRODUCTION_V1.md",
+      "bytes": 3327,
+      "sha256": "291bf80b92c47ca3eab99abef3994b17b142b5dc19e94bd504dcae1d2f9b7dc4",
+      "title": "Reproducing the upper-field H2 diagnostic V1"
+    },
+    {
+      "path": "docs/H2_FROZEN_MODEL_BENCHMARK_PROTOCOL_V1.md",
+      "bytes": 8032,
+      "sha256": "1130a96b9def1405d9494d293ad1b512e8353810283379e97a728f0bfb11be40",
+      "title": "Frozen-model H2 moving-edge comparison V1"
+    },
+    {
+      "path": "docs/H2_FROZEN_MODEL_BENCHMARK_REPORT_V1.md",
+      "bytes": 10953,
+      "sha256": "b0bf70c8db3216d0380c27db39af84c4b4c772d5ae345b70769791acd1c3e417",
+      "title": "Frozen-model H2 direction-tuning comparison V1"
+    },
+    {
+      "path": "docs/H2_FROZEN_MODEL_BENCHMARK_REPORT_V2.md",
+      "bytes": 11776,
+      "sha256": "dd3ea25fe7893b86025f0ae9049aee53743351d903d3a54a2ecf76aa86c4a219",
+      "title": "Frozen-model H2 direction-tuning comparison V2"
+    },
+    {
+      "path": "docs/H2_FROZEN_MODEL_BENCHMARK_REPRODUCTION_V1.md",
+      "bytes": 3307,
+      "sha256": "2bcc6431748b0b01803eb2fba86ba5853a4429fadfb35913c45a463f32279dd4",
+      "title": "Frozen-model H2 comparison: reproduction V1"
+    },
+    {
+      "path": "docs/H2_SOURCE_CURVE_EXTRACTION_PROTOCOL_V1.md",
+      "bytes": 2312,
+      "sha256": "d0c31de33ab2367466838b9383e035e4b8164d6f496c8a09e43e7e2a01554670",
+      "title": "H2 source-only spike-curve extraction V1"
+    },
+    {
+      "path": "docs/H2_TRIAL_METADATA_EXCLUSIONS_ADDENDUM_V4.md",
+      "bytes": 1571,
+      "sha256": "17e886d7672d3673d3b6db37c297887e93a85b10ba05c4b091c4cf0aba168524",
+      "title": "H2 raw-repeat exclusions addendum V4"
+    },
+    {
+      "path": "docs/H2_TRIAL_METADATA_PROTOCOL_V1.md",
+      "bytes": 3573,
+      "sha256": "dcbf6e9e16879ce7cad8752acbea2c55f2d5bee11cd219bbd90da9c5d531f712",
+      "title": "H2 stimulus/trial metadata and benchmark specification V1"
+    },
+    {
+      "path": "docs/H2_TRIAL_METADATA_REFERENCE_ADDENDUM_V3.md",
+      "bytes": 1248,
+      "sha256": "8b55788a0298b8609f98fe00ba270cf4376441346f775866cced1efe182a815b",
+      "title": "H2 reference resolution addendum V3"
+    },
+    {
+      "path": "docs/H2_TRIAL_METADATA_REPORT_V1.md",
+      "bytes": 9787,
+      "sha256": "a4f5a2cb5e6e04902b24ca0e0d590dda4197487b0d26c7a22b5476bda20c0778",
+      "title": "H2 trial metadata and measured direction curves V1"
+    },
+    {
+      "path": "docs/H2_TRIAL_METADATA_REPRODUCTION_V1.md",
+      "bytes": 2705,
+      "sha256": "49e4452a155df5c4b5dd5e30d1e252ee6d26a75441e1ccf592cd0f2284cd9ad7",
+      "title": "H2 metadata/source extraction: reproduction V1"
+    },
+    {
+      "path": "docs/H2_TRIAL_METADATA_SCHEMA_CORRECTION_V2.md",
+      "bytes": 944,
+      "sha256": "6b77d243c1f1c8036da21f2c9fa3ec3860c1b0cf2d047896e3daba49b1b3a0fc",
+      "title": "H2 raw-repeat clock correction V2"
+    },
+    {
+      "path": "docs/HELDOUT_SPEED_CONDITION_PROTOCOL_V1.md",
+      "bytes": 2684,
+      "sha256": "badbabfb34fb54859f95d2f98e2bb23bb410b6c7c76d4bd472f966c05af44126",
+      "title": "Unscored speed-condition diagnostic \u2014 V1"
+    },
+    {
+      "path": "docs/HORIZONTAL_OPPONENCY_PROTOCOL_V1.md",
+      "bytes": 7059,
+      "sha256": "9081d2b4281baef1a764e78507a073593fceacb2bfd7722c37b7c15d84e49f26",
+      "title": "Horizontal opponency: two frozen development-stage tests, V1"
+    },
+    {
+      "path": "docs/HORIZONTAL_OPPONENCY_REPORT_V1.md",
+      "bytes": 16711,
+      "sha256": "0beab4896329de1975a776b4b94604c143322ae8656a894c60314f2a693492f3",
+      "title": "Horizontal LPi reconstruction and functional opponency diagnostic, V1"
+    },
+    {
+      "path": "docs/HORIZONTAL_RANDOM_SQUARES_SMOKE_FINAL_AUDIT_V1.md",
+      "bytes": 6877,
+      "sha256": "d91eafcf609a9c266a916f9cb044f72c0890692735ca31313aaaf74c30a2edca",
+      "title": "Final audit: horizontal random-square exploratory experiment"
+    },
+    {
+      "path": "docs/HORIZONTAL_RANDOM_SQUARES_TECHNICAL_REPORT_V1.md",
+      "bytes": 15392,
+      "sha256": "5de1162aa22a0040d9b25c1fec2ccb71623bd488afcf357c2668ab284fca2d0f",
+      "title": "Technical report: image-derived horizontal motion in the MaleCNS model"
+    },
+    {
+      "path": "docs/HS_CONTRAST_REPRODUCTION_V1.md",
+      "bytes": 2704,
+      "sha256": "e181694ce3b9c919de024d7083146735b29dd00ec9e3916e4c95c1f363016fb8",
+      "title": "Reproducing the HS contrast assay without changing sealed studies"
+    },
+    {
+      "path": "docs/HS_CONTRAST_SOURCE_CORRECTION_PROTOCOL_R2.md",
+      "bytes": 4040,
+      "sha256": "c1d41b04ad139af400c3b0b707b297ba9dd68ca15b7755efdef887bd874daa85",
+      "title": "HS contrast source-order correction R2: freeze before model scoring"
+    },
+    {
+      "path": "docs/HS_CONTRAST_VALIDATION_PROTOCOL_V1.md",
+      "bytes": 8243,
+      "sha256": "3bb9eedbb5102109ced7f5a2f2fde8b1cea3b3efe8f506e90730fe3f41347498",
+      "title": "Frozen HS contrast-response validation protocol V1"
+    },
+    {
+      "path": "docs/HS_CONTRAST_VALIDATION_REPORT_V1.md",
+      "bytes": 11956,
+      "sha256": "530ae2ae9831ff9fe35b4f5c5067d967485c5bcf335c662fb8c71a553c692eca",
+      "title": "Frozen-circuit HS contrast-response physiological benchmark V1, source correction R2"
+    },
+    {
+      "path": "docs/HS_GAIN_TRANSFER_MISSINGNESS_AMENDMENT_R2.md",
+      "bytes": 2682,
+      "sha256": "c46ab060fcb6affe86ebb21256612fd7bb9f0e2ee285522c5e24dd29c3ee49ad",
+      "title": "Missing-value recovery R2 before neural simulation"
+    },
+    {
+      "path": "docs/HS_GAIN_TRANSFER_PROTOCOL_V1.md",
+      "bytes": 9233,
+      "sha256": "ef1b6af93329db1eb1bf211f68c7f3131be20b215ea8e92489633b45639cdbdf",
+      "title": "HS physiological gain-control revision and frequency transfer V1"
+    },
+    {
+      "path": "docs/HS_GAIN_TRANSFER_REPORT_V1.md",
+      "bytes": 11819,
+      "sha256": "25d0f0304960d641a389c5a2d6279f5c2d0097a96346072e711e23980d71bee8",
+      "title": "One calibrated HS gain-control revision and frequency transfer V1 (missingness recovery R2)"
+    },
+    {
+      "path": "docs/HS_GAIN_TRANSFER_TLDR_V1.md",
+      "bytes": 1557,
+      "sha256": "8459e7cf2cdb23c1301a4b9daa5038a584b6cb59f5ddd2975cc2c7b6e4023d54",
+      "title": "Biological gain-control round \u2014 2026-11-02"
+    },
+    {
+      "path": "docs/HS_TEMPORAL_COMPONENTS_PROTOCOL_V1.md",
+      "bytes": 5699,
+      "sha256": "da1c2984db4a837559541d4a5e8f3dafa129e28b09275de952b1a4e22092dd8a",
+      "title": "Fixed temporal-component dissection V1"
+    },
+    {
+      "path": "docs/HS_TEMPORAL_COMPONENTS_REPORT_V1.md",
+      "bytes": 9623,
+      "sha256": "ca2775836dc79967fb869cd42e8810d2d9f8a32fdc81e1b5d0e04bef7f29cd66",
+      "title": "Temporal slowing/adaptation dissection V1"
+    },
+    {
+      "path": "docs/HS_TEMPORAL_REFINEMENT_PROTOCOL_V1.md",
+      "bytes": 3521,
+      "sha256": "64cbdee284b3de2fdd972ec152c7f015295755120ae8d2eb1ba28cc263e3772c",
+      "title": "HS temporal refinement V1 \u2014 frozen numerical follow-up"
+    },
+    {
+      "path": "docs/HS_TEMPORAL_REFINEMENT_REPORT_V1.md",
+      "bytes": 11432,
+      "sha256": "d71e59611fa7833c153cd224f59c70d7a47ac22f90231960e2bbe9c86bedb316",
+      "title": "HS temporal refinement V1"
+    },
+    {
+      "path": "docs/HS_UPSTREAM_TEMPORAL_PROTOCOL_V1.md",
+      "bytes": 6615,
+      "sha256": "5faae53d29dc83e235bba7ff8c1eb8298b2390c794cbaf83a94cdf40abdb89c5",
+      "title": "One fixed upstream temporal-filter experiment V1"
+    },
+    {
+      "path": "docs/HS_UPSTREAM_TEMPORAL_REPORT_V1.md",
+      "bytes": 10178,
+      "sha256": "b57ff9f90e19b6d7334da4d080fca681253ae7fbeb853912316e9ccc23a9eadf",
+      "title": "Fixed upstream temporal-filter experiment V1"
+    },
+    {
+      "path": "docs/HS_VOLTAGE_BENCHMARK_PROTOCOL_V1.md",
+      "bytes": 5590,
+      "sha256": "72b02d61aa919ecf1d56fcdad53dc826bbfee8ae447cf0ad43c6ebe71bd2c7d9",
+      "title": "Limited independent HS voltage benchmark V1"
+    },
+    {
+      "path": "docs/HS_VOLTAGE_BENCHMARK_PROTOCOL_V2.md",
+      "bytes": 5645,
+      "sha256": "3f237de4c5bafb1f981f48f33dd56af044b38e78947e0ea7882a0c48fd434e87",
+      "title": "Limited independent HS voltage benchmark V2: fixed before response extraction"
+    },
+    {
+      "path": "docs/HS_VOLTAGE_BENCHMARK_REPORT_V1.md",
+      "bytes": 7883,
+      "sha256": "853643de6f5c82bbabda0dc9c411a2026211982c1316cd7c2c22f6a496dc76cf",
+      "title": "Limited independent HS voltage comparison V1"
+    },
+    {
+      "path": "docs/HS_VOLTAGE_SOURCE_CORRECTION_R2.md",
+      "bytes": 2045,
+      "sha256": "ffecfc9ee5cb111789a921e7da916845e4ca7a9fcffc5ce994cf4cf3e509b062",
+      "title": "Correction to the earlier HS full-contrast biological interpretation R2"
+    },
+    {
+      "path": "docs/HYBRID_YAW_MONITOR_V1.md",
+      "bytes": 2765,
+      "sha256": "ceec8f1265001abdf78f6d5ea5e8a36616bd587c40e76e6e02b4d31db3fb0968",
+      "title": "Using the hybrid yaw monitor, V1"
+    },
+    {
+      "path": "docs/IMAGE_SAMPLING_DIAGNOSTIC_PROTOCOL_V1.md",
+      "bytes": 5438,
+      "sha256": "2bdbbe4915cef6a4cc19060878a2caca01c9fbe314bc6ded9d7736741981a222",
+      "title": "Image-sampling diagnostic V1"
+    },
+    {
+      "path": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPORT_V1.md",
+      "bytes": 11247,
+      "sha256": "0d67288f7960952874819d46e6fca16a28c286cbaabd439d0be8d0c4b9d4de3e",
+      "title": "Controlled image-sampling diagnostic V1"
+    },
+    {
+      "path": "docs/IMAGE_SAMPLING_DIAGNOSTIC_REPRODUCTION_V1.md",
+      "bytes": 3251,
+      "sha256": "5818ca7b2dcca2e108cdc0c63da64ccc33120c3b200c862439cf167c70e8e26d",
+      "title": "Reproduce the image-sampling diagnostic V1"
+    },
+    {
+      "path": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_PROTOCOL_V1.md",
+      "bytes": 4831,
+      "sha256": "4dd1d64fdbe3d7f06749ede54734c21861c613cdf3c66c14e34e9a7191b5e7ab",
+      "title": "Input mapping and research-direction audit V1"
+    },
+    {
+      "path": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "bytes": 11260,
+      "sha256": "ee5ef313229f9c55054a7235fff1384c264493c11600d49f8f8e834e05ff7a48",
+      "title": "Input mapping and research-direction audit V1"
+    },
+    {
+      "path": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPRODUCTION_V1.md",
+      "bytes": 2546,
+      "sha256": "aed62c42e45533c9833cb6e3817f0939bcde7978d1d5a67182625d301b235c8f",
+      "title": "Reproducing the bounded input-mapping audit"
+    },
+    {
+      "path": "docs/INPUT_MAPPING_LOADER_CHECK_ADDENDUM_V1.md",
+      "bytes": 891,
+      "sha256": "9530520b3099548561112f7f4ec8da64dcde6b9cb2a08939058c8cb93b6caa32",
+      "title": "Production input-loader coverage check"
+    },
+    {
+      "path": "docs/LEGACY_BASELINE_INVENTORY.md",
+      "bytes": 2431,
+      "sha256": "f25181dd661eddf9e709e3d74c156c578e9126b9a85eb2f147f53a2b800f9419",
+      "title": "Legacy MaleCNS baseline inventory"
+    },
+    {
+      "path": "docs/LEGACY_MOVIE_RETIREMENT_REPORT_V2.md",
+      "bytes": 5611,
+      "sha256": "5b8e60e8e61c68c91d6ef55e0e3e4cd97c4f24da256cf308175ffa32dd4f7a97",
+      "title": "Larger cleanup: old generated movies deleted \u2014 2026-11-01"
+    },
+    {
+      "path": "docs/LOCAL_SUBUNIT_PILOT_PROTOCOL_V1.md",
+      "bytes": 8905,
+      "sha256": "b68d60b90e7ac301ced90cf70c445a13db0d1a91b0fe42e4cc2dee4be2fdec08",
+      "title": "Local nonlinear neural subunits V1 \u2014 2026-11-02"
+    },
+    {
+      "path": "docs/LOCAL_SUBUNIT_PILOT_REPORT_V1.md",
+      "bytes": 8972,
+      "sha256": "8b4962502686ca99f4b78e19a3922ee8133e043572c154c613458645a9601e08",
+      "title": "Local neural-subunit pilot V1"
+    },
+    {
+      "path": "docs/MATCHED_EDGE_GRATING_PROTOCOL_V1.md",
+      "bytes": 6127,
+      "sha256": "790b6a9e31ec6a1912be6dda4dfa97e5931dc6092c448f3f6ec94ce544f0fbae",
+      "title": "Matched edge\u2013grating investigation V1"
+    },
+    {
+      "path": "docs/MATCHED_EDGE_GRATING_REPORT_V1.md",
+      "bytes": 10794,
+      "sha256": "ee88958210ba3c1cde41a0d65df5a7c40fcefa404024ee904e4968f20b151f66",
+      "title": "Matched edge\u2013grating investigation"
+    },
+    {
+      "path": "docs/MATCHED_EDGE_GRATING_TLDR_V1.md",
+      "bytes": 809,
+      "sha256": "6b389b6829302d637f829c87a24c60179d45269185f929e84cd9da888f0a61aa",
+      "title": "Matched edge\u2013grating result: TL;DR"
+    },
+    {
+      "path": "docs/MATCHED_MOTION_ENCODING_CONTROL_PROTOCOL_V1.md",
+      "bytes": 3022,
+      "sha256": "893e111e2056381f298fc873241a3a3ae444f8ba6d489bba39400c0c8cc065c2",
+      "title": "Matched local-motion encoding control"
+    },
+    {
+      "path": "docs/MEASURED_CONTINUING_CAMERA_PROTOCOL_V9.md",
+      "bytes": 6457,
+      "sha256": "1f5bca8c5d667011c8ad3fd0061feeeb59439b8c74b91c05363ee524adecdc32",
+      "title": "Measured CPU execution and consumer freshness \u2014 V9"
+    },
+    {
+      "path": "docs/MI1_CALCIUM_BENCHMARK_CONTINUATION_R2.md",
+      "bytes": 3063,
+      "sha256": "b972c96f06596c2c4855f97738bb0a680296dd53f2da06365266f26bc64a0b56",
+      "title": "Mi1 benchmark R2 \u2014 stop before opening reserved responses"
+    },
+    {
+      "path": "docs/MI1_CALCIUM_BENCHMARK_PROTOCOL_V1.md",
+      "bytes": 5604,
+      "sha256": "0ec502cd77bdaf09498ac9ec2d6e1150ede34eeeb31ed4d180903a6a5d06d2d7",
+      "title": "Mi1 calcium benchmark V1 \u2014 prospective component test"
+    },
+    {
+      "path": "docs/MI1_CALCIUM_BENCHMARK_REPORT_V1.md",
+      "bytes": 11268,
+      "sha256": "9a9d4a9af1cb638bf9112288b4ab26bcb6384fc1066963c9d55481db125c4e48",
+      "title": "Mi1 calcium benchmark V1, development-stop completion R2"
+    },
+    {
+      "path": "docs/MI1_CALCIUM_BENCHMARK_REVIEW_CORRECTION_R3.md",
+      "bytes": 1523,
+      "sha256": "dbe99363ebafdaa62e824d5589642932f75e0bd3124df07fed21712638cf353f",
+      "title": "Mi1 benchmark R3 \u2014 verifier-only dtype correction"
+    },
+    {
+      "path": "docs/MI1_HS_INTEGRATION_PROTOCOL_V1.md",
+      "bytes": 6121,
+      "sha256": "d9442bccce9ddaf84b5fda1d1d1961fc9d38e81aaaf2cf33635a5d04c9c56eb9",
+      "title": "Adaptive Mi1 branch to HS \u2014 fixed integration V1"
+    },
+    {
+      "path": "docs/MI1_HS_INTEGRATION_REPORT_V1.md",
+      "bytes": 11700,
+      "sha256": "8efa5f741e2bf94b1166931729bd183ef0dcb8385c4b00bc6d6a1136679da0c5",
+      "title": "Branch-specific adaptive Mi1 integration and HS motion test V1"
+    },
+    {
+      "path": "docs/MI1_HS_INTERFACE_DIAGNOSTIC_V1.md",
+      "bytes": 3065,
+      "sha256": "531d256e7c82486eff3055cbe2dc5ee2e5496679a9f8e276ac9fc7c19519bbfd",
+      "title": "Adaptive Mi1 integration: exploratory interface diagnosis"
+    },
+    {
+      "path": "docs/MI1_VALIDATION_RESOLUTION_PROTOCOL_V2.md",
+      "bytes": 6463,
+      "sha256": "2c3ce9cc10b957c5334e326994254b73dd86058b93a1b4c65b86c3a9b4884806",
+      "title": "Mi1 validation resolution V2 \u2014 audit and finite alternatives"
+    },
+    {
+      "path": "docs/MI1_VALIDATION_RESOLUTION_REPORT_V2.md",
+      "bytes": 16420,
+      "sha256": "01d7616fda0125d4c78baa892b65b2182c63f5b8bd744eabdd4e51c5496c036a",
+      "title": "Mi1 validation resolution V2 and full-circuit evidence audit"
+    },
+    {
+      "path": "docs/MOTION_COMPUTATION_ARCHITECTURE.md",
+      "bytes": 5964,
+      "sha256": "448b3130c7c15a3d1c330db8d01f53407db4ff43dc182a6c6e6261959cb4316e",
+      "title": "Motion computation architecture"
+    },
+    {
+      "path": "docs/MOTION_COMPUTATION_ARCHITECTURE_V2.md",
+      "bytes": 2738,
+      "sha256": "f5f13353e5c0c45684c92221ae2d3abb4f87a2ed689f598737562fccaf60e5a0",
+      "title": "Motion computation architecture V2"
+    },
+    {
+      "path": "docs/NATIVE_CARDINAL_REPLICATION_PROTOCOL_V1.md",
+      "bytes": 1382,
+      "sha256": "de079409c248085fa221097c993bec924f23f3632d0b66f084e8551119ea754c",
+      "title": "Native cardinal original-lattice replication"
+    },
+    {
+      "path": "docs/NEURAL_CHANGE_READOUT_PROTOCOL_V1.md",
+      "bytes": 5473,
+      "sha256": "b053c8ce5af4fee8310ae48f23221161f25bfd1397e07e83b0cfe78dd4af0ba3",
+      "title": "Neural readout repair during established walking, V1"
+    },
+    {
+      "path": "docs/NEURAL_CHANGE_READOUT_REPORT_V1.md",
+      "bytes": 15427,
+      "sha256": "2ce063246db939514cc2ecc25168093b33dacba34eb3ddfa2fdacc6832e8519e",
+      "title": "Neural temporal-change readout during established walking, V1"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_COMPLETION_BRIEF_V2.md",
+      "bytes": 2019,
+      "sha256": "771ca161d35acbd5978147e70b907236217c5bc7b514a93ab0faf38e1256ce31",
+      "title": "Where the neural-model work stands"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_COMPLETION_PATH_V1.md",
+      "bytes": 8582,
+      "sha256": "4fbadf18e69f4f13a7aea10e4aa2a8b13af6a91da54093296c9552a99e29f5ce",
+      "title": "Path to a working, biologically benchmarked neural model V1"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_FLOW_READOUT_PROTOCOL_V1.md",
+      "bytes": 2568,
+      "sha256": "1ddaeeb1897b648c285a79ed4a06b61e0a7414d50b4d87121c6aaa36a54d8bfd",
+      "title": "Fixed readouts of the published neural motion decoder V1"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_NUMERICS_PROTOCOL_V1.md",
+      "bytes": 1898,
+      "sha256": "fabd854feb3872e2129e1efb6c2b33a82580ea311cb483bdfa9069e17cc8ef78",
+      "title": "Full published neural pipeline numerical follow-up V1"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_OPTIONS_AUDIT_CORRECTION_R2.md",
+      "bytes": 950,
+      "sha256": "7280d1bb61ca81006943cd7af1b9c12a01c7ddca94864bcaf0c7e52378b30f8f",
+      "title": "Published-flow arithmetic audit correction R2"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_OPTIONS_PROTOCOL_V1.md",
+      "bytes": 4671,
+      "sha256": "a41a3eb7d444cc457974ae29d43159b12ef7e01405386fb3f35fb8fed8f2122b",
+      "title": "Neural model options V1: published full-network reference and stage decisions"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_OPTIONS_REPORT_V1.md",
+      "bytes": 9972,
+      "sha256": "7efee42d6bd7b4d0c74eb9232b0b7a1aea8caa4acc7da460e86d07a5d6268598",
+      "title": "Full published neural pipeline: completed investigation V1"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_OPTIONS_REPRODUCTION_V1.md",
+      "bytes": 4593,
+      "sha256": "342b7501275771b4da7638c4357dfdd6319ac76cc137aae8e3d7faf2d1c4146a",
+      "title": "Neural options reproduction V1"
+    },
+    {
+      "path": "docs/NEURAL_MODEL_PERSPECTIVE_REPAIR_PROTOCOL_V1.md",
+      "bytes": 2578,
+      "sha256": "c46340c62d9d657b2c224d605388de20968a115d4ae9df36a53a24586deca9b0",
+      "title": "Perspective-reference repair protocol V1"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_CUTOFF_PROTOCOL_R2.md",
+      "bytes": 2575,
+      "sha256": "a6115202428da54fdffbff30b2e32b1eb0eec635e7241641d81f1128414a2644",
+      "title": "Neural population cutoff R2 \u2014 prospective fresh-test extension"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_CUTOFF_REPORT_R2.md",
+      "bytes": 7511,
+      "sha256": "536eff4a1f17f51f8c26d64767b3fc07a9f911b2d79229e2ca6edb24698bf056",
+      "title": "Neural population cutoff calibration R2"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_FIVE_DEGREE_NUMERICS_ADDENDUM_V1.md",
+      "bytes": 1954,
+      "sha256": "8c4e78ddff3408b71c7fd48246ce7a2c77f603f92e194d9eb8b827a9d5d6d1f3",
+      "title": "Five-degree/s numerical follow-up \u2014 frozen addendum"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_MILESTONE_BRIEF_V1.md",
+      "bytes": 2160,
+      "sha256": "022fccb2df4789b35753fa5f2a3cffd93566c32fbac278c904ce293b4ea05cef",
+      "title": "Neural-only milestone: 5\u00b0/s works in the benchmark; 2\u00b0/s remains open"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_READOUT_PROTOCOL_V1.md",
+      "bytes": 5466,
+      "sha256": "1a3b04e4a8cc0e4d304d9ce493935f7a911eda7adc3c7bce437fce539b7b2fb3",
+      "title": "Neural population readout V1 \u2014 frozen protocol"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_READOUT_REPORT_V1.md",
+      "bytes": 10719,
+      "sha256": "63c40c02e1fe0e1d076ca23212acb2ff011f423db005030bc220e4c0b28e1eee",
+      "title": "Neural population readout V1 \u2014 completed finite experiment"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_RELEASE_NOTES_2026-11-01.md",
+      "bytes": 1482,
+      "sha256": "9b17c2d05ec6a8a7c3591888696b99f36a95cc3ae07c74f9aea9f47cdb7e0bb6",
+      "title": "Neural population release \u2014 1 November 2026"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_REPRODUCTION_V1.md",
+      "bytes": 5280,
+      "sha256": "3a4e2cec7f3abf338b0fbadf096374c92a096d56c15b37a44f2d1f49097a2183",
+      "title": "Reproducing the neural population experiment"
+    },
+    {
+      "path": "docs/NEURAL_SMALL_TURN_MILESTONE_2026-11-02.md",
+      "bytes": 5685,
+      "sha256": "593b28532599d72da4069b48354dda73ef2f6f0809b4efae24c82c5271df5200",
+      "title": "Small-turn neural model: milestone and limits"
+    },
+    {
+      "path": "docs/ONGOING_WALKING_YAW_PROTOCOL_V1.md",
+      "bytes": 6118,
+      "sha256": "04588f22e774081ae5d84d96a06e1b74f8ffb0de5487f276b53d3758b11afb20",
+      "title": "Small yaw onset during established forward walking, V1"
+    },
+    {
+      "path": "docs/ONGOING_WALKING_YAW_REPORT_V1.md",
+      "bytes": 15007,
+      "sha256": "bed5f1f0346ff41103d03f56518009d55a7d632d77dcb883913eda978282f217",
+      "title": "Small yaw onset during established walking, V1"
+    },
+    {
+      "path": "docs/OPPONENCY_GAIN_CALIBRATION_PROTOCOL_V1.md",
+      "bytes": 6766,
+      "sha256": "87584e45d0c0c8422b3274f711b783f1595663bba2876a1e7a0e6604ea6f145f",
+      "title": "Scale-only observation calibration after horizontal opponency, V1"
+    },
+    {
+      "path": "docs/OPPONENCY_GAIN_CALIBRATION_REPORT_V1.md",
+      "bytes": 14039,
+      "sha256": "b84528d4a1616062c1cc382abff91463f5e5797d8264126cc59bb903a343b490",
+      "title": "Gain-only observation calibration after horizontal opponency, V1"
+    },
+    {
+      "path": "docs/PANORAMA_APERTURE_PROTOCOL_V1.md",
+      "bytes": 3686,
+      "sha256": "56a6a90a725d6052211279548ba3b902aed132e5c3bdaea0fda9846744eb456b",
+      "title": "Fixed-aperture test on the original physical panoramas"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_BRANCH_COMPATIBILITY_CORRECTION_R2.md",
+      "bytes": 2528,
+      "sha256": "6a8850bd60fd1381e0807bcb7887a09f430b1b8d2f57a21517a032cbdd039352",
+      "title": "R2: preserve failed literal-Octave oracle; restore real-image arithmetic"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_BRANCH_VALIDATION_PROTOCOL_V1.md",
+      "bytes": 5716,
+      "sha256": "784ca7b4d9d8817c0cc3345e11186ecd373910ef60eb690e1084af1ab0de8691",
+      "title": "Physiological branch validation attempt V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_BRANCH_VALIDATION_REPORT_V1.md",
+      "bytes": 12402,
+      "sha256": "6606bd5508bd40c43c28f191309af9361858d2ce1e2c3019ce6dfef6550e59ae",
+      "title": "Measured physiological branch validation attempt V1, compatibility R2"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_DOWNSTREAM_INITIALIZATION_PROTOCOL_V1.md",
+      "bytes": 1740,
+      "sha256": "b34317bbf5ab29f3e10e599a016ee19e0eedddb1f42977dc425b034154ba0033",
+      "title": "Fixed downstream initialization control"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_EXECUTION_WORK_LOG_V1.md",
+      "bytes": 12312,
+      "sha256": "12c937fe5a39d22611f23bfdaf98536cbba95eb8bbcca28586f770bdfac78636",
+      "title": "Execution state for resuming the authorized plan"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_FACTORIAL_SEARCH_CONCLUSION_R2.md",
+      "bytes": 4187,
+      "sha256": "ddd53c19e2b6c3719ef555939d0c00236f89f3031f08d7619c4838a06c5348c9",
+      "title": "Physiological search: conclusion and final integrity correction R2"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_FACTORIAL_SEARCH_PROTOCOL_V1.md",
+      "bytes": 9892,
+      "sha256": "d427caa7cae0d041e09004055e6a04f5dd72ff2a62f348f92bc546fa25baa697",
+      "title": "Physiological factorial search V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_FACTORIAL_SEARCH_REPORT_V1.md",
+      "bytes": 15941,
+      "sha256": "74844bfc67d7888a9e7ae17705414e2a95869928b69cbdde1cefd9e5c1eb0937",
+      "title": "Exhaustive physiological factorial search V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_FEEDBACK_EVIDENCE_AUDIT_V1.md",
+      "bytes": 2972,
+      "sha256": "d76926a80d8ed7000e97044457e59c8337f710f0ad8dc4eafa8b6a9f57f38f53",
+      "title": "Additional upstream feedback evidence audit V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_FULL_POPULATION_PROTOCOL_V1.md",
+      "bytes": 4405,
+      "sha256": "938a432744ee914924145dfe16bcae1adcb94ede86b2279ee0a28f787b8eb3b7",
+      "title": "Fixed full-population seven-condition repeat"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_GRATING_READOUT_BASELINE_DIAGNOSTIC_V1.md",
+      "bytes": 7740,
+      "sha256": "83a24e3f1981ca5eff53e8b9e2b974f1c531e7dd2cde61ea1930284df9530ee5",
+      "title": "Baseline and mean-score diagnosis after the prospective check"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_GRATING_READOUT_COMPARISON_PROTOCOL_V1.md",
+      "bytes": 7747,
+      "sha256": "5b7b96d895dcc187393fbe6e0f239c8b8655aa2d17137774011206a48b381e18",
+      "title": "Prospective saved-grating readout comparison, V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_GRATING_READOUT_COMPARISON_REPORT_V1.md",
+      "bytes": 15652,
+      "sha256": "276ce12427c8f5816469f0ab0171a6d566e22f2f21352cd9af5c056699ba23c8",
+      "title": "Saved-grating readout comparison: technical report V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_GRATING_READOUT_COMPARISON_TLDR_V1.md",
+      "bytes": 1671,
+      "sha256": "46996de257ad76088e5131cd7fe8786c308ad2ce385b4e20a4337745b1d1464c",
+      "title": "What the narrower study found"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_GRATING_READOUT_NEXT_REPAIR_PLAN_V1.md",
+      "bytes": 3192,
+      "sha256": "144d4f50294f8cf63dc16663f5b88d22acccfa8d234c10f087c6557c6698908e",
+      "title": "Next bounded numerical repair, before choosing a biological readout"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_IMAGE_CLAMP_REPAIR_PROTOCOL_V1.md",
+      "bytes": 7193,
+      "sha256": "6d93f533e10284a14444f314ee22cc7adc632c6e59f85692455a2ca370908f3a",
+      "title": "Prospective fixed image-clamp repair and convergence check V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_IMAGE_CLAMP_REPAIR_REPORT_V1.md",
+      "bytes": 12467,
+      "sha256": "6f0185ae22ae6393768de6fccbf9ee8b92abf66d2e7b25bcbffb039b54662fb1",
+      "title": "Fixed image-clamp repair and convergence: execution report V1"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_IMAGE_CLAMP_REPAIR_TLDR_V1.md",
+      "bytes": 1328,
+      "sha256": "ebed6ff35caa33df732d48060fc431a5abb504d5ed4d155c01b7388f15ecbeea",
+      "title": "Fixed baseline repair: short summary"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_INTERFACE_CORRECTION_PROTOCOL_V2.md",
+      "bytes": 2413,
+      "sha256": "6c3fed63175c4dab00da539290fd9957324e232ab705ad3133f71eab80eec2eb",
+      "title": "Coordinate-corrected physiological proxies \u2014 V2"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_POPULATION_DOCUMENTATION_ERRATA_V1.md",
+      "bytes": 1117,
+      "sha256": "de4ea6a713345ffe223804a8927befe4246917ba34b93a4c4fc8e8a7a8d57e66",
+      "title": "Documentation errata without experiment changes"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_POPULATION_EXACT_REUSE_PROTOCOL_V1.md",
+      "bytes": 1723,
+      "sha256": "e9c06569712d462a3542c59271e830089b080f7e281fcf7ec862ff9ea1c7bfc1",
+      "title": "Exact-input reuse at the resource continuation"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_POPULATION_RESOURCE_CONTINUATION_V1.md",
+      "bytes": 1581,
+      "sha256": "225d996316c6c845700f2fa0f8e4a074da59a172db761ee192c1a58635319196",
+      "title": "Resource-only continuation of the full population run"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_POPULATION_REVIEW_PROTOCOL_V1.md",
+      "bytes": 1874,
+      "sha256": "b11084621168c7c056b1b63a4cac8cbce9c479b13ee79d3bd56c0bc07b32f109",
+      "title": "Independent population implementation review"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_POPULATION_REVIEW_RASTER_ORDER_FINDING_V1.md",
+      "bytes": 945,
+      "sha256": "918d7ca62e5f38e55ce5aa9fea49fcd3f24771c42a292f24fa2b03ef8fdeaaff",
+      "title": "Reviewer's raster-bound assumption"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_ENDPOINT_FIX_V1.md",
+      "bytes": 1019,
+      "sha256": "b25a544980dbb8466184f17f181544ff8f4013543f92799f6b5330870c49ea98",
+      "title": "Bounded source-wrapper boundary correction"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_EXECUTION_REPORT_V1.md",
+      "bytes": 19449,
+      "sha256": "4da851ebbcf709ad00bbdf0ab6c6c5b62a37b912bfa6799f31d5fc8aa0081e84",
+      "title": "Physiological motion-model recovery: execution report"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_EXECUTION_TLDR_V1.md",
+      "bytes": 1096,
+      "sha256": "0260be95f8d8a0c3187cbc13ff1569f8619c597a3cd90eb3f9c43af223c4092e",
+      "title": "What we wanted, what we got, where we are"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_FULL_FLASH_PROTOCOL_V1.md",
+      "bytes": 1100,
+      "sha256": "d12103d92682ec2662ff4bef51070b5fc0c09eaae850d5cfba5cadb575e34269",
+      "title": "Additional full-duration T4 flash implementation check"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_GRATING_CORRECTION_V2.md",
+      "bytes": 1746,
+      "sha256": "1e563bf60f8f3cc317a11a62a23ba42b1ce21d8b37fc11d84608ba65fa2d3a22",
+      "title": "Grating control rendering correction"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_INTERFACE_PROTOCOL_V1.md",
+      "bytes": 1828,
+      "sha256": "b880597723ce34f5379908227476da49ff8e37d43c2c39565bd1ce207de34aba",
+      "title": "Fixed physiological-to-downstream interface smoke"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_PROTOCOL_V1.md",
+      "bytes": 5341,
+      "sha256": "53727aaed8aea05b88e6385ad1e77f65e6398655fa9d201f7e0025cddc2c3c1a",
+      "title": "Fixed physiological prototype specification"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_RECOVERY_PLAN_V1.md",
+      "bytes": 5829,
+      "sha256": "96ed420ff57d05d7ac3825dbc9ac132b72b8497d18995f7ecb861cdb4248f65b",
+      "title": "Bounded plan toward a useful motion model"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_PROTOTYPE_SOURCE_CLOCK_FINDING_V1.md",
+      "bytes": 1500,
+      "sha256": "72bcdf8904af8395b210b4dfcb9f890d0ccee448cee0e53affcae2c0ee112199",
+      "title": "T4 native replay-clock finding and controlled compatibility check"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_T4_STARTUP_ORDER_PROTOCOL_V1.md",
+      "bytes": 1032,
+      "sha256": "44fe3344a4dcf2e97ce6cd43f34f9707d92fac3efab91db185a8cf89e803fad3",
+      "title": "Resolve the T4 flash startup-order limitation"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_TEXTURE_REPLICATION_PROTOCOL_V1.md",
+      "bytes": 7485,
+      "sha256": "7542d51f3d28ecbf633490ff597c05fbb997e34cbd1fdc17b2fa83b892c8ff38",
+      "title": "Fixed texture replication: prospective protocol"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_TEXTURE_REPLICATION_REPORT_V1.md",
+      "bytes": 10778,
+      "sha256": "6f2fd878690edc48764f433e4a61e351ce1b6ba4ec953781916965d0f6089335",
+      "title": "Fixed texture replication: results and decision"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_TEXTURE_REPLICATION_SCOPE_DECISION_V1.md",
+      "bytes": 3978,
+      "sha256": "c0076d230d54e48d0511a570c9d92fc024bbe27153570bd979ca566d5cb12915",
+      "title": "Scope decision after the fixed texture screen"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_TEXTURE_REPLICATION_TLDR_V1.md",
+      "bytes": 1275,
+      "sha256": "9036f4619148201e35ac820bdaff0893d5fb7a5a399a94b37f25522aa4bfb75a",
+      "title": "Texture replication: short summary"
+    },
+    {
+      "path": "docs/PHYSIOLOGY_BACKUP_REPRODUCTION_PROTOCOL_V1.md",
+      "bytes": 2665,
+      "sha256": "adc9e792d3da002e22e41eb8b498c8fc38dee8e7105abb4b6bed24aa6468f973",
+      "title": "Published physiological-model backup: fixed reproduction gate"
+    },
+    {
+      "path": "docs/PHYSIOLOGY_INTEGRATION_SOURCE_GATE_PROTOCOL_V1.md",
+      "bytes": 2365,
+      "sha256": "7ce190709da46c9274816a9694f8c356328acc523949e62bd31b434d4fa2ad8c",
+      "title": "Physiological frontend source and integration gates"
+    },
+    {
+      "path": "docs/PHYSIOLOGY_INTEGRATION_SOURCE_GATE_REPORT_V1.md",
+      "bytes": 11076,
+      "sha256": "e1354991246d99fdb02ffee13051dfa454cd7648ed88efb29c9e4aa04cd5b870",
+      "title": "Physiological frontend: source comparison and integration decision"
+    },
+    {
+      "path": "docs/POKUSAEVA_GAP_REPRODUCTION_PROTOCOL_V1.md",
+      "bytes": 6789,
+      "sha256": "8860c338fd31bc77a31d089655661b98868e573f94a0af1b515ccab50c24c900",
+      "title": "Published HS\u2013H2 coupling: bounded reproduction and walking transfer, V1"
+    },
+    {
+      "path": "docs/POKUSAEVA_GAP_REPRODUCTION_REPORT_V1.md",
+      "bytes": 14402,
+      "sha256": "147393dd088f1a33bd5e835b188f0df5e46a49d37a051fe52749d89d80af54ed",
+      "title": "Published HS\u2013H2 coupling reproduced; small-turn walking transfer remains negative"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_CAMERA_REPORT_V3.md",
+      "bytes": 11709,
+      "sha256": "6cbcef5b57e64572b46ddae2cbcd06915308fbc1289d3f81ab282519dee50ccc",
+      "title": "Portable Linux CPU camera runtime \u2014 V3"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_CAMERA_REPORT_V4.md",
+      "bytes": 11497,
+      "sha256": "016667f9e5f943628803369463514cbd1927596a417eab59dca84348e9d49ac4",
+      "title": "Equivalent camera projection and scheduled CPU delivery \u2014 V4"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_CLOCK_CONTRACT_REPORT_V6.md",
+      "bytes": 13295,
+      "sha256": "8c744bc075bf5bc3d33e47b693b45d773214c0325f8efe4edd54a7fe343b82ab",
+      "title": "Camera clock bounds and expiring perception results \u2014 V6"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_CLOCK_CONTRACT_REPORT_V6_R2.md",
+      "bytes": 13454,
+      "sha256": "f645067912a5934bbc146bfa89f87726e7092858bc4a160e09c1bf2f14064238",
+      "title": "Camera clock bounds and expiring perception results \u2014 V6"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_CONTINUATION_REPORT_V8.md",
+      "bytes": 12799,
+      "sha256": "84326ac44c442be858d5da70d906adcd7d31fe74050683e1209406943e762cf0",
+      "title": "Preserve neural history through complete delayed camera frames \u2014 V8"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_PLACEMENT_REPORT_V7.md",
+      "bytes": 13228,
+      "sha256": "abdacebbc4193608f6c7f62c8a736a97fb3276652d8a9adec4081d163f24ec90",
+      "title": "CPU worker placement and scheduled response reliability \u2014 V7"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_WORK_SPLIT_REPORT_V5.md",
+      "bytes": 13347,
+      "sha256": "64cdb2ba87f90a6fd99238827f26becc0451878626eb3f29e99ac4b8bb2859b8",
+      "title": "Causal solver-work distribution and matched scheduled CPU comparison \u2014 V5"
+    },
+    {
+      "path": "docs/POSTFIX_COMPLETION_AUDIT_V1.md",
+      "bytes": 8806,
+      "sha256": "554765126b8660d2fc434db26af153c1617fcb37006f777e6c9d7196b0382abe",
+      "title": "Postfix horizontal diagnostic: completion audit V1"
+    },
+    {
+      "path": "docs/POSTFIX_COORDINATE_EVIDENCE_V2.md",
+      "bytes": 8890,
+      "sha256": "7c0f18c13e29a05560cf7af0f80fec401cfffbfc991e00e5a3f33b2d7740ae10",
+      "title": "Postfix coordinate evidence V2"
+    },
+    {
+      "path": "docs/POSTFIX_END_TO_END_PLAN_V1.md",
+      "bytes": 14368,
+      "sha256": "4922a9afe26b9c5758c046d923fb9b9d8d0c62c252b87645f7c62a1519422e04",
+      "title": "Plan to complete the initial post-fix prompt"
+    },
+    {
+      "path": "docs/POSTFIX_GEOMETRY_AUDIT_V1.md",
+      "bytes": 5754,
+      "sha256": "1cd6485017abccc590e755972f44183df3f8d5fbbdf240d957d958206d3f2600",
+      "title": "Post-fix coordinate audit V1"
+    },
+    {
+      "path": "docs/POSTFIX_IMPLEMENTATION_AUDIT_V1.md",
+      "bytes": 8715,
+      "sha256": "028e3c6b09f7ca7b987e696fd4cf90819ef07f147e2179e93b077d678a42d07b",
+      "title": "Postfix implementation audit, before testing"
+    },
+    {
+      "path": "docs/POSTFIX_IMPLEMENTATION_AUDIT_V2.md",
+      "bytes": 4762,
+      "sha256": "a4bf2fe9603ad76a3a9ac5736edd3ab72a215cf443aa7dae052b2e1e4a8ec96b",
+      "title": "Postfix implementation audit V2"
+    },
+    {
+      "path": "docs/POSTFIX_IMPLEMENTATION_AUDIT_V3.md",
+      "bytes": 2507,
+      "sha256": "6a1681cd27b8f99ceb090d2318bc6221e31efd24222c54a4fb5dc6c08b72b933",
+      "title": "Postfix implementation audit V3"
+    },
+    {
+      "path": "docs/POSTFIX_IMPLEMENTATION_AUDIT_V4.md",
+      "bytes": 2034,
+      "sha256": "d23d66d607cc8bcc61cf7e2b7c5962c0711f91059658424f7183917f2c160916",
+      "title": "Postfix implementation audit V4"
+    },
+    {
+      "path": "docs/POSTFIX_IMPLEMENTATION_HANDOFF_V1.md",
+      "bytes": 47235,
+      "sha256": "54729162e2b6056161c2ae79315dceffd433acc0d94d49b0437d59704a620ddc",
+      "title": "Execution handoff: complete the original post-fix horizontal experiment"
+    },
+    {
+      "path": "docs/POSTFIX_INDEPENDENT_REVIEW_V1.md",
+      "bytes": 9418,
+      "sha256": "74864480214fb741f1abacb0a7c83f16dcde1f8d86aecb3cd18ccf36003204a6",
+      "title": "Independent review of the completed postfix experiment"
+    },
+    {
+      "path": "docs/POSTFIX_INITIALIZATION_COMPLETION_AUDIT_V1.md",
+      "bytes": 5286,
+      "sha256": "d9aed97c54338f4f3cb5dd23e7b222bcbc122becdc5b4021f21304fcb1068905",
+      "title": "Initialization study completion audit"
+    },
+    {
+      "path": "docs/POSTFIX_INITIALIZATION_IMPLEMENTATION_AUDIT_V1.md",
+      "bytes": 1001,
+      "sha256": "841d2d03a1becdcaa0709e9eaf350965c7c63c8532b2f87b612e3f4b19ef1185",
+      "title": "Initialization implementation audit V1"
+    },
+    {
+      "path": "docs/POSTFIX_INITIALIZATION_PROTOCOL_V1.md",
+      "bytes": 4860,
+      "sha256": "35e69ebfd0e7077cf45e0af2e3f16a6295cc24ea33dec5ab4444383ebd398202",
+      "title": "Frozen initialization study and conditional horizontal robustness protocol"
+    },
+    {
+      "path": "docs/POSTFIX_INITIALIZATION_PROTOCOL_V2.md",
+      "bytes": 1158,
+      "sha256": "c8f0fd06744d5a02f79401832884b9dfb549bff6adeaf53741499e4291417311",
+      "title": "Initialization protocol V2 resource amendment"
+    },
+    {
+      "path": "docs/POSTFIX_TEST_RESULTS_V1.md",
+      "bytes": 8080,
+      "sha256": "e60602b5148744de69aa456297fb16950edc93cbf723a56082811d1f8d5926c8",
+      "title": "Postfix test results"
+    },
+    {
+      "path": "docs/PROFESSOR_FUNCTIONAL_FRONTEND_TECHNICAL_REPORT_V1.md",
+      "bytes": 108516,
+      "sha256": "1fdae42b510fdba1095d489bbce7d65fdba98bbadae1999243f32b9992be5642",
+      "title": "An image-to-neural motion frontend for a frozen MaleCNS circuit"
+    },
+    {
+      "path": "docs/PROFESSOR_FUNCTIONAL_FRONTEND_TLDR_V1.md",
+      "bytes": 2651,
+      "sha256": "62dfa254d8b691ca259aa7f61ade6acc194a86b3c89df4682643d25ea6772790",
+      "title": "Image-to-neural frontend: short summary for the supervisor"
+    },
+    {
+      "path": "docs/PROFESSOR_HORIZONTAL_MOTION_REPORT_V1.md",
+      "bytes": 5390,
+      "sha256": "911b44fb3ec94451aaff21c855737dcaa7df7d11bb79e22747be9ed262b20c9d",
+      "title": "Exploratory horizontal-motion experiment in the MaleCNS model"
+    },
+    {
+      "path": "docs/PROFESSOR_HORIZONTAL_MOTION_REPORT_V2.md",
+      "bytes": 42380,
+      "sha256": "64b273c5fcdfba6ce021031a03963e2c70ce830a6f22e9921415a204eca677fb",
+      "title": "Post-fix image-to-motion computation: technical report V2"
+    },
+    {
+      "path": "docs/PROFESSOR_HORIZONTAL_MOTION_TLDR_V2.md",
+      "bytes": 2278,
+      "sha256": "ed61cfeabcd5a204bf61aa3c52e6e84c467afe3034824416d333ce4eb60b62bf",
+      "title": "TL;DR: corrected image-to-motion diagnostic"
+    },
+    {
+      "path": "docs/PROFESSOR_YAW_BIPS_SUMMARY_V1.md",
+      "bytes": 2792,
+      "sha256": "a5a9f386866af1cb88fc3a6f2c5c2dda07b7ffcf58c2681f787381066310320b",
+      "title": "Summary for discussion: yaw detection and bIPS"
+    },
+    {
+      "path": "docs/PROJECT_BOUNDARY.md",
+      "bytes": 2113,
+      "sha256": "a7b08a0fa36a1c388564ee2105f862b9866b7c17b8d05cf881556e69d3a75e9d",
+      "title": "Project boundary and claim contract"
+    },
+    {
+      "path": "docs/PROJECT_COMPLETION_ALTERNATIVES_V1.md",
+      "bytes": 16187,
+      "sha256": "203cbb6c0025a49dbdca2441d288e68ca299502fc59eb633b6053f035e46e5ed",
+      "title": "End-to-end completion alternatives \u2014 12 October 2026"
+    },
+    {
+      "path": "docs/PROJECT_DEVELOPMENT_AUDIT_TRAIL_V1.md",
+      "bytes": 5564,
+      "sha256": "a226fa54515812b0d8368d446eb21d5c540e8966601510458b21c3bf2dd4fb47",
+      "title": "Project development and evidence trail, V1"
+    },
+    {
+      "path": "docs/PROJECT_DEVELOPMENT_AUDIT_TRAIL_V2.md",
+      "bytes": 6961,
+      "sha256": "591b32e0d3f84d58f95bad9b229ce57c29b56e1b7ec0850727e505d32d6989d2",
+      "title": "Project development and evidence trail, V2"
+    },
+    {
+      "path": "docs/PROJECT_OVERALL_REVIEW_V1.md",
+      "bytes": 9567,
+      "sha256": "64f8054cd5df359df4946440e7056f2ee69ae3916f917bcce83d6e453f5185e4",
+      "title": "Overall project review \u2014 9 October 2026"
+    },
+    {
+      "path": "docs/PUBLICATION_CLAIM_AND_VALIDATION_BOUNDARY_V1.md",
+      "bytes": 5630,
+      "sha256": "2c5d1d96480c958fd9fd7071900b3928ad9926ba5ad8dd3a8a1ea412a9c76b32",
+      "title": "Claim and validation boundary"
+    },
+    {
+      "path": "docs/PUBLICATION_COMPLETION_AUDIT_V1.md",
+      "bytes": 7039,
+      "sha256": "d9c370683c1e19faec6ada1c9dfdc46969adfd6e29561a0e50fb43fdc4bc2507",
+      "title": "Publication package completion audit"
+    },
+    {
+      "path": "docs/PUBLICATION_REPRODUCTION_V1.md",
+      "bytes": 5373,
+      "sha256": "0ffe5e50d6d75f97a1d458f117cb8ac8c0dc7dc05b940929d6437168bdb7d050",
+      "title": "Reproducing the bounded computational result"
+    },
+    {
+      "path": "docs/PUBLICATION_RESEARCH_PLAN_V1.md",
+      "bytes": 5108,
+      "sha256": "4409e1ef4c5e3ac302f68cc280001d6aba9968ded9049cab433f2d5ab9faecac",
+      "title": "Publication research plan: a bounded test of image-to-motion inference"
+    },
+    {
+      "path": "docs/PUBLICATION_TECHNICAL_NOTE_V1.md",
+      "bytes": 20602,
+      "sha256": "7452a580eaa2f1775fdee8fa62b49b3c56d9324bf75037d0e756676e07c126e0",
+      "title": "Separating initialization and input sampling from motion tuning in a frozen fly visual model"
+    },
+    {
+      "path": "docs/PUBLISHED_CIRCUIT_COMPARISON_PROTOCOL_V1.md",
+      "bytes": 5444,
+      "sha256": "ee323cafbb3b3e6ca5e07049fc78f8972eb4b69d46771b5ae1a61c2477bd2d17",
+      "title": "Published-circuit boundary comparison V1"
+    },
+    {
+      "path": "docs/PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "bytes": 12963,
+      "sha256": "85c76f4b03d1c532c9e1f7312b54efc5c391f1c561940ed5966cd13081bda262",
+      "title": "Published-circuit boundary comparison V1"
+    },
+    {
+      "path": "docs/PUBLISHED_CIRCUIT_COMPARISON_REPRODUCTION_V1.md",
+      "bytes": 3418,
+      "sha256": "5b99a8491756d2c5e9519f79c3a2f57a88a4ee18504695d6fdf53de39866483b",
+      "title": "Reproducing the published-circuit boundary comparison"
+    },
+    {
+      "path": "docs/PUBLISHED_POPULATION_DIRECTION_REPAIR_PROTOCOL_R3.md",
+      "bytes": 2695,
+      "sha256": "2417cd2a008bc5cac4e194ac85ec2f45c783d98207f732feb1bd1f4990c008a9",
+      "title": "Direction-objective and bilateral-symmetry repair R3"
+    },
+    {
+      "path": "docs/PUBLISHED_POPULATION_POOLING_CORRECTION_R2.md",
+      "bytes": 1449,
+      "sha256": "f40b9c7a4d453f28fa04b541bfd9a7700a1ab0042d9b3f87a2d73c1af6dbaadb",
+      "title": "Population observation arithmetic correction R2"
+    },
+    {
+      "path": "docs/PUBLISHED_POPULATION_YAW_PROTOCOL_V1.md",
+      "bytes": 4358,
+      "sha256": "d266ee030c0ed089213d3ed25a2e51bbfb2ab04e72329e2e825e33d15ed0f4d5",
+      "title": "Published neural-population yaw readouts V1"
+    },
+    {
+      "path": "docs/PUBLISHED_POPULATION_YAW_REPORT_V1.md",
+      "bytes": 7094,
+      "sha256": "0d640b7ebd1d952b2c566fed869899532413e3894086f91ef1b7798bcbc75d02",
+      "title": "Published neural-population yaw study: completed negative result"
+    },
+    {
+      "path": "docs/PUBLISHED_T4_EXECUTION_PROTOCOL_V1.md",
+      "bytes": 1236,
+      "sha256": "f252267b79494e56a4f57f80301c9d0d9c0e3359385cf6872448b3b9f35849d2",
+      "title": "Separate execution of the published T4 model"
+    },
+    {
+      "path": "docs/PUBLISHED_T5_OCTAVE_OPTIONS_AMENDMENT_V3.md",
+      "bytes": 447,
+      "sha256": "b69d545623b593dc751fb99968b63553e1585e84ad721ca643622883ac47bb4c",
+      "title": "Octave empty-options representation"
+    },
+    {
+      "path": "docs/PUBLISHED_T5_OCTAVE_PORTABILITY_AMENDMENT_V2.md",
+      "bytes": 635,
+      "sha256": "6ed10d2b722f78d8de88f7960a99f3f297a8689da3849e8abd9f595f381ad029",
+      "title": "Octave forward-call portability correction"
+    },
+    {
+      "path": "docs/PUBLISHED_T5_OCTAVE_TYPES_AMENDMENT_V4.md",
+      "bytes": 1046,
+      "sha256": "95331e5e677935de78808d8549e370bc8b7b8abb4aec0034974cbdea183b3180",
+      "title": "Explicit numeric/cell representation for the Octave audit"
+    },
+    {
+      "path": "docs/PUBLISHED_T5_SOLVER_AUDIT_PROTOCOL_V1.md",
+      "bytes": 1160,
+      "sha256": "54c2632ccdcf8426352b71f5a61d0e0d524f1c2a03ec4fa29c2ab57c81edf57c",
+      "title": "Audit of the T5 archived-prediction discrepancy"
+    },
+    {
+      "path": "docs/RAW_LOCAL_CALIBRATION_REPAIR_PROTOCOL_V1.md",
+      "bytes": 3712,
+      "sha256": "e3249408259f52a3a58c636cdcf3fcfe6ba227dfcaace988e488eef99723759c",
+      "title": "One frozen negative-only calibration repair \u2014 2026-11-02"
+    },
+    {
+      "path": "docs/RAW_LOCAL_CALIBRATION_REPAIR_REPORT_V1.md",
+      "bytes": 10453,
+      "sha256": "e5a71dcb9c8075cdf11067dfdff992ce54ec7788d3a16f47b528299fc70ef58a",
+      "title": "Fixed neural readout with independent negative-only calibration"
+    },
+    {
+      "path": "docs/RAW_LOCAL_HELDOUT_PROTOCOL_V1.md",
+      "bytes": 4341,
+      "sha256": "d7dc3be36cd5723b062f939ef3ee013846fe3006e267133e77c3f72ef11aec67",
+      "title": "Frozen raw-local neural decoder: reserved-room test V1 \u2014 2026-11-02"
+    },
+    {
+      "path": "docs/RAW_LOCAL_HELDOUT_REPORT_V1.md",
+      "bytes": 6398,
+      "sha256": "0ae4e1a1db518a6fe21063ca11cc613b9737bc6f1217ab17f4fd02aaab7146e5",
+      "title": "Raw neural readout: first untouched-room evaluation V1"
+    },
+    {
+      "path": "docs/RAW_LOCAL_QUALIFICATION_PROTOCOL_V1.md",
+      "bytes": 4995,
+      "sha256": "d7488bf0ab83a61a8df8248a12b516954951dae5a963d204a72e5d12126295f3",
+      "title": "Frozen raw-local control qualification V1 \u2014 2026-11-02"
+    },
+    {
+      "path": "docs/RAW_LOCAL_QUALIFICATION_REPORT_V1.md",
+      "bytes": 7143,
+      "sha256": "2e3eee483672921889636fceef0d723199ac7e8a1933546050b0a594e826dcb3",
+      "title": "Unchanged raw neural control: calibration and numerical qualification"
+    },
+    {
+      "path": "docs/RELIABILITY_WEIGHTED_YAW_PROTOCOL_V1.md",
+      "bytes": 6984,
+      "sha256": "dae05ea20c46479d58f2f3fd44b70527f4748a1bf09fda0e06b235c60c35c476",
+      "title": "Reliability-weighted local-motion readout, V1"
+    },
+    {
+      "path": "docs/RELIABILITY_WEIGHTED_YAW_REPORT_V1.md",
+      "bytes": 15095,
+      "sha256": "5e4707afd888fe8caa24baac2b9208a31c755e355dd55ca38f0993a3fa277b1b",
+      "title": "Reliability-weighted local-motion yaw detection, V1"
+    },
+    {
+      "path": "docs/SCHEDULED_CAUSAL_WORK_SPLIT_PROTOCOL_V5.md",
+      "bytes": 2980,
+      "sha256": "29162d68fcf762712783d0937262db207ec13ae60cdf0e5b33f00b12c589d3d8",
+      "title": "Scheduled causal work comparison \u2014 V5"
+    },
+    {
+      "path": "docs/SCHEDULED_CPU_CAMERA_PROTOCOL_V1.md",
+      "bytes": 3527,
+      "sha256": "3fba64ab83a60232a9aaab49f7c995a05d0cef1524ce8dfec3215cea822ef7af",
+      "title": "Scheduled CPU camera replay \u2014 V1"
+    },
+    {
+      "path": "docs/SCHEDULED_CPU_REPLAY_INTERRUPTION_V2.md",
+      "bytes": 1991,
+      "sha256": "d468880fe3243d1fa53a52ff53a51691e6aea6d41ca61df25bd6f2dd846c0cb6",
+      "title": "Scheduled replay interruption and unchanged full repeat \u2014 V2"
+    },
+    {
+      "path": "docs/SECOND_OPINION_FEEDBACK_REVIEW_V1.md",
+      "bytes": 8702,
+      "sha256": "25014277fb5bf708a3a52624697f65833118074943618be54ba4f738e5ffdf15",
+      "title": "Assessment of the independent feedback and proposed plan revision"
+    },
+    {
+      "path": "docs/SECOND_OPINION_OPPONENCY_AUDIT_V1.md",
+      "bytes": 11063,
+      "sha256": "15479ba87a52985c7f45cad3420abd89a10b5d8007c2e471ff2f97f8fa3b2038",
+      "title": "Second-opinion audit: statistics, motion opponency and LPi coverage"
+    },
+    {
+      "path": "docs/SECOND_OPINION_PROJECT_OVERVIEW_V1.md",
+      "bytes": 10275,
+      "sha256": "73f19e69298fc9014cd24dc25d895a1befdae417187a30c9af6a3b456e0cc0c3",
+      "title": "Project overview for an independent second opinion"
+    },
+    {
+      "path": "docs/SEQUENTIAL_SMALL_TURN_REPAIRS_PROTOCOL_V1.md",
+      "bytes": 8795,
+      "sha256": "270b174c1ed38d0b22698f1af7572afa5f94bafc9f76cc97f3e0805e93bb00ca",
+      "title": "Three sequential small-turn repair tests V1"
+    },
+    {
+      "path": "docs/SEQUENTIAL_SMALL_TURN_REPAIRS_REPORT_V1.md",
+      "bytes": 18749,
+      "sha256": "aabbcf9c9f9a1c317689319e2b4eb2a0ba54e1f181d93303703d94e1ddff7e18",
+      "title": "Three small-turn repair tests and a matched local-motion control"
+    },
+    {
+      "path": "docs/SMALL_TURN_ACCEPTANCE_REVIEW_V1.md",
+      "bytes": 7006,
+      "sha256": "5a48470175c154c74f336d119a77747d235a648090ec29dc36699d79f07d82a3",
+      "title": "What is acceptable for the small-turn goal?"
+    },
+    {
+      "path": "docs/SMALL_TURN_CUTOFF_AMENDMENT_V1.md",
+      "bytes": 1829,
+      "sha256": "b550c7403e4d30ee0fd42947a9fd1ab25083e994923eec860b9241733b78e5b1",
+      "title": "Small-turn operating-point amendment, before calibration outcomes"
+    },
+    {
+      "path": "docs/SMALL_TURN_EXTERNAL_REVIEW_HANDOFF_V1.md",
+      "bytes": 41717,
+      "sha256": "1f141cd21ee4db40b49c93afc88f4f4b9b72a277c993320721ef906458499a5e",
+      "title": "Technical handoff: neural detection of small yaw during simulated fly walking"
+    },
+    {
+      "path": "docs/SMALL_TURN_IMPLEMENTATION_REPRODUCTION_V1.md",
+      "bytes": 5418,
+      "sha256": "01218633433dc07f61df33d1c1438485dc5cd979a44a01e5d1f61478f9c5d431",
+      "title": "Reproducing the small-turn implementation studies"
+    },
+    {
+      "path": "docs/SMALL_TURN_ROUND_PROTOCOL_V1.md",
+      "bytes": 7275,
+      "sha256": "424feae4e2257429025997a05001221021afc39b84b112067edfa91a8fd5840e",
+      "title": "Small-turn round V1: fixed alternatives and stopping decisions"
+    },
+    {
+      "path": "docs/SMALL_TURN_ROUND_REPORT_V1.md",
+      "bytes": 14640,
+      "sha256": "dbe8e11bfd6b333527effad4563132156bc9347649cb7c17b9c7c87ea6d02aea",
+      "title": "Small-turn round V1: completed negative result"
+    },
+    {
+      "path": "docs/SMALL_TURN_ROUND_REPRODUCTION_V1.md",
+      "bytes": 4091,
+      "sha256": "5d016976c2a51d24b7455d7aa5ee351df27e2dbd8e4e3181cf28e5523c21c2f9",
+      "title": "Small-turn round reproduction"
+    },
+    {
+      "path": "docs/SMALL_TURN_ROUND_TLDR_V1.md",
+      "bytes": 2183,
+      "sha256": "943d7094a1d2c56889932bdb8816a7509de56a1c040683f4dc032f7b1a1decf8",
+      "title": "Small-turn round: plain-language result"
+    },
+    {
+      "path": "docs/SMALL_TURN_SERIALIZATION_CORRECTION_R2.md",
+      "bytes": 1027,
+      "sha256": "1c82ca3e6772082b525bb70c309f175ec27ef14f9e74987f22e0e5932e7c7544",
+      "title": "Small-turn JSON export correction R2"
+    },
+    {
+      "path": "docs/SMALL_TURN_TARGET_DECISION_PROTOCOL_V4.md",
+      "bytes": 4277,
+      "sha256": "9f7b93b471b910c383fe50d44c09f25fddc1faf3532bc46b85f3faf8c6501d59",
+      "title": "Physical-target small-turn decision V4"
+    },
+    {
+      "path": "docs/SMALL_TURN_TARGET_DECISION_REPORT_V4.md",
+      "bytes": 10869,
+      "sha256": "3cf032aca80f38d6d94b9d73892ca66f070cd44069696960dd99379de587675d",
+      "title": "Small-turn implementation milestone V4"
+    },
+    {
+      "path": "docs/SMALL_TURN_TEMPORAL_FOLLOWUP_V1.md",
+      "bytes": 2205,
+      "sha256": "bb398f1bd7a5a817c7e694857e64e06176f6fedf8b0554f6189d49a35774ee02",
+      "title": "Bounded temporal follow-up after existing-reader calibration"
+    },
+    {
+      "path": "docs/SMALL_YAW_IMAGE_REFERENCE_PROTOCOL_V3.md",
+      "bytes": 4795,
+      "sha256": "336d329a0ead9ab44cf25602dfc84107dd9f9ef6b8acb574ff8437af09aedaa0",
+      "title": "Finer-sampled image-only small-yaw reference V3"
+    },
+    {
+      "path": "docs/SMALL_YAW_IMAGE_REFERENCE_REPORT_V3.md",
+      "bytes": 7692,
+      "sha256": "68b3d687ed0bbf2dd0b94436cb092172ed12ab2b7e7169a399703b8394fa9b5d",
+      "title": "Finer image sampling: stable yaw estimates, failed alarm policy V3"
+    },
+    {
+      "path": "docs/SOMA_MATCHED_PHYSIOLOGY_PROTOCOL_V1.md",
+      "bytes": 5924,
+      "sha256": "f775fe961535fada3b6a61f4d36528595296d3f9aaa8182f51d3e92f6a38d9ce",
+      "title": "Soma-matched full-clock physiological diagnostic \u2014 V1"
+    },
+    {
+      "path": "docs/SOMA_MATCHED_PHYSIOLOGY_REPORT_V1.md",
+      "bytes": 5432,
+      "sha256": "bf4691b544e0bfdf3ecf7a88a29f7d69760389851b29861c86085f0f437dc2ee",
+      "title": "Soma-matched full-clock physiological diagnostic \u2014 V1"
+    },
+    {
+      "path": "docs/SOURCE_PATH_ATTRIBUTION_PROTOCOL_V1.md",
+      "bytes": 5266,
+      "sha256": "c7bb4d58eccebd52dedeb0598126513d36c865344a4eb0d20ee94ae74a7f60e3",
+      "title": "Recurrent source-path accounting for the small-turn gap V1"
+    },
+    {
+      "path": "docs/SOURCE_PATH_ATTRIBUTION_REPORT_V1.md",
+      "bytes": 11592,
+      "sha256": "db598c7a5a5f0fd34c73c9ab9b53d2758c259b4efc383fe29f343d39ba7c2c8f",
+      "title": "Where the small-turn signal is confused with forward-walking responses"
+    },
+    {
+      "path": "docs/SOURCE_PATH_ATTRIBUTION_REPRODUCTION_V1.md",
+      "bytes": 4077,
+      "sha256": "a7bce2d6bea080b55159418fd1791e0daa6088d78d6badaae1c6fa2b5fc6267f",
+      "title": "Reproducing recurrent source-path attribution V1"
+    },
+    {
+      "path": "docs/SPATIOTEMPORAL_FACTORIAL_PROTOCOL_V1.md",
+      "bytes": 6583,
+      "sha256": "d04727df32abf6a82f38f8d6d1537006321396121dee0f75b0115d7b0db3f5bb",
+      "title": "Spatial-scale and temporal-frequency factorial investigation V1"
+    },
+    {
+      "path": "docs/SPATIOTEMPORAL_FACTORIAL_REPORT_V1.md",
+      "bytes": 18322,
+      "sha256": "820378da209d3e878c42f60e0d9258a30c4d3a7283575948fe97ef2948ce2c48",
+      "title": "Spatial scale, temporal frequency and weak direction tuning"
+    },
+    {
+      "path": "docs/SPATIOTEMPORAL_FACTORIAL_TLDR_V1.md",
+      "bytes": 2071,
+      "sha256": "bb1cfcb014a13df292e2f305193604387f240ef644d393e73dbd17e91420593a",
+      "title": "Weak-response investigation: TL;DR"
+    },
+    {
+      "path": "docs/SPATIOTEMPORAL_TIMESTEP_PROTOCOL_V1.md",
+      "bytes": 1480,
+      "sha256": "f86220104a07b9d11e833a5b40dd1bf61902586cd7959d90a7f87a3a2837cdcf",
+      "title": "Response-informed timestep sensitivity check V1"
+    },
+    {
+      "path": "docs/STORAGE_AUDIT_2026-11-01.md",
+      "bytes": 5274,
+      "sha256": "2d96501aed61b02a1b7148670a1a8377d6ae224b77833bdf437c50f12bdc7c7e",
+      "title": "Project disk audit \u2014 2026-11-01"
+    },
+    {
+      "path": "docs/STORAGE_RECOVERY_PLAN_2026-11-01.md",
+      "bytes": 3641,
+      "sha256": "328a0a493c8097034e0ba1c0732298f740b0494213f51836dbbf103665b9c68d",
+      "title": "Storage recovery choices \u2014 2026-11-01"
+    },
+    {
+      "path": "docs/STORAGE_RECOVERY_REPORT_2026-11-01.md",
+      "bytes": 6619,
+      "sha256": "b407305d0d8c791ff6c1b9a4d13aeffd240bc59f2367209e564ebc88b38f2a0e",
+      "title": "Completed disk recovery \u2014 2026-11-01"
+    },
+    {
+      "path": "docs/SUPERVISOR_EVIDENCE_BRIEF_V1.md",
+      "bytes": 3280,
+      "sha256": "e520889211f82125fe492c059456c2961c850cca39d9b1b954e57975562b005d",
+      "title": "Supervisor evidence brief \u2014 12 October 2026"
+    },
+    {
+      "path": "docs/SUSTAINED_CUDA_REPLAY_PROTOCOL_V1.md",
+      "bytes": 2729,
+      "sha256": "98262b26613ea73b5dd5aa4d9f7743d3bfc109b7be67536abd84f9face767b30",
+      "title": "Sustained original-clock replay \u2014 V1"
+    },
+    {
+      "path": "docs/SUSTAINED_CUDA_REPLAY_REPORT_V1.md",
+      "bytes": 7729,
+      "sha256": "1fadd5c24d365a2a187252da8c8441278a6ac0c7d2c4cfa67bb6e65273cba8a7",
+      "title": "Sustained original-clock CUDA replay \u2014 V1"
+    },
+    {
+      "path": "docs/T4T5_SAMPLING_DIAGNOSTIC_PROTOCOL_R3.md",
+      "bytes": 2257,
+      "sha256": "f93cf9a753fb9c1e2d63d670cb0db376b6bf7dec3c8e6bdf6e89743136e193f5",
+      "title": "Post-outcome bar-sampling diagnostic R3"
+    },
+    {
+      "path": "docs/T4T5_SAMPLING_DIAGNOSTIC_REPORT_R3.md",
+      "bytes": 9202,
+      "sha256": "b5d9df4df74878ef2e98291195ba8deead380eee13b28a5203890e03a62e5f8c",
+      "title": "T4/T5 stage result and numerical sampling repair R3"
+    },
+    {
+      "path": "docs/T4T5_STAGE_BENCHMARK_LOADER_CORRECTION_R2.md",
+      "bytes": 1210,
+      "sha256": "27d59d983d57c48a4d8eee0d638e8f82ab3ed8a6f72b260354e64e19e72945e6",
+      "title": "T4/T5 benchmark loader correction R2"
+    },
+    {
+      "path": "docs/T4T5_STAGE_BENCHMARK_PROTOCOL_V1.md",
+      "bytes": 6489,
+      "sha256": "cc865d27804d2953d068802a8e4cece9dd44280330f0a04bd259be970a6f0742",
+      "title": "T4/T5 intermediate direction-selectivity benchmark V1"
+    },
+    {
+      "path": "docs/T4T5_STAGE_BENCHMARK_REPORT_V1.md",
+      "bytes": 5417,
+      "sha256": "1b6269727c2836e8e3db4e3a1a37caf7cd95b0851705721b1620909304816dbe",
+      "title": "T4/T5 intermediate source-stage benchmark V1"
+    },
+    {
+      "path": "docs/T4_CABLE_MATCHED_PROTOCOL_V1.md",
+      "bytes": 6708,
+      "sha256": "5e17ee556cecf435d7778c6a7912fac7c1cc302b50f5667cc4f1761b4165786f",
+      "title": "Full published T4 cable matched-voltage comparison V1"
+    },
+    {
+      "path": "docs/T4_CABLE_MATCHED_REPORT_V1.md",
+      "bytes": 13549,
+      "sha256": "e9d94cab7686648a4cb67981544afc3836812a2c2a84b77c134ba69b82bd9b75",
+      "title": "Full published T4 cable versus matched electrical recordings V1"
+    },
+    {
+      "path": "docs/T4_DIRECT_VOLTAGE_ADMISSION_PROTOCOL_V1.md",
+      "bytes": 2291,
+      "sha256": "d0069ac03f6ec8b4a8d5fb99285839a3945cba7a4c036f069fe304cc02378a8a",
+      "title": "T4 direct-voltage source admission V1"
+    },
+    {
+      "path": "docs/T4_DIRECT_VOLTAGE_PROTOCOL_V1.md",
+      "bytes": 7358,
+      "sha256": "b28592dd589117420b3da5402e3dd948584bc63550efb7e31fd04734adaa099c",
+      "title": "T4 image-to-direct-voltage component test V1"
+    },
+    {
+      "path": "docs/T4_DIRECT_VOLTAGE_REPORT_V1.md",
+      "bytes": 17094,
+      "sha256": "d8a38db1f7ce34b1346bd476517fd2ebf9d52c717d3190add16f066fa9b3093d",
+      "title": "T4 image-to-direct-voltage component test V1"
+    },
+    {
+      "path": "docs/T4_DIRECT_VOLTAGE_REVIEW_CORRECTION_R2.md",
+      "bytes": 2511,
+      "sha256": "afe9df254bcca4ed48d4a5ca12251aa083cfdcb623b99534d50b4fddf1b1bffa",
+      "title": "Direct-voltage V1 audit correction and integer-clock sensitivity R2"
+    },
+    {
+      "path": "docs/T4_FLASH_METADATA_CORRECTION_R2.md",
+      "bytes": 922,
+      "sha256": "2df876bcab5d7c1bc464969a00577429fd187b1a1d12a7ddeb72542f30c04248",
+      "title": "Stationary-flash metadata serialization correction R2"
+    },
+    {
+      "path": "docs/T4_FLASH_TRANSFER_ADMISSION_V1.md",
+      "bytes": 2156,
+      "sha256": "68fded74f670495f2465c0de544e0615e228345d950438bd3647523085c5affe",
+      "title": "Stationary-flash to motion transfer: source admission V1"
+    },
+    {
+      "path": "docs/T4_FLASH_TRANSFER_EXACT_TIMING_R3.md",
+      "bytes": 2659,
+      "sha256": "8cc9c2cf993b391b25e772a7bcb5a722629c2c033e3d00f97f74ced36fa88241",
+      "title": "Recorded-pulse timing correction R3"
+    },
+    {
+      "path": "docs/T4_FLASH_TRANSFER_PROTOCOL_V1.md",
+      "bytes": 8226,
+      "sha256": "afff22e22e2bae1b0ecaf3fdee944e5fb38ad35a69ea18ab70d9bfb715ae373a",
+      "title": "Stationary-flash registration and motion prediction V1"
+    },
+    {
+      "path": "docs/T4_FLASH_TRANSFER_REPORT_V1.md",
+      "bytes": 15349,
+      "sha256": "5ecc660c26fb7eef74bc2a5fab86eb018e1a665c76e9d3fb93c7216968f6e0df",
+      "title": "Stationary-flash calibration and motion transfer: V1 with numerical R2/R3"
+    },
+    {
+      "path": "docs/T4_FLASH_TRANSFER_WARM_START_R2.md",
+      "bytes": 2315,
+      "sha256": "ec5f94aba4442f9db61079a60840925521bb6a5334e6fe7de49218f74c3e3f79",
+      "title": "Warm-start numerical correction R2"
+    },
+    {
+      "path": "docs/T4_GEOMETRY_IDENTIFIABILITY_PROTOCOL_V1.md",
+      "bytes": 3717,
+      "sha256": "7ae32eab49ad6c7c6df996cbbc1819784493893a090c74257ae8a26fdbaedf27",
+      "title": "T4 flash-registration identifiability V1"
+    },
+    {
+      "path": "docs/T4_GEOMETRY_IDENTIFIABILITY_REPORT_V1.md",
+      "bytes": 11895,
+      "sha256": "1ced3cb61efe04c50113354918622a7cb9e5618ea62cf70d5c74562f7ecd849c",
+      "title": "T4 geometry-identifiability diagnostic V1"
+    },
+    {
+      "path": "docs/T4_GEOMETRY_REVIEW_CORRECTION_R2.md",
+      "bytes": 987,
+      "sha256": "acd288b08d914810ccdd47e450d203aa72c92e378dadb3c7bcc27e3ffe4a6b38",
+      "title": "Independent geometry-review clock correction R2"
+    },
+    {
+      "path": "docs/T4_HORIZONTAL_INTEGRATION_PILOT_PROTOCOL_V1.md",
+      "bytes": 7589,
+      "sha256": "f7dc09636b50263702d69811215036042cd7dc2547d89c248e2517696e50991f",
+      "title": "Horizontal T4 integration pilot V1"
+    },
+    {
+      "path": "docs/T4_HORIZONTAL_INTEGRATION_PILOT_REPORT_V1.md",
+      "bytes": 11824,
+      "sha256": "6f0d34940d16a914b2664d4e57e0295b90148603eefdff2e29c96523c1e0962b",
+      "title": "Horizontal T4 integration pilot V1"
+    },
+    {
+      "path": "docs/T4_MATCHED_DATA_PROTOCOL_V1.md",
+      "bytes": 3079,
+      "sha256": "9d535c6472e291199cd4195f81d9fa106cb1da361537d47ac0863cbf1c58ee0a",
+      "title": "T4 stimulus/measurement source admission V1"
+    },
+    {
+      "path": "docs/T4_MATCHED_DATA_REPORT_V1.md",
+      "bytes": 6706,
+      "sha256": "c20567cf52907ee022e382d579f9c1bb7c72f056b6be2fe521b8162910a82b9b",
+      "title": "T4 matched-data admission: a useful observation test is available"
+    },
+    {
+      "path": "docs/T4_OBSERVATION_TRANSFER_PROTOCOL_V1.md",
+      "bytes": 6044,
+      "sha256": "1bcfdcc352f5809dffa8a5c94063bc9468b8eb92e75944f6ba93713ccc91f4c1",
+      "title": "Prospective T4c voltage-indicator to calcium population transfer V1"
+    },
+    {
+      "path": "docs/T4_OBSERVATION_TRANSFER_REPORT_V1.md",
+      "bytes": 8810,
+      "sha256": "00280ee299916b724c807650ea80666b4e4ec01e1bce2cf5500bf332284c03f4",
+      "title": "T4c indicator comparison: restricted prediction criterion passes"
+    },
+    {
+      "path": "docs/T4_PUBLISHED_PEAK_COMPARISON_PROTOCOL_V1.md",
+      "bytes": 1797,
+      "sha256": "cb5b4ae3cac7deaf2e9bfd96830414aabdd07ce0e13bc67478ff88f3c6084d77",
+      "title": "T4 published peak comparison"
+    },
+    {
+      "path": "docs/T4_RESERVED_METADATA_CORRECTION_R2.md",
+      "bytes": 1212,
+      "sha256": "42fa3588fa1b67bc323145a10c317fc13979151d77f082f02f9de670dfd79746",
+      "title": "Reserved-cell source index normalization R2"
+    },
+    {
+      "path": "docs/T4_RESERVED_TRANSFER_PROTOCOL_V1.md",
+      "bytes": 6781,
+      "sha256": "643d508e05918295705af6bea97b2b307d7d00296847395c6b30537ab2b6fa2d",
+      "title": "Reserved T4 flash-to-motion transfer V1"
+    },
+    {
+      "path": "docs/T4_RESERVED_TRANSFER_REPORT_V1.md",
+      "bytes": 14457,
+      "sha256": "267cd704c1f80b44fcc2cd0446095ea4c313f50e47a38eb14d0a5e89f3c8926b",
+      "title": "Reserved T4 stationary-to-motion transfer V1"
+    },
+    {
+      "path": "docs/T5B_BOUNDED_REPAIR_PROTOCOL_V1.md",
+      "bytes": 5802,
+      "sha256": "89c10db6d2396a2fce334e08fea1319f3a3e35900bf978fca8d5c9d8e5fe3065",
+      "title": "One bounded T5b repair attempt"
+    },
+    {
+      "path": "docs/T5B_BOUNDED_REPAIR_REPORT_V1.md",
+      "bytes": 9068,
+      "sha256": "531a3b22d3080f8d788ff9b2f22ad82b6eb0ec19e416f83ab9645fc6e47d1c88",
+      "title": "Bounded T5b repair attempt: receptive fields and stopping decision"
+    },
+    {
+      "path": "docs/T5B_BOUNDED_REPAIR_TLDR_V1.md",
+      "bytes": 1363,
+      "sha256": "056c06471fe3cf1b1a448714366416631dca403ab70809a2d5763e8d00927529",
+      "title": "Bounded repair attempt: TL;DR"
+    },
+    {
+      "path": "docs/T5B_PHASE_PREDICTION_PROTOCOL_V1.md",
+      "bytes": 3139,
+      "sha256": "03b01309d7183bf7d14fd33eb117521de8fa1a748e3bc2cd055b964dfde4439c",
+      "title": "Prospective T5b signed-input phase prediction"
+    },
+    {
+      "path": "docs/T5B_RECEPTIVE_FIELD_APERTURE_AMENDMENT_V3.md",
+      "bytes": 1365,
+      "sha256": "7f9d624dd553eaedc7198199f5dd5a06301dad8579d32c6ba40a34f17cbe3be6",
+      "title": "Physical aperture arithmetic correction V3"
+    },
+    {
+      "path": "docs/T5B_RECEPTIVE_FIELD_LAUNCH_AMENDMENT_V2.md",
+      "bytes": 951,
+      "sha256": "1536ca8181b6011b8eec9d080d96804e874691e62fb29ff875be9b21b35eddaf",
+      "title": "Receptive-field launch correction V2"
+    },
+    {
+      "path": "docs/T5_ACTIVE_SENSITIVITY_PROTOCOL_V1.md",
+      "bytes": 7468,
+      "sha256": "84504987343e2ed71bc9c86a4497e18855c9010708ead4c2355b41360840e0f3",
+      "title": "Active T5 sensitivity and excitation/inhibition compensation \u2014 protocol V1"
+    },
+    {
+      "path": "docs/T5_ACTIVE_SENSITIVITY_REPORT_V1.md",
+      "bytes": 9922,
+      "sha256": "cf423ea7d3f9fd008e67caeccd6b63224ce656dea42249eb8c2853a21160a4f1",
+      "title": "Active T5 sensitivity and E/I compensation \u2014 technical report V1"
+    },
+    {
+      "path": "docs/T5_ACTIVE_SENSITIVITY_TLDR_V1.md",
+      "bytes": 1611,
+      "sha256": "481d098292e60939222195ba2196dc1e7fcbe821a6bcbe53f7b34cb23f7725b1",
+      "title": "Simple summary: looking beyond timing compensation"
+    },
+    {
+      "path": "docs/T5_COHORT_AUDIT_V1.md",
+      "bytes": 8269,
+      "sha256": "f7155a53e61b26e55e95c2299bbc29d062c125e946283728ef5b8b9265f05e92",
+      "title": "T5 cohort source audit \u2014 Round 1"
+    },
+    {
+      "path": "docs/T5_COMPENSATION_CHALLENGE_PROTOCOL_V1.md",
+      "bytes": 5595,
+      "sha256": "c87ec22800b9e8a60da6533e7467ce06290882ebe7936cacf1d643a56ee87e96",
+      "title": "Prospective T5 compensation challenge \u2014 protocol V1"
+    },
+    {
+      "path": "docs/T5_COMPENSATION_CHALLENGE_REPORT_V1.md",
+      "bytes": 8240,
+      "sha256": "151b216d0f3044f311f3d09973e45ca1ef555b3dc2c45ba88b8ef0582537170d",
+      "title": "Prospective T5 compensation challenge \u2014 technical report V1"
+    },
+    {
+      "path": "docs/T5_COMPENSATION_CHALLENGE_TLDR_V1.md",
+      "bytes": 1333,
+      "sha256": "3b2d897050780bc16b243484e8f4f945866c7fb76f5ed4a87cf149930d25cc78",
+      "title": "Simple summary: the T5 compensation challenge"
+    },
+    {
+      "path": "docs/T5_DIRECTION_INVARIANT_PILOT_EXECUTION_PLAN.md",
+      "bytes": 14664,
+      "sha256": "b81be319f95a7c68633067c77cce969d58ea27945138089fe366ee10a9e77d4f",
+      "title": "Execution plan \u2014 independent T5 direction-contrast pilot, v0"
+    },
+    {
+      "path": "docs/T5_DIRECTION_INVARIANT_PILOT_RESULT.md",
+      "bytes": 4381,
+      "sha256": "76153507d8d643d9d1dc13a0ff8a3bbb100266d611453f33b4b9ec9f21d18654",
+      "title": "T5 direction-invariant pilot v0 \u2014 result"
+    },
+    {
+      "path": "docs/T5_EVIDENCE_AUDIT_PROTOCOL_V1.md",
+      "bytes": 2508,
+      "sha256": "cc4c7fc82dbf96e1d5a173b37b6d4cad80cae3db6e97c1a971451e5a97f6e3db",
+      "title": "T5 evidence audit V1"
+    },
+    {
+      "path": "docs/T5_EVIDENCE_AUDIT_REPORT_V1.md",
+      "bytes": 12456,
+      "sha256": "b81d3169151151730e9b1361e396cdeb4fd33cd0c0d560fbf3de7492388806d8",
+      "title": "Evidence audit and scope correction \u2014 12 October 2026"
+    },
+    {
+      "path": "docs/T5_GRUNTMAN_GATE_V0.md",
+      "bytes": 5547,
+      "sha256": "5e2e70528a734144a27b77492184319b12b2228f5ea28c82e6f55025cf2c28b4",
+      "title": "Gruntman T5 recording gate v0"
+    },
+    {
+      "path": "docs/T5_IMAGE_NATIVE_TRANSFER_PROTOCOL_V1.md",
+      "bytes": 6767,
+      "sha256": "2bfccbb37a965bb39f19030965a99eb032ed2ab96e81d66493095b888576f4b4",
+      "title": "T5 image-to-native transfer protocol, V1"
+    },
+    {
+      "path": "docs/T5_IMAGE_NATIVE_TRANSFER_REPORT_V1.md",
+      "bytes": 12585,
+      "sha256": "d3f6dfc14925761bf63cf323da4b1966cd4d48db93e5b86277018c1f346fd006",
+      "title": "T5 image-to-native transfer report, V1"
+    },
+    {
+      "path": "docs/T5_IMAGE_NATIVE_TRANSFER_REVIEW_AMENDMENT_V1.md",
+      "bytes": 1206,
+      "sha256": "d1f246387b88edc5862b96e519373ea1ee904865c0c1fc7623d709a9734faf62",
+      "title": "Independent review correction, V1"
+    },
+    {
+      "path": "docs/T5_IMAGE_NATIVE_TRANSFER_TLDR_V1.md",
+      "bytes": 1256,
+      "sha256": "04590bf3169431f7e53f6758139e4d4880a07084b83383ab19b02c448e536c09",
+      "title": "Image-to-native T5 transfer \u2014 simple summary"
+    },
+    {
+      "path": "docs/T5_MATCHED_GRATING_OBSERVATION_PROTOCOL_V1.md",
+      "bytes": 7699,
+      "sha256": "e523d528ee1f690e8b202a6a593de4fc8adc090abd7817411b81633d579fac32",
+      "title": "Matched T5 grating observation protocol, V1"
+    },
+    {
+      "path": "docs/T5_MATCHED_GRATING_OBSERVATION_REPORT_V1.md",
+      "bytes": 16395,
+      "sha256": "b14ec1afd66e2211ad071466c3a76ec89e9da660ca16f6a0fa97de8e23d07561",
+      "title": "Matched T5 grating observation report, V1"
+    },
+    {
+      "path": "docs/T5_MATCHED_GRATING_OBSERVATION_TLDR_V1.md",
+      "bytes": 1646,
+      "sha256": "e705266fc21f07e65614f1ec4a5f1838b0e45b17b224bc47e8a7be326bda04bb",
+      "title": "Matched T5 observation comparison \u2014 simple summary"
+    },
+    {
+      "path": "docs/T5_MINIMAL_HELDOUT_DECISION.md",
+      "bytes": 3475,
+      "sha256": "9997b85416266729ff417b9b5048727e7e2f6c6227da474b779c1f193e5bfc43",
+      "title": "Round 2 held-out minimal T5 frontend decision"
+    },
+    {
+      "path": "docs/T5_MINIMAL_HELDOUT_ROUND2_EXECUTION_PLAN.md",
+      "bytes": 11488,
+      "sha256": "06a9bc877b6d7670243cf6b58f1a951217185adcc65407765e235803281c23ae",
+      "title": "Round 2 execution plan \u2014 held-out minimal T5 frontend"
+    },
+    {
+      "path": "docs/T5_MIXED_PARAMETER_SENSITIVITY_LOADER_AMENDMENT_V1.md",
+      "bytes": 1206,
+      "sha256": "f906c23e447368d500314de8796fd01af01b46cf99a8e8433dd9fa2b8580d97e",
+      "title": "Pre-score loader correction for the mixed T5 pilot"
+    },
+    {
+      "path": "docs/T5_MIXED_PARAMETER_SENSITIVITY_PROTOCOL_V1.md",
+      "bytes": 5510,
+      "sha256": "009a62891b7e2090e93a4c0e16b78aa673d155edc40a225d1d4b17b1187531d7",
+      "title": "Native T5 mixed-benchmark parameter-sensitivity pilot \u2014 protocol V1"
+    },
+    {
+      "path": "docs/T5_MIXED_PARAMETER_SENSITIVITY_REPORT_V1.md",
+      "bytes": 8995,
+      "sha256": "c3e685d61afd1a5ec41496bec6e48c4f4612d8449bb352a674b2b574ec1ede33",
+      "title": "Native T5 mixed-benchmark parameter sensitivity \u2014 technical report V1"
+    },
+    {
+      "path": "docs/T5_MIXED_PARAMETER_SENSITIVITY_TLDR_V1.md",
+      "bytes": 1375,
+      "sha256": "baefb49e9d7ac2e21a852a4cdc4a64a2b61b74047dea5302d4ac97b13d9fb9f7",
+      "title": "Simple summary: native T5 parameter pilot"
+    },
+    {
+      "path": "docs/T5_MOVING_BAR_TRANSFER_PROTOCOL_V1.md",
+      "bytes": 6163,
+      "sha256": "2a1c46a0e762f99d9d35c9c672fcf7df690874557a2197c6fcfaa60b3bc65d53",
+      "title": "T5 moving-bar transfer and observation protocol, V1"
+    },
+    {
+      "path": "docs/T5_MOVING_BAR_TRANSFER_REPORT_V1.md",
+      "bytes": 12869,
+      "sha256": "622261c7adc0c8735ce1df3c73ee1b0f275af5023b69bf5d64e5f28125cc0e25",
+      "title": "Moving-bar transfer and observation report, V1"
+    },
+    {
+      "path": "docs/T5_MOVING_BAR_TRANSFER_TLDR_V1.md",
+      "bytes": 1258,
+      "sha256": "2f6b610939c3427074bc67d35fbf7a903a4c283daba4a774871e14c1cdf1bfed",
+      "title": "Moving-bar comparison \u2014 simple summary"
+    },
+    {
+      "path": "docs/T5_REFERENCE_ERROR_ALIGNMENT_FINDING_V1.md",
+      "bytes": 1326,
+      "sha256": "e88305272e065381a09721c749c79c42eb05c0bab7c2950565ca1803f4edd4e4",
+      "title": "Exact reproduction of the archived error-summary ordering bug"
+    },
+    {
+      "path": "docs/T5_REFERENCE_ERROR_INVESTIGATION_PROTOCOL_V1.md",
+      "bytes": 3180,
+      "sha256": "61eac62a30ba7fcf3bca2660cabcafe15fcbe85aba70785624c8b39a9f3d8c86",
+      "title": "T5 reference-error investigation: full source experiment"
+    },
+    {
+      "path": "docs/T5_REFERENCE_ERROR_INVESTIGATION_REPORT_V1.md",
+      "bytes": 8910,
+      "sha256": "5cfab2984b4eff968744e1c1855172aaec524aa2c96d307e05f3f8cf2ccf9de0",
+      "title": "T5 reference-error investigation and supported solution V1"
+    },
+    {
+      "path": "docs/T5_REFERENCE_ERROR_INVESTIGATION_TLDR_V1.md",
+      "bytes": 1388,
+      "sha256": "9e144e3a943c005c0981fe6a28ccb0aa17aacc1c2fa5f7970aba625fd48f1bed",
+      "title": "T5 error investigation \u2014 short explanation"
+    },
+    {
+      "path": "docs/VALIDATED_FRONTEND_V1_EXECUTION_PLAN.md",
+      "bytes": 35545,
+      "sha256": "0a77bd095f92adeaa008c938459b61421d2cc1498b17352253a6ee0bd09b8a59",
+      "title": "Execution plan: validate a bounded FlyVis-to-MaleCNS image frontend"
+    },
+    {
+      "path": "docs/VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "bytes": 18101,
+      "sha256": "44ae26bb3eeb53c4e876c40da7e1ddeb1456535aefff487ca84478ebfee877c0",
+      "title": "Independent environments and numerical convergence \u2014 V1"
+    },
+    {
+      "path": "docs/VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "bytes": 4335,
+      "sha256": "45cba8628b82214ae202a3d429655701d61a316a5e76783b2698ae5d4c7cb873",
+      "title": "Reproduce the numerical validation component \u2014 V1"
+    },
+    {
+      "path": "docs/VALIDATION_HARDWARE_PROTOCOL_V1.md",
+      "bytes": 5923,
+      "sha256": "bdb21b5e659cc29c092f5828a8f31590fee367b8e3cfc6fa667b7bdea4dcfa03",
+      "title": "Validation, mechanism checks and portable deployment \u2014 V1"
+    },
+    {
+      "path": "docs/VALIDATION_HARDWARE_STORAGE_AMENDMENT_V2.md",
+      "bytes": 1935,
+      "sha256": "e287a653e6f52c467f2a53a9bb4354958c93f368501279b8af3eca46c8c532ff",
+      "title": "Offline execution storage amendment \u2014 V2"
+    },
+    {
+      "path": "docs/VALIDATION_NEXT_ROUND_SURFACE_AUDIT_2026-11-03.md",
+      "bytes": 3302,
+      "sha256": "8f61d8ff497881dfc7d51cf573e99cd18d266b09a193b8d9540bceb5e32a47a1",
+      "title": "Small readiness audit \u2014 2026-11-03"
+    },
+    {
+      "path": "docs/VALIDATION_SOURCE_FETCH_AUDIT_V1.md",
+      "bytes": 11689,
+      "sha256": "5650a8026b44ceb364060ba5470e9b278fd0fb3791feb013ee5693de1a303887",
+      "title": "Validation source fetch audit v1"
+    },
+    {
+      "path": "docs/VIRTUAL_WALKING_OPENLOOP_PROTOCOL_V1.md",
+      "bytes": 4860,
+      "sha256": "05b2748a7bbbed060d306e0769f2dbeaca0875e03d3976e6b4375e21f17fc742",
+      "title": "Virtual walking open-loop study V1 \u2014 audit and execution plan"
+    },
+    {
+      "path": "docs/VIRTUAL_WALKING_OPENLOOP_REPORT_V1.md",
+      "bytes": 15342,
+      "sha256": "df0d4148db2b612300d05c3dca7d824a7326362a9b45fcd56e0578fb36a7ef3b",
+      "title": "Virtual walking through a frozen MaleCNS visual circuit \u2014 V1"
+    },
+    {
+      "path": "docs/VIRTUAL_WALKING_OPENLOOP_REPRODUCTION_V1.md",
+      "bytes": 4995,
+      "sha256": "5566e2cc012719ddb28b36cb3933bbc9bbcbd82ee2962d74203f25ff63bfe806",
+      "title": "Virtual walking open-loop V1 \u2014 reproduction"
+    },
+    {
+      "path": "docs/VIRTUAL_WALKING_OPENLOOP_UNDERGRAD_SUMMARY_V1.md",
+      "bytes": 1473,
+      "sha256": "4d427461c1e189f3742b41bffacc65a2b150b7306d46d9406a57fdc844469b6a",
+      "title": "Virtual walking: what we did, what we want, and why"
+    },
+    {
+      "path": "docs/VISUAL_COORDINATE_REGISTRATION.md",
+      "bytes": 5612,
+      "sha256": "64f6a6cab5168a13d44f773d8c829799550b4e6f1f404f98c48c41366caef2cd",
+      "title": "Visual coordinate registration"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_CAUSAL_AMENDMENT_V2.md",
+      "bytes": 1395,
+      "sha256": "54486f17cf271f551b74ef588ae5b66aa5e204b66f7da696f17f22b9af865e36",
+      "title": "Numerical amendment V2: preserve exact stationary current"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_CAUSAL_PROTOCOL_V1.md",
+      "bytes": 5737,
+      "sha256": "215e8f7d57a4a52368338a2e7b3c1fe3c47da8586b2b1503c295ddc8fee727f7",
+      "title": "Response-informed, prospectively frozen current-clamp follow-up"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_DC_CLAMP_PROTOCOL_V1.md",
+      "bytes": 2296,
+      "sha256": "a07a54f43b432a3bf84e088e80072c5d835f22b0b8292b3db1a38d88d695c9fb",
+      "title": "One additional hypothesis: sustained input shifts T5b's small direction gap"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_INVESTIGATION_PROTOCOL_V1.md",
+      "bytes": 7221,
+      "sha256": "0b072aa57334448408acb2b3f6fa9e992e099307685b1d5c4d956b7385a1a868",
+      "title": "Weak-direction investigation: discovery analysis and passive neural recording"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_INVESTIGATION_REPORT_V1.md",
+      "bytes": 17768,
+      "sha256": "04f11e6bca1e670e9e713f2c8907e4cbae872b152a10c569bc4f1cf6a419d315",
+      "title": "Weak-direction investigation: evidence, mechanism and limits"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_INVESTIGATION_REPORT_V2.md",
+      "bytes": 17772,
+      "sha256": "681451c5a067ce21ba2d57b0823f0baf4ec39c5cf6cfae3617ecba5841599b58",
+      "title": "Weak-direction investigation: evidence, mechanism and limits"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_INVESTIGATION_TLDR_V1.md",
+      "bytes": 1675,
+      "sha256": "002d28af6482e70dbab01ac1228d61943c6ab93b7964e8220bfca22ccc457cc4",
+      "title": "TL;DR: weak-direction investigation"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_INVESTIGATION_TLDR_V2.md",
+      "bytes": 1675,
+      "sha256": "e37a66672b68e36c8e7760b14263278e60be8a8b2bc27315551f65289c597a83",
+      "title": "TL;DR: weak-direction investigation"
+    },
+    {
+      "path": "docs/WEAK_DIRECTION_TIMESTEP_PROTOCOL_V1.md",
+      "bytes": 1664,
+      "sha256": "126e07ddf162de91c7d289d889a2034fbfb748e206215da04e7047d7d746d56c",
+      "title": "Half-timestep sensitivity control"
+    },
+    {
+      "path": "docs/WEAK_TUNING_CAUSE_AND_REPAIR_PLAN_V1.md",
+      "bytes": 5865,
+      "sha256": "d08a6ad9b8d0164daff912ec5c001c50b79a18b47124a0bae8d1fd499028ec28",
+      "title": "Identifying the weak-tuning mechanism and evaluating a repair"
+    },
+    {
+      "path": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "bytes": 13499,
+      "sha256": "fc116326fa257522d9446f10602c26793bc9ebe8a831aacbaf3458d473b5af2c",
+      "title": "Yaw detection and bIPS: consolidated evidence V1"
+    },
+    {
+      "path": "docs/YAW_BIPS_SYNTHESIS_METHODS_V1.md",
+      "bytes": 3110,
+      "sha256": "33000b65916773cf56f760e71e1c946db6371b67be3653780386218e394a379a",
+      "title": "Yaw and bIPS evidence synthesis \u2014 methods V1"
+    },
+    {
+      "path": "docs/YAW_FAILURE_AND_HS_BENCHMARK_PROTOCOL_V1.md",
+      "bytes": 4744,
+      "sha256": "061728ac20314f45f4481fe86ffffb4941fa4632d920855e28fc574d1fb0893d",
+      "title": "Yaw false-alarm localization and bounded HS benchmark V1"
+    },
+    {
+      "path": "docs/YAW_FALSE_ALARM_LOCALIZATION_REPORT_V1.md",
+      "bytes": 8644,
+      "sha256": "dc670d4c682680ad990e2fab765e9feda8d26119c434c3e7503d6e926d4cb0fe",
+      "title": "Yaw false-alarm localization report V1"
+    },
+    {
+      "path": "docs/YAW_HS_FOLLOWUP_PROFESSOR_BRIEF_V1.md",
+      "bytes": 2242,
+      "sha256": "d9d9ebd96bead28f1ccaab3a894f81c4994c0ad663a92168a52886207696fef2",
+      "title": "Professor brief: false-alarm mechanism and first independent HS constraint"
+    },
+    {
+      "path": "docs/YAW_HS_FOLLOWUP_REPRODUCIBILITY_V1.md",
+      "bytes": 3901,
+      "sha256": "0fd9d25ea2686dcef9dc2bcb6b97b2db960c3535d0e2f13f02e393f17c5d69b7",
+      "title": "Reproducing the bounded yaw/HS follow-up"
+    },
+    {
+      "path": "docs/YAW_SENSITIVITY_ABLATION_PROTOCOL_V1.md",
+      "bytes": 6835,
+      "sha256": "f2fa9873211393c11968076b5eddbdaea2dfb562a59db54a3f8024149310a3bd",
+      "title": "Study A: yaw sensitivity and targeted ablations V1"
+    },
+    {
+      "path": "docs/YAW_SENSITIVITY_ABLATION_REPORT_V1.md",
+      "bytes": 14079,
+      "sha256": "6826a1c3d40b915f4e075d4cbb8cd84c730e6a21fdc75903090e91a51f6aaf25",
+      "title": "Study A \u2014 yaw detection and targeted ablations, V1"
+    },
+    {
+      "path": "docs/YAW_SENSITIVITY_ABLATION_REPRODUCTION_V1.md",
+      "bytes": 6213,
+      "sha256": "a3f8903b435a3e117c3dc5796a2109a1ad2df73815b025253fb7236783916b11",
+      "title": "Study A reproduction V1"
+    },
+    {
+      "path": "docs/YAW_STUDIES_UNDERGRAD_SUMMARY_V1.md",
+      "bytes": 6387,
+      "sha256": "44e2a876b0393bd608f3628bcb66d17f1b8c8813942531cfd1c204f18db91e81",
+      "title": "What we did, what we want to learn, and why"
+    }
+  ],
+  "not_all_documents_are_completed_studies": true,
+  "live_progress_excluded": true
+}

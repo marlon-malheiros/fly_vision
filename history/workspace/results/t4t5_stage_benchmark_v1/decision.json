@@ -1,0 +1,45 @@
+{
+  "decisions": [
+    {
+      "model": "measured_Mi1",
+      "family": "T4",
+      "D": 1.0,
+      "development_band_compatible": false,
+      "numerical_checks_pass": false,
+      "independent_review_pass": true,
+      "advance": false
+    },
+    {
+      "model": "adaptive_Mi1",
+      "family": "T4",
+      "D": 1.0,
+      "development_band_compatible": false,
+      "numerical_checks_pass": false,
+      "independent_review_pass": true,
+      "advance": false
+    },
+    {
+      "model": "Mi1_HP_removed",
+      "family": "T4",
+      "D": 1.0,
+      "development_band_compatible": false,
+      "numerical_checks_pass": false,
+      "independent_review_pass": true,
+      "advance": false
+    },
+    {
+      "model": "T5_slowing_only",
+      "family": "T5",
+      "D": 1.0,
+      "development_band_compatible": false,
+      "numerical_checks_pass": false,
+      "independent_review_pass": true,
+      "advance": false
+    }
+  ],
+  "holdout_scored": false,
+  "full_biological_validation": false,
+  "new_small_yaw_qualification": false,
+  "parameters_fitted": 0,
+  "interpretation": "Conditional source-stage compatibility only; unknown stimulus logs and measurement model prevent exact validation"
+}

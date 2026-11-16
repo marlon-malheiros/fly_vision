@@ -1,0 +1,338 @@
+[
+  {
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "profile": "aligned_100",
+    "flies": 5,
+    "defined_observed": 5,
+    "defined_predicted": 5,
+    "observed_mean": -0.2616960369624524,
+    "observed_ci": [
+      -0.7041376008468496,
+      0.2814473765871882
+    ],
+    "predicted_mean": -0.9062334463976081,
+    "expected_sign": -1
+  },
+  {
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "profile": "aligned_50",
+    "flies": 5,
+    "defined_observed": 5,
+    "defined_predicted": 5,
+    "observed_mean": -0.2616960369624524,
+    "observed_ci": [
+      -0.7041376008468496,
+      0.2814473765871882
+    ],
+    "predicted_mean": -0.9116227580585068,
+    "expected_sign": -1
+  },
+  {
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "profile": "pitched_100",
+    "flies": 5,
+    "defined_observed": 5,
+    "defined_predicted": 5,
+    "observed_mean": -0.2616960369624524,
+    "observed_ci": [
+      -0.7041376008468496,
+      0.2814473765871882
+    ],
+    "predicted_mean": -0.8221515643337931,
+    "expected_sign": -1
+  },
+  {
+    "cohort": "DNp15|GC7f|dendrite|native",
+    "profile": "aligned_100",
+    "flies": 1,
+    "defined_observed": 1,
+    "defined_predicted": 1,
+    "observed_mean": 0.8023513919396716,
+    "observed_ci": [
+      null,
+      null
+    ],
+    "predicted_mean": 0.7947203509466887,
+    "expected_sign": null
+  },
+  {
+    "cohort": "DNp15|GC7f|dendrite|native",
+    "profile": "aligned_50",
+    "flies": 1,
+    "defined_observed": 1,
+    "defined_predicted": 1,
+    "observed_mean": 0.8023513919396716,
+    "observed_ci": [
+      null,
+      null
+    ],
+    "predicted_mean": 0.7460818915833628,
+    "expected_sign": null
+  },
+  {
+    "cohort": "DNp15|GC7f|dendrite|native",
+    "profile": "pitched_100",
+    "flies": 1,
+    "defined_observed": 1,
+    "defined_predicted": 1,
+    "observed_mean": 0.8023513919396716,
+    "observed_ci": [
+      null,
+      null
+    ],
+    "predicted_mean": 0.6048248046270049,
+    "expected_sign": null
+  },
+  {
+    "cohort": "H2|sytGC7f|axon|native",
+    "profile": "aligned_100",
+    "flies": 2,
+    "defined_observed": 2,
+    "defined_predicted": 2,
+    "observed_mean": -0.05277695253758905,
+    "observed_ci": [
+      -0.2081046653332927,
+      0.10255076025811459
+    ],
+    "predicted_mean": -0.01781817980080328,
+    "expected_sign": null
+  },
+  {
+    "cohort": "H2|sytGC7f|axon|native",
+    "profile": "aligned_50",
+    "flies": 2,
+    "defined_observed": 2,
+    "defined_predicted": 2,
+    "observed_mean": -0.05277695253758905,
+    "observed_ci": [
+      -0.2081046653332927,
+      0.10255076025811459
+    ],
+    "predicted_mean": -0.005899560296316699,
+    "expected_sign": null
+  },
+  {
+    "cohort": "H2|sytGC7f|axon|native",
+    "profile": "pitched_100",
+    "flies": 2,
+    "defined_observed": 2,
+    "defined_predicted": 2,
+    "observed_mean": -0.05277695253758905,
+    "observed_ci": [
+      -0.2081046653332927,
+      0.10255076025811459
+    ],
+    "predicted_mean": 0.013179718083824095,
+    "expected_sign": null
+  },
+  {
+    "cohort": "HS|GC7f|axon|native",
+    "profile": "aligned_100",
+    "flies": 3,
+    "defined_observed": 3,
+    "defined_predicted": 3,
+    "observed_mean": -0.1386434398898789,
+    "observed_ci": [
+      -0.2002030156157321,
+      -0.07583609954135281
+    ],
+    "predicted_mean": -0.022243701698655024,
+    "expected_sign": null
+  },
+  {
+    "cohort": "HS|GC7f|axon|native",
+    "profile": "aligned_50",
+    "flies": 3,
+    "defined_observed": 3,
+    "defined_predicted": 3,
+    "observed_mean": -0.1386434398898789,
+    "observed_ci": [
+      -0.2002030156157321,
+      -0.07583609954135281
+    ],
+    "predicted_mean": -0.006533341813354402,
+    "expected_sign": null
+  },
+  {
+    "cohort": "HS|GC7f|axon|native",
+    "profile": "pitched_100",
+    "flies": 3,
+    "defined_observed": 3,
+    "defined_predicted": 3,
+    "observed_mean": -0.1386434398898789,
+    "observed_ci": [
+      -0.2002030156157321,
+      -0.07583609954135281
+    ],
+    "predicted_mean": 0.03251207446920242,
+    "expected_sign": null
+  },
+  {
+    "cohort": "HS|sytGC7f|axon|native",
+    "profile": "aligned_100",
+    "flies": 3,
+    "defined_observed": 3,
+    "defined_predicted": 3,
+    "observed_mean": -0.13784016669480992,
+    "observed_ci": [
+      -0.3070215959933457,
+      0.07749919870691906
+    ],
+    "predicted_mean": -0.012237349047565444,
+    "expected_sign": null
+  },
+  {
+    "cohort": "HS|sytGC7f|axon|native",
+    "profile": "aligned_50",
+    "flies": 3,
+    "defined_observed": 3,
+    "defined_predicted": 3,
+    "observed_mean": -0.13784016669480992,
+    "observed_ci": [
+      -0.3070215959933457,
+      0.07749919870691906
+    ],
+    "predicted_mean": -0.00466745783801976,
+    "expected_sign": null
+  },
+  {
+    "cohort": "HS|sytGC7f|axon|native",
+    "profile": "pitched_100",
+    "flies": 3,
+    "defined_observed": 3,
+    "defined_predicted": 3,
+    "observed_mean": -0.13784016669480992,
+    "observed_ci": [
+      -0.3070215959933457,
+      0.07749919870691906
+    ],
+    "predicted_mean": 0.019270600191229656,
+    "expected_sign": null
+  },
+  {
+    "cohort": "bIPS|GC6f|axon|WT",
+    "profile": "aligned_100",
+    "flies": 9,
+    "defined_observed": 9,
+    "defined_predicted": 9,
+    "observed_mean": 0.36630623469451673,
+    "observed_ci": [
+      0.1728312350729735,
+      0.5852527636448313
+    ],
+    "predicted_mean": 0.06646792568549724,
+    "expected_sign": null
+  },
+  {
+    "cohort": "bIPS|GC6f|axon|WT",
+    "profile": "aligned_50",
+    "flies": 9,
+    "defined_observed": 9,
+    "defined_predicted": 9,
+    "observed_mean": 0.36630623469451673,
+    "observed_ci": [
+      0.1728312350729735,
+      0.5852527636448313
+    ],
+    "predicted_mean": 0.08823453623892291,
+    "expected_sign": null
+  },
+  {
+    "cohort": "bIPS|GC6f|axon|WT",
+    "profile": "pitched_100",
+    "flies": 9,
+    "defined_observed": 9,
+    "defined_predicted": 9,
+    "observed_mean": 0.36630623469451673,
+    "observed_ci": [
+      0.1728312350729735,
+      0.5852527636448313
+    ],
+    "predicted_mean": 0.0333125341044735,
+    "expected_sign": null
+  },
+  {
+    "cohort": "bIPS|GC7f|axon|native",
+    "profile": "aligned_100",
+    "flies": 1,
+    "defined_observed": 1,
+    "defined_predicted": 1,
+    "observed_mean": 0.14558209849095552,
+    "observed_ci": [
+      null,
+      null
+    ],
+    "predicted_mean": -0.17160640090250964,
+    "expected_sign": null
+  },
+  {
+    "cohort": "bIPS|GC7f|axon|native",
+    "profile": "aligned_50",
+    "flies": 1,
+    "defined_observed": 1,
+    "defined_predicted": 1,
+    "observed_mean": 0.14558209849095552,
+    "observed_ci": [
+      null,
+      null
+    ],
+    "predicted_mean": -0.1532287138895496,
+    "expected_sign": null
+  },
+  {
+    "cohort": "bIPS|GC7f|axon|native",
+    "profile": "pitched_100",
+    "flies": 1,
+    "defined_observed": 1,
+    "defined_predicted": 1,
+    "observed_mean": 0.14558209849095552,
+    "observed_ci": [
+      null,
+      null
+    ],
+    "predicted_mean": -0.16939050580536574,
+    "expected_sign": null
+  },
+  {
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "profile": "aligned_100",
+    "flies": 4,
+    "defined_observed": 4,
+    "defined_predicted": 4,
+    "observed_mean": 0.15599394324888088,
+    "observed_ci": [
+      0.0014041495686675266,
+      0.34375174468853203
+    ],
+    "predicted_mean": -0.1643692811899043,
+    "expected_sign": 1
+  },
+  {
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "profile": "aligned_50",
+    "flies": 4,
+    "defined_observed": 4,
+    "defined_predicted": 4,
+    "observed_mean": 0.15599394324888088,
+    "observed_ci": [
+      0.0014041495686675266,
+      0.34375174468853203
+    ],
+    "predicted_mean": -0.15030086443163973,
+    "expected_sign": 1
+  },
+  {
+    "cohort": "bIPS|sytGC7f|axon|native",
+    "profile": "pitched_100",
+    "flies": 4,
+    "defined_observed": 4,
+    "defined_predicted": 4,
+    "observed_mean": 0.15599394324888088,
+    "observed_ci": [
+      0.0014041495686675266,
+      0.34375174468853203
+    ],
+    "predicted_mean": -0.11747263302061844,
+    "expected_sign": 1
+  }
+]

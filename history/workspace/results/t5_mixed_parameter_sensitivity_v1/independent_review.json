@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T11:50:10.748105+00:00",
+  "trajectories_reviewed": 2210,
+  "maximum_matrix_exponential_error_mv": 1.4800605185882887e-11,
+  "maximum_readout_arithmetic_error": 3.552713678800501e-15,
+  "symmetry_controls_reviewed": 4,
+  "all_pair_classifications_and_equivalence_decisions_reviewed": true,
+  "internal_conductance_and_waveform_metrics_reviewed": true,
+  "biological_validation": false
+}

@@ -1,0 +1,2334 @@
+{
+  "schema": "root_relative_artifact_index_v1",
+  "created_utc": "2026-10-22T13:51:42.928928+00:00",
+  "files": [
+    {
+      "path": "configs/continuing_camera_v8.json",
+      "size_bytes": 995,
+      "sha256": "b9abcc67b8b81d6267a8cace3dce5f5798cc3140352ddde85702b875957b2808"
+    },
+    {
+      "path": "docs/CONTINUING_CAMERA_PROTOCOL_V8.md",
+      "size_bytes": 6601,
+      "sha256": "a9a930d88bbd4df3b29f8d242a12969fe6fc37c37e68bb92568293568e293fb4"
+    },
+    {
+      "path": "docs/PORTABLE_CPU_CONTINUATION_REPORT_V8.md",
+      "size_bytes": 12799,
+      "sha256": "84326ac44c442be858d5da70d906adcd7d31fe74050683e1209406943e762cf0"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_export_execution_v8.log",
+      "size_bytes": 290,
+      "sha256": "0d1a7227a9b60c1c8116d615a00a9bc2e812b00e92c5133a9a74f8aee1f6a268"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_figures_execution_v8.log",
+      "size_bytes": 393,
+      "sha256": "b0fcd569d7ea25027814948b92665dbbcefd2861ef3260ef3e09aa4b13d12ba6"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_policy_execution_v8.log",
+      "size_bytes": 2294,
+      "sha256": "8eda2973a2e7ecf491a3e2e1ffc76196fc6a725d0f2322ab2d18324b84ced592"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_preflight_execution_v8.log",
+      "size_bytes": 1459,
+      "sha256": "d43b00cc54b6acc579c0db32bd1137991d1dbc694a40f169b49cbb1305d460cc"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_report_execution_v8.log",
+      "size_bytes": 90,
+      "sha256": "cc5c17352b0bc0c8909eca53fc20442d9cd37de1a617a28e8208a0f1d35df07b"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_review_execution_v8.log",
+      "size_bytes": 66,
+      "sha256": "24f8aa650d8e6c61340aa686d0f6c0f484eab75bca6de61e470081accc0dbc9f"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_standalone_parallel4_execution_v8.log",
+      "size_bytes": 714,
+      "sha256": "1bd886475d0fa2790472a309fa8e6023c55e6fec61ae6adb4d148dc226299f20"
+    },
+    {
+      "path": "results/validation_hardware_v1/continuing_camera_standalone_strict_execution_v8.log",
+      "size_bytes": 714,
+      "sha256": "1bd886475d0fa2790472a309fa8e6023c55e6fec61ae6adb4d148dc226299f20"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/before_execution.json",
+      "size_bytes": 19627,
+      "sha256": "5c4a6d16c7c252d93e7ca3947b924b52de6e8dc5f4722da9ddba3bcc4b6898ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/completion_v8/PROJECT_PROGRESS_REPORT_2026-10-22.md",
+      "size_bytes": 163723,
+      "sha256": "1c129a0035e28067b381c386c1736c6ecf4e60b25310f5c3a0fc8f0aee8ff7f4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/completion_v8/completion.json",
+      "size_bytes": 809,
+      "sha256": "e84f99c769a372dd3fb51de3f444c0902a85b63dbc2ccb9217f31b45f2dcc45f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/completion_v8/presentation_review.json",
+      "size_bytes": 2114,
+      "sha256": "571ac3007af40f96f26c4de6aa364643af56aedda8b0bfed3bcc5a269979e4f9"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/export.json",
+      "size_bytes": 290,
+      "sha256": "0d1a7227a9b60c1c8116d615a00a9bc2e812b00e92c5133a9a74f8aee1f6a268"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/independent_review_v1/review.json",
+      "size_bytes": 31421,
+      "sha256": "d0ddcad9dd34871e3c51039226c7b0f5dd1e0d714cd717112a488b54624d2293"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight.json",
+      "size_bytes": 440,
+      "sha256": "4875e11c7a91bea6bbb17274d00d8175134e5e83d2c529e3d8d1c989a0daecae"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/build.json",
+      "size_bytes": 304,
+      "sha256": "723d448aeeea5f400a387ccd3001ccbc3035f46d89511502b98f10e1f016741f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/faults.json",
+      "size_bytes": 15825,
+      "sha256": "85cbb19ac96dfa03da41d8e119c9fd2b45e2600d654079fa09bf4e485aa39c9e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_even_stall_result.npz",
+      "size_bytes": 147686,
+      "sha256": "a0c4d6b0d482ac7b05727e2db576899f4591ea6ea0e7dee089fa311313b806b3"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_even_stall_review.json",
+      "size_bytes": 715,
+      "sha256": "08b7362acc85bfd63b418c18c1ab4e191ecb6f3f535e470f6f95dd70f799af34"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_initial_backlog_result.npz",
+      "size_bytes": 147635,
+      "sha256": "b89cf1a9abdb88c189f123d400bfaa09739746d1836f171f7e9c9bca13f79e39"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_initial_backlog_review.json",
+      "size_bytes": 718,
+      "sha256": "266fe6cb8933c124bb4c6253d547cee24e2fdc37fc0d3225570145287edd2fec"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_late_episode_result.npz",
+      "size_bytes": 146995,
+      "sha256": "e79c2b20b4ee4963fba41b8bf31d0b27c48e7757b72dc3116d4d01b1ee86f261"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_late_episode_review.json",
+      "size_bytes": 717,
+      "sha256": "af128c029c02da1f66fbe760bd595b21015fdb692e233c20f5d48b80c57f4ee6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_nominal_result.npz",
+      "size_bytes": 147626,
+      "sha256": "3b49a1476b659a5d6223d55e068bd77117567ccb1eb15ecd63b96eddd6a297ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_nominal_review.json",
+      "size_bytes": 710,
+      "sha256": "df40d21978a7e8a3478a9447ac578dde781195f848c37bdc4c20d17a8833ac96"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_odd_stall_result.npz",
+      "size_bytes": 147668,
+      "sha256": "54b034e04f4d5cebae033cf63c702f8bdb760f59952e44697261d25255adfab2"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_odd_stall_review.json",
+      "size_bytes": 714,
+      "sha256": "9d96d0d12ff85bc5bf1eecde3e8d64b0375fea7b366d29b72d43775b9e1cb4ec"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_repeated_stalls_result.npz",
+      "size_bytes": 147262,
+      "sha256": "6463f9af68e51d77b1c17858293c6d03b38318d5297e229ae4f1efbca0fb026e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+0_repeated_stalls_review.json",
+      "size_bytes": 721,
+      "sha256": "5f2d10aa0488eb8dd288a05cd8a0acf6f57ddc7a857d3336087bbeda4038a4f8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_even_stall_result.npz",
+      "size_bytes": 147429,
+      "sha256": "6b2588d215a6060531764371691016f8aa15689a19c1dce658af22b8902bdfb4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_even_stall_review.json",
+      "size_bytes": 734,
+      "sha256": "36675dae92fedb7297206b76287d8afc9d378e54f3d02d9b5a2a43ec3a59ca63"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_initial_backlog_result.npz",
+      "size_bytes": 147378,
+      "sha256": "be291499e0eb1ee484e361c70ab4925c5c2ded4f644af730cdd84980e9238d0f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_initial_backlog_review.json",
+      "size_bytes": 737,
+      "sha256": "9c3942d1f4e1407343953b747fb13ce82561564ba07b5dea66d6f07c0e398f46"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_late_episode_result.npz",
+      "size_bytes": 146736,
+      "sha256": "4f490904a3fb4f25f49710889585146127ebd0a292fcb8d551bd24e9cd10ad1e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_late_episode_review.json",
+      "size_bytes": 736,
+      "sha256": "4d11cae55295a4d492b58da625bf88fcba321d3630f520eb8182c8e402a31e4a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_nominal_result.npz",
+      "size_bytes": 147370,
+      "sha256": "0796cf9c2d73b1d918c00903e7e1c779a5c3cde8b0376900bf2c285d25d4ba15"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_nominal_review.json",
+      "size_bytes": 729,
+      "sha256": "4fc1a5b736fc91ec7574fb1b75971a67869a380041c8514f49166735b69bac52"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_odd_stall_result.npz",
+      "size_bytes": 147410,
+      "sha256": "777bf2dab2199a8dd5cefdd83d77498fda7c20b7f12ef7598412bc4e6a99e8ff"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_odd_stall_review.json",
+      "size_bytes": 733,
+      "sha256": "adb44aeba978ed30675239f4bcbc63a6d35c149a3f5485c4f2395fc802143387"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_repeated_stalls_result.npz",
+      "size_bytes": 147006,
+      "sha256": "08576664e778bed02b8d4fc9541d33c25d69ff7e36e36df5a768c4b3a01c6135"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y+20_repeated_stalls_review.json",
+      "size_bytes": 740,
+      "sha256": "8bdd92fc37f1dcfad762782c8cf4595abe927d4752badfba45f7ef88003c53b9"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_even_stall_result.npz",
+      "size_bytes": 147343,
+      "sha256": "6d4a75f336c02b0aadc323ca8606bf26058223885cf5ab40a7063e98f2bd5e39"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_even_stall_review.json",
+      "size_bytes": 715,
+      "sha256": "ff35f3f2fb8a59eb07e158be0ee9e5b59dada5ea02663dd524a53bc54718d51a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_initial_backlog_result.npz",
+      "size_bytes": 147292,
+      "sha256": "2025987d38061953f2d428ed9fbfff28db0bc95bdeb17d94fbc7cd9d07a0b337"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_initial_backlog_review.json",
+      "size_bytes": 718,
+      "sha256": "f31620909d194f3bccd074c48955a1cb4f9fc8222c32805b29214eb39d548676"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_late_episode_result.npz",
+      "size_bytes": 146647,
+      "sha256": "cd9418555961366c56ca288591af1318955bbb4dc81c51393dd3110ea46c6222"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_late_episode_review.json",
+      "size_bytes": 717,
+      "sha256": "d699371178053ac98b87faf2aa04257a35863993c77e5d6949d82c9eca169f9f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_nominal_result.npz",
+      "size_bytes": 147283,
+      "sha256": "d67f45ae531fc78cf852299dd8f52dab9c62acee296f19e6a4fa74c80ff6ddbf"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_nominal_review.json",
+      "size_bytes": 710,
+      "sha256": "210dec335044ff55f29c032092cfe7b9b4c76d5ca734f5e2e9d87d794b4432ed"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_odd_stall_result.npz",
+      "size_bytes": 147325,
+      "sha256": "d08332af9fe44f7a94f260c76fef470bc7b1a72a9130111f43edd7d13a64f0cb"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_odd_stall_review.json",
+      "size_bytes": 714,
+      "sha256": "1a14de57b7344a8bdfe581dde6dc14e253f7ba1015b8ff696d7588bf4654bee1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_repeated_stalls_result.npz",
+      "size_bytes": 146918,
+      "sha256": "c1b08ea971d94340f428fa6a2d299dc18c6858e9f0b659e993e2d269134329f5"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/s01_v16.5_y-20_repeated_stalls_review.json",
+      "size_bytes": 721,
+      "sha256": "093211cf3fc8a59de240bd3fa028d2baf1218eea833a9c39fa9276d8933d1392"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_parallel4_v1/selfcheck.json",
+      "size_bytes": 15450,
+      "sha256": "b0233d5e3391fdca5b63777c94efeca0fb73e1a60f32a246563534148b8325d5"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/build.json",
+      "size_bytes": 304,
+      "sha256": "812b1089f2e0affdc5261ef793a240c0af89cf9166cf5047dc2c8ef67b6f19b7"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/faults.json",
+      "size_bytes": 15825,
+      "sha256": "85cbb19ac96dfa03da41d8e119c9fd2b45e2600d654079fa09bf4e485aa39c9e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_even_stall_result.npz",
+      "size_bytes": 147701,
+      "sha256": "5b55e290eff47ebb4534216dca42c1afd417153e2f4def3404d0858afca610e3"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_even_stall_review.json",
+      "size_bytes": 734,
+      "sha256": "794d530958b7c04522fa2139b06f8c7de32ecfe58a4fea5f2cec7152d9ad40af"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_initial_backlog_result.npz",
+      "size_bytes": 147649,
+      "sha256": "3d2d4670906b08ec7c384535c195d84bf9fae87835e62df8169e41c723729c53"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_initial_backlog_review.json",
+      "size_bytes": 737,
+      "sha256": "e9f1d220cca8f86f658274c76e8d4a0b6c5a07a9b03fee27328a6a8574ed4849"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_late_episode_result.npz",
+      "size_bytes": 147008,
+      "sha256": "678f1ec792255619c7687f4fb32c7313fafb69c5fd5d59b024135ff366977a75"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_late_episode_review.json",
+      "size_bytes": 736,
+      "sha256": "d8f73d7954e3cab25a53a2e50b43f6dd467710ddc38165b5911805ac82c34326"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_nominal_result.npz",
+      "size_bytes": 147640,
+      "sha256": "cbb16c16b60bd04d8713e080c989e32f225c6ac56a532f510491f0049b9b5253"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_nominal_review.json",
+      "size_bytes": 729,
+      "sha256": "fcded8f8ee228693e02ca496e1ca16f974bfabf42e108c228db9af91885c20a6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_odd_stall_result.npz",
+      "size_bytes": 147682,
+      "sha256": "bc198b2b30c614a55e99bd730ff5d9b9a41a42628a803cde4822ed39d15b2dfd"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_odd_stall_review.json",
+      "size_bytes": 733,
+      "sha256": "47416a365582f772950a6aa0234b10d04d6f16079f39e9670d8c8b1c00baa95b"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_repeated_stalls_result.npz",
+      "size_bytes": 147276,
+      "sha256": "f4a1e518604099643bd09417d6c71dcb310ccc10c27a617a6610996061fe84d6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+0_repeated_stalls_review.json",
+      "size_bytes": 740,
+      "sha256": "6b90072f72bc57a273801af8eda63ed2062799770c9ed793e0dabeb0d75145f2"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_even_stall_result.npz",
+      "size_bytes": 147422,
+      "sha256": "d12c181ea85ae288741a1e80e393374ee410bd91c2121bcf75a2118823647af1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_even_stall_review.json",
+      "size_bytes": 734,
+      "sha256": "96b839405cfb3fa4e4a829c0d32646bb6997df316eb390e45e0ea15cf071751b"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_initial_backlog_result.npz",
+      "size_bytes": 147371,
+      "sha256": "db660d3ff1f556360b66868bb598490dfd69c355b60d3a18ff6a4882362067ed"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_initial_backlog_review.json",
+      "size_bytes": 737,
+      "sha256": "9122a961663252bfa418c3fe5e841b766a32646fb8418df47777734046052724"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_late_episode_result.npz",
+      "size_bytes": 146731,
+      "sha256": "16f00e508ac6627342dd29544188de010c1ba35326bcd93c763e39aaaf870824"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_late_episode_review.json",
+      "size_bytes": 736,
+      "sha256": "ec18a833e752461790777044bd928acafa1b07ba178713b27152ff3a97d15e02"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_nominal_result.npz",
+      "size_bytes": 147362,
+      "sha256": "921e9776313e5c4ad49dbbb347ae6f1e123fe57356fbcf58d34af2bffb755dce"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_nominal_review.json",
+      "size_bytes": 729,
+      "sha256": "72010d009f7f7220756462ae9aceac0f8a0c30ebb881b7cdcd6c7035fb600572"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_odd_stall_result.npz",
+      "size_bytes": 147404,
+      "sha256": "19b65a04ddf5e690e5fc65ed09ee03c93b334c071a75b1c9160e8b23012a93f7"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_odd_stall_review.json",
+      "size_bytes": 733,
+      "sha256": "173f158bfa44892772c324b7ecf423bd73fcc48363b590566a26ebe2216580b2"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_repeated_stalls_result.npz",
+      "size_bytes": 146999,
+      "sha256": "f04b9b13c8581608aa978f6257bff43aeceab26f568ecaaed503de009f9ca89a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y+20_repeated_stalls_review.json",
+      "size_bytes": 740,
+      "sha256": "990db6e65b6e05bfac9552995fe347202353b660d696e36b7bb36e6643d510b5"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_even_stall_result.npz",
+      "size_bytes": 147350,
+      "sha256": "752023c9abba9cba0329daa53ee2ea0f29bb891e904d71356a0653d48294fdae"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_even_stall_review.json",
+      "size_bytes": 733,
+      "sha256": "0ec787f4264db2e157321719201e1f0f61ee37fa5c33c9a44ead550fb552608e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_initial_backlog_result.npz",
+      "size_bytes": 147298,
+      "sha256": "ec96edb79b1e37dd427266d800e3b404e04d37dec8c4fb976704eb0ada1c3ba0"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_initial_backlog_review.json",
+      "size_bytes": 736,
+      "sha256": "8673f32cd1da7c4a658d4d830d8059dab7b46cf502a1bbda83e18409e0ff5bfc"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_late_episode_result.npz",
+      "size_bytes": 146653,
+      "sha256": "9809af7617c7dfe2f29eee599a17ebc276bf61c84533826ae2d2f24de9040d3a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_late_episode_review.json",
+      "size_bytes": 735,
+      "sha256": "a026da8fc304d3c1d7dcfb9587b7a1812c6cfaa6f04d52ccef1c5c071f18a09e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_nominal_result.npz",
+      "size_bytes": 147289,
+      "sha256": "4ff6eb83630f54d4ce2dd5be927db7569da5907f1c6cb10885f7e04496b1dbdf"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_nominal_review.json",
+      "size_bytes": 728,
+      "sha256": "e85c5560588c44fa3433c2fe5a939e6bce1a256b214e7ca9e19a0783c36540ab"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_odd_stall_result.npz",
+      "size_bytes": 147331,
+      "sha256": "e83e6fb2d5c6efc51a7586850818b5d3b7ffd064de05beb91af9b1af5308b3d8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_odd_stall_review.json",
+      "size_bytes": 732,
+      "sha256": "f4a7236db2e3ddaed452d7741c12ee04c8872e2f35c6c1450ffd3acf354b29b9"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_repeated_stalls_result.npz",
+      "size_bytes": 146924,
+      "sha256": "4d48366f4b9f2ee7d49ea3c1355b4b5011a269a8fbe3b35be69b66087e6849af"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/s01_v16.5_y-20_repeated_stalls_review.json",
+      "size_bytes": 739,
+      "sha256": "4a140cbf4821b95f7fe279c28a2b9a0d5145f57b343b7d8bec7f466611de2f2f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/preflight_strict_v1/selfcheck.json",
+      "size_bytes": 15672,
+      "sha256": "7a3bab3d76ebd5349039af86a62aa68baabe0aefb309cf77d265ac5f4501df06"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/history_and_publication.pdf",
+      "size_bytes": 22782,
+      "sha256": "ac8196e89a74f23a466ece5bd45917c875a27d7cdd603bc4524d98f09f17d42c"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/history_and_publication.png",
+      "size_bytes": 141107,
+      "sha256": "776259076d49e0a15d39fcfa0deb802f412dff208fc48d291f512240dbaf4ba4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/policy_episode_coverage.csv",
+      "size_bytes": 93124,
+      "sha256": "7bef29f54a4e58b293d305216ebec256682205285efd2325c71759e52c7a9183"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/report_provenance.json",
+      "size_bytes": 797,
+      "sha256": "4afadf5fdaee5f145d3dcd5bbd611c85f49c9c3ea745fef7a7eedf5e491024df"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/reporting_complete.json",
+      "size_bytes": 478,
+      "sha256": "4acc3df23c270c599a8cdf8d908c954cb0d40969606c4c71bc4d2f79c91e0e57"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/retrospective_coverage.csv",
+      "size_bytes": 708,
+      "sha256": "60719217093e67161ec00ea1159c9686d05febb33ae9590c5bfd08f657310fa7"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/retrospective_publication.pdf",
+      "size_bytes": 22931,
+      "sha256": "be540c6796cbaba962e6dd1dbd7c6eba71ab60b379225d50b4360e68b94ba0b9"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/retrospective_publication.png",
+      "size_bytes": 149937,
+      "sha256": "bdd8c1f269a7fa963fdcef2a5e3de9b56c86cebebbab78e38ae0660fa21ea1d4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/synthetic_neural_plot.csv",
+      "size_bytes": 7011,
+      "sha256": "b61287150c3226cd3aee5cddc62c416d20382fd91a8e3fabdc03c773f02f267c"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/synthetic_trace_clock_plot.csv",
+      "size_bytes": 9657,
+      "sha256": "4cd28153d1a0ff5478c34bdf3dc78b15eee9f3037f03ef1f89d7ae9fc02fe716"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/report_v1/trace_summary.csv",
+      "size_bytes": 7780,
+      "sha256": "9ba4bb126bf7484209d4d66d69fc43b31afaef1a1a842ceb77e6e3a504c3fc21"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/retrospective_policy_v1/PROJECT_PROGRESS_REPORT_2026-10-22.md",
+      "size_bytes": 163723,
+      "sha256": "1c129a0035e28067b381c386c1736c6ecf4e60b25310f5c3a0fc8f0aee8ff7f4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/retrospective_policy_v1/analysis.json",
+      "size_bytes": 492679,
+      "sha256": "4f128e281117d4241ac5d9c238bb397a146616bbb94dd128520d3f7ccb1da4de"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/retrospective_policy_v1/before_analysis.json",
+      "size_bytes": 24858,
+      "sha256": "281afe583b7eb9e7adfaea2dc19e6ebee52780df724f9b1abf53dde65936ac03"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/retrospective_policy_v1/software_reference_publication_masks.npz",
+      "size_bytes": 688066,
+      "sha256": "59414e2b7175bec9a3e54cd9457e7d8800c9ca360a578147835fa4aa9dfc3988"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/retrospective_policy_v1/software_reference_summary.json",
+      "size_bytes": 215409,
+      "sha256": "4ca0468b70c54be84b5a9155a14baa007204521d45141e3def15d5e6e90dab23"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/retrospective_policy_v1/synthetic_capture_offset_publication_masks.npz",
+      "size_bytes": 694717,
+      "sha256": "2ef6788292843758a2e94ae09d73098520bee46b793ee051a1fc31b06fbb6395"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/retrospective_policy_v1/synthetic_capture_offset_summary.json",
+      "size_bytes": 215138,
+      "sha256": "4baed26326ee4f610411fbcac508aa1120fc666c54f56c52bba70e63083d818e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/build.json",
+      "size_bytes": 1620,
+      "sha256": "9f8104534340bd8419dd4df6f1a8a17d0f5a34185f6132b00f304a6d9cbf89a9"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/faults.json",
+      "size_bytes": 15825,
+      "sha256": "85cbb19ac96dfa03da41d8e119c9fd2b45e2600d654079fa09bf4e485aa39c9e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/libraries/frontend_cpu.so",
+      "size_bytes": 16344,
+      "sha256": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/libraries/neural_cpu.so",
+      "size_bytes": 29488,
+      "sha256": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/libraries/projection_cpu.so",
+      "size_bytes": 11720,
+      "sha256": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_even_stall_result.npz",
+      "size_bytes": 147686,
+      "sha256": "a0c4d6b0d482ac7b05727e2db576899f4591ea6ea0e7dee089fa311313b806b3"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_even_stall_review.json",
+      "size_bytes": 725,
+      "sha256": "409489f6bb5ec7a19c9e6396a7e8559711358319fa644048e2e1bee2d98d0f9d"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_initial_backlog_result.npz",
+      "size_bytes": 147635,
+      "sha256": "b89cf1a9abdb88c189f123d400bfaa09739746d1836f171f7e9c9bca13f79e39"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_initial_backlog_review.json",
+      "size_bytes": 728,
+      "sha256": "45396a68a0bb311c443b1c016709ceba04f068493da8ffea95220e87287a1939"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_late_episode_result.npz",
+      "size_bytes": 146995,
+      "sha256": "e79c2b20b4ee4963fba41b8bf31d0b27c48e7757b72dc3116d4d01b1ee86f261"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_late_episode_review.json",
+      "size_bytes": 727,
+      "sha256": "56a75fb1fa55c718c400ff837a67419bc051248fbde33d69127fed69cc54befd"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_nominal_result.npz",
+      "size_bytes": 147626,
+      "sha256": "3b49a1476b659a5d6223d55e068bd77117567ccb1eb15ecd63b96eddd6a297ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_nominal_review.json",
+      "size_bytes": 720,
+      "sha256": "022a63ece18d9964608f247513f2e74f902518f4a2c7c609172bcb66ec0c73db"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_odd_stall_result.npz",
+      "size_bytes": 147668,
+      "sha256": "54b034e04f4d5cebae033cf63c702f8bdb760f59952e44697261d25255adfab2"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_odd_stall_review.json",
+      "size_bytes": 724,
+      "sha256": "dd4da031388088353c782946ca81afaa4bcb5177348918e787c2c5ce5902b1e8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_repeated_stalls_result.npz",
+      "size_bytes": 147262,
+      "sha256": "6463f9af68e51d77b1c17858293c6d03b38318d5297e229ae4f1efbca0fb026e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+0_repeated_stalls_review.json",
+      "size_bytes": 731,
+      "sha256": "ef98094c530f3d9e0f8ce8725a2e15b5a69f93635153dd1308de9ffca15e213f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_even_stall_result.npz",
+      "size_bytes": 147429,
+      "sha256": "6b2588d215a6060531764371691016f8aa15689a19c1dce658af22b8902bdfb4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_even_stall_review.json",
+      "size_bytes": 744,
+      "sha256": "71235411cd07d69c0269a1d6edb6ea797c35e3f1d4747b549745dfba7029d858"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_initial_backlog_result.npz",
+      "size_bytes": 147378,
+      "sha256": "be291499e0eb1ee484e361c70ab4925c5c2ded4f644af730cdd84980e9238d0f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_initial_backlog_review.json",
+      "size_bytes": 747,
+      "sha256": "a47c37740e57cb2db5a6487fdc1ec3a7c7d4c57120ecd83ea3e17bbad0d18992"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_late_episode_result.npz",
+      "size_bytes": 146736,
+      "sha256": "4f490904a3fb4f25f49710889585146127ebd0a292fcb8d551bd24e9cd10ad1e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_late_episode_review.json",
+      "size_bytes": 746,
+      "sha256": "b9d410e5d447d7b5ecde80fe46e5fd9dbd77571ebe6616b25f9bc5ecddcb04cd"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_nominal_result.npz",
+      "size_bytes": 147370,
+      "sha256": "0796cf9c2d73b1d918c00903e7e1c779a5c3cde8b0376900bf2c285d25d4ba15"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_nominal_review.json",
+      "size_bytes": 739,
+      "sha256": "4d69a5a639d88e6fc0f80921d69bb4159988b9869fbf90b1919283e67f37d062"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_odd_stall_result.npz",
+      "size_bytes": 147410,
+      "sha256": "777bf2dab2199a8dd5cefdd83d77498fda7c20b7f12ef7598412bc4e6a99e8ff"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_odd_stall_review.json",
+      "size_bytes": 743,
+      "sha256": "35221a141ef641693217fb28eab38bf97f632f830c2cee6aecbcd978d1d5956f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_repeated_stalls_result.npz",
+      "size_bytes": 147006,
+      "sha256": "08576664e778bed02b8d4fc9541d33c25d69ff7e36e36df5a768c4b3a01c6135"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y+20_repeated_stalls_review.json",
+      "size_bytes": 750,
+      "sha256": "4cfe613da4e914b153324a3a2cac65c56b0e0a1742d70cee6cbf94d12bd78fb7"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_even_stall_result.npz",
+      "size_bytes": 147343,
+      "sha256": "6d4a75f336c02b0aadc323ca8606bf26058223885cf5ab40a7063e98f2bd5e39"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_even_stall_review.json",
+      "size_bytes": 725,
+      "sha256": "82086696a539c536b3c7774a4c87cee4eb24f9b5aa6343bdc5f7f6f16d92e0b1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_initial_backlog_result.npz",
+      "size_bytes": 147292,
+      "sha256": "2025987d38061953f2d428ed9fbfff28db0bc95bdeb17d94fbc7cd9d07a0b337"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_initial_backlog_review.json",
+      "size_bytes": 728,
+      "sha256": "f2ac4f135756771417e21650699d02c6436ed302fee68dfc62468b01a25164be"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_late_episode_result.npz",
+      "size_bytes": 146647,
+      "sha256": "cd9418555961366c56ca288591af1318955bbb4dc81c51393dd3110ea46c6222"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_late_episode_review.json",
+      "size_bytes": 727,
+      "sha256": "df1d5908e8529707443201123c123529dbd5ecc80e4ebeb23c44fc0035f1e945"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_nominal_result.npz",
+      "size_bytes": 147283,
+      "sha256": "d67f45ae531fc78cf852299dd8f52dab9c62acee296f19e6a4fa74c80ff6ddbf"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_nominal_review.json",
+      "size_bytes": 720,
+      "sha256": "71672d5c63b6ad4ff0d5ac21fb89d5fa91624fd385860d2bc7fb69c71f686a3a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_odd_stall_result.npz",
+      "size_bytes": 147325,
+      "sha256": "d08332af9fe44f7a94f260c76fef470bc7b1a72a9130111f43edd7d13a64f0cb"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_odd_stall_review.json",
+      "size_bytes": 724,
+      "sha256": "a22075931f08de0e39737e8b9f49ac9b1730193212a0a099b29cb0aac01d2d52"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_repeated_stalls_result.npz",
+      "size_bytes": 146918,
+      "sha256": "c1b08ea971d94340f428fa6a2d299dc18c6858e9f0b659e993e2d269134329f5"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/s01_v16.5_y-20_repeated_stalls_review.json",
+      "size_bytes": 731,
+      "sha256": "073ab1ba25386e0428a96d0481151a7609cd2143f7863701974230974e7579b8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_parallel4_v1/selfcheck.json",
+      "size_bytes": 17038,
+      "sha256": "522e1f56ae3041ee5398257304e8bd00403c20e69afbb688dad30ba20b000e96"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/build.json",
+      "size_bytes": 1535,
+      "sha256": "6a808b0c3637848230be800a15078a17f80093ae8ac3d48f683525aa9ef176de"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/faults.json",
+      "size_bytes": 15825,
+      "sha256": "85cbb19ac96dfa03da41d8e119c9fd2b45e2600d654079fa09bf4e485aa39c9e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/libraries/frontend_cpu.so",
+      "size_bytes": 16344,
+      "sha256": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/libraries/neural_cpu.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/libraries/projection_cpu.so",
+      "size_bytes": 11720,
+      "sha256": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_even_stall_result.npz",
+      "size_bytes": 147701,
+      "sha256": "5b55e290eff47ebb4534216dca42c1afd417153e2f4def3404d0858afca610e3"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_even_stall_review.json",
+      "size_bytes": 744,
+      "sha256": "ec8c80dcc4e12a1343338b2ddafc432cf16c7feb01c1806cf863c21d73ff0eef"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_initial_backlog_result.npz",
+      "size_bytes": 147649,
+      "sha256": "3d2d4670906b08ec7c384535c195d84bf9fae87835e62df8169e41c723729c53"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_initial_backlog_review.json",
+      "size_bytes": 747,
+      "sha256": "5c032730535182ee0ce9e86f1b72002e578f155ef7990d541c182c1d74470d93"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_late_episode_result.npz",
+      "size_bytes": 147008,
+      "sha256": "678f1ec792255619c7687f4fb32c7313fafb69c5fd5d59b024135ff366977a75"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_late_episode_review.json",
+      "size_bytes": 746,
+      "sha256": "033583bab189c200bb14f563db6fca9bf0eb6aebfc046624ebd9e9c3aa60bc07"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_nominal_result.npz",
+      "size_bytes": 147640,
+      "sha256": "cbb16c16b60bd04d8713e080c989e32f225c6ac56a532f510491f0049b9b5253"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_nominal_review.json",
+      "size_bytes": 739,
+      "sha256": "c8f342350b7d2799514305b34e6b28dec31271839bd2f583ce03447bddce4380"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_odd_stall_result.npz",
+      "size_bytes": 147682,
+      "sha256": "bc198b2b30c614a55e99bd730ff5d9b9a41a42628a803cde4822ed39d15b2dfd"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_odd_stall_review.json",
+      "size_bytes": 743,
+      "sha256": "809f2e456755d118078d83bd257678e42e5116bfc755a329c52d53211e61e052"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_repeated_stalls_result.npz",
+      "size_bytes": 147276,
+      "sha256": "f4a1e518604099643bd09417d6c71dcb310ccc10c27a617a6610996061fe84d6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+0_repeated_stalls_review.json",
+      "size_bytes": 750,
+      "sha256": "bea22954d387e3cb32abb8d8796a7116bf53586855ebd722eef9e834415c1e97"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_even_stall_result.npz",
+      "size_bytes": 147422,
+      "sha256": "d12c181ea85ae288741a1e80e393374ee410bd91c2121bcf75a2118823647af1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_even_stall_review.json",
+      "size_bytes": 744,
+      "sha256": "6250dab87dc0a6268c5f4c8d3df80575ba9a8b257865e592d34c122d7982b359"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_initial_backlog_result.npz",
+      "size_bytes": 147371,
+      "sha256": "db660d3ff1f556360b66868bb598490dfd69c355b60d3a18ff6a4882362067ed"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_initial_backlog_review.json",
+      "size_bytes": 747,
+      "sha256": "9b0a31bfa429eca3809a2f5000c867ff4a7d3ce07cd5aa1ff045b1f74238325d"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_late_episode_result.npz",
+      "size_bytes": 146731,
+      "sha256": "16f00e508ac6627342dd29544188de010c1ba35326bcd93c763e39aaaf870824"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_late_episode_review.json",
+      "size_bytes": 746,
+      "sha256": "87adf57af48d46b04ad0f315c41744ca6d801154dce3eab0cf7768d3f17db1f4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_nominal_result.npz",
+      "size_bytes": 147362,
+      "sha256": "921e9776313e5c4ad49dbbb347ae6f1e123fe57356fbcf58d34af2bffb755dce"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_nominal_review.json",
+      "size_bytes": 739,
+      "sha256": "67e2d076b1a1554c4be716f0139357675bdf0bc2269afc6160bfd51e3be98d63"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_odd_stall_result.npz",
+      "size_bytes": 147404,
+      "sha256": "19b65a04ddf5e690e5fc65ed09ee03c93b334c071a75b1c9160e8b23012a93f7"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_odd_stall_review.json",
+      "size_bytes": 743,
+      "sha256": "d62d087dc5ade79ecb0d994b273ab6a10eb9de5f2fccaafdb9f4c9ee91ba9d20"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_repeated_stalls_result.npz",
+      "size_bytes": 146999,
+      "sha256": "f04b9b13c8581608aa978f6257bff43aeceab26f568ecaaed503de009f9ca89a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y+20_repeated_stalls_review.json",
+      "size_bytes": 750,
+      "sha256": "b77b9ecd1d8c8ac11a63af1555b38e43b82973d298012ce805c93ed67c7f34a1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_even_stall_result.npz",
+      "size_bytes": 147350,
+      "sha256": "752023c9abba9cba0329daa53ee2ea0f29bb891e904d71356a0653d48294fdae"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_even_stall_review.json",
+      "size_bytes": 743,
+      "sha256": "33ac50698d5f5f5567815b5bd6d19fa631a7f35429aae66363f57bce03a5efe7"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_fault_states.npz",
+      "size_bytes": 5634,
+      "sha256": "0df93f30eed3dfb62070ae86429dd33588c7f31b5b9d638c5d110230508193b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_initial_backlog_result.npz",
+      "size_bytes": 147298,
+      "sha256": "ec96edb79b1e37dd427266d800e3b404e04d37dec8c4fb976704eb0ada1c3ba0"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_initial_backlog_review.json",
+      "size_bytes": 746,
+      "sha256": "c32fc154098c351458c0c5267ad1a2c0ae50c5c8bc2fbf91e3026daac1ac072d"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_late_episode_result.npz",
+      "size_bytes": 146653,
+      "sha256": "9809af7617c7dfe2f29eee599a17ebc276bf61c84533826ae2d2f24de9040d3a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_late_episode_review.json",
+      "size_bytes": 745,
+      "sha256": "c895d631cee5ad125dad36621979950a5784b9e86f7f542dbac48f7cd21b1e2d"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_nominal_result.npz",
+      "size_bytes": 147289,
+      "sha256": "4ff6eb83630f54d4ce2dd5be927db7569da5907f1c6cb10885f7e04496b1dbdf"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_nominal_review.json",
+      "size_bytes": 738,
+      "sha256": "dd5264d8bd6a5cf8db1f7a6cfed5a7629d5ead25a76df5eb9cffffe3bd7cd8cc"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_odd_stall_result.npz",
+      "size_bytes": 147331,
+      "sha256": "e83e6fb2d5c6efc51a7586850818b5d3b7ffd064de05beb91af9b1af5308b3d8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_odd_stall_review.json",
+      "size_bytes": 742,
+      "sha256": "28d9eaf8217a7eb7fa05418b7daa46d3a88b18cce1e7bbaef641de7f8801540a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_repeated_stalls_result.npz",
+      "size_bytes": 146924,
+      "sha256": "4d48366f4b9f2ee7d49ea3c1355b4b5011a269a8fbe3b35be69b66087e6849af"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/s01_v16.5_y-20_repeated_stalls_review.json",
+      "size_bytes": 749,
+      "sha256": "f3349de3197d805bd77ff68a8d0a2d924ce44d52b6580479bfc6b82851a7e731"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/standalone_strict_v1/selfcheck.json",
+      "size_bytes": 17169,
+      "sha256": "6ee9a216244c5b6fab97306ec59ce7197b769254a367a3de3938194c98ce0770"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_continuation_v8/unit_tests.log",
+      "size_bytes": 99,
+      "sha256": "4a07bfd533e460c43cf49ccdb23b34064931fa29d81da1a28d599f3a6448dc7f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_work_split_v5/s01_v16.5_y+0_full_state_reference.npz",
+      "size_bytes": 94616749,
+      "sha256": "0737057e806fcfd316b274b39582d735cdef2b8b24b62e8a4edbac97beff4338"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_work_split_v5/s01_v16.5_y+20_full_state_reference.npz",
+      "size_bytes": 94572029,
+      "sha256": "33a6190dd3ed22005b4fcd0735306326ca5b347417a82f80c7651e59e2d4cd09"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_work_split_v5/s01_v16.5_y-20_full_state_reference.npz",
+      "size_bytes": 94742767,
+      "sha256": "09b7bbb99d6481b3854712ff85c0fb367bad60f1180c68d13e6a35ab19219cd1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_work_split_v5/standalone_strict_v1/libraries/frontend_cpu.so",
+      "size_bytes": 16344,
+      "sha256": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_work_split_v5/standalone_strict_v1/libraries/neural_cpu.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_work_split_v5/standalone_strict_v1/libraries/projection_cpu.so",
+      "size_bytes": 11720,
+      "sha256": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/completion_v7/artifact_index.json",
+      "size_bytes": 109514,
+      "sha256": "cea8b4845d227eabf50f62bd26993400865954a57b3bfa49f2f7dd423d2b0712"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/independent_review_v1/review.json",
+      "size_bytes": 499889,
+      "sha256": "9986bebab6a506512487230a648839975ccf85960be675fd56b8a3d00f83fa25"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_jobs.json",
+      "size_bytes": 6307,
+      "sha256": "f34364d40ef24914742cfe9c46f73868440c1bcff7d1b6fd91cff3c763a81dce"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_000.json",
+      "size_bytes": 465,
+      "sha256": "aa3411e44bb87b08aff173b6a6acef70e1a043df08154ebb5d89d79e6f7bf98c"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "45c8c93c5a916b051fef0ca3f3148e63206da6b0fe82ac59c983aa096592f5ce"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_001.json",
+      "size_bytes": 465,
+      "sha256": "d8f6262453038e93662249cb9e34fb37d4fef94f72f0b218d5befa996a5390d2"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "d75411af3cf8c923001e605fc7ffec1f19a1b96001e1766a60d1cf24108559b8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_002.json",
+      "size_bytes": 465,
+      "sha256": "d8429353f4f14ef8461d8829c7049cd5fd4350902fa0a207196f147cee47d9bc"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "ada0503850fdb28cfda425592647e5f01957d4ca20bb9b402b07c4f0afb00fea"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_003.json",
+      "size_bytes": 465,
+      "sha256": "90c214f8097bc4918f8c6c8a470baa20136c9d79440fb72cd2dfc1094ec541a4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "c8f45f68a757d2f5e7b4d291d52504c56d0ea22548109e734858c4f815767a25"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_004.json",
+      "size_bytes": 465,
+      "sha256": "7cedfc55f8b4a7e0ef2df43385f64a59bc79f8875bb261fd56741f9c7e36fe70"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "9ea1b98e994f2007c60b231f6405ac58ff9097d11fa971a3f09b7d1f440ed3c1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_005.json",
+      "size_bytes": 465,
+      "sha256": "841d42d57dd6a2d55a13d34ed9172a8aa8ee3e9dfdac6708241b3c05fb2217f2"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_bound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "9e0861b348ae4c21fe7d42ba2c6bf57dcd9204d1d2c14b5111225947b550c983"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_000.json",
+      "size_bytes": 466,
+      "sha256": "e47b90f1cf1fac92861a5fc4b8a068aa65dbffc636e634399887ed2451c08819"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "7ec10b328d0e42a7078d28a7bfac160fbe60c309d5263cc012be80a0247c567a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_001.json",
+      "size_bytes": 466,
+      "sha256": "c84c893373ef1ec115e8c95d69e3e897488ec029d5c5d93035f2c5146b59cbc6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "ce1fbfd53803e113ca1356bca5b25ce8ca383919a0ee43ac1ac60b0c35942419"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_002.json",
+      "size_bytes": 466,
+      "sha256": "af3d3ce8f56390f130ca579965cbe3bbeeb8094091ae134cf44bffabc17bd56c"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "05c13c333212c315e236762956867ede8cb6b9505186fe825ef80747da0a61b0"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_003.json",
+      "size_bytes": 466,
+      "sha256": "86594d2ba601f5376dc355b72c999485d38160aa33ac2a2f747bc5dbb15b0798"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "b4ddc6dcad2d3a6861503dcfe42dab68f6c55a8050ea3a547ce67a8bd6dbdcdf"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_004.json",
+      "size_bytes": 466,
+      "sha256": "8fadd19e32a17fa0113769192c184db542bb96906483dd30e3cdfb89198e15d9"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "d2433959daeccd7e849fcf661a2158b18990b461a3c8081be9ee5d27dbf71f99"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_005.json",
+      "size_bytes": 466,
+      "sha256": "80c98317b9679fcc647269e8af7326bf9f3b3497391fbf5e3840b5dae8854d15"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair0_unbound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "5e9b0e69116c3b329d12c65dae96ce5ebad4f324251be86846d7e6f325343ea8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_000.json",
+      "size_bytes": 465,
+      "sha256": "4ac55f4aa0b94bf415fc3f66a8f2b0a76f8727918fc180696e0f6c8b2405dba8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "3fea6f50cfa50d7f95c993b12d3de74000867dcee4fd6d30b276cc8a51b5c97e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_001.json",
+      "size_bytes": 465,
+      "sha256": "975c697e8eaf163baf9d11b74a777b51fb3140772fb9d7d5774d1aae5580f147"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "f5ae953b7798028c77ecfe4e23b803e1c6f085c2bbc07d16c05c95ce00a0e851"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_002.json",
+      "size_bytes": 465,
+      "sha256": "1822bc483b2680115328c9c7148808e6e087372fc89af8b1dff469bcc559dddb"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "f235529c758d524efef0e27215defb87c798cfdfe9a965a2f1eefac562009abb"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_003.json",
+      "size_bytes": 465,
+      "sha256": "31ea3e58ccc2c0f1a5ed738dda044ab956042bc23d8b16955f641131c2e5ee5b"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "4cd988364337796abb945dd208cb645307bbb18ab39ee978ad5b7433a83d45a5"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_004.json",
+      "size_bytes": 465,
+      "sha256": "551fddc643f774d68b91f1480fa7c6bd421eda6561fa7f6d5947c1bd40f104b0"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "31eb083bd0d11cb3072d6160533c8aa1aaf65d5ec2fd1f3fe470e96c8f6c719e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_005.json",
+      "size_bytes": 465,
+      "sha256": "5ed79d4c28f4fd4ab9e4a246f2b9545df0b3d715e1a0c9936a226370182d4a07"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_bound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "1ad1a70ad3ad3df726dc37d6a2ffd7fac7f4cfbfc482cda3ab2953f2a57fa839"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_000.json",
+      "size_bytes": 467,
+      "sha256": "73589245c60fcb3a1a770e64cc47549776f5e825242c2bfe81f8215ddfef9e01"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "07098faf011fe59434cfa16cf549bb0c7122347e00cb6058f7bc43caff448937"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_001.json",
+      "size_bytes": 467,
+      "sha256": "f0b378bde8e27500114be39fb33ae05608c5bff40e2911fe2cee51393045a22c"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "a679fca0fac2612491435f5b9524adabb184eb02651b96c8f93767cd29061a76"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_002.json",
+      "size_bytes": 467,
+      "sha256": "10662f8a3e5dc29fb651bcab0d20daf482a73a6f576a7e45181b8f7ff7a63a33"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "d4f58a5729e08faa327c63fb3daab18c5661805bd87f73bbf6d890238f99bd68"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_003.json",
+      "size_bytes": 467,
+      "sha256": "034e77a981bb60a0753b5edf5aecff02b1d5c2827f1e39fe1df185bbfc2d85e6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "698c19b87a0e4ac2f8b4e383d8371538046df611936a3b9433137314779cef81"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_004.json",
+      "size_bytes": 467,
+      "sha256": "7a7f0524b6c576ff1c1e4f6920fd13ce9abbe803c29dc793038f8660fbd2426e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "1b8695b86d0441ab304ea0da68b9de19a1b5c731c74dd11e0cb3563ffb0f5f3b"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_005.json",
+      "size_bytes": 467,
+      "sha256": "55e400e7659106797b9dc5264606c15497843baae58bf0dd5c503ddb60e93dbc"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair1_unbound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "742a2bddfc17899857da0deba9fdbaca4185cd9e1b032aaacde336dd7536a5a3"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_000.json",
+      "size_bytes": 465,
+      "sha256": "3f187074e8308e355e09fb788d28eb9ff434c91559901c67ca2e0cf3e11ce4cf"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "573e3e9d2b53604a7c3d0a381177788a81ba471365c9e293f7945134df119a18"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_001.json",
+      "size_bytes": 465,
+      "sha256": "ff89f4497f0fd349a2e5d2d78360aee1a59312b1ac8ff05e016fd0a5183287bc"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "fc1b5d06f2cc8394c11e125e4c3d41de98592f5d1fa396099603e116c7f6db58"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_002.json",
+      "size_bytes": 465,
+      "sha256": "a07c19973ad2d3ba1c0ed081890a214caa23cf5609c526c53f8e8a918de1a0ff"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "ac7e59d2ca8a497e186e01ec69627c75994affdec67edd3ae63e244d697f0c8d"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_003.json",
+      "size_bytes": 465,
+      "sha256": "efaf3483a50ce51259fe1d40eca7578fd6dbdbea4d20fea9b14ce573319f50ca"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "2955b0984e08e27f14325792c636a34b98c5df344ea4e6d146730d509fcb8a48"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_004.json",
+      "size_bytes": 465,
+      "sha256": "e8acd1ec98a7f81fddef67ddf48c40b9c2c6cb9721adb232ce22717fc6fa2d00"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "74e71582c32da85c31b862046408dacda222c7cebfffb7c7cff4a418a66804fd"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_005.json",
+      "size_bytes": 465,
+      "sha256": "7318d1eccd4a1f31160ceb582a98bb50a5e74044951b28cfbabc6f99c1ad678b"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_bound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "8a216138b9bd47cd14ec858f2f9d7db136c69684d166215121af4f51a521eb39"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_000.json",
+      "size_bytes": 467,
+      "sha256": "dd7e6eb9bcb406acb347be67d1856911637762576a0e707bf07d7e6a84966e58"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "47f588f266c793344a6241352a85f6d8d8f8eaab07c164e32831836373e1bcbd"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_001.json",
+      "size_bytes": 467,
+      "sha256": "7bc9637d03b63628817a446e5c0a7ea3af542711f5cc70ef8818c16415425606"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "124ca3f27c71f8279d3701ddef5d224b1d33a79200ecad1eb44330a38edbcfa6"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_002.json",
+      "size_bytes": 467,
+      "sha256": "7ee0daaf1a3834f10f790d0b861e09b7ccc137c056e8e6c3ddfed83465d4cd62"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "d466127d6ea1b177eacede2710106b1bb11e8c875aec1fa795286b02eb0e8661"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_003.json",
+      "size_bytes": 467,
+      "sha256": "700b87c0a3313d60afa1eb7454fac4d6c6f687ba77f429c26a5771499c1750ea"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "80f46798e1972608818e4542f8a6a5cde976cc4f900809369aff14e237947060"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_004.json",
+      "size_bytes": 467,
+      "sha256": "e3bf9123a537e474463eec308aa267b01eff3169a14bd734f0bb5d9fecfec4c2"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "2f9a0d7798821f37967806a1d18a01580c9b71df512f0ad244b217e5917df5e4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_005.json",
+      "size_bytes": 467,
+      "sha256": "192b27b551376eae103d4e90394616fa5fad8be9e7d8ef831e6babe6e3d418e3"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair2_unbound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "192858db9206e56f7779a35d084d92d96f7dda9e24a2fce7a90f8a80920fd532"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_000.json",
+      "size_bytes": 465,
+      "sha256": "62132243452bef1b28cf91122e060700e465dcb1cb9ab3ef98c0f2c7c69fab34"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "90cca33f788cbb9417ef2ef5485820d61dec81e8c0c3bb6e99cd7d1d2705e4f4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_001.json",
+      "size_bytes": 465,
+      "sha256": "27d2aeae48820f3bb2d02b7e679f258117d1e51f1086f5b7aca78ceaf9665e0a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "e6df33d5331521970564f9e425ea0082159be0c1491d070cd757cace83775e7f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_002.json",
+      "size_bytes": 465,
+      "sha256": "ff918665ced93d7f54ffb31bbb1e86286d82d6338a85e92f60c47c122907e920"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "e3310b1412ef87ef0f293e417869ea7bb995e139b1cae330adc6e0491338dd7c"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_003.json",
+      "size_bytes": 465,
+      "sha256": "2ebe25fb6beda1a2082fac69f3ab871881677420f2ab13220f1c7cb7b92848b1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "7af90e8b286189c588ad3e6a8b5e19ee8d040236adada250fa01dc998f0a7f97"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_004.json",
+      "size_bytes": 465,
+      "sha256": "471d695662b1a7b5e037c91ba2f7000c9ad46b303b1981eb288e86016bbb9372"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "679ddae924375e17aa2878790b90266d0ba679630ce9b0194f23ad51a3a76085"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_005.json",
+      "size_bytes": 465,
+      "sha256": "b24c406ff6891b75a5edcf307555c29c4971cd0e56180da47e89a12fb815fcd3"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_bound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "fd65399a8d32c508e87ef956449d29e1c893b61c0ddf04d81e9a6a6a7742041a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_000.json",
+      "size_bytes": 467,
+      "sha256": "fdfdb1d5964de3793f81212d4bb6d9df7d8fa086da3a2b6d6efb10638efaf6a8"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_000.npz",
+      "size_bytes": 1416126,
+      "sha256": "bce79b107e1e0c128d2633ba4d8d2de9a91ee1f034854575e93faf98c8c8b79e"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_001.json",
+      "size_bytes": 467,
+      "sha256": "eb21e852e0619378dbe6a468dd2d6d889fd97d3c285e84237a4a2b36c45c6674"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_001.npz",
+      "size_bytes": 1416126,
+      "sha256": "d700111125097a66ac69aea2c5c266020da975974e3b6507ec60f93619bf598a"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_002.json",
+      "size_bytes": 467,
+      "sha256": "007d93eeb280dd4ba101e30ecf7826be6a9635a2e19af748b087242125550ac4"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_002.npz",
+      "size_bytes": 1416126,
+      "sha256": "4c7a0a6bc44c452ea41682f8e7a631c6a4ef8cb7a124b4acdf453c3e3acb960f"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_003.json",
+      "size_bytes": 467,
+      "sha256": "7cb1338ee8adf180f8663426dbc126d16b0763c2c0b997dd5c7fbd22a21efa53"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_003.npz",
+      "size_bytes": 1416126,
+      "sha256": "809803343aa7884eebe4090d140d95509e764e46af128e1290f2fc4591a21bfc"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_004.json",
+      "size_bytes": 467,
+      "sha256": "7f056f50fe22326f45b929c630c5cd745fe027eb8edbb49f763eca2450e82f08"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_004.npz",
+      "size_bytes": 1416126,
+      "sha256": "5d8d923e7abbec3692e3c0c2a0d5d23e86a7ec7b6b5c26993d16d40b172c60d1"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_005.json",
+      "size_bytes": 467,
+      "sha256": "611593a822396bbb5aa06c1351df8d3ed38fd2659f35ba572d86e866066f470b"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_pair3_unbound/chunks/chunk_005.npz",
+      "size_bytes": 1416126,
+      "sha256": "96a546c03ca02f19ad3842121079dc3fcf56ae77f5fe92995cb22b3d8f08d78b"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/standalone_unbound_v1/numerical_checks/libraries/frontend_cpu.so",
+      "size_bytes": 16344,
+      "sha256": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/standalone_unbound_v1/numerical_checks/libraries/neural_cpu.so",
+      "size_bytes": 29488,
+      "sha256": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/standalone_unbound_v1/numerical_checks/libraries/projection_cpu.so",
+      "size_bytes": 11720,
+      "sha256": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/BASELINE_V5_README.md",
+      "size_bytes": 2648,
+      "sha256": "d2b58325a0671a423bf3f26ebc19716d073fa4db899e9194ab543f9ecb146e45"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/BASELINE_V6_README.md",
+      "size_bytes": 4849,
+      "sha256": "720f0225cccfbbd439cc5bca47ac3f92cb5d201e51d1aeb31a0c3ad2490e1dd5"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/CAMERA_CLOCK_FRESHNESS_PROTOCOL_V6.md",
+      "size_bytes": 5908,
+      "sha256": "9549789dd9043be38fc4d46425a09e70073bacc0943e9be2c67c6f51e5e68f53"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/CAUSAL_SOLVER_WORK_SPLIT_PROTOCOL_V5.md",
+      "size_bytes": 3154,
+      "sha256": "1500c360b64a2a49059e274f2e064cb73001668011c036c6440d04d2b2a32126"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/COMPILED_CAMERA_PROJECTION_PROTOCOL_V4.md",
+      "size_bytes": 3760,
+      "sha256": "91039981a596e03a004b75fdb68584253e5f889d5bd9cc79408c7f108e9531e3"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/CPU_CAMERA_DEPLOYMENT_PROTOCOL_V3.md",
+      "size_bytes": 4783,
+      "sha256": "2486fc2e4e7645337e00919a9ca489f85840f861524ff210c7e21d8b695bcd21"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/PROTOCOL.md",
+      "size_bytes": 5783,
+      "sha256": "3a8f932e1f63fa96fa4748d660be86ed2e14195d1bf6da8a47a9545b95df8d14"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/README.md",
+      "size_bytes": 3231,
+      "sha256": "2b834eef0c9ec963cb413f4976829cafb0d72c8f6d0dca8ff9c741c02e4b9043"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/STARTUP_CORRECTION_R2.md",
+      "size_bytes": 1633,
+      "sha256": "45f3dfb33a05c1576043cec1b1966a21a4c5fe63e6451beb32f2f51979032275"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/SYNTHETIC_CLOCK_MAPPING_EXAMPLE.json",
+      "size_bytes": 449,
+      "sha256": "0bdcfaf2b0294706895c1b7b653c1118626e38470719e099396bc461551bea32"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/calibration/arrays.npz",
+      "size_bytes": 422409,
+      "sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/calibration/calibration.json",
+      "size_bytes": 3347,
+      "sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/cpu_worker_placement_v7.py",
+      "size_bytes": 3973,
+      "sha256": "7f27242caf58748ab8f10923b5cf65f558870bfd271f5c65922c4a7a7891d66d"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/fixtures_complete.json",
+      "size_bytes": 4676,
+      "sha256": "b2a5dacdf207f65c15326e707800de56b4c93e60c55a62a398ea3e8df2ea5e80"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y+0_expected.npz",
+      "size_bytes": 819083,
+      "sha256": "0709439edec5e0205bbc8a2889fcbe005c73d13cbe179e26b38ad3275299f65c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y+0_half_time_reference.npz",
+      "size_bytes": 33573,
+      "sha256": "d38464874431e9cc544838bc726dad9127726cb6175d81238907a97cfc09df7c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y+0_raw.npz",
+      "size_bytes": 8445747,
+      "sha256": "01a8136d0e721d6e452a68dea1be14587110c0119b18ca41784e26c442ba9ee8"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y+20_expected.npz",
+      "size_bytes": 820541,
+      "sha256": "49f62530f193387d402633510674e649b052c1d3fcbc32d890c851a785bbc1c2"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y+20_half_time_reference.npz",
+      "size_bytes": 33595,
+      "sha256": "3453c67119db079acf75752a0dbae6ae33c988a6dc32f14d81b623b98615809b"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y+20_raw.npz",
+      "size_bytes": 8904008,
+      "sha256": "1bc0a61c6c03b447cdce6604eccf6bba0573ad1f868084f07b80e24e919f6195"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y-20_expected.npz",
+      "size_bytes": 824588,
+      "sha256": "25be9fc91be0c6704f130722d85c186df6f3fa328e80144659bb26c6230a2e56"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y-20_half_time_reference.npz",
+      "size_bytes": 33573,
+      "sha256": "4a6b47d78db179cc6a7c093beac2c7462825b1d14f625dcc6d6173c68f720d58"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/fixtures/s01_v16.5_y-20_raw.npz",
+      "size_bytes": 8881126,
+      "sha256": "f29055ba29f004a019e1d894aacd0f8a943018ca87524448f774780e7c48dc04"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/model/decoders.json",
+      "size_bytes": 73952,
+      "sha256": "54e66326e4cefd854b7acdd15e4d5af47f4a9816f0cec111290fbf53d859ed9f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/model/graph/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/model/graph/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/model/graph/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/model/graph/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/model/model.json",
+      "size_bytes": 2642244,
+      "sha256": "883bcac95c72a43c7719fd1b3f60f43c10b84d198f17e09aef5fc6813a4b9159"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/package_index.json",
+      "size_bytes": 11107,
+      "sha256": "a525403f56c15b62b74299cb378dd1a286ae1a2c05fb0d4fcdde901a1cbe91a6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/requirements.txt",
+      "size_bytes": 26,
+      "sha256": "bd9b05f6d7d86ebb478781195b8fb4c0d0754a9c1e0bf2936b4e7ea9552228b2"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/selfcheck_cpu_camera_v5.py",
+      "size_bytes": 6360,
+      "sha256": "e887de486dd219fbf0198628ebdf12e8b51d8855c1d0df96ae487ca26ab00f51"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/selfcheck_cpu_camera_v6.py",
+      "size_bytes": 11101,
+      "sha256": "caf01d59d889ef15ec6851b2ad6092190e5b2729c1f525b1fb7b6346256827ec"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/selfcheck_cpu_placement_v7.py",
+      "size_bytes": 3048,
+      "sha256": "5c094f30585a826eb2a828ef0c26fb04f05bab880fe6f2cdb9ccedea31338230"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/__init__.py",
+      "size_bytes": 104,
+      "sha256": "1a1b602c69967dfa8488e0f29612792da8cdde8dcbb76dbed499b827b4c0db79"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/camera_clock_guard_v1.py",
+      "size_bytes": 13090,
+      "sha256": "5262d39f37290e2cbf40c1d57f9fbb80c6c34a15b5e33d640c935e857d277a96"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/camera_runtime_v3.py",
+      "size_bytes": 6713,
+      "sha256": "a0e762a1c3473517e5ac3c262559d3631d0a8227f3ccfa8ee8057f35558e3c2f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/camera_runtime_v4.py",
+      "size_bytes": 6425,
+      "sha256": "0abf7e248faeec133191d794387364925665e3f55791f658c7fe5ff467982a3f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/camera_runtime_v5.py",
+      "size_bytes": 4707,
+      "sha256": "4c56ffaddfce90a486477372b633ebffe86839392d599c2ef91b05a8af6167b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/camera_runtime_v6.py",
+      "size_bytes": 1771,
+      "sha256": "84c1f2c54fa2bc83eefb80372bae9c665cf7d9d461304de9c0e3fb74b19fcce7"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/deployment_frontend_v2.cpp",
+      "size_bytes": 2823,
+      "sha256": "530c51be3a3de8a4caf3cd782019f89557c858408d9ebc0c5560f1c87a3bedd8"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/deployment_frontend_v2.py",
+      "size_bytes": 3142,
+      "sha256": "ea7f96e231f29ef2b144869abe2fa53c53dba18e8c7824f760361228b9a2298e"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/deployment_frontend_v3.cpp",
+      "size_bytes": 2930,
+      "sha256": "75814ef3a1ee7fc83f02f9ae66898581d3904f054fd2485b52b7677f9f05521b"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/deployment_frontend_v3.py",
+      "size_bytes": 667,
+      "sha256": "0e7c737336ff63d9b6a887400382cd529456e1f31ab39f0c9613c4888d4d21de"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/deployment_neural_v3.cpp",
+      "size_bytes": 2385,
+      "sha256": "1873c4bc53c662b50623b11a024fc3471487121cc684928c6bfd58263eaf0f64"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/deployment_neural_v3.py",
+      "size_bytes": 867,
+      "sha256": "4ad5184815d103e3cb2c438c42c9faa8780168de4c9f704d8803a025505e8d45"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/hardware_runtime_split_v1.py",
+      "size_bytes": 1379,
+      "sha256": "aeadf56447dc3dd1c09aca1f937f752712560107abccb92ccd2e1d9c80e10e63"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/hardware_runtime_v1.py",
+      "size_bytes": 4536,
+      "sha256": "01690d344d4146c6884814526fa1ed8cf34de1e3620724021f1aec44371b0904"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/hardware_runtime_v2.py",
+      "size_bytes": 7068,
+      "sha256": "412461ad5e46cc0df0c86afb892065fd932828031c233f106c993ac0579f625c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/held_input_circuit_v1.py",
+      "size_bytes": 3341,
+      "sha256": "ea3412b584c054e728221822d241921c620e5d34f5400aa9ee1c915f276b3750"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/postfix_contracts.py",
+      "size_bytes": 5599,
+      "sha256": "552f707c4943fb86ad7b46add41cf502a66834f30b60a4ef209666e94ee106d6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/retinal_input.py",
+      "size_bytes": 3390,
+      "sha256": "10ce14adfce3cb273fda657b8ea0ea1e6ca1b9a8e2682b07832f49e91a760ab5"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/sensor_adapter_v1.py",
+      "size_bytes": 8721,
+      "sha256": "c8dce5784f54726ce4491fc11bf3dfd6cd174f81330a08ba687dedb5bfc1d8d9"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/sensor_adapter_v2.py",
+      "size_bytes": 4947,
+      "sha256": "540ac507196a6b93da7dcb772f0130045d43e241280524a60a5391dd61ac6625"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/sensor_projection_v2.cpp",
+      "size_bytes": 1248,
+      "sha256": "1d5bedd556b0efb0782a0fe839904219f19ca7d13b51c243f62e461e9ee62dce"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v7/tests/test_camera_clock_guard_v1.py",
+      "size_bytes": 8572,
+      "sha256": "b36d36df88d583ea41a155e929b62b0cbe12b62a9f152e81ca97dac3f203396f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/BASELINE_V5_README.md",
+      "size_bytes": 2648,
+      "sha256": "d2b58325a0671a423bf3f26ebc19716d073fa4db899e9194ab543f9ecb146e45"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/BASELINE_V6_README.md",
+      "size_bytes": 4849,
+      "sha256": "720f0225cccfbbd439cc5bca47ac3f92cb5d201e51d1aeb31a0c3ad2490e1dd5"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/BASELINE_V7_README.md",
+      "size_bytes": 3231,
+      "sha256": "2b834eef0c9ec963cb413f4976829cafb0d72c8f6d0dca8ff9c741c02e4b9043"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/CAMERA_CLOCK_FRESHNESS_PROTOCOL_V6.md",
+      "size_bytes": 5908,
+      "sha256": "9549789dd9043be38fc4d46425a09e70073bacc0943e9be2c67c6f51e5e68f53"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/CAUSAL_SOLVER_WORK_SPLIT_PROTOCOL_V5.md",
+      "size_bytes": 3154,
+      "sha256": "1500c360b64a2a49059e274f2e064cb73001668011c036c6440d04d2b2a32126"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/COMPILED_CAMERA_PROJECTION_PROTOCOL_V4.md",
+      "size_bytes": 3760,
+      "sha256": "91039981a596e03a004b75fdb68584253e5f889d5bd9cc79408c7f108e9531e3"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/CPU_CAMERA_DEPLOYMENT_PROTOCOL_V3.md",
+      "size_bytes": 4783,
+      "sha256": "2486fc2e4e7645337e00919a9ca489f85840f861524ff210c7e21d8b695bcd21"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/CPU_WORKER_PLACEMENT_PROTOCOL_V7.md",
+      "size_bytes": 5783,
+      "sha256": "3a8f932e1f63fa96fa4748d660be86ed2e14195d1bf6da8a47a9545b95df8d14"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/PROTOCOL.md",
+      "size_bytes": 6601,
+      "sha256": "a9a930d88bbd4df3b29f8d242a12969fe6fc37c37e68bb92568293568e293fb4"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/README.md",
+      "size_bytes": 4833,
+      "sha256": "55c4656f995c8e9be6128dd79e247993d074c59b080ac57bb6f93e36772aa904"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/STARTUP_CORRECTION_R2.md",
+      "size_bytes": 1633,
+      "sha256": "45f3dfb33a05c1576043cec1b1966a21a4c5fe63e6451beb32f2f51979032275"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/SYNTHETIC_CLOCK_MAPPING_EXAMPLE.json",
+      "size_bytes": 449,
+      "sha256": "0bdcfaf2b0294706895c1b7b653c1118626e38470719e099396bc461551bea32"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/calibration/arrays.npz",
+      "size_bytes": 422409,
+      "sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/calibration/calibration.json",
+      "size_bytes": 3347,
+      "sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/continuing_camera_v8.json",
+      "size_bytes": 995,
+      "sha256": "b9abcc67b8b81d6267a8cace3dce5f5798cc3140352ddde85702b875957b2808"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/cpu_worker_placement_v7.py",
+      "size_bytes": 3973,
+      "sha256": "7f27242caf58748ab8f10923b5cf65f558870bfd271f5c65922c4a7a7891d66d"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/fixtures_complete.json",
+      "size_bytes": 4676,
+      "sha256": "b2a5dacdf207f65c15326e707800de56b4c93e60c55a62a398ea3e8df2ea5e80"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y+0_expected.npz",
+      "size_bytes": 819083,
+      "sha256": "0709439edec5e0205bbc8a2889fcbe005c73d13cbe179e26b38ad3275299f65c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y+0_half_time_reference.npz",
+      "size_bytes": 33573,
+      "sha256": "d38464874431e9cc544838bc726dad9127726cb6175d81238907a97cfc09df7c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y+0_raw.npz",
+      "size_bytes": 8445747,
+      "sha256": "01a8136d0e721d6e452a68dea1be14587110c0119b18ca41784e26c442ba9ee8"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y+20_expected.npz",
+      "size_bytes": 820541,
+      "sha256": "49f62530f193387d402633510674e649b052c1d3fcbc32d890c851a785bbc1c2"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y+20_half_time_reference.npz",
+      "size_bytes": 33595,
+      "sha256": "3453c67119db079acf75752a0dbae6ae33c988a6dc32f14d81b623b98615809b"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y+20_raw.npz",
+      "size_bytes": 8904008,
+      "sha256": "1bc0a61c6c03b447cdce6604eccf6bba0573ad1f868084f07b80e24e919f6195"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y-20_expected.npz",
+      "size_bytes": 824588,
+      "sha256": "25be9fc91be0c6704f130722d85c186df6f3fa328e80144659bb26c6230a2e56"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y-20_half_time_reference.npz",
+      "size_bytes": 33573,
+      "sha256": "4a6b47d78db179cc6a7c093beac2c7462825b1d14f625dcc6d6173c68f720d58"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/fixtures/s01_v16.5_y-20_raw.npz",
+      "size_bytes": 8881126,
+      "sha256": "f29055ba29f004a019e1d894aacd0f8a943018ca87524448f774780e7c48dc04"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/model/decoders.json",
+      "size_bytes": 73952,
+      "sha256": "54e66326e4cefd854b7acdd15e4d5af47f4a9816f0cec111290fbf53d859ed9f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/model/graph/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/model/graph/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/model/graph/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/model/graph/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/model/model.json",
+      "size_bytes": 2642244,
+      "sha256": "883bcac95c72a43c7719fd1b3f60f43c10b84d198f17e09aef5fc6813a4b9159"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/package_index.json",
+      "size_bytes": 12319,
+      "sha256": "a1a2528ba4291043a8bce7a1bf183835015718e9fc0a18ad12fb0723a0eb73ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/requirements.txt",
+      "size_bytes": 26,
+      "sha256": "bd9b05f6d7d86ebb478781195b8fb4c0d0754a9c1e0bf2936b4e7ea9552228b2"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/selfcheck_cpu_camera_v5.py",
+      "size_bytes": 6360,
+      "sha256": "e887de486dd219fbf0198628ebdf12e8b51d8855c1d0df96ae487ca26ab00f51"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/selfcheck_cpu_camera_v6.py",
+      "size_bytes": 11101,
+      "sha256": "caf01d59d889ef15ec6851b2ad6092190e5b2729c1f525b1fb7b6346256827ec"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/selfcheck_cpu_camera_v8.py",
+      "size_bytes": 13618,
+      "sha256": "127dfcddfcb3d07fbac18f9ca70c0a05a31814eaba0d062811e0e055b8e1e995"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/selfcheck_cpu_placement_v7.py",
+      "size_bytes": 3048,
+      "sha256": "5c094f30585a826eb2a828ef0c26fb04f05bab880fe6f2cdb9ccedea31338230"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/__init__.py",
+      "size_bytes": 104,
+      "sha256": "1a1b602c69967dfa8488e0f29612792da8cdde8dcbb76dbed499b827b4c0db79"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/camera_clock_guard_v1.py",
+      "size_bytes": 13090,
+      "sha256": "5262d39f37290e2cbf40c1d57f9fbb80c6c34a15b5e33d640c935e857d277a96"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/camera_runtime_v3.py",
+      "size_bytes": 6713,
+      "sha256": "a0e762a1c3473517e5ac3c262559d3631d0a8227f3ccfa8ee8057f35558e3c2f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/camera_runtime_v4.py",
+      "size_bytes": 6425,
+      "sha256": "0abf7e248faeec133191d794387364925665e3f55791f658c7fe5ff467982a3f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/camera_runtime_v5.py",
+      "size_bytes": 4707,
+      "sha256": "4c56ffaddfce90a486477372b633ebffe86839392d599c2ef91b05a8af6167b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/camera_runtime_v6.py",
+      "size_bytes": 1771,
+      "sha256": "84c1f2c54fa2bc83eefb80372bae9c665cf7d9d461304de9c0e3fb74b19fcce7"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/camera_runtime_v8.py",
+      "size_bytes": 1189,
+      "sha256": "f06d55b873b76ac2f203c237b02b5068d03e29f59dd02087922b9c8a8f475ec4"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/continuing_camera_v1.py",
+      "size_bytes": 6826,
+      "sha256": "5f4056b49a4a4b46155890b041e1cda35813de83bdb6ca4cfe90102f3fcd253b"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/deployment_frontend_v2.cpp",
+      "size_bytes": 2823,
+      "sha256": "530c51be3a3de8a4caf3cd782019f89557c858408d9ebc0c5560f1c87a3bedd8"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/deployment_frontend_v2.py",
+      "size_bytes": 3142,
+      "sha256": "ea7f96e231f29ef2b144869abe2fa53c53dba18e8c7824f760361228b9a2298e"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/deployment_frontend_v3.cpp",
+      "size_bytes": 2930,
+      "sha256": "75814ef3a1ee7fc83f02f9ae66898581d3904f054fd2485b52b7677f9f05521b"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/deployment_frontend_v3.py",
+      "size_bytes": 667,
+      "sha256": "0e7c737336ff63d9b6a887400382cd529456e1f31ab39f0c9613c4888d4d21de"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/deployment_neural_v3.cpp",
+      "size_bytes": 2385,
+      "sha256": "1873c4bc53c662b50623b11a024fc3471487121cc684928c6bfd58263eaf0f64"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/deployment_neural_v3.py",
+      "size_bytes": 867,
+      "sha256": "4ad5184815d103e3cb2c438c42c9faa8780168de4c9f704d8803a025505e8d45"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/hardware_runtime_split_v1.py",
+      "size_bytes": 1379,
+      "sha256": "aeadf56447dc3dd1c09aca1f937f752712560107abccb92ccd2e1d9c80e10e63"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/hardware_runtime_v1.py",
+      "size_bytes": 4536,
+      "sha256": "01690d344d4146c6884814526fa1ed8cf34de1e3620724021f1aec44371b0904"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/hardware_runtime_v2.py",
+      "size_bytes": 7068,
+      "sha256": "412461ad5e46cc0df0c86afb892065fd932828031c233f106c993ac0579f625c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/held_input_circuit_v1.py",
+      "size_bytes": 3341,
+      "sha256": "ea3412b584c054e728221822d241921c620e5d34f5400aa9ee1c915f276b3750"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/postfix_contracts.py",
+      "size_bytes": 5599,
+      "sha256": "552f707c4943fb86ad7b46add41cf502a66834f30b60a4ef209666e94ee106d6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/retinal_input.py",
+      "size_bytes": 3390,
+      "sha256": "10ce14adfce3cb273fda657b8ea0ea1e6ca1b9a8e2682b07832f49e91a760ab5"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/sensor_adapter_v1.py",
+      "size_bytes": 8721,
+      "sha256": "c8dce5784f54726ce4491fc11bf3dfd6cd174f81330a08ba687dedb5bfc1d8d9"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/sensor_adapter_v2.py",
+      "size_bytes": 4947,
+      "sha256": "540ac507196a6b93da7dcb772f0130045d43e241280524a60a5391dd61ac6625"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/sensor_projection_v2.cpp",
+      "size_bytes": 1248,
+      "sha256": "1d5bedd556b0efb0782a0fe839904219f19ca7d13b51c243f62e461e9ee62dce"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/tests/test_camera_clock_guard_v1.py",
+      "size_bytes": 8572,
+      "sha256": "b36d36df88d583ea41a155e929b62b0cbe12b62a9f152e81ca97dac3f203396f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8/tests/test_continuing_camera_v1.py",
+      "size_bytes": 8365,
+      "sha256": "c3e25fa1f3b9d84249fcb96fcce893500ebe80f18b577f0dd449cc153c7a6836"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v8.zip",
+      "size_bytes": 32921977,
+      "sha256": "aa28463fe888a3ec9c0d1a0818411a1a21d2ddc6adf784ff5cd12021a09febb7"
+    },
+    {
+      "path": "scripts/analyze_continuing_policy_v8.py",
+      "size_bytes": 5003,
+      "sha256": "8436cd3e50ec3e58cbd2ef1c666e81ecb57e758d230117d681b834815ca60467"
+    },
+    {
+      "path": "scripts/export_continuing_camera_v8.py",
+      "size_bytes": 7445,
+      "sha256": "41b3f30342de2077ab3bf5de67676ce8b60738716491c151ce1a755f75356cd9"
+    },
+    {
+      "path": "scripts/preflight_continuing_camera_v8.py",
+      "size_bytes": 3077,
+      "sha256": "2003b5be2045a2fce1fe7e506c587adc54baa1901d328ce8ec9a0d35f3370e43"
+    },
+    {
+      "path": "scripts/report_continuing_camera_v8.py",
+      "size_bytes": 5934,
+      "sha256": "e9b6d7db98e7d3b8d0ed511f6c192b4b9dd8f9a9c56117ca50d954356980d6d2"
+    },
+    {
+      "path": "scripts/review_continuing_camera_v8.py",
+      "size_bytes": 12255,
+      "sha256": "c3d01952675cfebb937af0d3ad5bac30af7a81edd1aa16f7d2570a52356a6063"
+    },
+    {
+      "path": "scripts/seal_continuing_camera_v8.py",
+      "size_bytes": 3852,
+      "sha256": "dae9c12b656df4840a0c032341faa5d5ff91ab78e727e7516c59426bcd7bb998"
+    },
+    {
+      "path": "scripts/selfcheck_cpu_camera_v8.py",
+      "size_bytes": 13618,
+      "sha256": "127dfcddfcb3d07fbac18f9ca70c0a05a31814eaba0d062811e0e055b8e1e995"
+    },
+    {
+      "path": "scripts/write_continuing_camera_report_v8.py",
+      "size_bytes": 14024,
+      "sha256": "5a0d6daf71a58d714ec85b7e3c89d50dd5b8c7ba7eecaa1d53c6a8c8908eb805"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v8.py",
+      "size_bytes": 1189,
+      "sha256": "f06d55b873b76ac2f203c237b02b5068d03e29f59dd02087922b9c8a8f475ec4"
+    },
+    {
+      "path": "src/male_optic_frontend/continuing_camera_v1.py",
+      "size_bytes": 6826,
+      "sha256": "5f4056b49a4a4b46155890b041e1cda35813de83bdb6ca4cfe90102f3fcd253b"
+    },
+    {
+      "path": "tests/test_continuing_camera_v1.py",
+      "size_bytes": 8365,
+      "sha256": "c3e25fa1f3b9d84249fcb96fcce893500ebe80f18b577f0dd449cc153c7a6836"
+    }
+  ],
+  "scope": "Completed continued-history API and numerical validation; retrospective publication masks; original timing failures and biological limits retained",
+  "excludes": [
+    "AGENTS.md",
+    "docs/PROJECT_PROGRESS_REPORT.md",
+    "active sealer stdout",
+    "Python bytecode",
+    "results/validation_hardware_v1/cpu_camera_continuation_v8/completion_v8/artifact_index.json"
+  ]
+}

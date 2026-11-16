@@ -1,0 +1,251 @@
+{
+  "status": "CONDITIONAL_DIAGNOSTIC_COMPLETE",
+  "created_utc": "2026-10-19T14:07:08.669461+00:00",
+  "endpoint_rows": 94,
+  "checks": [
+    {
+      "model": "baseline",
+      "legacy_observation_equivalence": true,
+      "targets": 47
+    },
+    {
+      "model": "expanded",
+      "legacy_observation_equivalence": true,
+      "targets": 47
+    }
+  ],
+  "summary": [
+    {
+      "model": "baseline",
+      "split": "calibration",
+      "role": "all",
+      "n": 38,
+      "flies": 22,
+      "rmse": 1.423988534584306,
+      "mae": 1.2569812306406523,
+      "mean_error": 1.1222462025522544
+    },
+    {
+      "model": "baseline",
+      "split": "calibration",
+      "role": "hs",
+      "n": 14,
+      "flies": 7,
+      "rmse": 1.1791749596383814,
+      "mae": 1.1510001733432185,
+      "mean_error": 1.1510001733432185
+    },
+    {
+      "model": "baseline",
+      "split": "calibration",
+      "role": "h2",
+      "n": 11,
+      "flies": 6,
+      "rmse": 1.8801263105935733,
+      "mae": 1.8570176174140158,
+      "mean_error": 1.8570176174140158
+    },
+    {
+      "model": "baseline",
+      "split": "calibration",
+      "role": "bips",
+      "n": 5,
+      "flies": 5,
+      "rmse": 1.7610834199874204,
+      "mae": 1.7111558241068923,
+      "mean_error": 1.7111558241068923
+    },
+    {
+      "model": "baseline",
+      "split": "calibration",
+      "role": "dnp15",
+      "n": 8,
+      "flies": 4,
+      "rmse": 0.6321786271786226,
+      "mae": 0.3335389281813863,
+      "mean_error": -0.3064524552385034
+    },
+    {
+      "model": "baseline",
+      "split": "validation",
+      "role": "all",
+      "n": 9,
+      "flies": 5,
+      "rmse": 1.414100735939247,
+      "mae": 1.1846377473542782,
+      "mean_error": 0.8199664436806979
+    },
+    {
+      "model": "baseline",
+      "split": "validation",
+      "role": "hs",
+      "n": 4,
+      "flies": 2,
+      "rmse": 1.0746214181443339,
+      "mae": 0.755179714914348,
+      "mean_error": 0.755179714914348
+    },
+    {
+      "model": "baseline",
+      "split": "validation",
+      "role": "h2",
+      "n": 2,
+      "flies": 1,
+      "rmse": 2.0,
+      "mae": 2.0,
+      "mean_error": 2.0
+    },
+    {
+      "model": "baseline",
+      "split": "validation",
+      "role": "bips",
+      "n": 1,
+      "flies": 1,
+      "rmse": 2.0,
+      "mae": 2.0,
+      "mean_error": 2.0
+    },
+    {
+      "model": "baseline",
+      "split": "validation",
+      "role": "dnp15",
+      "n": 2,
+      "flies": 1,
+      "rmse": 0.8300250758613026,
+      "mae": 0.8205104332655555,
+      "mean_error": -0.8205104332655555
+    },
+    {
+      "model": "expanded",
+      "split": "calibration",
+      "role": "all",
+      "n": 38,
+      "flies": 22,
+      "rmse": 1.5603200208025043,
+      "mae": 1.4872111588951453,
+      "mean_error": 1.4872111588951453
+    },
+    {
+      "model": "expanded",
+      "split": "calibration",
+      "role": "hs",
+      "n": 14,
+      "flies": 7,
+      "rmse": 1.1791749596383814,
+      "mae": 1.1510001733432185,
+      "mean_error": 1.1510001733432185
+    },
+    {
+      "model": "expanded",
+      "split": "calibration",
+      "role": "h2",
+      "n": 11,
+      "flies": 6,
+      "rmse": 1.8801263105935733,
+      "mae": 1.8570176174140158,
+      "mean_error": 1.8570176174140158
+    },
+    {
+      "model": "expanded",
+      "split": "calibration",
+      "role": "bips",
+      "n": 5,
+      "flies": 5,
+      "rmse": 1.7169997978082883,
+      "mae": 1.6657514063911372,
+      "mean_error": 1.6657514063911372
+    },
+    {
+      "model": "expanded",
+      "split": "calibration",
+      "role": "dnp15",
+      "n": 8,
+      "flies": 4,
+      "rmse": 1.55821730881397,
+      "mae": 1.455508848462576,
+      "mean_error": 1.455508848462576
+    },
+    {
+      "model": "expanded",
+      "split": "validation",
+      "role": "all",
+      "n": 9,
+      "flies": 5,
+      "rmse": 1.423115790080464,
+      "mae": 1.2064684647569652,
+      "mean_error": 1.2064684647569652
+    },
+    {
+      "model": "expanded",
+      "split": "validation",
+      "role": "hs",
+      "n": 4,
+      "flies": 2,
+      "rmse": 1.0746214181443339,
+      "mae": 0.755179714914348,
+      "mean_error": 0.755179714914348
+    },
+    {
+      "model": "expanded",
+      "split": "validation",
+      "role": "h2",
+      "n": 2,
+      "flies": 1,
+      "rmse": 2.0,
+      "mae": 2.0,
+      "mean_error": 2.0
+    },
+    {
+      "model": "expanded",
+      "split": "validation",
+      "role": "bips",
+      "n": 1,
+      "flies": 1,
+      "rmse": 1.954595582284245,
+      "mae": 1.954595582284245,
+      "mean_error": 1.954595582284245
+    },
+    {
+      "model": "expanded",
+      "split": "validation",
+      "role": "dnp15",
+      "n": 2,
+      "flies": 1,
+      "rmse": 0.9454200939698303,
+      "mae": 0.941450870435524,
+      "mean_error": 0.941450870435524
+    }
+  ],
+  "matched_scope": "published_method_flow_and_signed_epoch_statistic_not_frame_exact_images_or_fluorescence",
+  "measurement_model": "explicit_signed_epoch_difference_ratio_of_model_rate",
+  "source_specific_reporter_fit": false,
+  "biological_validation": false,
+  "parameter_fitting": false,
+  "original_whole_fly_splits_preserved": true,
+  "provenance": [
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/derived/validation-architecture-v2/erginkaya-figure3e-narrowed-primary-contract-v2/model_targets.csv",
+      "sha256": "5c9c4b8531c39565110c275d4b090d36b97712874748cc9af92792255d540fcb"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/derived/validation-architecture-v2/erginkaya-figure3e-narrowed-primary-contract-v2/split_assignment.csv",
+      "sha256": "e81f2560b4d8883b6ac0d7d267eae04a4645bf82e50e6dcd65ae8ab4c9814fbd"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/curated/malecns-v1.0-yaw-retinotopy/eyemap.csv",
+      "sha256": "d127508041073ccb465f36db667f3091e17350f66d7cfd66ddde98ecee94def6"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/curated/malecns-v1.0-yaw-retinotopy-public-v2/stimuli.csv",
+      "sha256": "29c2c0f8c0f890319fbb5b52278e764a34cce31938f48b1e082e3ab014f5e4d7"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/src/malecns_yaw/vision.py",
+      "sha256": "f99acf1f493992e07c3dcf93aa09589713ca12c9dc5bdadbf6294905293bff62"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/src/malecns_yaw/observation.py",
+      "sha256": "1592cce21d075845886cdadb6895f659da69e2e11d2464f55d57c0413124185f"
+    }
+  ]
+}

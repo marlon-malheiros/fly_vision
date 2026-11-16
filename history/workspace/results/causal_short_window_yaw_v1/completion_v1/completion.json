@@ -1,0 +1,25 @@
+{
+  "status": "COMPLETE",
+  "utc": "2026-10-27T09:36:25.093139+00:00",
+  "source_report_checkpoint": "9585fa63413db160ff18d1ee247b4340730fedfc",
+  "result": {
+    "selected": {
+      "method": "backward_current",
+      "window_s": 0.1,
+      "development_pass": true,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.1
+    },
+    "endpoint_capability_pass": true,
+    "numerical_pass": true,
+    "all_speed_any_alarm_gate_pass": false,
+    "stationary_maximum_absolute_score": 0.0,
+    "physiological_validation": false,
+    "neural_model_repaired": false
+  },
+  "runtime": true,
+  "report": "docs/CAUSAL_SHORT_WINDOW_YAW_REPORT_V1.md",
+  "progress_snapshot": "PROJECT_PROGRESS_REPORT_2026-10-27.md",
+  "physiological_validation": false,
+  "live_progress_and_AGENTS_excluded": true
+}

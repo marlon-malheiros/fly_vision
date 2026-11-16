@@ -1,0 +1,155 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-22T12:26:13.578921+00:00",
+  "source": {
+    "path": "scripts/review_camera_clock_v6_cached_v2.py",
+    "size_bytes": 11129,
+    "sha256": "8d0b5073e7b27e061629f696593238d5e671b4d54570c3372ba09751666f7fcc"
+  },
+  "package_entries": 57,
+  "V5_package_entries_preserved": 50,
+  "predecessor_verified_entries": 353,
+  "complete_camera_cases": 12,
+  "fault_checks": 96,
+  "cases": [
+    {
+      "case": "s01_v16.5_y+0",
+      "kernel": "strict",
+      "origin": "preflight",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y+0",
+      "kernel": "strict",
+      "origin": "standalone",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y+0",
+      "kernel": "parallel4",
+      "origin": "preflight",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y+0",
+      "kernel": "parallel4",
+      "origin": "standalone",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "kernel": "strict",
+      "origin": "preflight",
+      "published_rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "kernel": "strict",
+      "origin": "standalone",
+      "published_rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "kernel": "parallel4",
+      "origin": "preflight",
+      "published_rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "kernel": "parallel4",
+      "origin": "standalone",
+      "published_rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "kernel": "strict",
+      "origin": "preflight",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "kernel": "strict",
+      "origin": "standalone",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "kernel": "parallel4",
+      "origin": "preflight",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "kernel": "parallel4",
+      "origin": "standalone",
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "all_retained_fault_and_reset_states_bit_identical_to_sealed_V5": true
+    }
+  ],
+  "maximum_rate_error": 1.734723475976807e-18,
+  "maximum_full_final_state_error": 8.131516293641283e-20,
+  "maximum_episode_score_arithmetic_error": 1.7763568394002505e-14,
+  "config_rejections": [
+    {
+      "case": "schema",
+      "error": "Require an explicit versioned camera-to-host clock mapping"
+    },
+    {
+      "case": "unknown_field",
+      "error": "Clock mapping fields are missing or unsupported"
+    },
+    {
+      "case": "float_ticks",
+      "error": "host_anchor_ns must be a nonnegative integer"
+    },
+    {
+      "case": "missing_field",
+      "error": "Clock mapping fields are missing or unsupported"
+    }
+  ],
+  "policy_reviews": [
+    {
+      "scenario": "software_reference",
+      "verified_frame_classifications": 120300,
+      "all_frame_policy_faults": {
+        "batched": 8552,
+        "split": 2402
+      }
+    },
+    {
+      "scenario": "synthetic_capture_offset",
+      "verified_frame_classifications": 120300,
+      "all_frame_policy_faults": {
+        "batched": 16282,
+        "split": 4738
+      }
+    }
+  ],
+  "physical_camera_validated": false,
+  "physiological_validation": false,
+  "performance_measured": false,
+  "scope": "Independent saved-array/scalar arithmetic, retained fault states versus sealedV5 full states, archive/source identities and original episode computations"
+}

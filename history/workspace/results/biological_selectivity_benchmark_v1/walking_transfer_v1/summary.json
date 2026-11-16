@@ -1,0 +1,254 @@
+{
+  "selectivity": [
+    {
+      "profile": "aligned_100",
+      "flies": 4,
+      "observed_mean": 0.008297415772451036,
+      "observed_ci": [
+        -0.1666208379903097,
+        0.13127577987137196
+      ],
+      "predicted_mean": -0.0741374182005154,
+      "defined_observed": 4,
+      "defined_predicted": 4
+    },
+    {
+      "profile": "aligned_50",
+      "flies": 4,
+      "observed_mean": 0.008297415772451036,
+      "observed_ci": [
+        -0.1666208379903097,
+        0.13127577987137196
+      ],
+      "predicted_mean": -0.06881595763775251,
+      "defined_observed": 4,
+      "defined_predicted": 4
+    },
+    {
+      "profile": "pitched_100",
+      "flies": 4,
+      "observed_mean": 0.008297415772451036,
+      "observed_ci": [
+        -0.1666208379903097,
+        0.13127577987137196
+      ],
+      "predicted_mean": -0.089206058808901,
+      "defined_observed": 4,
+      "defined_predicted": 4
+    }
+  ],
+  "transfer": [
+    {
+      "profile": "aligned_100",
+      "condition": "bilateral",
+      "flies": 4,
+      "mean_skill": -2.6073876026308986,
+      "ci": [
+        -4.876456999329905,
+        -0.40395843301179624
+      ],
+      "supported": false,
+      "fly_metrics": [
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210819|1",
+          "model_mse": 14.756931790117548,
+          "zero_mse": 4.388262990115555,
+          "skill": -2.362818459913898
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210828|1",
+          "model_mse": 23.13951983133184,
+          "zero_mse": 3.4462853907249915,
+          "skill": -5.7143365124685745
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210330|2",
+          "model_mse": 15.652860266230997,
+          "zero_mse": 4.206993310141668,
+          "skill": -2.720676291188088
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210401|1",
+          "model_mse": 8.081123624316024,
+          "zero_mse": 12.792272742236268,
+          "skill": 0.36828085304696756
+        }
+      ]
+    },
+    {
+      "profile": "aligned_100",
+      "condition": "unilateral",
+      "flies": 3,
+      "mean_skill": -1.2372992463475552,
+      "ci": [
+        -3.3698790256207203,
+        0.26874174874635215
+      ],
+      "supported": false,
+      "fly_metrics": [
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210819|1",
+          "model_mse": 3.2455686634089953,
+          "zero_mse": 2.0149294321764186,
+          "skill": -0.6107604621682985
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210330|2",
+          "model_mse": 9.582147105961495,
+          "zero_mse": 2.19277171056249,
+          "skill": -3.36987902562072
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210401|1",
+          "model_mse": 2.481977413564438,
+          "zero_mse": 3.3941188483130387,
+          "skill": 0.26874174874635215
+        }
+      ]
+    },
+    {
+      "profile": "aligned_50",
+      "condition": "bilateral",
+      "flies": 4,
+      "mean_skill": -2.427833615588789,
+      "ci": [
+        -4.643018713240652,
+        -0.3143874699527126
+      ],
+      "supported": false,
+      "fly_metrics": [
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210819|1",
+          "model_mse": 14.052131991846352,
+          "zero_mse": 4.388262990115555,
+          "skill": -2.2022082595091503
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210828|1",
+          "model_mse": 22.251362753770234,
+          "zero_mse": 3.4462853907249915,
+          "skill": -5.456622197817818
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210330|2",
+          "model_mse": 14.51404727166366,
+          "zero_mse": 4.206993310141668,
+          "skill": -2.449981067636856
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210401|1",
+          "model_mse": 7.7076377485632594,
+          "zero_mse": 12.792272742236268,
+          "skill": 0.39747706260866844
+        }
+      ]
+    },
+    {
+      "profile": "aligned_50",
+      "condition": "unilateral",
+      "flies": 3,
+      "mean_skill": -1.076183668331571,
+      "ci": [
+        -3.0412881881496943,
+        0.32281830867160655
+      ],
+      "supported": false,
+      "fly_metrics": [
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210819|1",
+          "model_mse": 3.0427069047775426,
+          "zero_mse": 2.0149294321764186,
+          "skill": -0.5100811255166262
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210330|2",
+          "model_mse": 8.86162241320499,
+          "zero_mse": 2.19277171056249,
+          "skill": -3.041288188149694
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210401|1",
+          "model_mse": 2.2984351422702023,
+          "zero_mse": 3.3941188483130387,
+          "skill": 0.32281830867160655
+        }
+      ]
+    },
+    {
+      "profile": "pitched_100",
+      "condition": "bilateral",
+      "flies": 4,
+      "mean_skill": -0.2772125990009477,
+      "ci": [
+        -1.0395530883304362,
+        0.32343018478663216
+      ],
+      "supported": false,
+      "fly_metrics": [
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210819|1",
+          "model_mse": 4.789315715224212,
+          "zero_mse": 4.388262990115555,
+          "skill": -0.09139213534193757
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210828|1",
+          "model_mse": 8.118093092034604,
+          "zero_mse": 3.4462853907249915,
+          "skill": -1.3556067393266025
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210330|2",
+          "model_mse": 4.794447976166383,
+          "zero_mse": 4.206993310141668,
+          "skill": -0.1396376515761404
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210401|1",
+          "model_mse": 6.680302251737187,
+          "zero_mse": 12.792272742236268,
+          "skill": 0.4777861302408897
+        }
+      ]
+    },
+    {
+      "profile": "pitched_100",
+      "condition": "unilateral",
+      "flies": 3,
+      "mean_skill": -0.053490890568144676,
+      "ci": [
+        -0.9236119387116611,
+        0.4263402755794228
+      ],
+      "supported": false,
+      "fly_metrics": [
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210819|1",
+          "model_mse": 1.336303231621202,
+          "zero_mse": 2.0149294321764186,
+          "skill": 0.33679899142780445
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210330|2",
+          "model_mse": 4.218041841307198,
+          "zero_mse": 2.19277171056249,
+          "skill": -0.9236119387116613
+        },
+        {
+          "fly": "R25F07AD VT014724DBD sytGC7f|210401|1",
+          "model_mse": 1.9470692831739447,
+          "zero_mse": 3.3941188483130387,
+          "skill": 0.4263402755794228
+        }
+      ]
+    }
+  ],
+  "independent_animals": 4,
+  "expected_observed_sign_supported": false,
+  "primary_model_in_measured_interval": true,
+  "expected_model_sign_all_profiles": false,
+  "conditional_bIPS_property_supported": false,
+  "matched_small_turn_validation": false,
+  "actual_walking_state_verified": false,
+  "fresh_DNp15_animals": 0
+}

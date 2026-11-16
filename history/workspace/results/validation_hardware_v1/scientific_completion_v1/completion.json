@@ -1,0 +1,15 @@
+{
+  "status": "COMPLETE_NUMERICAL_GENERALIZATION_CONVERGENCE_COMPONENT",
+  "created_utc": "2026-10-21T20:50:28.308043+00:00",
+  "source_commit": "04e04a7ae36d02012f0c8f1ec4a8a9bd507ac993",
+  "visual_inputs": 3536,
+  "graph_copies": 4,
+  "graph_trajectories": 14144,
+  "independent_arithmetic_review": "PASS",
+  "selected_original_python_replays": 32,
+  "robustness_criteria_failed": true,
+  "physiologically_validated": false,
+  "broad_hardware_goal_complete": false,
+  "report": "docs/VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+  "scope": "Completed frozen numerical component only; hardware packaging and physical/physiological validation remain separate"
+}

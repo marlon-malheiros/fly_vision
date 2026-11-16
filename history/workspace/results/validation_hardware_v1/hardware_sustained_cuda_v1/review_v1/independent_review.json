@@ -1,0 +1,29 @@
+{
+  "status": "SUSTAINED_CHUNK_NUMERICAL_AND_TIMING_REVIEW_PASS",
+  "completed_utc": "2026-10-21T14:25:58.287146+00:00",
+  "cycles": 1500,
+  "paired_updates": 60000,
+  "raw_frames": 121500,
+  "chunks": 30,
+  "maximum_population_rate_error": 8.673617379884035e-19,
+  "final_state_error_ledger_maximum": 3.469446951953614e-18,
+  "full_final_states_saved_for_each_cycle": false,
+  "final_state_scope": "full_states_compared_online_by_frozen_runner; review_rechecks_saved_error_ledger_not_unsaved_state_arrays",
+  "missed_10ms": 1096,
+  "missed_fraction": 0.018266666666666667,
+  "total_timed_frame_s": 537.0887579555856,
+  "total_reset_s": 0.272429778255173,
+  "wall_overhead_and_setup_s": 1.4684713971655583,
+  "measured_unpaced_update_throughput_hz": 111.35244503200616,
+  "protected_manifest_entries": 19,
+  "original_indexes_verified": {
+    "fixed_neighbor_motion_v1": 337,
+    "virtual_walking_openloop_v1": 270,
+    "yaw_sensitivity_ablation_v1": 1367,
+    "anatomical_strengthening_v1": 976
+  },
+  "all_deadlines_met": false,
+  "physiological_validation_established": false,
+  "physical_camera_tested": false,
+  "independent_solver_reimplementation": false
+}

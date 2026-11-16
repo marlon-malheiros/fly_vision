@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "source_rows_examined": 151856684,
+  "selected_LPi_cells": 6,
+  "incident_edges": 159854,
+  "matched_sealed_incoming_edges": 21,
+  "all_matched_synapse_counts_exact": true,
+  "neural_model_changed": false
+}

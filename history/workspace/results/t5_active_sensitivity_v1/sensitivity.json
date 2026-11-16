@@ -1,0 +1,57 @@
+{
+  "completed_utc": "2026-10-12T18:19:44.807029+00:00",
+  "coordinate_names": [
+    "e_fast_pole",
+    "e_slow_pole",
+    "i_fast_pole",
+    "i_slow_pole",
+    "gain_e",
+    "gain_i",
+    "sigma_e",
+    "sigma_i",
+    "center_e",
+    "center_i"
+  ],
+  "step_stable": true,
+  "relative_step_frobenius_error": 0.011014898017821587,
+  "relative_step_column_errors": [
+    0.046008152696591274,
+    0.009828191610203112,
+    0.022129071428512746,
+    0.02247684903270924,
+    0.0013216950980328218,
+    0.0026259128947885746,
+    0.01771481043453059,
+    0.004965455858191166,
+    0.025979022266632,
+    0.028262145620979392
+  ],
+  "full_singular_values": [
+    29.248703828614573,
+    7.5768754197061545,
+    5.790516524780349,
+    4.4936722117782395,
+    2.112445885781235,
+    1.2143766542589949,
+    0.9507696201392551,
+    0.44836431789398173,
+    0.10249852139148924,
+    0.04775711428773556
+  ],
+  "full_numerical_rank": 10,
+  "full_rank_tolerance": 1.01314463424626e-12,
+  "strength_singular_values": [
+    29.223855930207954,
+    5.779002432041419,
+    3.8129111740605595,
+    3.282278857001922,
+    1.0615837967619839,
+    0.45790331901925196
+  ],
+  "strength_numerical_rank": 6,
+  "strength_rank_tolerance": 1.012283928927813e-12,
+  "generated_candidates": 40,
+  "valid_candidates": 40,
+  "rejected_candidate_ids": [],
+  "baseline_bitwise_replays": 78
+}

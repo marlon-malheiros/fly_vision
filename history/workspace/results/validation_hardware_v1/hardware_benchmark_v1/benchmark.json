@@ -1,0 +1,160 @@
+{
+  "status": "PASS_NUMERICAL_PACKAGE_CHECKS",
+  "neural_replay": [
+    {
+      "implementation": "strict",
+      "latency": {
+        "count": 200,
+        "median_ms": 14.117523496679496,
+        "p95_ms": 19.014662403060342,
+        "p99_ms": 23.145651732411352,
+        "maximum_ms": 23.62253200408304,
+        "budget_ms": 10.0,
+        "missed_deadlines": 200,
+        "all_deadlines_met": false
+      }
+    },
+    {
+      "implementation": "accelerated",
+      "latency": {
+        "count": 200,
+        "median_ms": 12.278496000362793,
+        "p95_ms": 12.685012651854777,
+        "p99_ms": 14.094358356160228,
+        "maximum_ms": 15.556787002424244,
+        "budget_ms": 10.0,
+        "missed_deadlines": 200,
+        "all_deadlines_met": false
+      }
+    },
+    {
+      "implementation": "strict",
+      "latency": {
+        "count": 200,
+        "median_ms": 14.014024996868102,
+        "p95_ms": 14.426492350321496,
+        "p99_ms": 14.684154828137249,
+        "maximum_ms": 15.584525004669558,
+        "budget_ms": 10.0,
+        "missed_deadlines": 200,
+        "all_deadlines_met": false
+      }
+    },
+    {
+      "implementation": "accelerated",
+      "latency": {
+        "count": 200,
+        "median_ms": 12.404463501297869,
+        "p95_ms": 14.244204903297936,
+        "p99_ms": 17.137504560887464,
+        "maximum_ms": 18.56214400322642,
+        "budget_ms": 10.0,
+        "missed_deadlines": 200,
+        "all_deadlines_met": false
+      }
+    },
+    {
+      "implementation": "strict",
+      "latency": {
+        "count": 200,
+        "median_ms": 13.894773997890297,
+        "p95_ms": 14.587635495263383,
+        "p99_ms": 15.571050756407198,
+        "maximum_ms": 17.94381700165104,
+        "budget_ms": 10.0,
+        "missed_deadlines": 200,
+        "all_deadlines_met": false
+      }
+    },
+    {
+      "implementation": "accelerated",
+      "latency": {
+        "count": 200,
+        "median_ms": 12.165077499957988,
+        "p95_ms": 12.522092395374784,
+        "p99_ms": 12.896805188793223,
+        "maximum_ms": 14.146217996312771,
+        "budget_ms": 10.0,
+        "missed_deadlines": 200,
+        "all_deadlines_met": false
+      }
+    }
+  ],
+  "end_to_end": [
+    {
+      "implementation": "strict",
+      "frontend_frame": {
+        "count": 80,
+        "median_ms": 14.644288003182737,
+        "p95_ms": 23.910449351024,
+        "p99_ms": 28.127227910081263,
+        "maximum_ms": 29.681687999982387,
+        "budget_ms": 5.0,
+        "missed_deadlines": 80,
+        "all_deadlines_met": false
+      },
+      "two_frontend_frames_plus_neural_update": {
+        "count": 40,
+        "median_ms": 30.299585498141823,
+        "p95_ms": 34.23359940061345,
+        "p99_ms": 36.68118697722093,
+        "maximum_ms": 37.19552599795861,
+        "budget_ms": 10.0,
+        "missed_deadlines": 40,
+        "all_deadlines_met": false
+      }
+    },
+    {
+      "implementation": "accelerated",
+      "frontend_frame": {
+        "count": 80,
+        "median_ms": 16.354197996406583,
+        "p95_ms": 22.407040501639127,
+        "p99_ms": 26.919812135238267,
+        "maximum_ms": 33.08918599941535,
+        "budget_ms": 5.0,
+        "missed_deadlines": 80,
+        "all_deadlines_met": false
+      },
+      "two_frontend_frames_plus_neural_update": {
+        "count": 40,
+        "median_ms": 28.363543500745436,
+        "p95_ms": 32.38675239808799,
+        "p99_ms": 41.241178134732756,
+        "maximum_ms": 46.4164679942769,
+        "budget_ms": 10.0,
+        "missed_deadlines": 40,
+        "all_deadlines_met": false
+      }
+    }
+  ],
+  "maximum_rate_difference": 8.673617379884035e-19,
+  "standalone_strict_reference_difference": 8.673617379884035e-19,
+  "standalone_stdout": "{\"frames\": 81, \"neural_samples\": 41, \"output\": \"<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v1/standalone_replay.npz\", \"scope\": \"calibrated_retina_replay_on_host_CPU_no_camera_or_motor_validation\"}",
+  "build_command": [
+    "g++",
+    "-DOPTIC_APPROX_TANH",
+    "-std=c++17",
+    "-O3",
+    "-fno-fast-math",
+    "-ffp-contract=off",
+    "-shared",
+    "-fPIC",
+    "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+    "-o",
+    "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v1/accelerated_core.so"
+  ],
+  "host": "Linux-7.2.11-200.fc44.x86_64-x86_64-with-glibc2.43",
+  "processor": "",
+  "logical_cpus": 12,
+  "load_average": [
+    4.6279296875,
+    3.14404296875,
+    1.8544921875
+  ],
+  "peak_process_rss_bytes": 152391680,
+  "scope": "Actual available x86 CPU; simulation jobs concurrently active; rendering/acquisition excluded from calibrated-frame timing",
+  "physical_camera_tested": false,
+  "robot_tested": false,
+  "biologically_validated": false
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-28T01:35:06.702087+00:00",
+  "verified_after_sealer_exit": true,
+  "files": 418,
+  "bytes": 72565406,
+  "index": {
+    "path": "results/biological_family_dissection_v1/completion_v1/artifact_index.json",
+    "size_bytes": 95187,
+    "sha256": "e8fd82c45de8b262097ddf9deb8052e17830768a773ce023965ffbcce621a031"
+  },
+  "frozen_source_and_parent_inputs_unchanged": true
+}

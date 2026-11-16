@@ -1,0 +1,1254 @@
+{
+  "status": "EXPLORATORY_SOURCE_PROCESSING_COMPARISON",
+  "rows": [
+    {
+      "key": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5181026223725139,
+      "older_summary_dsi": 0.5181026223725139,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.22680759976551534,
+      "older_summary_phase_rad": -0.22680759976551576,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.6513154260745899,
+      "older_summary_dsi": 0.6513154260745899,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.14068339508782438,
+      "older_summary_phase_rad": -0.14068339508782465,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.5528854147867461,
+      "older_summary_dsi": 0.5528854147867458,
+      "absolute_dsi_difference": 3.3306690738754696e-16,
+      "source_atan2_phase_rad": -0.22373340986871323,
+      "older_summary_phase_rad": -0.2237334098687136,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.37438415928606167,
+      "older_summary_dsi": 0.3743841592860618,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.6256418637291197,
+      "older_summary_phase_rad": -0.6256418637291201,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.37066308620709315,
+      "older_summary_dsi": 0.370663086207093,
+      "absolute_dsi_difference": 1.6653345369377348e-16,
+      "source_atan2_phase_rad": 0.06415038176158203,
+      "older_summary_phase_rad": 0.06415038176158167,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.5807210802836109,
+      "older_summary_dsi": 0.580721080283611,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.253999628555704,
+      "older_summary_phase_rad": -0.2539996285557044,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        2.0,
+        2.0,
+        0.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.352706130128252,
+      "older_summary_dsi": 0.3527061301282521,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.3242189302535436,
+      "older_summary_phase_rad": -0.324218930253544,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.4497931421869106,
+      "older_summary_dsi": 0.44979314218691074,
+      "absolute_dsi_difference": 1.6653345369377348e-16,
+      "source_atan2_phase_rad": -0.18676014593585843,
+      "older_summary_phase_rad": -0.1867601459358588,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.3182756590685962,
+      "older_summary_dsi": 0.31827565906859623,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.8486728404198784,
+      "older_summary_phase_rad": -0.8486728404198789,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        2.0,
+        2.0,
+        1.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.11430020858934076,
+      "older_summary_dsi": 0.11430020858934077,
+      "absolute_dsi_difference": 1.3877787807814457e-17,
+      "source_atan2_phase_rad": -0.8509912170122861,
+      "older_summary_phase_rad": -0.850991217012286,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.31921168898240854,
+      "older_summary_dsi": 0.3192116889824086,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.7684017576174754,
+      "older_summary_phase_rad": -0.7684017576174759,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        1.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.4426216663910999,
+      "older_summary_dsi": 0.44262166639109984,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.8602457085986813,
+      "older_summary_phase_rad": -0.8602457085986818,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        1.0,
+        1.0,
+        0.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5221813373376789,
+      "older_summary_dsi": 0.522181337337679,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.47600247601477885,
+      "older_summary_phase_rad": -0.47600247601477935,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5604248592929405,
+      "older_summary_dsi": 0.5604248592929406,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.26195212622314273,
+      "older_summary_phase_rad": -0.26195212622314323,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.5312488952557083,
+      "older_summary_dsi": 0.5312488952557084,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.15439610434158796,
+      "older_summary_phase_rad": -0.15439610434158832,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        1.0,
+        1.0,
+        1.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5288320167153105,
+      "older_summary_dsi": 0.5288320167153104,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.5827042232389674,
+      "older_summary_phase_rad": -0.5827042232389675,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.46116845743098567,
+      "older_summary_dsi": 0.46116845743098567,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.19506143738511988,
+      "older_summary_phase_rad": -0.1950614373851204,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.32722009273052494,
+      "older_summary_dsi": 0.3272200927305248,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.2742993222376608,
+      "older_summary_phase_rad": -0.2742993222376612,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        2.0,
+        2.0,
+        0.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.6379579234494286,
+      "older_summary_dsi": 0.6379579234494287,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.7335281851957579,
+      "older_summary_phase_rad": -0.7335281851957584,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.5595426253479254,
+      "older_summary_dsi": 0.5595426253479256,
+      "absolute_dsi_difference": 2.220446049250313e-16,
+      "source_atan2_phase_rad": -0.522007880200372,
+      "older_summary_phase_rad": -0.5220078802003724,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.46092705466827083,
+      "older_summary_dsi": 0.46092705466827066,
+      "absolute_dsi_difference": 1.6653345369377348e-16,
+      "source_atan2_phase_rad": -1.1417633482625609,
+      "older_summary_phase_rad": -1.1417633482625609,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        2.0,
+        2.0,
+        1.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.40205914873291515,
+      "older_summary_dsi": 0.40205914873291515,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.8364950969229079,
+      "older_summary_phase_rad": -0.8364950969229082,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.4497337942117978,
+      "older_summary_dsi": 0.4497337942117979,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.7424896353659779,
+      "older_summary_phase_rad": -0.7424896353659782,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        2.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.33560837694977935,
+      "older_summary_dsi": 0.33560837694977935,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.8600103505245497,
+      "older_summary_phase_rad": -0.8600103505245499,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        1.0,
+        1.0,
+        0.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.6704833970092036,
+      "older_summary_dsi": 0.6704833970092036,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.37086796723279,
+      "older_summary_phase_rad": -0.37086796723279036,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.7521194481413633,
+      "older_summary_dsi": 0.7521194481413634,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": 0.17892636027403586,
+      "older_summary_phase_rad": 0.1789263602740354,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.6491956181944566,
+      "older_summary_dsi": 0.6491956181944565,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.1989207138101949,
+      "older_summary_phase_rad": -0.19892071381019533,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        1.0,
+        1.0,
+        1.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.412997516538639,
+      "older_summary_dsi": 0.41299751653863903,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.557117643367485,
+      "older_summary_phase_rad": -0.5571176433674853,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.4192734886747152,
+      "older_summary_dsi": 0.41927348867471526,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.1747825367129476,
+      "older_summary_phase_rad": -0.1747825367129479,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.6839500538961982,
+      "older_summary_dsi": 0.6839500538961983,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.32795384305178404,
+      "older_summary_phase_rad": -0.3279538430517845,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        2.0,
+        2.0,
+        0.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.4980067733661233,
+      "older_summary_dsi": 0.4980067733661235,
+      "absolute_dsi_difference": 1.6653345369377348e-16,
+      "source_atan2_phase_rad": -0.6549764833053717,
+      "older_summary_phase_rad": -0.654976483305372,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.33917969703088896,
+      "older_summary_dsi": 0.339179697030889,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.60189906640718,
+      "older_summary_phase_rad": -0.6018990664071804,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.13603905903536917,
+      "older_summary_dsi": 0.1360390590353691,
+      "absolute_dsi_difference": 8.326672684688674e-17,
+      "source_atan2_phase_rad": 0.8675088371925902,
+      "older_summary_phase_rad": 0.8675088371925896,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        2.0,
+        2.0,
+        1.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.33785107935769193,
+      "older_summary_dsi": 0.337851079357692,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.6573142157975784,
+      "older_summary_phase_rad": -0.6573142157975788,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.2846133924368261,
+      "older_summary_dsi": 0.28461339243682615,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.7904070601843944,
+      "older_summary_phase_rad": -0.7904070601843945,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        3.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.3188194031376792,
+      "older_summary_dsi": 0.3188194031376793,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.13332427582913525,
+      "older_summary_phase_rad": -0.13332427582913584,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        1.0,
+        1.0,
+        0.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5465594085621996,
+      "older_summary_dsi": 0.5465594085621994,
+      "absolute_dsi_difference": 2.220446049250313e-16,
+      "source_atan2_phase_rad": -0.11819690034322176,
+      "older_summary_phase_rad": -0.11819690034322217,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.4640000565246698,
+      "older_summary_dsi": 0.4640000565246698,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": 0.15009895869482115,
+      "older_summary_phase_rad": 0.15009895869482065,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.1708149649661287,
+      "older_summary_dsi": 0.17081496496612872,
+      "absolute_dsi_difference": 2.7755575615628914e-17,
+      "source_atan2_phase_rad": -1.6017325923513248,
+      "older_summary_phase_rad": 1.5398600612384679,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        1.0,
+        1.0,
+        1.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.27773046724841494,
+      "older_summary_dsi": 0.27773046724841494,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.1182497866102358,
+      "older_summary_phase_rad": -0.11824978661023641,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.1998651063626618,
+      "older_summary_dsi": 0.19986510636266192,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.008974326505188875,
+      "older_summary_phase_rad": -0.008974326505189376,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.2708158111470894,
+      "older_summary_dsi": 0.27081581114708947,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.07025276074330675,
+      "older_summary_phase_rad": -0.07025276074330707,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        2.0,
+        2.0,
+        0.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.21507435166067976,
+      "older_summary_dsi": 0.2150743516606798,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.32971103633080084,
+      "older_summary_phase_rad": -0.32971103633080107,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.24651293359589088,
+      "older_summary_dsi": 0.2465129335958909,
+      "absolute_dsi_difference": 2.7755575615628914e-17,
+      "source_atan2_phase_rad": -0.11880315912419834,
+      "older_summary_phase_rad": -0.11880315912419864,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        2.0,
+        2.0,
+        0.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.1976049688846361,
+      "older_summary_dsi": 0.19760496888463613,
+      "absolute_dsi_difference": 2.7755575615628914e-17,
+      "source_atan2_phase_rad": -0.6659980412636213,
+      "older_summary_phase_rad": -0.6659980412636218,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        2.0,
+        2.0,
+        1.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.38661619046634416,
+      "older_summary_dsi": 0.38661619046634416,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -1.056397359214908,
+      "older_summary_phase_rad": -1.0563973592149085,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.24675655964844279,
+      "older_summary_dsi": 0.24675655964844279,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.5417573866789773,
+      "older_summary_phase_rad": -0.5417573866789778,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        4.0,
+        2.0,
+        2.0,
+        1.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.20507616692729955,
+      "older_summary_dsi": 0.2050761669272996,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.28124230420373425,
+      "older_summary_phase_rad": -0.2812423042037345,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        1.0,
+        2.0,
+        0.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.6655055075884744,
+      "older_summary_dsi": 0.6655055075884745,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.11445492333512058,
+      "older_summary_phase_rad": -0.11445492333512107,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        1.0,
+        2.0,
+        0.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5555850200133587,
+      "older_summary_dsi": 0.5555850200133587,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.012640280552424518,
+      "older_summary_phase_rad": -0.01264028055242492,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        1.0,
+        2.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.6455141001125968,
+      "older_summary_dsi": 0.645514100112597,
+      "absolute_dsi_difference": 2.220446049250313e-16,
+      "source_atan2_phase_rad": -0.432533194264682,
+      "older_summary_phase_rad": -0.43253319426468223,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        1.0,
+        2.0,
+        1.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.4686572676763631,
+      "older_summary_dsi": 0.46865726767636307,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.5661273021519636,
+      "older_summary_phase_rad": -0.5661273021519642,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        1.0,
+        2.0,
+        1.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.3608598555373349,
+      "older_summary_dsi": 0.3608598555373349,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": 0.2918429000437297,
+      "older_summary_phase_rad": 0.29184290004372915,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        1.0,
+        2.0,
+        1.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.46009079384159646,
+      "older_summary_dsi": 0.4600907938415964,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.07245005990600363,
+      "older_summary_phase_rad": -0.07245005990600409,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        2.0,
+        3.0,
+        0.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.48590171322433434,
+      "older_summary_dsi": 0.4859017132243347,
+      "absolute_dsi_difference": 3.3306690738754696e-16,
+      "source_atan2_phase_rad": -0.6095516829221899,
+      "older_summary_phase_rad": -0.6095516829221901,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        2.0,
+        3.0,
+        0.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.43700207500267724,
+      "older_summary_dsi": 0.43700207500267724,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.30520072914502244,
+      "older_summary_phase_rad": -0.30520072914502294,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        2.0,
+        3.0,
+        0.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.4880096717804397,
+      "older_summary_dsi": 0.48800967178043947,
+      "absolute_dsi_difference": 2.220446049250313e-16,
+      "source_atan2_phase_rad": -0.6140252788691444,
+      "older_summary_phase_rad": -0.6140252788691448,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        2.0,
+        3.0,
+        1.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.4134678316016193,
+      "older_summary_dsi": 0.4134678316016193,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.477066957209732,
+      "older_summary_phase_rad": -0.47706695720973247,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        2.0,
+        3.0,
+        1.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.4787191919765867,
+      "older_summary_dsi": 0.4787191919765869,
+      "absolute_dsi_difference": 2.220446049250313e-16,
+      "source_atan2_phase_rad": -0.647031741643448,
+      "older_summary_phase_rad": -0.6470317416434486,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        5.0,
+        2.0,
+        3.0,
+        1.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.34624459869079577,
+      "older_summary_dsi": 0.34624459869079577,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.39322462623631227,
+      "older_summary_phase_rad": -0.39322462623631277,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        1.0,
+        3.0,
+        0.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.5947071354319777,
+      "older_summary_dsi": 0.594707135431978,
+      "absolute_dsi_difference": 2.220446049250313e-16,
+      "source_atan2_phase_rad": -0.830792310634193,
+      "older_summary_phase_rad": -0.8307923106341931,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        1.0,
+        3.0,
+        0.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.38803532866227597,
+      "older_summary_dsi": 0.388035328662276,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.37798472856494925,
+      "older_summary_phase_rad": -0.37798472856494963,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        1.0,
+        3.0,
+        0.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.40972316428468575,
+      "older_summary_dsi": 0.40972316428468575,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.9245402785482455,
+      "older_summary_phase_rad": -0.9245402785482459,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        1.0,
+        3.0,
+        1.0,
+        58.0,
+        28.0
+      ],
+      "source_min_shift_dsi": 0.28561030929151965,
+      "older_summary_dsi": 0.28561030929151976,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -1.4700584488069481,
+      "older_summary_phase_rad": -1.4700584488069484,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        1.0,
+        3.0,
+        1.0,
+        87.0,
+        21.0
+      ],
+      "source_min_shift_dsi": 0.5688739958421638,
+      "older_summary_dsi": 0.568873995842164,
+      "absolute_dsi_difference": 2.220446049250313e-16,
+      "source_atan2_phase_rad": 0.057465843611253106,
+      "older_summary_phase_rad": 0.05746584361125272,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        1.0,
+        3.0,
+        1.0,
+        87.0,
+        36.0
+      ],
+      "source_min_shift_dsi": 0.41506814386606644,
+      "older_summary_dsi": 0.4150681438660664,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -1.3108325619181387,
+      "older_summary_phase_rad": -1.3108325619181387,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        2.0,
+        4.0,
+        0.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5101282008267132,
+      "older_summary_dsi": 0.5101282008267133,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.2666876940900575,
+      "older_summary_phase_rad": -0.2666876940900578,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        2.0,
+        4.0,
+        0.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.4265735874783364,
+      "older_summary_dsi": 0.4265735874783364,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.2334211100227895,
+      "older_summary_phase_rad": -0.23342111002278992,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        2.0,
+        4.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.5484261611112158,
+      "older_summary_dsi": 0.5484261611112158,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.23967033159025738,
+      "older_summary_phase_rad": -0.23967033159025783,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        2.0,
+        4.0,
+        1.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.2113132368511412,
+      "older_summary_dsi": 0.21131323685114112,
+      "absolute_dsi_difference": 8.326672684688674e-17,
+      "source_atan2_phase_rad": -0.3173419658687277,
+      "older_summary_phase_rad": -0.3173419658687281,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        2.0,
+        4.0,
+        1.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.3637490597421742,
+      "older_summary_dsi": 0.3637490597421743,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -0.397666009907672,
+      "older_summary_phase_rad": -0.3976660099076722,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        6.0,
+        2.0,
+        4.0,
+        1.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.45237024593400377,
+      "older_summary_dsi": 0.45237024593400377,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.5936109092448599,
+      "older_summary_phase_rad": -0.5936109092448602,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        7.0,
+        1.0,
+        1.0,
+        0.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.49311769652632836,
+      "older_summary_dsi": 0.49311769652632853,
+      "absolute_dsi_difference": 1.6653345369377348e-16,
+      "source_atan2_phase_rad": -0.41523591022728856,
+      "older_summary_phase_rad": -0.415235910227289,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        7.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.5850594520199774,
+      "older_summary_dsi": 0.5850594520199774,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.09612749129651853,
+      "older_summary_phase_rad": -0.096127491296519,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        7.0,
+        1.0,
+        1.0,
+        0.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.46932882271345844,
+      "older_summary_dsi": 0.4693288227134584,
+      "absolute_dsi_difference": 5.551115123125783e-17,
+      "source_atan2_phase_rad": -0.12825984295654205,
+      "older_summary_phase_rad": -0.12825984295654255,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        7.0,
+        1.0,
+        1.0,
+        1.0,
+        29.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.14958830163699754,
+      "older_summary_dsi": 0.14958830163699754,
+      "absolute_dsi_difference": 0.0,
+      "source_atan2_phase_rad": -0.8555467998770593,
+      "older_summary_phase_rad": -0.8555467998770596,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        7.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        13.0
+      ],
+      "source_min_shift_dsi": 0.3030927216706724,
+      "older_summary_dsi": 0.3030927216706723,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": 0.16561532695372544,
+      "older_summary_phase_rad": 0.16561532695372538,
+      "phase_difference_scored": false
+    },
+    {
+      "key": [
+        7.0,
+        1.0,
+        1.0,
+        1.0,
+        87.0,
+        29.0
+      ],
+      "source_min_shift_dsi": 0.34698629727037333,
+      "older_summary_dsi": 0.3469862972703732,
+      "absolute_dsi_difference": 1.1102230246251565e-16,
+      "source_atan2_phase_rad": -1.0354270923803137,
+      "older_summary_phase_rad": -1.035427092380314,
+      "phase_difference_scored": false
+    }
+  ],
+  "note": "Same recordings, not independent validation; DSI processing equivalence unestablished. Phase not scored because exact conventions/processing equivalence is unresolved. No fit or tolerance selected."
+}

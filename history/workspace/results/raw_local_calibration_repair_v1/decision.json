@@ -1,0 +1,36 @@
+{
+  "finite_fresh_simulation_benchmark_pass": true,
+  "all_81_numerical_gates_pass": true,
+  "new_negative_calibration_rooms": 40,
+  "fresh_test_rooms": 24,
+  "model_refitted": false,
+  "cutoff": 1.1329958232706985,
+  "joint_small_turn_detections": [
+    48,
+    48,
+    42
+  ],
+  "small_turn_total_per_speed": 48,
+  "fast_directions": [
+    21,
+    21
+  ],
+  "straight_alarms": [
+    0,
+    0,
+    0
+  ],
+  "straight_rooms_per_speed": 24,
+  "stationary_alarms": 0,
+  "prior_inspected_st_fast_alarms_with_new_cutoff": 3,
+  "prior_cohort_gate_pass": false,
+  "population_false_alarm_probability_certified": false,
+  "physiological_validation": false,
+  "bips_biological_causality_established": false,
+  "no_further_optimization_this_round": true,
+  "next_evidence": [
+    "larger prospectively frozen negative-only error-rate assessment with fixed model/cutoff",
+    "matched physiological recordings and measurement models",
+    "separate controlled circuit intervention study"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "date_local": "2026-11-08",
+  "studies": [
+    {
+      "study": "raw_local_calibration_repair_v1",
+      "index": {
+        "path": "results/raw_local_calibration_repair_v1/completion_v1/artifact_index.json",
+        "bytes": 370529,
+        "sha256": "6f3188605ae922fa79a2918347aea060a85b3255dfc197d178d0ce8acc37cbeb"
+      },
+      "indexed_files": 1747,
+      "indexed_bytes": 31929968,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "study": "t4_observation_transfer_v1",
+      "index": {
+        "path": "results/t4_observation_transfer_v1/completion_v1/artifact_index.json",
+        "bytes": 9338,
+        "sha256": "575591faeffae145494ebfa7384344bf0fd37dae55657607d9424eadb3d1fe95"
+      },
+      "indexed_files": 45,
+      "indexed_bytes": 791855,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "study": "t4_cable_matched_v1",
+      "index": {
+        "path": "results/t4_cable_matched_v1/completion_v1/artifact_index.json",
+        "bytes": 91885,
+        "sha256": "7194beca13cdae151061ae864f70a33a27ad1f7614caae2e818070dec2fa62d7"
+      },
+      "indexed_files": 466,
+      "indexed_bytes": 6556163,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "study": "t4_flash_transfer_v1",
+      "index": {
+        "path": "results/t4_flash_transfer_v1/completion_v1/artifact_index.json",
+        "bytes": 898738,
+        "sha256": "9c4a68806b5e074c96d8e9a1da8ca1ac99571d6280da4cc6b208e0829c07693b"
+      },
+      "indexed_files": 4267,
+      "indexed_bytes": 225417435,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "study": "t4_geometry_identifiability_v1",
+      "index": {
+        "path": "results/t4_geometry_identifiability_v1/completion_v1/artifact_index.json",
+        "bytes": 48041,
+        "sha256": "f9f921af6a13468e28c7e9e729523252a098996837d4bfb83696e226242c68ae"
+      },
+      "indexed_files": 234,
+      "indexed_bytes": 3810483,
+      "passed": true,
+      "failures": []
+    },
+    {
+      "study": "t4_reserved_transfer_v1",
+      "index": {
+        "path": "results/t4_reserved_transfer_v1/completion_v1/artifact_index.json",
+        "bytes": 382323,
+        "sha256": "23760247b0f02172ddc80ae07f7fa033ea6e2afe8af07ae3f68d1806686da2d0"
+      },
+      "indexed_files": 1911,
+      "indexed_bytes": 312426762,
+      "passed": true,
+      "failures": []
+    }
+  ],
+  "passed": true,
+  "scope": "Six selected intact archives; not every historical index",
+  "older_movie_retirement_not_reclassified_as_corruption": true,
+  "new_neural_experiments": 0
+}

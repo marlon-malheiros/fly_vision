@@ -1,0 +1,14 @@
+{
+  "status": "COMPLETE_FINITE_TARGET_DECISION_TEST",
+  "numerically_qualified_target_methods": [
+    "subspace",
+    "lk_median",
+    "subspace_median"
+  ],
+  "engineering_small_turn_milestone": true,
+  "decision_boundary_deg_s": 1.0,
+  "neural_detector_repaired": false,
+  "original_1deg_information_sufficiency_established": false,
+  "physiological_validation": false,
+  "closed_loop": false
+}

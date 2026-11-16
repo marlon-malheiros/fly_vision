@@ -1,0 +1,62 @@
+{
+  "created_utc": "2026-10-19T13:45:37.693017+00:00",
+  "script": {
+    "path": "scripts/review_yaw_spatial_sampling_v1.py",
+    "sha256": "629cd9174c2d7fe0333488249511ee152e3508d5a1ffc5592d016c7258158f4b",
+    "size_bytes": 4046
+  },
+  "cases": [
+    [
+      "s01",
+      5.5,
+      2
+    ],
+    [
+      "s01",
+      16.5,
+      -2
+    ],
+    [
+      "s01",
+      16.5,
+      5
+    ],
+    [
+      "s01",
+      16.5,
+      40
+    ],
+    [
+      "s12",
+      5.5,
+      2
+    ],
+    [
+      "s12",
+      16.5,
+      -2
+    ],
+    [
+      "s12",
+      16.5,
+      5
+    ],
+    [
+      "s12",
+      16.5,
+      40
+    ]
+  ],
+  "checkpoints": "the five retained frames in each source",
+  "pitch_deg": [
+    1.0,
+    0.5
+  ],
+  "reference": "direct point rays at declared retinal angles",
+  "metrics": [
+    "maximum_absolute_luminance_error",
+    "rms_luminance_error"
+  ],
+  "neural_inputs_or_criteria_changed": false,
+  "acceptance_rule_added": false
+}

@@ -1,0 +1,379 @@
+{
+  "utc": "2026-10-27T02:02:54.157003+00:00",
+  "no_new_responses_computed": true,
+  "previous_results_known": true,
+  "trained_or_tuned_parameters": 0,
+  "primary_method": "registered_confidence",
+  "files": [
+    {
+      "path": "configs/reliability_weighted_yaw_v1.json",
+      "size_bytes": 1085,
+      "sha256": "fdb03aff241ef601b5fd72f71c528064f0723f2a207581c724b2bf9ffed244a5"
+    },
+    {
+      "path": "configs/sequential_small_turn_repairs_v1.json",
+      "size_bytes": 1558,
+      "sha256": "0600a43389b5e628a24405bc664a0f1dea85e3f450699d3231250a4cdea3f6a6"
+    },
+    {
+      "path": "docs/RELIABILITY_WEIGHTED_YAW_PROTOCOL_V1.md",
+      "size_bytes": 6984,
+      "sha256": "dae05ea20c46479d58f2f3fd44b70527f4748a1bf09fda0e06b235c60c35c476"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/build.json",
+      "size_bytes": 411,
+      "sha256": "199c8add717ecc92415ee76b9f81e82225370f30e68d502b481aea88db249ace"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/methods/renderer.so",
+      "size_bytes": 11736,
+      "sha256": "2fc169c9b7e6e8359da448e985ae1f8e2543ce81774a1d74aaa11c671e4dab62"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/plans.json",
+      "size_bytes": 67835,
+      "sha256": "817f42b9053e2ffc24f3aba4e6d7b0a35683cc0383463460ab51176882b398c7"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/scenes.json",
+      "size_bytes": 22398,
+      "sha256": "a3166b7e713cdcab102878021abf349d1c2049b5feb2817e67d21df6d1f8c404"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/seed_audit.json",
+      "size_bytes": 1502,
+      "sha256": "f4fd846ee2359372110184deedd22a4db3e549362b06b429e8c466528f8cc93d"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c00_A.json",
+      "size_bytes": 6652,
+      "sha256": "b8109dfd2d39c40a9e9f264f7690daa09cdce6af0948fa35af6d509855fe4a6d"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c01_A.json",
+      "size_bytes": 10155,
+      "sha256": "d870f9fb3e2f99e0b8f15a3efc6b772a5e06c821460042a53fad12c9f4af2057"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c02_A.json",
+      "size_bytes": 6660,
+      "sha256": "6ebc8102be94a180230c466b2bccb3e8aa2cd42d6384114542f7003b63fb4a50"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c03_A.json",
+      "size_bytes": 10169,
+      "sha256": "0efe4741e692ee48ed07daf2dbcdbfc1bbb3df8d0eac7211e61717a62907d686"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c04_A.json",
+      "size_bytes": 6642,
+      "sha256": "863a64d716fbe66a3753e0b250f9fd517e79c28b1ba94c4ccf43a0f3ca40cde9"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c05_A.json",
+      "size_bytes": 10133,
+      "sha256": "fd9f0bb8cc0cc2b4c1ebc75752427ced4b71c8e560f6ced20ea4d6e4cf3caa49"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c06_A.json",
+      "size_bytes": 6625,
+      "sha256": "93800f69f2f135f2b95a96f635abfa980b477a1e80576859f5092add46910b2a"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c07_A.json",
+      "size_bytes": 10142,
+      "sha256": "4aa022f06c654dfdd644d21dd03774bfdbcdde1465313d891bfb47a450ed45fc"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c08_A.json",
+      "size_bytes": 6653,
+      "sha256": "5d1ed30c7d5690e81295cf20a88dc7c6991474e6bbf4375e9f83a01401f5f247"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c09_A.json",
+      "size_bytes": 10154,
+      "sha256": "be8ee91960b445ea9f7982d0814b0afe902a4c6bd12ce15ec50197dc07a5e6bc"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c10_A.json",
+      "size_bytes": 6657,
+      "sha256": "b5ab4f6de1cf16699f838f0ea3105ff3cb65d564ae446866a8a1cb8f6a193467"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/c11_A.json",
+      "size_bytes": 10187,
+      "sha256": "3525d3be92c48e01ded6522e5b4c2b98e8d042b75e1dd7cddb240ff0ecfcb1b1"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f00_A.json",
+      "size_bytes": 6657,
+      "sha256": "e0d0e1fbd558a3677197070af5b76cc09f475ac4eca8af4ddb7507aafa835c75"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f01_A.json",
+      "size_bytes": 10135,
+      "sha256": "ab670deea6c8fe233e1cb29a3d4644b3fede1b32742bf1f792fdf5c22014a63e"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f02_A.json",
+      "size_bytes": 6653,
+      "sha256": "b8f6abb112457de4c6673037cfa38d65ab3e364aa9066a6138937f613c707b5b"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f03_A.json",
+      "size_bytes": 10160,
+      "sha256": "72ba02fa3991e9e629bd305ce5b9ab7b1b78e28ad31bd4c3c56fe709f8c88fe8"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f04_A.json",
+      "size_bytes": 6636,
+      "sha256": "1622778cf4a9c7caec2c937967ae248ffc9d82259c3dabaaf242ab775516736b"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f05_A.json",
+      "size_bytes": 10137,
+      "sha256": "704bc41d4185d8585e8ca7d67078a0cd71e2ca386427f707642540c8ff999bc0"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f06_A.json",
+      "size_bytes": 6641,
+      "sha256": "eb967ce360b1bf0dd9cc2795bcaf902ea10c1a4322cdd7693214e1eadb2410d1"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/f07_A.json",
+      "size_bytes": 10172,
+      "sha256": "7c3bb92aa137ef7871970be6308b8312153af100040c8c3b53bd56434f246df4"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q00_A.json",
+      "size_bytes": 6673,
+      "sha256": "5cf04e650a4716a7e7ab48d88d9b03e39552309b249bf561c6fdc14a1bbc7aef"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q01_A.json",
+      "size_bytes": 10168,
+      "sha256": "b7f5061fd68f664e592625e3f1a356412ebbab81a63c85406bc1ce735692ebc4"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q02_A.json",
+      "size_bytes": 6651,
+      "sha256": "fb578ad0b9477049cde7058c567dc64c8caec6c4a5f08c81f3044b3e53bc66c0"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q03_A.json",
+      "size_bytes": 10145,
+      "sha256": "900c5a3c859d160808edf3b42a5483c751372210c0801a139a7d2a58a589a37a"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q04_A.json",
+      "size_bytes": 6666,
+      "sha256": "3ce0e07d794e85c3f3d1008674e06f7348b869898f9be94fb24f68b03a25f7ce"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q05_A.json",
+      "size_bytes": 10159,
+      "sha256": "e186fe9bb009e1972e930fbacb31b0f44b095301f4eaf74c0828d9a343d7257b"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q06_A.json",
+      "size_bytes": 6659,
+      "sha256": "90db777f0c148a1131494d39e2493150a3078e50bb28e5bd77caf9e49c05d18f"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q07_A.json",
+      "size_bytes": 10134,
+      "sha256": "318f7cfa7daf5077fae3bcf3833cc7945796b578fda0d0dcba68558965dbaccb"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q08_A.json",
+      "size_bytes": 6631,
+      "sha256": "0f48cdfadf5592379cf8a4552a365dcfc921b553c7ec72afd24b46d0de3b25ef"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q09_A.json",
+      "size_bytes": 10157,
+      "sha256": "5c83e25914bbb2813b0b5b55fd0b5f406a6dbdceb1856dc5cd4d179e1e15de23"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q10_A.json",
+      "size_bytes": 6670,
+      "sha256": "6caadf9a76cac983cad1b890ccc0a8c63315d6c09bb3b76a956cdb78641921a0"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q11_A.json",
+      "size_bytes": 10163,
+      "sha256": "3f5652a5c5cf3610b8c94397a5d69635552756c279d4a9295f08726953b7717e"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q12_A.json",
+      "size_bytes": 6664,
+      "sha256": "b09fff988506e476f55a2e38998a69488e62e761c8e250a610aae5e1c4e608d5"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q13_A.json",
+      "size_bytes": 10151,
+      "sha256": "652af9e316f15c63e699fbaf10d7ce3756a835c7fff812373257684ef4a25dfc"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q14_A.json",
+      "size_bytes": 6646,
+      "sha256": "ee24fb3cdeebb1206fc928da3394edc1e3168774a5031490df27bd017dcce4da"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q15_A.json",
+      "size_bytes": 10155,
+      "sha256": "582e308f365fde42210939ef07bdd0b94b54f04b3290ed8ce2d57886cb35fe36"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q16_A.json",
+      "size_bytes": 6656,
+      "sha256": "b61eef781a0ee4605e41daba6c2af9929fe85467b37e36aa455588b1c42df740"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q17_A.json",
+      "size_bytes": 10153,
+      "sha256": "ede72e0ed9ff158136cc8f0d7559290c7fb371708fe309fef681dfaffe370126"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q18_A.json",
+      "size_bytes": 6649,
+      "sha256": "db390a9427588cb29e38b18ea37ccf8e26b9357496dc89cd5244047831bd5eb4"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q19_A.json",
+      "size_bytes": 10146,
+      "sha256": "cb5d864eddba414521cc7221466cd2fcc95adefe13da5e63c87fcde4f7d4858a"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q20_A.json",
+      "size_bytes": 6623,
+      "sha256": "8c7f5c425eff871d19b1325042f564d0c7306e7454054eaa6f1d29c0d9ecc6c2"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q21_A.json",
+      "size_bytes": 10175,
+      "sha256": "f9b2d3d1f1908237ac7cefda28fba98eac85116221751225347ba40a7df97c59"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q22_A.json",
+      "size_bytes": 6674,
+      "sha256": "529f9c9809351e035af43b81b493a3f1ce7aa2a9c262da0aea8dd731224e4fd1"
+    },
+    {
+      "path": "results/reliability_weighted_yaw_v1/worlds/q23_A.json",
+      "size_bytes": 10154,
+      "sha256": "cbdf7784c5352f0e3ca38ca2704ffd2cdc6730603bd73128a27c890ecb75d8cf"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/calibration/frontend.json",
+      "size_bytes": 1856,
+      "sha256": "3d5c2eb25f00ef2df840ce57af1755f8ea6af194dedb4086a854726266f392f6"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/completion_v1/artifact_index.json",
+      "size_bytes": 1231285,
+      "sha256": "9feb7a8d19ee12c105e554ea84d61fbd6b6efe6c2a603208b2d92166611990e2"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/plans.json",
+      "size_bytes": 67835,
+      "sha256": "b4fa2128a20ee591c64de03613729737adb6d3e6a8c2b025ba97bf9130e526da"
+    },
+    {
+      "path": "scripts/matched_motion_encoding_control_v1.py",
+      "size_bytes": 8810,
+      "sha256": "0667274db23b9c61bc3e2cc7f6ad4cb3df5cd7808456babe9a99e148cc61c968"
+    },
+    {
+      "path": "scripts/published_circuit_comparison_v1.py",
+      "size_bytes": 16407,
+      "sha256": "8fad3e35ac0b58faf4aa8df52b3724bd2d1208398348e05c2dfc4d90aef75fe9"
+    },
+    {
+      "path": "scripts/reliability_weighted_yaw_v1.py",
+      "size_bytes": 22604,
+      "sha256": "d1445815d830211e51c0cad66dc2cad4c5ee96a20ef8b164208615aa7bf7c44d"
+    },
+    {
+      "path": "scripts/review_reliability_weighted_yaw_v1.py",
+      "size_bytes": 12023,
+      "sha256": "2a98d8f7baf668e3f464c6e997dc7bb5c1c3471a9408d70c142466d0e180c265"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "size_bytes": 1583,
+      "sha256": "d3bc2a05220c9906c5801d03347b6e7e6e10baaf738458244ac566ca9193f577"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/reliability_weighted_yaw_v1.py",
+      "size_bytes": 5517,
+      "sha256": "ec843ec5724a9ea58ee1b488d4e0042eda6d283cfa8008b146a8001c906973c7"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v1.py",
+      "size_bytes": 4943,
+      "sha256": "6eeeb762940f96132ee191a8a9730ed1c232af6fd2f8dfc7fd932a51f64ea4e6"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v2.py",
+      "size_bytes": 3894,
+      "sha256": "dadea43d9d90ecf5e3c246dd6590ea0b8cc0050a5263bab5f1a494e072c1e71d"
+    },
+    {
+      "path": "src/male_optic_frontend/sequential_repairs_v1.py",
+      "size_bytes": 7267,
+      "sha256": "09c0e546ecbcba1958cdb2bcae6357e27b665a8395f70456e6b1ed68c82f8b85"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    }
+  ]
+}

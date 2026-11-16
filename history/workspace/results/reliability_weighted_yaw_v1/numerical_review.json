@@ -1,0 +1,1632 @@
+{
+  "utc": "2026-10-27T02:04:29.061714+00:00",
+  "implementation_checks_pass": true,
+  "archived_parity": [
+    {
+      "key": "c00_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c00_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c00_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c01_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c01_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c01_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c02_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c02_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c02_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c03_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c03_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c03_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c04_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c04_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c04_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c05_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c05_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c05_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c06_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c06_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c06_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c07_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c07_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c07_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c08_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c08_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c08_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c09_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c09_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c09_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c10_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c10_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c10_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c11_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c11_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "c11_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v0_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v11_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v11_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v11_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v11_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v5.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v5.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v5.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v5.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v0_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v11_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v11_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v11_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v11_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v16.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v16.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v16.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v16.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v5.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v5.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v5.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f01_v5.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v0_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v11_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v11_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v11_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v11_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v16.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v16.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v16.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v16.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v5.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v5.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v5.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f02_v5.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v0_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v11_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v11_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v11_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v11_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v16.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v16.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v16.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v16.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v5.5_y+2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v5.5_y+5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v5.5_y-2",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f03_v5.5_y-5",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f04_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f04_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f04_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f05_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f05_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f05_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f06_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f06_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f06_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f07_v11_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f07_v16.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f07_v5.5_y+0",
+      "profile": "primary",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "source_error": 0.0,
+      "source_exact": true,
+      "old_spatial_error": 0.0,
+      "dense_error": 0.0,
+      "passed": true
+    }
+  ],
+  "geometry": [
+    {
+      "side": "L",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "analytic_error": 1.4308705141094173e-13,
+      "finite_difference_error": 2.911449143994105e-07,
+      "passed": true
+    },
+    {
+      "side": "L",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "analytic_error": 8.126832540256146e-14,
+      "finite_difference_error": 1.5561454347334802e-07,
+      "passed": true
+    },
+    {
+      "side": "L",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "analytic_error": 1.2256862191861728e-13,
+      "finite_difference_error": 5.012874169096904e-07,
+      "passed": true
+    },
+    {
+      "side": "L",
+      "speed": 0.0,
+      "yaw": 5.0,
+      "analytic_error": 3.552713678800501e-15,
+      "finite_difference_error": 1.4113474833266082e-09,
+      "passed": true
+    },
+    {
+      "side": "R",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "analytic_error": 9.233003024391442e-14,
+      "finite_difference_error": 3.103347410160495e-07,
+      "passed": true
+    },
+    {
+      "side": "R",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "analytic_error": 1.0169642905566434e-13,
+      "finite_difference_error": 1.4790870750402973e-07,
+      "passed": true
+    },
+    {
+      "side": "R",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "analytic_error": 1.851852005074761e-13,
+      "finite_difference_error": 2.7725064910555375e-07,
+      "passed": true
+    },
+    {
+      "side": "R",
+      "speed": 0.0,
+      "yaw": 5.0,
+      "analytic_error": 2.6645352591003757e-15,
+      "finite_difference_error": 9.826539582036276e-10,
+      "passed": true
+    }
+  ],
+  "tensor_checks": [
+    {
+      "pattern": "flat",
+      "maximum_confidence": 0.0,
+      "stationary_velocity_error": 0.0,
+      "passed": true
+    },
+    {
+      "pattern": "edge",
+      "maximum_confidence": 0.0,
+      "stationary_velocity_error": 0.0,
+      "passed": true
+    },
+    {
+      "pattern": "texture",
+      "maximum_confidence": 0.24978443844342743,
+      "stationary_velocity_error": 5.418870511198252e-13,
+      "passed": true
+    },
+    {
+      "pattern": "contrast_scale_invariance",
+      "maximum_error": 1.5543122344752192e-15,
+      "passed": true
+    },
+    {
+      "pattern": "independent_derivative_convolution",
+      "maximum_error": 7.355227538141662e-16,
+      "passed": true
+    },
+    {
+      "pattern": "median_weight_scale_invariance",
+      "passed": true
+    }
+  ],
+  "renderer": [
+    {
+      "key": "f00_v16.5_y+0",
+      "side": "L",
+      "time": 0.7,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "side": "L",
+      "time": 1.0,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "side": "L",
+      "time": 1.39,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "side": "R",
+      "time": 0.7,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "side": "R",
+      "time": 1.0,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "side": "R",
+      "time": 1.39,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "side": "L",
+      "time": 0.7,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "side": "L",
+      "time": 1.0,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "side": "L",
+      "time": 1.39,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "side": "R",
+      "time": 0.7,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "side": "R",
+      "time": 1.0,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "side": "R",
+      "time": 1.39,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "side": "L",
+      "time": 0.7,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "side": "L",
+      "time": 1.0,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "side": "L",
+      "time": 1.39,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "side": "R",
+      "time": 0.7,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "side": "R",
+      "time": 1.0,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "side": "R",
+      "time": 1.39,
+      "image_error": 0.0,
+      "depth_error": 0.0,
+      "surface_exact": true,
+      "archive_image_error": 0.0,
+      "passed": true
+    }
+  ],
+  "sampling": [
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "method": "registered_uniform",
+      "primary": -0.02403473342129919,
+      "finer": 0.007328105666994701,
+      "error_deg_s": 0.03136283908829389,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "method": "registered_confidence",
+      "primary": 0.007725878535026221,
+      "finer": 0.07046907274137491,
+      "error_deg_s": 0.06274319420634869,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "method": "lattice_uniform",
+      "primary": 0.12723683139203315,
+      "finer": 0.10318183020493446,
+      "error_deg_s": 0.02405500118709869,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "method": "lattice_confidence",
+      "primary": 0.050502330189169366,
+      "finer": 0.10501865360164225,
+      "error_deg_s": 0.05451632341247289,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "method": "dense_confidence",
+      "primary": -0.014812848050928392,
+      "finer": 0.057890303002428936,
+      "error_deg_s": 0.07270315105335733,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "method": "registered_uniform",
+      "primary": -0.02403473342129919,
+      "finer": -0.01460650117615125,
+      "error_deg_s": 0.009428232245147938,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "method": "registered_confidence",
+      "primary": 0.007725878535026221,
+      "finer": 0.007262519330653364,
+      "error_deg_s": 0.0004633592043728563,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "method": "lattice_uniform",
+      "primary": 0.12723683139203315,
+      "finer": 0.1175389749957602,
+      "error_deg_s": 0.00969785639627295,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "method": "lattice_confidence",
+      "primary": 0.050502330189169366,
+      "finer": 0.04286773710560982,
+      "error_deg_s": 0.007634593083559543,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "method": "dense_confidence",
+      "primary": -0.014812848050928392,
+      "finer": -0.018189022430045082,
+      "error_deg_s": 0.0033761743791166903,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "method": "registered_uniform",
+      "primary": -2.0115696171993735,
+      "finer": -1.991254651689941,
+      "error_deg_s": 0.02031496550943257,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "method": "registered_confidence",
+      "primary": -2.002457348136136,
+      "finer": -1.9228323664352485,
+      "error_deg_s": 0.07962498170088761,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "method": "lattice_uniform",
+      "primary": -1.9207912552570126,
+      "finer": -1.883249846308094,
+      "error_deg_s": 0.03754140894891855,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "method": "lattice_confidence",
+      "primary": -1.915622740198117,
+      "finer": -1.867806788751159,
+      "error_deg_s": 0.04781595144695805,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "method": "dense_confidence",
+      "primary": -2.0499168886515062,
+      "finer": -1.9239895085431502,
+      "error_deg_s": 0.12592738010835602,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "method": "registered_uniform",
+      "primary": -2.0115696171993735,
+      "finer": -2.00532184485329,
+      "error_deg_s": 0.0062477723460836465,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "method": "registered_confidence",
+      "primary": -2.002457348136136,
+      "finer": -1.9904219180837674,
+      "error_deg_s": 0.012035430052368623,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "method": "lattice_uniform",
+      "primary": -1.9207912552570126,
+      "finer": -1.9244672945896337,
+      "error_deg_s": 0.0036760393326211727,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "method": "lattice_confidence",
+      "primary": -1.915622740198117,
+      "finer": -1.923374089587765,
+      "error_deg_s": 0.0077513493896479435,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "method": "dense_confidence",
+      "primary": -2.0499168886515062,
+      "finer": -2.046218716642976,
+      "error_deg_s": 0.003698172008530065,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "method": "registered_uniform",
+      "primary": 2.0362267406310957,
+      "finer": 1.9930308648674766,
+      "error_deg_s": 0.04319587576361905,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "method": "registered_confidence",
+      "primary": 2.019681845327991,
+      "finer": 2.0428236523671686,
+      "error_deg_s": 0.023141807039177564,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "method": "lattice_uniform",
+      "primary": 2.1230415793236554,
+      "finer": 2.0274199895430485,
+      "error_deg_s": 0.09562158978060697,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "method": "lattice_confidence",
+      "primary": 1.9802191449591586,
+      "finer": 2.0549686120050294,
+      "error_deg_s": 0.07474946704587082,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "method": "dense_confidence",
+      "primary": 1.9965127366261288,
+      "finer": 2.026476362060609,
+      "error_deg_s": 0.02996362543448039,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "method": "registered_uniform",
+      "primary": 2.0362267406310957,
+      "finer": 2.0373898248260667,
+      "error_deg_s": 0.0011630841949710202,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "method": "registered_confidence",
+      "primary": 2.019681845327991,
+      "finer": 2.0119255674558985,
+      "error_deg_s": 0.007756277872092543,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "method": "lattice_uniform",
+      "primary": 2.1230415793236554,
+      "finer": 2.1054875491411806,
+      "error_deg_s": 0.01755403018247481,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "method": "lattice_confidence",
+      "primary": 1.9802191449591586,
+      "finer": 1.9826215261279656,
+      "error_deg_s": 0.0024023811688069774,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "method": "dense_confidence",
+      "primary": 1.9965127366261288,
+      "finer": 2.00493321575502,
+      "error_deg_s": 0.0084204791288911,
+      "passed": true
+    }
+  ],
+  "sampling_pass_by_method": {
+    "registered_uniform": true,
+    "registered_confidence": true,
+    "lattice_uniform": true,
+    "lattice_confidence": true,
+    "dense_confidence": true
+  },
+  "scope": "Three predeclared known rooms/conditions, not a uniform test-set accuracy guarantee",
+  "no_neural_ODE_or_solver_changed": true,
+  "physiological_validation": false
+}

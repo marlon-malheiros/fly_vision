@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "frozen_files_checked": 31,
+  "scalar_image_samples_checked": 810,
+  "scalar_image_max_error": 1.1102230246251565e-16,
+  "independent_candidate_assessments": 135000,
+  "all_27_summary_counts_match": true,
+  "example_statistic_max_error": 3.410605131648481e-13,
+  "scope": "numerical and statistical replay; no biological validation"
+}

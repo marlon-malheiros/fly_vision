@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "source_bit_identical": true,
+  "retina_checkpoints_bit_identical": true,
+  "network_max_error": 0.0,
+  "independent_direct_luminance_max_error": 0.0,
+  "checked_direct_rays": 1680
+}

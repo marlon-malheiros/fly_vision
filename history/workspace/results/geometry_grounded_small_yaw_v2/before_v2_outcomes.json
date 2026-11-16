@@ -1,0 +1,58 @@
+{
+  "utc": "2026-10-25T15:00:01.090318+00:00",
+  "previous_pilots_known": true,
+  "unused_rooms_not_generated": true,
+  "source_neural_models_unchanged": true,
+  "files": [
+    {
+      "path": "configs/geometry_grounded_small_yaw_v2.json",
+      "size_bytes": 1598,
+      "sha256": "307311f855198c5c56491c854d419c80365c6bdc504251e24a17ebe1c2489f5f"
+    },
+    {
+      "path": "docs/GEOMETRY_GROUNDED_SMALL_YAW_AMENDMENT_V2.md",
+      "size_bytes": 3372,
+      "sha256": "e29abf5e199b26d04a1a9403e2b2a6447ddc6d9782d3694a11093ce3ee9899d1"
+    },
+    {
+      "path": "scripts/geometry_grounded_small_yaw_v2.py",
+      "size_bytes": 5477,
+      "sha256": "75bba52e7a89ca2cff0557dff3ebaceb3b186079d9ad449e17ec93ea24dccccd"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v2.py",
+      "size_bytes": 3894,
+      "sha256": "dadea43d9d90ecf5e3c246dd6590ea0b8cc0050a5263bab5f1a494e072c1e71d"
+    },
+    {
+      "path": "scripts/check_small_yaw_kernel_acceleration_v2.py",
+      "size_bytes": 2600,
+      "sha256": "b4dcbdf980cb11eb8a701bdb5a63d9e2639579575b319203604ce18e59b23999"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v1/kernel_acceleration_review_v2.json",
+      "size_bytes": 1680,
+      "sha256": "f996b1350c3f59e4eef2d56789478ecc7858bfb69b8d55bb4a16e69170be65f7"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v1/before_predictions.json",
+      "size_bytes": 195491,
+      "sha256": "a2faa525291b1d8004ca158178be35326588af58cc50c5086156c7adf45f2b50"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/before_predictions.json",
+      "size_bytes": 195491,
+      "sha256": "5a2e29e638c2f9f1f541ad01de5fdbf9ba6da08c51e5170d925c76d00b20404c"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/methods/neural_fast_v2.so",
+      "size_bytes": 16464,
+      "sha256": "569115f620bd921f884bd65f126f352a0f936cd334c18bc3cd7b16d1e1acfc94"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/h2_reuse.json",
+      "size_bytes": 92472,
+      "sha256": "48de34c4fd4726ccef8374f46434639f375ad10d7f32e5abf1bdecd05dee607c"
+    }
+  ]
+}

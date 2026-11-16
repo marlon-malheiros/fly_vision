@@ -1,0 +1,153 @@
+{
+  "utc": "2026-10-27T20:39:06.436648+00:00",
+  "files": [
+    {
+      "path": "configs/biological_selectivity_benchmark_v1.json",
+      "size_bytes": 1463,
+      "sha256": "8f00ca962c6054bf3132379a8f993c85bb3cd3b3796cb834eeadaed58ea4acf4"
+    },
+    {
+      "path": "docs/BIOLOGICAL_SELECTIVITY_BENCHMARK_PROTOCOL_V1.md",
+      "size_bytes": 7953,
+      "sha256": "7fd6b79bddefcef27dd238538c13c5a8cf66bf97c4b3d82224afb5fff69b475f"
+    },
+    {
+      "path": "scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "scripts/review_biological_selectivity_v1.py",
+      "size_bytes": 9076,
+      "sha256": "a3f5ba2f9f1cc277e286d21457a818bdd0c4c54188d0c84d326b2070d207f9c7"
+    },
+    {
+      "path": "tests/test_biological_selectivity_v1.py",
+      "size_bytes": 2180,
+      "sha256": "d3419feee74c5f26248f405d384bb6a622d1e9545fe405b0af75e5cec2910375"
+    },
+    {
+      "path": "src/male_optic_frontend/biological_selectivity_v1.py",
+      "size_bytes": 4116,
+      "sha256": "df7cc796fe7e2a767d749a518703561bebcfe578c546e0583d306e40ef0e5138"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/sessions.json",
+      "size_bytes": 419331,
+      "sha256": "96d9ed20da1ab1e54fa21683b290c6f86686a41de1ac05f3b5d83e95cf3cd6e6"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/metadata_exclusions.json",
+      "size_bytes": 448,
+      "sha256": "dd7c3fe713cb5b31b6c7caf0985f3abc17fc956b53e913b6d5b79309d499c86b"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/plans.json",
+      "size_bytes": 4323,
+      "sha256": "c1db826e54b9af8f160fb7ce4f49df9751c5b78eab5b447be0dcd48f4725303c"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/exposure_and_split_audit.json",
+      "size_bytes": 1127,
+      "sha256": "b8f85ebe2ac7a6d086de156cf9729299fa67103ad6d40c5422ef560e87f0d297"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/build.json",
+      "size_bytes": 406,
+      "sha256": "1c0b61fc4e1f6d396f55e66e37e582d05ebb644bdefde4c6d9ba353301b2c6d7"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/methods/neural.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/preflight_tests.log",
+      "size_bytes": 98,
+      "sha256": "9c714207acdb4637742c0d3473ba4d87be7b978f65d5b0063c39ad919e6fa9d7"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/plans.json",
+      "size_bytes": 430231,
+      "sha256": "0f0cc72d65926d951b4fbadb384cf14fabfc90b72fc6fa9f8da8495969cac8b4"
+    },
+    {
+      "path": "results/validation_hardware_v1/speed_tuning_source_audit_v1/sessions.json",
+      "size_bytes": 197331,
+      "sha256": "a37c432d943132ae1337ab6a04d2dc57872a586e9a4174bf2b8ca6e576ba12cd"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/code/scripts/matlab/PaperFiguresImaging.m",
+      "size_bytes": 375695,
+      "sha256": "19983ab9378bce5ec975be07fe11dfd08ae246c52dd4213338b5e6817b9f7d17"
+    }
+  ],
+  "new_simulation_outcomes_inspected": false,
+  "new_observation_fits_inspected": false,
+  "physiological_test_animals_previously_inspected": true
+}

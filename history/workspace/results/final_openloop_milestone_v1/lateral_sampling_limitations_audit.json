@@ -1,0 +1,93 @@
+{
+  "utc": "2026-10-29T21:22:16.127580+00:00",
+  "stage": "metadata-only audit during held-out execution; no response outcomes inspected or criteria changed",
+  "neuron_side_counts": [
+    {
+      "role": "bips",
+      "side": "L",
+      "cells": 1
+    },
+    {
+      "role": "bips",
+      "side": "R",
+      "cells": 1
+    },
+    {
+      "role": "dnp15",
+      "side": "L",
+      "cells": 1
+    },
+    {
+      "role": "dnp15",
+      "side": "R",
+      "cells": 1
+    },
+    {
+      "role": "h2",
+      "side": "L",
+      "cells": 1
+    },
+    {
+      "role": "h2",
+      "side": "R",
+      "cells": 1
+    },
+    {
+      "role": "h2rn",
+      "side": "L",
+      "cells": 4
+    },
+    {
+      "role": "h2rn",
+      "side": "R",
+      "cells": 4
+    },
+    {
+      "role": "hs",
+      "side": "L",
+      "cells": 4
+    },
+    {
+      "role": "hs",
+      "side": "R",
+      "cells": 4
+    },
+    {
+      "role": "lpi",
+      "side": "L",
+      "cells": 3
+    },
+    {
+      "role": "lpi",
+      "side": "R",
+      "cells": 3
+    },
+    {
+      "role": "ulptcrn",
+      "side": "L",
+      "cells": 8
+    },
+    {
+      "role": "ulptcrn",
+      "side": "R",
+      "cells": 9
+    }
+  ],
+  "scene_patterns": [
+    {
+      "lateral_signs": [],
+      "rooms": 42
+    },
+    {
+      "lateral_signs": [
+        1,
+        -1,
+        1
+      ],
+      "rooms": 42
+    }
+  ],
+  "mirror_balanced": false,
+  "interpretation": "raw lateral differences can reflect scene pattern and anatomical selection; paired model-copy interventions retain identical inputs",
+  "inputs_and_acceptance_unchanged": true
+}

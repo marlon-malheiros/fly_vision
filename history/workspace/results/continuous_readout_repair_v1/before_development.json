@@ -1,0 +1,1083 @@
+{
+  "utc": "2026-10-30T18:03:19.502535+00:00",
+  "files": [
+    {
+      "path": "configs/continuous_readout_repair_v1.json",
+      "size_bytes": 696,
+      "sha256": "89b9aad7cd8d0ec3b4b06fee09dad414416e07df86a83a4719ab31c3f3f4ad0d"
+    },
+    {
+      "path": "configs/final_openloop_milestone_v1.json",
+      "size_bytes": 771,
+      "sha256": "01a4c29008d183ff3e748692e6240ef0938e0e63d03a0d0717092e9dcf1cfa3c"
+    },
+    {
+      "path": "docs/CONTINUOUS_READOUT_REPAIR_PROTOCOL_V1.md",
+      "size_bytes": 6840,
+      "sha256": "e3498fdb62019b58ce0b3cee7d14af2a8e6cf75ac9afd76bb9848a1fbe00fa34"
+    },
+    {
+      "path": "docs/FINAL_OPENLOOP_EXECUTION_PROTOCOL_V1.md",
+      "size_bytes": 7240,
+      "sha256": "0cd09c0b31fffa187dd1b2d8de8652f1c1cc371fe2a1f8bd7ad90e4ae8e0e075"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/geometry_audit.csv",
+      "size_bytes": 25394,
+      "sha256": "7ed48e265c2d310fa8247d66c4400e76888397924e95d5dbd37b4e9067c886cd"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/plans.json",
+      "size_bytes": 175899,
+      "sha256": "8e785d013100aabc2c1e7840a004ed4ce9533d1fcd9a1a8308478a76eed82285"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/scenes.json",
+      "size_bytes": 44032,
+      "sha256": "03543c4806dc57b5b2d68c608c3c9519a92171797845840a7f38c5cc1367f098"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/seed_audit.json",
+      "size_bytes": 2222,
+      "sha256": "c33aefc4d4f832b0a28ca5ca4f660a4ce077e0f05a09efc705fdb924380c47c7"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr00.json",
+      "size_bytes": 6659,
+      "sha256": "ebc9fc9e39bf1fcbabd00f680748a2903d008806560d7988ad902b09f048eeb0"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr01.json",
+      "size_bytes": 10179,
+      "sha256": "8da1785545da290b1b080ef283f14a11f0d326850a31d29cd9fceab5aa7845fe"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr02.json",
+      "size_bytes": 6664,
+      "sha256": "d29905cbaba190c49008d88f793e8857a77be503b0b7b1e9adc613c66543b398"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr03.json",
+      "size_bytes": 10170,
+      "sha256": "f81112100e0b14f95e54c8c6b162c90be1173ff4fb4a3c649cb60798d2480fce"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr04.json",
+      "size_bytes": 6668,
+      "sha256": "ccacfd29686c8e770235ddc9dc24780105d5b522d9d184e4208833f1d2fb483a"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr05.json",
+      "size_bytes": 10149,
+      "sha256": "d57d19437c5222e43c0ff904261b8e3a9ca89015a9e70ca78c06c8f9934f49d2"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr06.json",
+      "size_bytes": 6644,
+      "sha256": "796d4c630ff3b74ae8a006d252035ab041d43487ff2ea4ae89b102788338c060"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr07.json",
+      "size_bytes": 10143,
+      "sha256": "7106f6a3a80ddd5ad36efa3a6d0ca0b7555debe074e8a555d11e960fdeff1b68"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr08.json",
+      "size_bytes": 6675,
+      "sha256": "138c1da4a792adbee775c6c5e41d909c753d9b93edefac9380013a6e02e5012f"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr09.json",
+      "size_bytes": 10142,
+      "sha256": "67a8819e31a99f31884a29748e41c6f3d36dadc985ae9ed3d99c2ede3e81fbe0"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr10.json",
+      "size_bytes": 6668,
+      "sha256": "6195180d86093a91ad3d8dc8dadb16410e5287d08e509ccae54bb673b91ff589"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr11.json",
+      "size_bytes": 10168,
+      "sha256": "557cf6d95a7c430f5315ab093a9b9557fdce9b9b71fddae18398b3ecf6f432ee"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr12.json",
+      "size_bytes": 6659,
+      "sha256": "18947c15fe28cda055cf7034fe516eea85d3b56475c15d72f8500fd2e8953b11"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr13.json",
+      "size_bytes": 10152,
+      "sha256": "df3eee613deeddb5bec0b82a3f3e04f1b83a0d5d994b5af08e32ece680db52cb"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr14.json",
+      "size_bytes": 6667,
+      "sha256": "1f351dd91fb0f7a373af856b5f099f731523a66e36e7a90794e59875b7784cb8"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr15.json",
+      "size_bytes": 10174,
+      "sha256": "a8e7d79ae72bd47d2ef4b43e38dfebb18c7b4c8478dad49f528f759b040f71f1"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr16.json",
+      "size_bytes": 6651,
+      "sha256": "38f5d38fe72450f461683806106f2c5d1ff12c32870ff1685b9770a105236532"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr17.json",
+      "size_bytes": 10185,
+      "sha256": "a64c8af88bcf7f359d85b86d42811edc887e4c9eda86e18e372d7b808f031c3b"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr18.json",
+      "size_bytes": 6663,
+      "sha256": "388f7a5b6564e854f547ad01bef17283d8241deb860a021182a0825d2e8b5407"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr19.json",
+      "size_bytes": 10166,
+      "sha256": "ccf19b53a1751061c3e5a17df0cea4b6f98084c85aabc758796e5b0e87bf93a1"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr20.json",
+      "size_bytes": 6658,
+      "sha256": "bfa7f3994611651c1e6cab17b13ad333b650a7325d8aefea0c7a9fc224b36787"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr21.json",
+      "size_bytes": 10154,
+      "sha256": "bb70abe1aded36c4387ba2457b8c919c960e9e23c0334d588a43733593d812ed"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr22.json",
+      "size_bytes": 6645,
+      "sha256": "230b45d9271972eb2e59a6f3308764ea86c0f41b6c4689b736a2bdfe5ac468ff"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr23.json",
+      "size_bytes": 10147,
+      "sha256": "242fc433b7f3681b2feadede1ea153e9c60f3b75ff23b7a5fe580a66b2d39f2e"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr24.json",
+      "size_bytes": 6643,
+      "sha256": "950c00534a85306f12641f608e22d50559eb264b429cec601d53caf58a8c92c1"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr25.json",
+      "size_bytes": 10165,
+      "sha256": "ffc91259c9ea1d0a79fffb3f45024886d3f7c724ac4d6152761f6ffa196c15b1"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr26.json",
+      "size_bytes": 6643,
+      "sha256": "6ff4c32de325ef4a4974ba9612867d06b947db1aded9a542f255fafd2c9140e2"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr27.json",
+      "size_bytes": 10156,
+      "sha256": "fa32d08fed44a932d6bdcfa38df7332f5ad1fa243dd6ff1dda83476673b175c9"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr28.json",
+      "size_bytes": 6653,
+      "sha256": "d0c5360d4cceccfe7d59a696c42896d22274d7001e2cb6413363590ae4591258"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr29.json",
+      "size_bytes": 10162,
+      "sha256": "bdba5a43a38c09a0292af11354a6d3e535dd2e1191890d90b380f9091a44c4d7"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr30.json",
+      "size_bytes": 6640,
+      "sha256": "6de02fcb139cb41ad51f0424a75073bb433aa76068c6550cfcd8644b615ce018"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr31.json",
+      "size_bytes": 10158,
+      "sha256": "5ef5fabc0d225b6937a0400c1271f2a062675aeea4127b68879db1d90b1c13a6"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr32.json",
+      "size_bytes": 6666,
+      "sha256": "774c78a9f4ff8e420ceeb51960a6e7ececfa82454f5a1e61006fd26f80cedaa9"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr33.json",
+      "size_bytes": 10147,
+      "sha256": "bee556aa09a1ce840050a2df64cef6a867acf5f11f071ec4eac2d978a5fc96a7"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr34.json",
+      "size_bytes": 6652,
+      "sha256": "ca48f26230beae83ac8cf1b6f299c04fb3c3e7dbf11dc9b8a726c889b3566353"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr35.json",
+      "size_bytes": 10137,
+      "sha256": "c16a0650afb22e710bcd43f855507d39c9b8f9a0536dce9befef03b6209450db"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr36.json",
+      "size_bytes": 6635,
+      "sha256": "7733e9002a01faee8b2d4262d95118bb7a3d23035eb36a83853d9c800d3fe754"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr37.json",
+      "size_bytes": 10170,
+      "sha256": "d13fdb0fcdea2b350f440694d6fa790322203576cb3b748b7cee3ba3a5f7b11a"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr38.json",
+      "size_bytes": 6664,
+      "sha256": "3d2d7f295cb09e04e1f5633bcccca760a2647e58d5a5a33503cfb685f7dc9c25"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr39.json",
+      "size_bytes": 10157,
+      "sha256": "4170a5e86127012def93e9d7e67f522158ac9f09e0a2338b80805928be331f34"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr40.json",
+      "size_bytes": 6658,
+      "sha256": "710e745cd861797863d36a219f2bcc9e133e7a193df8ec0d48e0b0b98723d9a9"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr41.json",
+      "size_bytes": 10169,
+      "sha256": "22debc71fe0154ff9cc9737325d2fb63fa955df366cc31dd18923b4c657ba8cd"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr42.json",
+      "size_bytes": 6656,
+      "sha256": "01ccf6d74d9ca07456b3c925b8c64430bbc03ece1debaa01d6f3cf1facd5cec6"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr43.json",
+      "size_bytes": 10179,
+      "sha256": "2a36e448e22ba20c8982a3fc1c126539c6991b23704a4dca84a01bec699f7ae5"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr44.json",
+      "size_bytes": 6660,
+      "sha256": "d9bcadd781c2e429963a42eccbe78dd88aba58b9ca1d628731f81a34418c4d36"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr45.json",
+      "size_bytes": 10176,
+      "sha256": "254a5a7921e792dc75c63fadd0966d54e935f8749ddd1937eb733cbf4bb432c1"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr46.json",
+      "size_bytes": 6651,
+      "sha256": "fb5304ac3597498fd324c2961ec0d17ddfc7752e33ff6c0060bc628d651a084d"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr47.json",
+      "size_bytes": 10166,
+      "sha256": "c56eedf5403c86cb94ecc70557ece30a6f7333c9aa998100d8c9569329206289"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr48.json",
+      "size_bytes": 6653,
+      "sha256": "4a5316d782aee4cd3f685070f432a6069b245c953c0ac0f1770dc98ee716dfc8"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr49.json",
+      "size_bytes": 10163,
+      "sha256": "7f81cda14814af9f5891fe745fe1123f92a3e2c6df7c679d6f0d0469daf20433"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr50.json",
+      "size_bytes": 6650,
+      "sha256": "8045bb1ea641a090344cac6272d4a4e3aa9c8e570fbf52ec0e6466ed77b657c4"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr51.json",
+      "size_bytes": 10150,
+      "sha256": "3e06c69d3d0434a268c61efe67751ed4d72ea8f80c77ef7295a54ba32de00a9c"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr52.json",
+      "size_bytes": 6660,
+      "sha256": "88ffa8ecf82c8b4a4519bcb244f5be7afa700d3ccf7fb258eaa7cc3882fcc7c6"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr53.json",
+      "size_bytes": 10178,
+      "sha256": "bd3eac23654e3cbe90f6e4f0cb999c3c95088dd3f951d66cc9d3b7255ce88fcf"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr54.json",
+      "size_bytes": 6659,
+      "sha256": "38d2d37fa29c90da107a51ce4e019eade2cb1685a3ee8edce87e7032759b65ca"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr55.json",
+      "size_bytes": 10186,
+      "sha256": "614d0c2c210634559a207e375f5f57a4831767a06559cb87a52a81b69ede1997"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr56.json",
+      "size_bytes": 6666,
+      "sha256": "7a9cc2ae3c16acd8e108486e6b9c2801d679665b50b111fcb7e4a9da38ca02e7"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr57.json",
+      "size_bytes": 10164,
+      "sha256": "fb815dedef8517e421e7bcb23f2039203f887b668485af723245981dd8a072ba"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr58.json",
+      "size_bytes": 6627,
+      "sha256": "f6d473d32958bc9ad2ae0e8b902d3bcf6045f612a6e6c095b4759476ffdd7c04"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr59.json",
+      "size_bytes": 10173,
+      "sha256": "529a67e9f1c7960c05d0fff96500006f06483f4f0a6e5899b771522bd7fac418"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr60.json",
+      "size_bytes": 6649,
+      "sha256": "fecf71bbaf8a94546951f3d7b21255a4ee81de67529cca8e074754503cc6c898"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr61.json",
+      "size_bytes": 10158,
+      "sha256": "1f872bb988eb9432b66050656a86a23483151f0a26ac2261b292f0a5873329d3"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr62.json",
+      "size_bytes": 6664,
+      "sha256": "1e98a3baf8810e808649e9130676b4b63bf0a75af6a60b68b3a3b6b47291b57b"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr63.json",
+      "size_bytes": 10177,
+      "sha256": "9452d2e5f185719b3151c4f12b004efb19282cb765d0b8576803c03836091999"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr64.json",
+      "size_bytes": 6663,
+      "sha256": "24fe374315a1fc9154230af049aef4ec01c0ff3994ed83768666e00a6efa7a6c"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr65.json",
+      "size_bytes": 10156,
+      "sha256": "d107cb764ed124689f0d918110d61f5a42538bbaa18fdc0914eed1d2fb3a0eb5"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr66.json",
+      "size_bytes": 6667,
+      "sha256": "ab4d0557c229dc8fdee0e95196aad8c58544ee3c03543e2df4c896d0ad602c7c"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr67.json",
+      "size_bytes": 10169,
+      "sha256": "56e42e788f6a6a2fbda334198bb4236c520437f416b1a0c939bbbe66cff20e69"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr68.json",
+      "size_bytes": 6638,
+      "sha256": "829a91fc46b35bb24743423dd6e5e2c76281c922dd3cfbcd70adc200331184f2"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr69.json",
+      "size_bytes": 10165,
+      "sha256": "8adc5e53fc48a804d773c4e2830f9dd167939cafa2af77e6acf355d52d9cc844"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr70.json",
+      "size_bytes": 6644,
+      "sha256": "8f1665a28167f0b6c221396935b7ed53c31ab9e0c5a5eaff60bd37dff9abbb85"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr71.json",
+      "size_bytes": 10189,
+      "sha256": "c6e6cc23a51e62525aaf669f92d4684cbafda4d3c75ad48ac6c85091db1379a1"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr72.json",
+      "size_bytes": 6671,
+      "sha256": "7c9a4e0b07d5d65754a5ab6bbe22f7c488df76ee4861198a9522eee9bba026da"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr73.json",
+      "size_bytes": 10137,
+      "sha256": "de6f374ff04cca587293b040404a3ae1bc38951279c80355bdb0104f14619138"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr74.json",
+      "size_bytes": 6653,
+      "sha256": "5ee16130486e23b585a613996c9ff370c0b8687f86efdd7e7209129ee4ba2fbd"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr75.json",
+      "size_bytes": 10171,
+      "sha256": "1f10898b9159565cbf171a6a16adb849dd9042fa919214cb1bb8ca5baa368402"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr76.json",
+      "size_bytes": 6655,
+      "sha256": "6e9e30db5571459ce189dbb89c4507010e8f2a9a7619fbeb4ac1aac04367c56c"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr77.json",
+      "size_bytes": 10199,
+      "sha256": "1687f041bbc5739afe2f822967b81614a6bbd5bd4941d5546dbf8146d3630021"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr78.json",
+      "size_bytes": 6656,
+      "sha256": "eb10c2d10595c8957bc806d4f776a8056d1f9f1edb0e104fc6ef4999c1765b76"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr79.json",
+      "size_bytes": 10150,
+      "sha256": "193d5f22f20edba27a569253c42a097f04c7ab73f019e0efbd9bac577e365085"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr80.json",
+      "size_bytes": 6626,
+      "sha256": "032583ba9b512de4a27ca2a028a509d586f96f4f8051e2f5fd45b98839d2d87d"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr81.json",
+      "size_bytes": 10177,
+      "sha256": "b0b2fd226b17c122ffd829231d4129ff48e06a98a47b9bdbdfe13dfc28ad51c2"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr82.json",
+      "size_bytes": 6661,
+      "sha256": "9c48f81e7317c7edd4e7c305c8380554d7ab8dc9477999c2bbf49185e93dd4a5"
+    },
+    {
+      "path": "results/continuous_readout_repair_v1/worlds/rr83.json",
+      "size_bytes": 10178,
+      "sha256": "427217a9e7f6cc37f1c204f12875131a7c205bb5c2967ecbcb611220e9408c80"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/after_pilot_freeze.json",
+      "size_bytes": 22145,
+      "sha256": "ec5ab0227e3456c5d6fb9705ab7e46bd0c2ee186e9c4d29565e343fa20c978e3"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/methods/circuit.so",
+      "size_bytes": 24592,
+      "sha256": "e09085e5ed9bcc1f6277504f9e67e99eab4da651f3765e7e798cb27f09181d13"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/methods/renderer.so",
+      "size_bytes": 11736,
+      "sha256": "2fc169c9b7e6e8359da448e985ae1f8e2543ce81774a1d74aaa11c671e4dab62"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/readouts.json",
+      "size_bytes": 55070,
+      "sha256": "84256b87127e50eac2622bbbfe0d8c376159baf04ba6f61a40a34ebaa7e08fca"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/training_complete.json",
+      "size_bytes": 133,
+      "sha256": "1eed6f5c1a09d59b60892749fabe6b2c784e06ba31d52bd5fb71b27459bc5244"
+    },
+    {
+      "path": "scripts/analyze_final_openloop_v1.py",
+      "size_bytes": 10867,
+      "sha256": "bfecb6f0131c9a8e3f14c5517020269acc783364de2834f73da3a84af9ef1653"
+    },
+    {
+      "path": "scripts/continuous_readout_repair_v1.py",
+      "size_bytes": 21347,
+      "sha256": "63f90b7c6250c90099c87521d759c066d2b302fd8785f00d5926c154a1dbd163"
+    },
+    {
+      "path": "scripts/final_openloop_milestone_v1.py",
+      "size_bytes": 17273,
+      "sha256": "c7b746955315588de94e59cfddd77b2e0549628277897c50b5a9d95c889bf464"
+    },
+    {
+      "path": "scripts/replay_continuous_readout_v1.py",
+      "size_bytes": 1215,
+      "sha256": "3dbe3e5f59313070c1ce181cfd3c3d78db946d1b5d17bf982b8ed75a4e82f056"
+    },
+    {
+      "path": "scripts/review_final_openloop_v1.py",
+      "size_bytes": 9001,
+      "sha256": "56211b2bf007bebbccefbd3cd9f4d964f5744ca3890f22f081f6a170c0e33ac9"
+    },
+    {
+      "path": "src/male_optic_frontend/__init__.py",
+      "size_bytes": 104,
+      "sha256": "1a1b602c69967dfa8488e0f29612792da8cdde8dcbb76dbed499b827b4c0db79"
+    },
+    {
+      "path": "src/male_optic_frontend/agreement_yaw_v1.py",
+      "size_bytes": 2154,
+      "sha256": "1443faa1c491c3703efbc58d28bc9e433ee7cb1e2c08e8c20eea40b39a50eddf"
+    },
+    {
+      "path": "src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "src/male_optic_frontend/aperture_input.py",
+      "size_bytes": 3065,
+      "sha256": "b6b56a48c2274c7ce554236756287499e2355adc87fae9d1c644622e51b96acb"
+    },
+    {
+      "path": "src/male_optic_frontend/bar_stimulus.py",
+      "size_bytes": 5450,
+      "sha256": "9c2e4ca8dcda0cefb263e00e9b03c695df7c69505e5b1d285d25920a0981878a"
+    },
+    {
+      "path": "src/male_optic_frontend/biological_failure_localization_v1.py",
+      "size_bytes": 3234,
+      "sha256": "b45099a951ae67db4bf3989bd47b175e8e1a795ff9d4a8a5cf3dbbe013e0b197"
+    },
+    {
+      "path": "src/male_optic_frontend/biological_selectivity_v1.py",
+      "size_bytes": 4116,
+      "sha256": "df7cc796fe7e2a767d749a518703561bebcfe578c546e0583d306e40ef0e5138"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_clock_guard_v1.py",
+      "size_bytes": 13090,
+      "sha256": "5262d39f37290e2cbf40c1d57f9fbb80c6c34a15b5e33d640c935e857d277a96"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v3.py",
+      "size_bytes": 6713,
+      "sha256": "a0e762a1c3473517e5ac3c262559d3631d0a8227f3ccfa8ee8057f35558e3c2f"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v4.py",
+      "size_bytes": 6425,
+      "sha256": "0abf7e248faeec133191d794387364925665e3f55791f658c7fe5ff467982a3f"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v5.py",
+      "size_bytes": 4707,
+      "sha256": "4c56ffaddfce90a486477372b633ebffe86839392d599c2ef91b05a8af6167b6"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v6.py",
+      "size_bytes": 1771,
+      "sha256": "84c1f2c54fa2bc83eefb80372bae9c665cf7d9d461304de9c0e3fb74b19fcce7"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v8.py",
+      "size_bytes": 1189,
+      "sha256": "f06d55b873b76ac2f203c237b02b5068d03e29f59dd02087922b9c8a8f475ec4"
+    },
+    {
+      "path": "src/male_optic_frontend/cardinal_study.py",
+      "size_bytes": 2546,
+      "sha256": "eb98058b74b03653279a6c0cd355059a3f77b7554b6c36ccf4ddb180ad7876e5"
+    },
+    {
+      "path": "src/male_optic_frontend/causal_short_window_yaw_v1.py",
+      "size_bytes": 4844,
+      "sha256": "5cb783a12a8775290bcff6a4bd1889fef713dd012ee7fa05ae9294f962f2a600"
+    },
+    {
+      "path": "src/male_optic_frontend/checkpoint_comparison.py",
+      "size_bytes": 6056,
+      "sha256": "c6845da4b49672182523fe51db895e5b050fc2758adbffccf38338a424363da7"
+    },
+    {
+      "path": "src/male_optic_frontend/continuing_camera_v1.py",
+      "size_bytes": 6826,
+      "sha256": "5f4056b49a4a4b46155890b041e1cda35813de83bdb6ca4cfe90102f3fcd253b"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_readout_repair_v1.py",
+      "size_bytes": 3398,
+      "sha256": "ad012d42c7e17c13a327469e7f0fd36230a2012348c04bd5ec9959ff8c623170"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "size_bytes": 1583,
+      "sha256": "d3bc2a05220c9906c5801d03347b6e7e6e10baaf738458244ac566ca9193f577"
+    },
+    {
+      "path": "src/male_optic_frontend/current_clamp.py",
+      "size_bytes": 4303,
+      "sha256": "b6290930ff171a3ccbdfb38ca3e1602f90732a2abc2283b4011bd93b4b5ca7b1"
+    },
+    {
+      "path": "src/male_optic_frontend/current_clamp_v2.py",
+      "size_bytes": 4331,
+      "sha256": "9e58a35ee83a8317697379fe756d1a6abcc28ff06b0c2e474540a4ffb4b84093"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v1.py",
+      "size_bytes": 18506,
+      "sha256": "c923510f8ba715977cb7c704ad472111ba9b8dd798a1d8da1edc5f402f8d7cec"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v2.py",
+      "size_bytes": 9864,
+      "sha256": "453f6212e4300cb2976ad886defe61690bdf3c93f1ef62c677124fb29fe7d6f8"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v3.py",
+      "size_bytes": 5329,
+      "sha256": "93ec347bb5d4a17f48e70da959d45e2dae08cd4c88697f5df4b8093e8d97cf5c"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_frontend_v2.py",
+      "size_bytes": 3142,
+      "sha256": "ea7f96e231f29ef2b144869abe2fa53c53dba18e8c7824f760361228b9a2298e"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_frontend_v3.py",
+      "size_bytes": 667,
+      "sha256": "0e7c737336ff63d9b6a887400382cd529456e1f31ab39f0c9613c4888d4d21de"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_neural_v3.py",
+      "size_bytes": 867,
+      "sha256": "4ad5184815d103e3cb2c438c42c9faa8780168de4c9f704d8803a025505e8d45"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_neural_v4.py",
+      "size_bytes": 700,
+      "sha256": "af578d894ef2ef6a7890e971f4c220598b677a95562273bd2128b9307f062741"
+    },
+    {
+      "path": "src/male_optic_frontend/drive_adapter.py",
+      "size_bytes": 3353,
+      "sha256": "03ca124d5a32c58312aa87066f387530bc49ead0ca4cc00b500e6ea295adc064"
+    },
+    {
+      "path": "src/male_optic_frontend/edge_validation.py",
+      "size_bytes": 20274,
+      "sha256": "231d76e2d67ef108e0456454f246b63aa51b47b045d2e362aaa4183ac77e4d14"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_core_v1.cpp",
+      "size_bytes": 3242,
+      "sha256": "b82dd104ffb75d1d5c1e1fc8d06461de8f244124e51b4c302e5c3de5b4d6cf9e"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_v1.py",
+      "size_bytes": 6523,
+      "sha256": "6319db9e70cb1be83413dd6e95c1223209eb8674098eca5927580ee0cb701030"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_motion_stimuli.py",
+      "size_bytes": 2528,
+      "sha256": "491a2eb028bf0fd87d5dab84b51bf22249feed6e38111156c727915c15884f89"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/flow_clamp_interface_v2.py",
+      "size_bytes": 1452,
+      "sha256": "b1ea08ff2614f909d265b2992b70bfa38612580ae846e6e362321d77056e07c0"
+    },
+    {
+      "path": "src/male_optic_frontend/flyvis_backend.py",
+      "size_bytes": 12665,
+      "sha256": "ace1647be7c58e96d0f73002705f64b8f04a26fcc63a19af115f22fc3f6de3dc"
+    },
+    {
+      "path": "src/male_optic_frontend/flyvis_drive_adapter.py",
+      "size_bytes": 6432,
+      "sha256": "1b4587fcd875d4f2770a9bc5ca8d196d27571010bf790507e27edeb85db9c116"
+    },
+    {
+      "path": "src/male_optic_frontend/flyvis_t5_round4a.py",
+      "size_bytes": 6205,
+      "sha256": "e93cc9e98065fac535c55c834f53ad32818fbb665a01fdf0b16c9c8522f69465"
+    },
+    {
+      "path": "src/male_optic_frontend/frontend.py",
+      "size_bytes": 9163,
+      "sha256": "f997ddbc1ee2328c758a61c1683386c3e04eb4cef03a4fc11091f2d41b035aef"
+    },
+    {
+      "path": "src/male_optic_frontend/gruntman_cohort.py",
+      "size_bytes": 18577,
+      "sha256": "e93b0e051629baa837207979587dd7d85630731edc4267f8f1dce24e8d7a47cf"
+    },
+    {
+      "path": "src/male_optic_frontend/gruntman_t5.py",
+      "size_bytes": 10684,
+      "sha256": "4e902f06f92650c7e37849ea0ff28ee727aaff4afdc32c11383d0e04bf1694c4"
+    },
+    {
+      "path": "src/male_optic_frontend/h2_edge_arena_v1.py",
+      "size_bytes": 4383,
+      "sha256": "f23298b994ba356ef1050fcf7a5dc45f98280abd3cff5887c27b2521753218d2"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v1.py",
+      "size_bytes": 1793,
+      "sha256": "ceefa9da2b8c701571deda259b94c25a0a997e637c469fd22f4598a3c4369b9f"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v2.py",
+      "size_bytes": 946,
+      "sha256": "1f600f9f506d23ad1f4a8daef2be935a9f389140115152195e66bd463f740c38"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v3.py",
+      "size_bytes": 1503,
+      "sha256": "c00eef2aaba8781e6efca533a70ee79932cfccab8bc313dbe864bb802ba285ae"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_split_v1.py",
+      "size_bytes": 1379,
+      "sha256": "aeadf56447dc3dd1c09aca1f937f752712560107abccb92ccd2e1d9c80e10e63"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_v1.py",
+      "size_bytes": 4536,
+      "sha256": "01690d344d4146c6884814526fa1ed8cf34de1e3620724021f1aec44371b0904"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_v2.py",
+      "size_bytes": 7068,
+      "sha256": "412461ad5e46cc0df0c86afb892065fd932828031c233f106c993ac0579f625c"
+    },
+    {
+      "path": "src/male_optic_frontend/held_input_circuit_v1.py",
+      "size_bytes": 3341,
+      "sha256": "ea3412b584c054e728221822d241921c620e5d34f5400aa9ee1c915f276b3750"
+    },
+    {
+      "path": "src/male_optic_frontend/horizontal_opponency_v1.py",
+      "size_bytes": 1852,
+      "sha256": "7fb26af03c783e070ca4aac9e86df14b5b0977ca3b0f05205d901aeec7ddaecf"
+    },
+    {
+      "path": "src/male_optic_frontend/hybrid_yaw_monitor_v1.py",
+      "size_bytes": 1838,
+      "sha256": "1111d88500a26cbfdcceb387389b9dbf1ab27cc6bad9c21f95471f20c5df5cde"
+    },
+    {
+      "path": "src/male_optic_frontend/initialization_study.py",
+      "size_bytes": 7512,
+      "sha256": "0bc15c1f60104dd2c226e4eed8b4efce801a917dc9f2faa488efbe3b2757cfa5"
+    },
+    {
+      "path": "src/male_optic_frontend/legacy_bridge.py",
+      "size_bytes": 11345,
+      "sha256": "746c6da7e4966d9b284e5f54d55a43126377ac0d9ffc42bdf6428c991c4ad9fc"
+    },
+    {
+      "path": "src/male_optic_frontend/linear_response_attribution_v1.py",
+      "size_bytes": 3609,
+      "sha256": "210175b4aa43b5c3e12dabffb7dee26a1db5bbdda433d5d8c0a2e1c1d10dd2b7"
+    },
+    {
+      "path": "src/male_optic_frontend/lossless_storage_v2.py",
+      "size_bytes": 817,
+      "sha256": "7067bc1a2d5065d6b684a126141fe2528b73878c034234503e9beca8a7b68cc8"
+    },
+    {
+      "path": "src/male_optic_frontend/matched_edge_grating.py",
+      "size_bytes": 3885,
+      "sha256": "0feef65373073df010c46dd58aa937053bc02acd7b26c1b465e45bc92caffa0a"
+    },
+    {
+      "path": "src/male_optic_frontend/matlab_mcos_table_v1.py",
+      "size_bytes": 5187,
+      "sha256": "2ea11d0ddfb6e72089c92db59855b9975d17640d28a3f639fc3dc1ffc45e8598"
+    },
+    {
+      "path": "src/male_optic_frontend/matlab_mcos_table_v2.py",
+      "size_bytes": 5218,
+      "sha256": "2c0923880c1f10ec635433ad049b3cb494a3842e2316c2c245f3ef7efbe97c4c"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_change_readout_v1.py",
+      "size_bytes": 1815,
+      "sha256": "00a6419717ea0853f711e66108fdec10d5196da322443109cc70d7b40caa5d50"
+    },
+    {
+      "path": "src/male_optic_frontend/observation_gain_v1.py",
+      "size_bytes": 1257,
+      "sha256": "5b06ea33e1ff0a69d39465de320653af2ad3aa2735de00465d38ebda88501ced"
+    },
+    {
+      "path": "src/male_optic_frontend/ongoing_walking_yaw_v1.py",
+      "size_bytes": 661,
+      "sha256": "62696cbe63a00f23bdd37090090d3ce8f3ea8dee26fee12030bfe202d67f791f"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_grating_readout.py",
+      "size_bytes": 5742,
+      "sha256": "0bfef68b124721540393a3781230cbab782345911ec61c8867b52e061f50bcb4"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_image_clamp_repair.py",
+      "size_bytes": 2287,
+      "sha256": "28ab1da9162db351ebd2a27a947597fcdb22c6f42911ba34b6b9766e1d68739f"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_population.py",
+      "size_bytes": 5492,
+      "sha256": "e756130849f3fe84efd616007c227cf99152c820fd4bdabb07e2d000b2106cec"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_prototype.py",
+      "size_bytes": 6444,
+      "sha256": "baf160bd44dcb65844698a35af11fac8903de712fb86d36be2b55b8c01afd046"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_resource_reuse.py",
+      "size_bytes": 5773,
+      "sha256": "7517fa9a71e8e2aee341d2508dfd7e8d96bcc028c7553dc0a8f9c9dafd6e1e11"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_t4.py",
+      "size_bytes": 5686,
+      "sha256": "b14a9bc562788aadd4f919c25912746c9ed3a6619379330fb2db7ac63ba7a64b"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_t4_fixed_image_v1.py",
+      "size_bytes": 3092,
+      "sha256": "8f3ee0a02f981d14d07bbb7c73d21db2936fd7bba21c6d2e722d06b837d06bf6"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_texture_analysis.py",
+      "size_bytes": 4558,
+      "sha256": "ce48e8bdadeb139a04a14f203d8dbd21b629bf532fb9259896d2bc55632c3da0"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "src/male_optic_frontend/pokusaeva_circuit_v1.py",
+      "size_bytes": 2503,
+      "sha256": "bec20d5d70073b31467bf3b50d5bdc1622bc937407025951bf136f55e10ea167"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_analysis.py",
+      "size_bytes": 8884,
+      "sha256": "cba93ac941f9d02161296b6e8050acf80e9645484aa851c126d7edb0638d2171"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_contracts.py",
+      "size_bytes": 5599,
+      "sha256": "552f707c4943fb86ad7b46add41cf502a66834f30b60a4ef209666e94ee106d6"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_pipeline.py",
+      "size_bytes": 34594,
+      "sha256": "eff99ae54fe3292aa4122b2559b25dd20a2b78f183c9283c1b5a9f86ca1cb4d7"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_reporting.py",
+      "size_bytes": 30710,
+      "sha256": "211387503f4e4ea1434800aa78ef8bb5aaeaf22dbbcdae66a01aa55e78d31d54"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_runtime.py",
+      "size_bytes": 2463,
+      "sha256": "e0f20680e5cb3fb9911be1544f2bea0075ad5a2ad4c61c35d696a66b00f12a67"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_stimulus.py",
+      "size_bytes": 2415,
+      "sha256": "64e55d7401c9aa8c04f2fae6b786eb3ee951077cd6cee8dcb36a02eada7cfbaf"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_trial.py",
+      "size_bytes": 3237,
+      "sha256": "bd20447725b8e0b4b6ebba87df8028248625b39f6bab9f3b431236a2f5d2581e"
+    },
+    {
+      "path": "src/male_optic_frontend/published_circuit_boundary_v1.py",
+      "size_bytes": 1974,
+      "sha256": "e89da7a3e3cca601d2de7798f97f565a80acbd99dc8c3ad235abbaa93a5cb7cf"
+    },
+    {
+      "path": "src/male_optic_frontend/published_t5_forward.py",
+      "size_bytes": 4808,
+      "sha256": "b211e811f2e7eab674b505e3c751c2c4b81e033ecdfb8dbc27548b9417dbdb99"
+    },
+    {
+      "path": "src/male_optic_frontend/reliability_weighted_yaw_v1.py",
+      "size_bytes": 5517,
+      "sha256": "ec843ec5724a9ea58ee1b488d4e0042eda6d283cfa8008b146a8001c906973c7"
+    },
+    {
+      "path": "src/male_optic_frontend/reporting.py",
+      "size_bytes": 9842,
+      "sha256": "a789eb1d652cb1f6b28b9066b505f23e71f54fa702b075d42086cba0e2dac831"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_input.py",
+      "size_bytes": 3390,
+      "sha256": "10ce14adfce3cb273fda657b8ea0ea1e6ca1b9a8e2682b07832f49e91a760ab5"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v1.py",
+      "size_bytes": 4943,
+      "sha256": "6eeeb762940f96132ee191a8a9730ed1c232af6fd2f8dfc7fd932a51f64ea4e6"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v2.py",
+      "size_bytes": 3894,
+      "sha256": "dadea43d9d90ecf5e3c246dd6590ea0b8cc0050a5263bab5f1a494e072c1e71d"
+    },
+    {
+      "path": "src/male_optic_frontend/sensor_adapter_v1.py",
+      "size_bytes": 8721,
+      "sha256": "c8dce5784f54726ce4491fc11bf3dfd6cd174f81330a08ba687dedb5bfc1d8d9"
+    },
+    {
+      "path": "src/male_optic_frontend/sensor_adapter_v2.py",
+      "size_bytes": 4947,
+      "sha256": "540ac507196a6b93da7dcb772f0130045d43e241280524a60a5391dd61ac6625"
+    },
+    {
+      "path": "src/male_optic_frontend/sequential_repairs_v1.py",
+      "size_bytes": 7267,
+      "sha256": "09c0e546ecbcba1958cdb2bcae6357e27b665a8395f70456e6b1ed68c82f8b85"
+    },
+    {
+      "path": "src/male_optic_frontend/small_turn_decision_v1.py",
+      "size_bytes": 747,
+      "sha256": "5afd0ca79757645c167094e62a4aa956c69b1fac47ef1afcb19ddd2a5f3419a4"
+    },
+    {
+      "path": "src/male_optic_frontend/spatial_direction_field_v1.py",
+      "size_bytes": 3974,
+      "sha256": "7c1ff96ebf81847bdc63eec4e32660a0b74ffa118154556ac8b6614a03c15135"
+    },
+    {
+      "path": "src/male_optic_frontend/spatiotemporal_study.py",
+      "size_bytes": 6043,
+      "sha256": "1e1809ef8302f1ba0bd9f23c29af48ee1c8fb4152f0d42ef83fb98fe1e5d89b5"
+    },
+    {
+      "path": "src/male_optic_frontend/stimulus.py",
+      "size_bytes": 8559,
+      "sha256": "89beded1c0633b13f587836c5554c4814cc99822c0cd0dac647b5585204af685"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_active_sensitivity.py",
+      "size_bytes": 5009,
+      "sha256": "171700ed6fbb7b0e06fc00b4ab94407e4807284f911e5fa99277f13374492e04"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_compensation_challenge.py",
+      "size_bytes": 6060,
+      "sha256": "be92b224c0ac80721476c3556e8821d70cd9cb50c164c24232f01a13d99e817e"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_evidence_audit.py",
+      "size_bytes": 11015,
+      "sha256": "256fe489557b459241c4dbb97bf95b1c2563349767a26de784a56d6eed882dad"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_heldout.py",
+      "size_bytes": 3318,
+      "sha256": "ee66b76eabacd5959a5788568d5fe9e0a982a6b237d4e42163f4a0cb8ed752d0"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_image_native_transfer.py",
+      "size_bytes": 2942,
+      "sha256": "a852a440c70c96c9607b7acf92540d671dc0a7102d93118b4351276a36a1cb07"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_matched_grating_observation.py",
+      "size_bytes": 5288,
+      "sha256": "9bff06787ef9fec534557486325530051879a7eae74182ce11743e1c456bdfef"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_mixed_parameter_sensitivity.py",
+      "size_bytes": 5566,
+      "sha256": "7c9e5ec4e2151789c99848ca255af7bdf52e94284ad752541f0c683bb9107829"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_moving_bar_transfer.py",
+      "size_bytes": 3348,
+      "sha256": "3374753642daa7bd680c632250c3b3e0cd9e1c733a22bfeae383ef2910767c6d"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_reference_validation.py",
+      "size_bytes": 2403,
+      "sha256": "f6b4babe7895e71259fd2414add5fe34b59e0b958cf148985817880d134794f2"
+    },
+    {
+      "path": "src/male_optic_frontend/t5b_receptive_field.py",
+      "size_bytes": 4856,
+      "sha256": "1e7a6a3c72063060e5ebafeb7fb5e6af71d56a1cc469bd800a42a6b6c6ccd38f"
+    },
+    {
+      "path": "src/male_optic_frontend/t5b_receptive_field_v3.py",
+      "size_bytes": 4950,
+      "sha256": "a99050babd7a2a61bd94fce0791ec3428954f633a811e306fb4f2f18ca5b1a11"
+    },
+    {
+      "path": "src/male_optic_frontend/validation_hardware_v1.py",
+      "size_bytes": 2860,
+      "sha256": "54d909306541267c91721fa915ce20849d22a9a7291dee02a764ac3d0890cccd"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "src/male_optic_frontend/weak_direction.py",
+      "size_bytes": 5151,
+      "sha256": "019b30ea2a1569ac36ecbfd9fa0600d5dab4b7d466df2c7e8d07a22f0fdce436"
+    },
+    {
+      "path": "src/male_optic_frontend/wiring_controls.py",
+      "size_bytes": 9253,
+      "sha256": "2c681a9bd39dd589addd8a10daecd98a97ceb7d49ba04a8c0ae297aa15eabac2"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "tests/test_continuous_readout_repair_v1.py",
+      "size_bytes": 1800,
+      "sha256": "2c28b4beafff3941c5108f49d1ac6496caaec598cd65a8ed788afdcc080852de"
+    }
+  ],
+  "new_fit_created": false,
+  "new_images_generated": false,
+  "hybrid_explicitly_authorized": true
+}

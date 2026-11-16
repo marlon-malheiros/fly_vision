@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "fresh_kernel_arrays_exact": true,
+  "component_cases": [
+    "f00_A_v5.5_y+2",
+    "c00_A_v11_y+0",
+    "t00_A_v16.5_y+2",
+    "t23_A_v16.5_y-2"
+  ],
+  "independent_forward_cases": [
+    "s07_v16.5_y+0_nonlinear_baseline_intact",
+    "s07_v16.5_y+0_nonlinear_baseline_0",
+    "s12_v16.5_y-2_linear_t4t5_field_hypothesis_intact",
+    "s12_v16.5_y-2_nonlinear_baseline_15"
+  ],
+  "all_retained_arrays_exact": true,
+  "full_execution": false,
+  "analysis_repeated": false,
+  "physiological_validation": false
+}

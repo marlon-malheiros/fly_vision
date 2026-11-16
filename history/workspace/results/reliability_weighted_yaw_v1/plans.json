@@ -1,0 +1,3970 @@
+[
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "f00_v0_y+0"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f00_v5.5_y+0"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "f00_v5.5_y-2"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "f00_v5.5_y+2"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "f00_v5.5_y-5"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "f00_v5.5_y+5"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f00_v11_y+0"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "f00_v11_y-2"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "f00_v11_y+2"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "f00_v11_y-5"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "f00_v11_y+5"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f00_v16.5_y+0"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "f00_v16.5_y-2"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "f00_v16.5_y+2"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "f00_v16.5_y-5"
+  },
+  {
+    "scene": "f00",
+    "world": "f00_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "f00_v16.5_y+5"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "f01_v0_y+0"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f01_v5.5_y+0"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "f01_v5.5_y-2"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "f01_v5.5_y+2"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "f01_v5.5_y-5"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "f01_v5.5_y+5"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f01_v11_y+0"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "f01_v11_y-2"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "f01_v11_y+2"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "f01_v11_y-5"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "f01_v11_y+5"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f01_v16.5_y+0"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "f01_v16.5_y-2"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "f01_v16.5_y+2"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "f01_v16.5_y-5"
+  },
+  {
+    "scene": "f01",
+    "world": "f01_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "f01_v16.5_y+5"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "f02_v0_y+0"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f02_v5.5_y+0"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "f02_v5.5_y-2"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "f02_v5.5_y+2"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "f02_v5.5_y-5"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "f02_v5.5_y+5"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f02_v11_y+0"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "f02_v11_y-2"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "f02_v11_y+2"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "f02_v11_y-5"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "f02_v11_y+5"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f02_v16.5_y+0"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "f02_v16.5_y-2"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "f02_v16.5_y+2"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "f02_v16.5_y-5"
+  },
+  {
+    "scene": "f02",
+    "world": "f02_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "f02_v16.5_y+5"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "f03_v0_y+0"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f03_v5.5_y+0"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "f03_v5.5_y-2"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "f03_v5.5_y+2"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "f03_v5.5_y-5"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "f03_v5.5_y+5"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f03_v11_y+0"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "f03_v11_y-2"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "f03_v11_y+2"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "f03_v11_y-5"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "f03_v11_y+5"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f03_v16.5_y+0"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "f03_v16.5_y-2"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "f03_v16.5_y+2"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "f03_v16.5_y-5"
+  },
+  {
+    "scene": "f03",
+    "world": "f03_A",
+    "split": "train",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "f03_v16.5_y+5"
+  },
+  {
+    "scene": "f04",
+    "world": "f04_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f04_v5.5_y+0"
+  },
+  {
+    "scene": "f04",
+    "world": "f04_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f04_v11_y+0"
+  },
+  {
+    "scene": "f04",
+    "world": "f04_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f04_v16.5_y+0"
+  },
+  {
+    "scene": "f05",
+    "world": "f05_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f05_v5.5_y+0"
+  },
+  {
+    "scene": "f05",
+    "world": "f05_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f05_v11_y+0"
+  },
+  {
+    "scene": "f05",
+    "world": "f05_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f05_v16.5_y+0"
+  },
+  {
+    "scene": "f06",
+    "world": "f06_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f06_v5.5_y+0"
+  },
+  {
+    "scene": "f06",
+    "world": "f06_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f06_v11_y+0"
+  },
+  {
+    "scene": "f06",
+    "world": "f06_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f06_v16.5_y+0"
+  },
+  {
+    "scene": "f07",
+    "world": "f07_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "f07_v5.5_y+0"
+  },
+  {
+    "scene": "f07",
+    "world": "f07_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "f07_v11_y+0"
+  },
+  {
+    "scene": "f07",
+    "world": "f07_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "f07_v16.5_y+0"
+  },
+  {
+    "scene": "c00",
+    "world": "c00_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c00_v5.5_y+0"
+  },
+  {
+    "scene": "c00",
+    "world": "c00_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c00_v11_y+0"
+  },
+  {
+    "scene": "c00",
+    "world": "c00_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c00_v16.5_y+0"
+  },
+  {
+    "scene": "c01",
+    "world": "c01_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c01_v5.5_y+0"
+  },
+  {
+    "scene": "c01",
+    "world": "c01_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c01_v11_y+0"
+  },
+  {
+    "scene": "c01",
+    "world": "c01_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c01_v16.5_y+0"
+  },
+  {
+    "scene": "c02",
+    "world": "c02_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c02_v5.5_y+0"
+  },
+  {
+    "scene": "c02",
+    "world": "c02_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c02_v11_y+0"
+  },
+  {
+    "scene": "c02",
+    "world": "c02_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c02_v16.5_y+0"
+  },
+  {
+    "scene": "c03",
+    "world": "c03_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c03_v5.5_y+0"
+  },
+  {
+    "scene": "c03",
+    "world": "c03_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c03_v11_y+0"
+  },
+  {
+    "scene": "c03",
+    "world": "c03_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c03_v16.5_y+0"
+  },
+  {
+    "scene": "c04",
+    "world": "c04_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c04_v5.5_y+0"
+  },
+  {
+    "scene": "c04",
+    "world": "c04_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c04_v11_y+0"
+  },
+  {
+    "scene": "c04",
+    "world": "c04_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c04_v16.5_y+0"
+  },
+  {
+    "scene": "c05",
+    "world": "c05_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c05_v5.5_y+0"
+  },
+  {
+    "scene": "c05",
+    "world": "c05_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c05_v11_y+0"
+  },
+  {
+    "scene": "c05",
+    "world": "c05_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c05_v16.5_y+0"
+  },
+  {
+    "scene": "c06",
+    "world": "c06_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c06_v5.5_y+0"
+  },
+  {
+    "scene": "c06",
+    "world": "c06_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c06_v11_y+0"
+  },
+  {
+    "scene": "c06",
+    "world": "c06_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c06_v16.5_y+0"
+  },
+  {
+    "scene": "c07",
+    "world": "c07_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c07_v5.5_y+0"
+  },
+  {
+    "scene": "c07",
+    "world": "c07_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c07_v11_y+0"
+  },
+  {
+    "scene": "c07",
+    "world": "c07_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c07_v16.5_y+0"
+  },
+  {
+    "scene": "c08",
+    "world": "c08_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c08_v5.5_y+0"
+  },
+  {
+    "scene": "c08",
+    "world": "c08_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c08_v11_y+0"
+  },
+  {
+    "scene": "c08",
+    "world": "c08_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c08_v16.5_y+0"
+  },
+  {
+    "scene": "c09",
+    "world": "c09_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c09_v5.5_y+0"
+  },
+  {
+    "scene": "c09",
+    "world": "c09_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c09_v11_y+0"
+  },
+  {
+    "scene": "c09",
+    "world": "c09_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c09_v16.5_y+0"
+  },
+  {
+    "scene": "c10",
+    "world": "c10_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c10_v5.5_y+0"
+  },
+  {
+    "scene": "c10",
+    "world": "c10_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c10_v11_y+0"
+  },
+  {
+    "scene": "c10",
+    "world": "c10_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c10_v16.5_y+0"
+  },
+  {
+    "scene": "c11",
+    "world": "c11_A",
+    "split": "calibration",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "c11_v5.5_y+0"
+  },
+  {
+    "scene": "c11",
+    "world": "c11_A",
+    "split": "calibration",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "c11_v11_y+0"
+  },
+  {
+    "scene": "c11",
+    "world": "c11_A",
+    "split": "calibration",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "c11_v16.5_y+0"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q00_v0_y+0"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q00_v5.5_y+0"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q00_v5.5_y-2"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q00_v5.5_y+2"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q00_v5.5_y-5"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q00_v5.5_y+5"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q00_v11_y+0"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q00_v11_y-2"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q00_v11_y+2"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q00_v11_y-5"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q00_v11_y+5"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q00_v16.5_y+0"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q00_v16.5_y-2"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q00_v16.5_y+2"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q00_v16.5_y-5"
+  },
+  {
+    "scene": "q00",
+    "world": "q00_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q00_v16.5_y+5"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q01_v0_y+0"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q01_v5.5_y+0"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q01_v5.5_y-2"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q01_v5.5_y+2"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q01_v5.5_y-5"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q01_v5.5_y+5"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q01_v11_y+0"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q01_v11_y-2"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q01_v11_y+2"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q01_v11_y-5"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q01_v11_y+5"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q01_v16.5_y+0"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q01_v16.5_y-2"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q01_v16.5_y+2"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q01_v16.5_y-5"
+  },
+  {
+    "scene": "q01",
+    "world": "q01_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q01_v16.5_y+5"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q02_v0_y+0"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q02_v5.5_y+0"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q02_v5.5_y-2"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q02_v5.5_y+2"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q02_v5.5_y-5"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q02_v5.5_y+5"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q02_v11_y+0"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q02_v11_y-2"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q02_v11_y+2"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q02_v11_y-5"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q02_v11_y+5"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q02_v16.5_y+0"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q02_v16.5_y-2"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q02_v16.5_y+2"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q02_v16.5_y-5"
+  },
+  {
+    "scene": "q02",
+    "world": "q02_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q02_v16.5_y+5"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q03_v0_y+0"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q03_v5.5_y+0"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q03_v5.5_y-2"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q03_v5.5_y+2"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q03_v5.5_y-5"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q03_v5.5_y+5"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q03_v11_y+0"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q03_v11_y-2"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q03_v11_y+2"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q03_v11_y-5"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q03_v11_y+5"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q03_v16.5_y+0"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q03_v16.5_y-2"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q03_v16.5_y+2"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q03_v16.5_y-5"
+  },
+  {
+    "scene": "q03",
+    "world": "q03_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q03_v16.5_y+5"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q04_v0_y+0"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q04_v5.5_y+0"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q04_v5.5_y-2"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q04_v5.5_y+2"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q04_v5.5_y-5"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q04_v5.5_y+5"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q04_v11_y+0"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q04_v11_y-2"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q04_v11_y+2"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q04_v11_y-5"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q04_v11_y+5"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q04_v16.5_y+0"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q04_v16.5_y-2"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q04_v16.5_y+2"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q04_v16.5_y-5"
+  },
+  {
+    "scene": "q04",
+    "world": "q04_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q04_v16.5_y+5"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q05_v0_y+0"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q05_v5.5_y+0"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q05_v5.5_y-2"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q05_v5.5_y+2"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q05_v5.5_y-5"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q05_v5.5_y+5"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q05_v11_y+0"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q05_v11_y-2"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q05_v11_y+2"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q05_v11_y-5"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q05_v11_y+5"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q05_v16.5_y+0"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q05_v16.5_y-2"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q05_v16.5_y+2"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q05_v16.5_y-5"
+  },
+  {
+    "scene": "q05",
+    "world": "q05_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q05_v16.5_y+5"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q06_v0_y+0"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q06_v5.5_y+0"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q06_v5.5_y-2"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q06_v5.5_y+2"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q06_v5.5_y-5"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q06_v5.5_y+5"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q06_v11_y+0"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q06_v11_y-2"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q06_v11_y+2"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q06_v11_y-5"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q06_v11_y+5"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q06_v16.5_y+0"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q06_v16.5_y-2"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q06_v16.5_y+2"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q06_v16.5_y-5"
+  },
+  {
+    "scene": "q06",
+    "world": "q06_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q06_v16.5_y+5"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q07_v0_y+0"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q07_v5.5_y+0"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q07_v5.5_y-2"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q07_v5.5_y+2"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q07_v5.5_y-5"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q07_v5.5_y+5"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q07_v11_y+0"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q07_v11_y-2"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q07_v11_y+2"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q07_v11_y-5"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q07_v11_y+5"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q07_v16.5_y+0"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q07_v16.5_y-2"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q07_v16.5_y+2"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q07_v16.5_y-5"
+  },
+  {
+    "scene": "q07",
+    "world": "q07_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q07_v16.5_y+5"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q08_v0_y+0"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q08_v5.5_y+0"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q08_v5.5_y-2"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q08_v5.5_y+2"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q08_v5.5_y-5"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q08_v5.5_y+5"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q08_v11_y+0"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q08_v11_y-2"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q08_v11_y+2"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q08_v11_y-5"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q08_v11_y+5"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q08_v16.5_y+0"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q08_v16.5_y-2"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q08_v16.5_y+2"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q08_v16.5_y-5"
+  },
+  {
+    "scene": "q08",
+    "world": "q08_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q08_v16.5_y+5"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q09_v0_y+0"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q09_v5.5_y+0"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q09_v5.5_y-2"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q09_v5.5_y+2"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q09_v5.5_y-5"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q09_v5.5_y+5"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q09_v11_y+0"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q09_v11_y-2"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q09_v11_y+2"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q09_v11_y-5"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q09_v11_y+5"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q09_v16.5_y+0"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q09_v16.5_y-2"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q09_v16.5_y+2"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q09_v16.5_y-5"
+  },
+  {
+    "scene": "q09",
+    "world": "q09_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q09_v16.5_y+5"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q10_v0_y+0"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q10_v5.5_y+0"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q10_v5.5_y-2"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q10_v5.5_y+2"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q10_v5.5_y-5"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q10_v5.5_y+5"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q10_v11_y+0"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q10_v11_y-2"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q10_v11_y+2"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q10_v11_y-5"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q10_v11_y+5"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q10_v16.5_y+0"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q10_v16.5_y-2"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q10_v16.5_y+2"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q10_v16.5_y-5"
+  },
+  {
+    "scene": "q10",
+    "world": "q10_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q10_v16.5_y+5"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q11_v0_y+0"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q11_v5.5_y+0"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q11_v5.5_y-2"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q11_v5.5_y+2"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q11_v5.5_y-5"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q11_v5.5_y+5"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q11_v11_y+0"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q11_v11_y-2"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q11_v11_y+2"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q11_v11_y-5"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q11_v11_y+5"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q11_v16.5_y+0"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q11_v16.5_y-2"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q11_v16.5_y+2"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q11_v16.5_y-5"
+  },
+  {
+    "scene": "q11",
+    "world": "q11_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q11_v16.5_y+5"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q12_v0_y+0"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q12_v5.5_y+0"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q12_v5.5_y-2"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q12_v5.5_y+2"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q12_v5.5_y-5"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q12_v5.5_y+5"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q12_v11_y+0"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q12_v11_y-2"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q12_v11_y+2"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q12_v11_y-5"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q12_v11_y+5"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q12_v16.5_y+0"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q12_v16.5_y-2"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q12_v16.5_y+2"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q12_v16.5_y-5"
+  },
+  {
+    "scene": "q12",
+    "world": "q12_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q12_v16.5_y+5"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q13_v0_y+0"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q13_v5.5_y+0"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q13_v5.5_y-2"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q13_v5.5_y+2"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q13_v5.5_y-5"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q13_v5.5_y+5"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q13_v11_y+0"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q13_v11_y-2"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q13_v11_y+2"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q13_v11_y-5"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q13_v11_y+5"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q13_v16.5_y+0"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q13_v16.5_y-2"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q13_v16.5_y+2"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q13_v16.5_y-5"
+  },
+  {
+    "scene": "q13",
+    "world": "q13_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q13_v16.5_y+5"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q14_v0_y+0"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q14_v5.5_y+0"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q14_v5.5_y-2"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q14_v5.5_y+2"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q14_v5.5_y-5"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q14_v5.5_y+5"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q14_v11_y+0"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q14_v11_y-2"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q14_v11_y+2"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q14_v11_y-5"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q14_v11_y+5"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q14_v16.5_y+0"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q14_v16.5_y-2"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q14_v16.5_y+2"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q14_v16.5_y-5"
+  },
+  {
+    "scene": "q14",
+    "world": "q14_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q14_v16.5_y+5"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q15_v0_y+0"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q15_v5.5_y+0"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q15_v5.5_y-2"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q15_v5.5_y+2"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q15_v5.5_y-5"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q15_v5.5_y+5"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q15_v11_y+0"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q15_v11_y-2"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q15_v11_y+2"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q15_v11_y-5"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q15_v11_y+5"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q15_v16.5_y+0"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q15_v16.5_y-2"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q15_v16.5_y+2"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q15_v16.5_y-5"
+  },
+  {
+    "scene": "q15",
+    "world": "q15_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q15_v16.5_y+5"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q16_v0_y+0"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q16_v5.5_y+0"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q16_v5.5_y-2"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q16_v5.5_y+2"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q16_v5.5_y-5"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q16_v5.5_y+5"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q16_v11_y+0"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q16_v11_y-2"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q16_v11_y+2"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q16_v11_y-5"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q16_v11_y+5"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q16_v16.5_y+0"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q16_v16.5_y-2"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q16_v16.5_y+2"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q16_v16.5_y-5"
+  },
+  {
+    "scene": "q16",
+    "world": "q16_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q16_v16.5_y+5"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q17_v0_y+0"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q17_v5.5_y+0"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q17_v5.5_y-2"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q17_v5.5_y+2"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q17_v5.5_y-5"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q17_v5.5_y+5"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q17_v11_y+0"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q17_v11_y-2"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q17_v11_y+2"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q17_v11_y-5"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q17_v11_y+5"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q17_v16.5_y+0"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q17_v16.5_y-2"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q17_v16.5_y+2"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q17_v16.5_y-5"
+  },
+  {
+    "scene": "q17",
+    "world": "q17_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q17_v16.5_y+5"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q18_v0_y+0"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q18_v5.5_y+0"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q18_v5.5_y-2"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q18_v5.5_y+2"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q18_v5.5_y-5"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q18_v5.5_y+5"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q18_v11_y+0"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q18_v11_y-2"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q18_v11_y+2"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q18_v11_y-5"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q18_v11_y+5"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q18_v16.5_y+0"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q18_v16.5_y-2"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q18_v16.5_y+2"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q18_v16.5_y-5"
+  },
+  {
+    "scene": "q18",
+    "world": "q18_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q18_v16.5_y+5"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q19_v0_y+0"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q19_v5.5_y+0"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q19_v5.5_y-2"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q19_v5.5_y+2"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q19_v5.5_y-5"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q19_v5.5_y+5"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q19_v11_y+0"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q19_v11_y-2"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q19_v11_y+2"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q19_v11_y-5"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q19_v11_y+5"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q19_v16.5_y+0"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q19_v16.5_y-2"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q19_v16.5_y+2"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q19_v16.5_y-5"
+  },
+  {
+    "scene": "q19",
+    "world": "q19_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q19_v16.5_y+5"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q20_v0_y+0"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q20_v5.5_y+0"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q20_v5.5_y-2"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q20_v5.5_y+2"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q20_v5.5_y-5"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q20_v5.5_y+5"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q20_v11_y+0"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q20_v11_y-2"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q20_v11_y+2"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q20_v11_y-5"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q20_v11_y+5"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q20_v16.5_y+0"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q20_v16.5_y-2"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q20_v16.5_y+2"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q20_v16.5_y-5"
+  },
+  {
+    "scene": "q20",
+    "world": "q20_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q20_v16.5_y+5"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q21_v0_y+0"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q21_v5.5_y+0"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q21_v5.5_y-2"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q21_v5.5_y+2"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q21_v5.5_y-5"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q21_v5.5_y+5"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q21_v11_y+0"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q21_v11_y-2"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q21_v11_y+2"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q21_v11_y-5"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q21_v11_y+5"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q21_v16.5_y+0"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q21_v16.5_y-2"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q21_v16.5_y+2"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q21_v16.5_y-5"
+  },
+  {
+    "scene": "q21",
+    "world": "q21_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q21_v16.5_y+5"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q22_v0_y+0"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q22_v5.5_y+0"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q22_v5.5_y-2"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q22_v5.5_y+2"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q22_v5.5_y-5"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q22_v5.5_y+5"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q22_v11_y+0"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q22_v11_y-2"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q22_v11_y+2"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q22_v11_y-5"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q22_v11_y+5"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q22_v16.5_y+0"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q22_v16.5_y-2"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q22_v16.5_y+2"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q22_v16.5_y-5"
+  },
+  {
+    "scene": "q22",
+    "world": "q22_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q22_v16.5_y+5"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 0.0,
+    "yaw": 0.0,
+    "key": "q23_v0_y+0"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 0.0,
+    "key": "q23_v5.5_y+0"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -2.0,
+    "key": "q23_v5.5_y-2"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 2.0,
+    "key": "q23_v5.5_y+2"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": -5.0,
+    "key": "q23_v5.5_y-5"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 5.5,
+    "yaw": 5.0,
+    "key": "q23_v5.5_y+5"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 0.0,
+    "key": "q23_v11_y+0"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -2.0,
+    "key": "q23_v11_y-2"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 2.0,
+    "key": "q23_v11_y+2"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": -5.0,
+    "key": "q23_v11_y-5"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 11.0,
+    "yaw": 5.0,
+    "key": "q23_v11_y+5"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 0.0,
+    "key": "q23_v16.5_y+0"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -2.0,
+    "key": "q23_v16.5_y-2"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 2.0,
+    "key": "q23_v16.5_y+2"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": -5.0,
+    "key": "q23_v16.5_y-5"
+  },
+  {
+    "scene": "q23",
+    "world": "q23_A",
+    "split": "held_out",
+    "speed": 16.5,
+    "yaw": 5.0,
+    "key": "q23_v16.5_y+5"
+  }
+]

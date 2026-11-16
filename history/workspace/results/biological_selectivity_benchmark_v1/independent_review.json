@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T21:03:11.043627+00:00",
+  "recording_traces": 220,
+  "fitted_candidates": 448,
+  "selected_models": 8,
+  "test_trace_profile_cases": 372,
+  "paired_fly_profile_cases": 84,
+  "display_cases": 32,
+  "maximum_errors": {
+    "raw_trial_roi_selection": 0.0,
+    "normalized_trace": 1.4210854715202004e-14,
+    "baseline_mean": 2.1316282072803006e-14,
+    "baseline_sd": 3.552713678800501e-15,
+    "candidate_gain": 3.410605131648481e-13,
+    "candidate_loss": 2.842170943040401e-14,
+    "test_mse": 5.684341886080802e-14,
+    "test_zero_mse": 1.1368683772161603e-13,
+    "prediction": 3.552713678800501e-15,
+    "fly_contrast": 1.4210854715202004e-14,
+    "fly_selectivity": 1.1102230246251565e-15
+  },
+  "numerical_reproducibility": true,
+  "biological_validation_established": false
+}

@@ -1,0 +1,3429 @@
+{
+  "status": "COMPLETE",
+  "records": [
+    {
+      "candidate": "parallel_4_passive",
+      "repeat": 0,
+      "directory": "parallel_4_passive_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06214131601154804,
+        "first_frame_processing_s": 0.0031215570052154362,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.901573498500511,
+          "p95_ms": 7.497357494139576,
+          "p99_ms": 8.364745951985242,
+          "maximum_ms": 9.499432999291457,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.38293049694039,
+          "p95_ms": 11.527435346215498,
+          "p99_ms": 12.553763203904962,
+          "maximum_ms": 12.963227985892445,
+          "budget_ms": 10.0,
+          "missed_deadlines": 45
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182181888,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_passive",
+      "repeat": 0,
+      "directory": "parallel_4_passive_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.0739517780020833,
+        "first_frame_processing_s": 0.0030926790059311315,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.750750493258238,
+          "p95_ms": 8.206245052133452,
+          "p99_ms": 9.189551368181126,
+          "maximum_ms": 10.381391999544576,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 10.147664499527309,
+          "p95_ms": 12.055233767023308,
+          "p99_ms": 13.355524821672587,
+          "maximum_ms": 13.91090199467726,
+          "budget_ms": 10.0,
+          "missed_deadlines": 113
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182296576,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_passive",
+      "repeat": 0,
+      "directory": "parallel_4_passive_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07362010001088493,
+        "first_frame_processing_s": 0.0029386889946181327,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.078086505818646,
+          "p95_ms": 8.418640260788377,
+          "p99_ms": 9.31113160593668,
+          "maximum_ms": 9.573098999680951,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 10.267103505611885,
+          "p95_ms": 12.368680610234149,
+          "p99_ms": 13.096426004340172,
+          "maximum_ms": 13.487703006830998,
+          "budget_ms": 10.0,
+          "missed_deadlines": 118
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182562816,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "bounded",
+      "repeat": 0,
+      "directory": "bounded_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07818065700121224,
+        "first_frame_processing_s": 0.0031771790090715513,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.023505502729677,
+          "p95_ms": 12.764730695198521,
+          "p99_ms": 13.233320032741176,
+          "maximum_ms": 13.472386010107584,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 14.307567493233364,
+          "p95_ms": 16.21394776229863,
+          "p99_ms": 16.6050018221722,
+          "maximum_ms": 16.672501995344646,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 181891072,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "bounded",
+      "repeat": 0,
+      "directory": "bounded_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05426091699337121,
+        "first_frame_processing_s": 0.0028698780079139397,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.923610508441925,
+          "p95_ms": 13.039759157254593,
+          "p99_ms": 14.40625804738374,
+          "maximum_ms": 16.80177598609589,
+          "budget_ms": 5.0,
+          "missed_deadlines": 201
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.7560844887048,
+          "p95_ms": 16.736076502274955,
+          "p99_ms": 18.3609122618509,
+          "maximum_ms": 22.21781299158465,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182018048,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "bounded",
+      "repeat": 0,
+      "directory": "bounded_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.058718366009998135,
+        "first_frame_processing_s": 0.0029571839986601844,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.348441504291259,
+          "p95_ms": 13.21929844343685,
+          "p99_ms": 14.748520686116535,
+          "maximum_ms": 17.744928991305642,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 15.487405500607565,
+          "p95_ms": 17.660122848610623,
+          "p99_ms": 18.56232178426578,
+          "maximum_ms": 21.95631699578371,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182018048,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_active",
+      "repeat": 0,
+      "directory": "parallel_2_active_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06166229899099562,
+        "first_frame_processing_s": 0.002995572009240277,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.776519003324211,
+          "p95_ms": 8.777066443144577,
+          "p99_ms": 10.508353887271369,
+          "maximum_ms": 24.207094989833422,
+          "budget_ms": 5.0,
+          "missed_deadlines": 202
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 10.646374503266998,
+          "p95_ms": 12.769913481315598,
+          "p99_ms": 18.57999408690372,
+          "maximum_ms": 32.97873499104753,
+          "budget_ms": 10.0,
+          "missed_deadlines": 140
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 181936128,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_active",
+      "repeat": 0,
+      "directory": "parallel_2_active_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.0545012609945843,
+        "first_frame_processing_s": 0.0029307549993973225,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.521807496028487,
+          "p95_ms": 10.568490645528072,
+          "p99_ms": 14.435475700447563,
+          "maximum_ms": 18.375494997599162,
+          "budget_ms": 5.0,
+          "missed_deadlines": 203
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 10.864699994272087,
+          "p95_ms": 16.305792485945858,
+          "p99_ms": 20.29612320606246,
+          "maximum_ms": 22.066600009566173,
+          "budget_ms": 10.0,
+          "missed_deadlines": 136
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182136832,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_active",
+      "repeat": 0,
+      "directory": "parallel_2_active_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.09839900900260545,
+        "first_frame_processing_s": 0.0032822770008351654,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.811120998463593,
+          "p95_ms": 10.62972986328532,
+          "p99_ms": 12.851883560942944,
+          "maximum_ms": 17.16375700198114,
+          "budget_ms": 5.0,
+          "missed_deadlines": 203
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.322383994411211,
+          "p95_ms": 15.556557654781498,
+          "p99_ms": 19.405884030566078,
+          "maximum_ms": 20.710640004836023,
+          "budget_ms": 10.0,
+          "missed_deadlines": 181
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182136832,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_active",
+      "repeat": 0,
+      "directory": "parallel_4_active_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.062205283989897,
+        "first_frame_processing_s": 0.0029916940111434087,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.99753700569272,
+          "p95_ms": 7.912854658934518,
+          "p99_ms": 9.642987745901337,
+          "maximum_ms": 10.841278999578208,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 8.469854001305066,
+          "p95_ms": 12.375932092254516,
+          "p99_ms": 14.038350192568025,
+          "maximum_ms": 15.982322001946159,
+          "budget_ms": 10.0,
+          "missed_deadlines": 40
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182108160,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_active",
+      "repeat": 0,
+      "directory": "parallel_4_active_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05768850400636438,
+        "first_frame_processing_s": 0.002886072004912421,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.995826500817202,
+          "p95_ms": 6.724599642620885,
+          "p99_ms": 8.52997489302652,
+          "maximum_ms": 9.694242995465174,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 8.568310004193336,
+          "p95_ms": 10.484907808131535,
+          "p99_ms": 13.04717003702535,
+          "maximum_ms": 14.088930998696014,
+          "budget_ms": 10.0,
+          "missed_deadlines": 16
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182411264,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_active",
+      "repeat": 0,
+      "directory": "parallel_4_active_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05734610199579038,
+        "first_frame_processing_s": 0.0028847179928561673,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.472226006328128,
+          "p95_ms": 6.7896511958679175,
+          "p99_ms": 7.717631278210319,
+          "maximum_ms": 8.671329007484019,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 8.674338008859195,
+          "p95_ms": 10.5659992848814,
+          "p99_ms": 11.329384016280526,
+          "maximum_ms": 11.811798001872376,
+          "budget_ms": 10.0,
+          "missed_deadlines": 23
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182566912,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "strict",
+      "repeat": 0,
+      "directory": "strict_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06326474400702864,
+        "first_frame_processing_s": 0.0030717289919266477,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.335048496315721,
+          "p95_ms": 14.383302860369438,
+          "p99_ms": 14.887564889941132,
+          "maximum_ms": 17.16448699880857,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 17.00504100153921,
+          "p95_ms": 17.681819143035682,
+          "p99_ms": 18.211707851150997,
+          "maximum_ms": 19.96914499613922,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182247424,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "strict",
+      "repeat": 0,
+      "directory": "strict_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07017353099945467,
+        "first_frame_processing_s": 0.0029074229969410226,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.4791334991459735,
+          "p95_ms": 14.415788209589664,
+          "p99_ms": 15.447464813769328,
+          "maximum_ms": 18.319501003134064,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 16.996755002764985,
+          "p95_ms": 18.008119044679916,
+          "p99_ms": 19.2784162586031,
+          "maximum_ms": 21.817065004142933,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182566912,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "strict",
+      "repeat": 0,
+      "directory": "strict_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07109139999374747,
+        "first_frame_processing_s": 0.003055352994124405,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.477701503376011,
+          "p95_ms": 12.62099514642614,
+          "p99_ms": 14.040072730422253,
+          "maximum_ms": 18.082252994645387,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 14.219182492524851,
+          "p95_ms": 15.924257341976036,
+          "p99_ms": 17.767233076010594,
+          "maximum_ms": 21.53936299146153,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182566912,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_passive",
+      "repeat": 0,
+      "directory": "parallel_2_passive_r0",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06019765500968788,
+        "first_frame_processing_s": 0.0028673250053543597,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.2806959977024235,
+          "p95_ms": 9.068387699517187,
+          "p99_ms": 11.5773423583596,
+          "maximum_ms": 33.68012899591122,
+          "budget_ms": 5.0,
+          "missed_deadlines": 202
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 10.718983496190049,
+          "p95_ms": 13.024368460173719,
+          "p99_ms": 17.36971590842576,
+          "maximum_ms": 39.211737996083684,
+          "budget_ms": 10.0,
+          "missed_deadlines": 165
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182087680,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_passive",
+      "repeat": 0,
+      "directory": "parallel_2_passive_r0",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07432573298865464,
+        "first_frame_processing_s": 0.0028071230044588447,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.387769495428074,
+          "p95_ms": 8.847506952588446,
+          "p99_ms": 9.390366027218986,
+          "maximum_ms": 10.580405010841787,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.14922649867367,
+          "p95_ms": 12.460643998201704,
+          "p99_ms": 13.536735185043653,
+          "maximum_ms": 13.654082009452395,
+          "budget_ms": 10.0,
+          "missed_deadlines": 141
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182538240,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_passive",
+      "repeat": 0,
+      "directory": "parallel_2_passive_r0",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06992269799229689,
+        "first_frame_processing_s": 0.002940607999335043,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.473315999552142,
+          "p95_ms": 8.859148700139482,
+          "p99_ms": 9.887559924536616,
+          "maximum_ms": 10.546198012889363,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.237070000788663,
+          "p95_ms": 12.44333714348613,
+          "p99_ms": 13.771674927556885,
+          "maximum_ms": 14.514927010168321,
+          "budget_ms": 10.0,
+          "missed_deadlines": 190
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182538240,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_passive",
+      "repeat": 1,
+      "directory": "parallel_2_passive_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06098891299916431,
+        "first_frame_processing_s": 0.002842061992851086,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.07715000276221,
+          "p95_ms": 8.522236197313758,
+          "p99_ms": 9.12109785786015,
+          "maximum_ms": 10.223199002211913,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.14212649554247,
+          "p95_ms": 11.822635799762791,
+          "p99_ms": 12.437187394971257,
+          "maximum_ms": 13.419776994851418,
+          "budget_ms": 10.0,
+          "missed_deadlines": 177
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182104064,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_passive",
+      "repeat": 1,
+      "directory": "parallel_2_passive_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07199206900259014,
+        "first_frame_processing_s": 0.002892646996770054,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.352495994884521,
+          "p95_ms": 8.991283757495694,
+          "p99_ms": 9.845149673783453,
+          "maximum_ms": 11.599646997638047,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.147160999826156,
+          "p95_ms": 12.424236348306295,
+          "p99_ms": 13.570491082355137,
+          "maximum_ms": 15.468597994185984,
+          "budget_ms": 10.0,
+          "missed_deadlines": 187
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182243328,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_passive",
+      "repeat": 1,
+      "directory": "parallel_2_passive_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.0684892739955103,
+        "first_frame_processing_s": 0.002916509998613037,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.868881999049336,
+          "p95_ms": 9.468347648362396,
+          "p99_ms": 11.30929667968302,
+          "maximum_ms": 16.6521910141455,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 10.855365500901826,
+          "p95_ms": 13.789058094698703,
+          "p99_ms": 15.514293306041479,
+          "maximum_ms": 21.24943901435472,
+          "budget_ms": 10.0,
+          "missed_deadlines": 186
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182247424,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_active",
+      "repeat": 1,
+      "directory": "parallel_2_active_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07775960100116208,
+        "first_frame_processing_s": 0.002865834001568146,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.874391496239696,
+          "p95_ms": 9.394507908291416,
+          "p99_ms": 17.703262378345233,
+          "maximum_ms": 23.690332993282937,
+          "budget_ms": 5.0,
+          "missed_deadlines": 206
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 11.486475501442328,
+          "p95_ms": 13.883601405541384,
+          "p99_ms": 24.997394528327273,
+          "maximum_ms": 31.134884993662126,
+          "budget_ms": 10.0,
+          "missed_deadlines": 162
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182128640,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_active",
+      "repeat": 1,
+      "directory": "parallel_2_active_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05480276999878697,
+        "first_frame_processing_s": 0.00280514000041876,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.825710988370702,
+          "p95_ms": 7.188848702207906,
+          "p99_ms": 7.596280670259146,
+          "maximum_ms": 8.777683004154824,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.573902490956243,
+          "p95_ms": 10.08270474121673,
+          "p99_ms": 11.143493779673006,
+          "maximum_ms": 11.357636001775973,
+          "budget_ms": 10.0,
+          "missed_deadlines": 14
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182407168,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_2_active",
+      "repeat": 1,
+      "directory": "parallel_2_active_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05383877200074494,
+        "first_frame_processing_s": 0.002847985000698827,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.670542501320597,
+          "p95_ms": 7.230256302136695,
+          "p99_ms": 7.57345649326452,
+          "maximum_ms": 11.229217998334207,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.560361992043909,
+          "p95_ms": 10.086829651845619,
+          "p99_ms": 12.289951005659518,
+          "maximum_ms": 15.371335000963882,
+          "budget_ms": 10.0,
+          "missed_deadlines": 16
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182407168,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "strict",
+      "repeat": 1,
+      "directory": "strict_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.061657434998778626,
+        "first_frame_processing_s": 0.0028582439990714192,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.582997506484389,
+          "p95_ms": 12.145008800871437,
+          "p99_ms": 12.43212243018206,
+          "maximum_ms": 12.847123987739906,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 14.489045497612096,
+          "p95_ms": 15.009288705914512,
+          "p99_ms": 15.46500919634127,
+          "maximum_ms": 15.649054985260591,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 181940224,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "strict",
+      "repeat": 1,
+      "directory": "strict_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05479351000394672,
+        "first_frame_processing_s": 0.0028124410018790513,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.6680119998636656,
+          "p95_ms": 12.22145634892513,
+          "p99_ms": 12.75377483529155,
+          "maximum_ms": 13.910544992540963,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 14.519112497509923,
+          "p95_ms": 15.128716694744071,
+          "p99_ms": 16.406899496214464,
+          "maximum_ms": 16.575193993048742,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182145024,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "strict",
+      "repeat": 1,
+      "directory": "strict_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05529987800400704,
+        "first_frame_processing_s": 0.0030618199962191284,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.957904501177836,
+          "p95_ms": 14.598867513268486,
+          "p99_ms": 15.205178761825664,
+          "maximum_ms": 15.454149004654028,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 16.821117504150607,
+          "p95_ms": 18.02741838982911,
+          "p99_ms": 18.627186260418966,
+          "maximum_ms": 18.802008009515703,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182456320,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_active",
+      "repeat": 1,
+      "directory": "parallel_4_active_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07918532799521927,
+        "first_frame_processing_s": 0.0028859589947387576,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.821653004910331,
+          "p95_ms": 6.1468088970286745,
+          "p99_ms": 6.999479547084772,
+          "maximum_ms": 8.884563998435624,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 8.352960001502652,
+          "p95_ms": 9.341217653127387,
+          "p99_ms": 11.470699053461422,
+          "maximum_ms": 12.551951993373223,
+          "budget_ms": 10.0,
+          "missed_deadlines": 5
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 181907456,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_active",
+      "repeat": 1,
+      "directory": "parallel_4_active_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.0566962489974685,
+        "first_frame_processing_s": 0.0032286139903590083,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.0982885077246465,
+          "p95_ms": 7.267383053113005,
+          "p99_ms": 9.924696134694383,
+          "maximum_ms": 11.751111000194214,
+          "budget_ms": 5.0,
+          "missed_deadlines": 202
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.21716899756575,
+          "p95_ms": 12.175233137531897,
+          "p99_ms": 15.528667197650064,
+          "maximum_ms": 16.229578002821654,
+          "budget_ms": 10.0,
+          "missed_deadlines": 37
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182222848,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_active",
+      "repeat": 1,
+      "directory": "parallel_4_active_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07436821299779695,
+        "first_frame_processing_s": 0.0031853450054768473,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.682755494490266,
+          "p95_ms": 7.951025495276554,
+          "p99_ms": 10.364087184279912,
+          "maximum_ms": 16.047735000029206,
+          "budget_ms": 5.0,
+          "missed_deadlines": 206
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.879545999865513,
+          "p95_ms": 12.464298551640233,
+          "p99_ms": 18.218064917600707,
+          "maximum_ms": 21.354516997234896,
+          "budget_ms": 10.0,
+          "missed_deadlines": 92
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182468608,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_passive",
+      "repeat": 1,
+      "directory": "parallel_4_passive_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.06561905999842566,
+        "first_frame_processing_s": 0.0031064270006027073,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.058672002633102,
+          "p95_ms": 8.269307656155426,
+          "p99_ms": 9.980527303996496,
+          "maximum_ms": 11.291654998785816,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.524261506157927,
+          "p95_ms": 12.903206207556648,
+          "p99_ms": 14.365798053768227,
+          "maximum_ms": 14.801618992350996,
+          "budget_ms": 10.0,
+          "missed_deadlines": 63
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 181886976,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_passive",
+      "repeat": 1,
+      "directory": "parallel_4_passive_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07086860100389458,
+        "first_frame_processing_s": 0.0030324990075314417,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 4.923820502881426,
+          "p95_ms": 7.678048390516778,
+          "p99_ms": 8.574767063255422,
+          "maximum_ms": 11.496809995151125,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.457191488763783,
+          "p95_ms": 11.594920058269052,
+          "p99_ms": 12.649847777065585,
+          "maximum_ms": 14.877169989631511,
+          "budget_ms": 10.0,
+          "missed_deadlines": 55
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182325248,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "parallel_4_passive",
+      "repeat": 1,
+      "directory": "parallel_4_passive_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07343124299950432,
+        "first_frame_processing_s": 0.0029709340014960617,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.217154503043275,
+          "p95_ms": 8.1689333441318,
+          "p99_ms": 9.34986481894156,
+          "maximum_ms": 14.218290001736023,
+          "budget_ms": 5.0,
+          "missed_deadlines": 202
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 9.325502513092943,
+          "p95_ms": 12.540695445204614,
+          "p99_ms": 15.037903220654695,
+          "maximum_ms": 20.637962996261194,
+          "budget_ms": 10.0,
+          "missed_deadlines": 55
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182325248,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "bounded",
+      "repeat": 1,
+      "directory": "bounded_r1",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.07959677500184625,
+        "first_frame_processing_s": 0.0030365200072992593,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 7.141838999814354,
+          "p95_ms": 10.915154458780307,
+          "p99_ms": 11.371138571266783,
+          "maximum_ms": 13.925691004260443,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.195783001719974,
+          "p95_ms": 13.78637644011178,
+          "p99_ms": 15.108728377817894,
+          "maximum_ms": 17.759736001607962,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790042,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.90422536116649,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084836,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.987458298302351,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 182104064,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "bounded",
+      "repeat": 1,
+      "directory": "bounded_r1",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.05363138001121115,
+        "first_frame_processing_s": 0.0027876350068254396,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.952197494683787,
+          "p95_ms": 10.954125898570055,
+          "p99_ms": 12.575190815987298,
+          "maximum_ms": 13.608990993816406,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.280845501867589,
+          "p95_ms": 14.758561553026084,
+          "p99_ms": 15.956554513977608,
+          "maximum_ms": 16.517279989784583,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.2131827487879665,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968614,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064082,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499773,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 182607872,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "candidate": "bounded",
+      "repeat": 1,
+      "directory": "bounded_r1",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "decisions_equal": true,
+      "numerical_pass": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v3",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "initialization_s": 0.053725421996205114,
+        "first_frame_processing_s": 0.0028061750053893775,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.612047502130736,
+          "p95_ms": 10.810479600331746,
+          "p99_ms": 11.391289773891913,
+          "maximum_ms": 11.692992993630469,
+          "budget_ms": 5.0,
+          "missed_deadlines": 200
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 13.146889003110118,
+          "p95_ms": 13.700652294937752,
+          "p99_ms": 14.212308085698169,
+          "maximum_ms": 14.52172598510515,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874037,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.6714434622894,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.84961890671105,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607841,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 182607872,
+        "scope": "Unpaced file replay; raw projection, frontend and neural processing; acquisition and file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    }
+  ],
+  "numerical_pass": true,
+  "default_changed": false,
+  "physical_camera_validated": false,
+  "hard_real_time_certified": false
+}

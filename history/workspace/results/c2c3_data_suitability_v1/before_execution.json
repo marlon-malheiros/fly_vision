@@ -1,0 +1,38 @@
+{
+  "utc": "2026-11-05T02:51:27.107672+00:00",
+  "new_MAT_responses_not_inspected": true,
+  "qualitative_paper_and_Figure6_code_inspected": true,
+  "no_simulation_or_fit": true,
+  "files": [
+    {
+      "path": "scripts/c2c3_data_suitability_v1.py",
+      "size_bytes": 7161,
+      "sha256": "88fb7f1f82287aac9fa28b5ac108a723859d03b2c08092e88ac6567a0c7f54d1"
+    },
+    {
+      "path": "docs/C2C3_DATA_SUITABILITY_PROTOCOL_V1.md",
+      "size_bytes": 4305,
+      "sha256": "e758786214c5f39dbea63247781bd863b9de316421993cb40c15f2d2efb9ca47"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/feedback_source_audit/C2C3_file_manifest.json",
+      "size_bytes": 82808,
+      "sha256": "5fafee60698b55158dcbca7809c85fa214d9ebd6e5327a0ca4e126259efe19dc"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_r2/artifact_index.json",
+      "size_bytes": 37846,
+      "sha256": "9f8894018cf913361f4ce46d9c3c043d3f668017758e136ab7481a93192eae0a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_r2/post_exit_integrity_r2.json",
+      "size_bytes": 527,
+      "sha256": "571474e8c48f26718c1e415fb5f86d27df6ab6029335d8f0ac344844188bdb84"
+    },
+    {
+      "path": "results/c2c3_data_suitability_v1/acquisition_plan.json",
+      "size_bytes": 6106,
+      "sha256": "7ef613d525da9f2f179c06194460778ddad94d06a6b70b3c854e940ae51129d3"
+    }
+  ]
+}

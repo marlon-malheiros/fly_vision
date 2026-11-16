@@ -1,0 +1,27 @@
+{
+  "status": "COMPLETE",
+  "utc": "2026-10-27T10:27:25.343906+00:00",
+  "source_report_checkpoint": "7b3bdbc8dbec2f00cf54f60c1c8f833e13dd906c",
+  "conclusion": {
+    "primary_capability_by_method": {
+      "MaleCNS_bips": false,
+      "MaleCNS_dnp15": false,
+      "MaleCNS_h2": false,
+      "MaleCNS_hs": false,
+      "engineering_reference": true
+    },
+    "deadline_after_yaw_s": 0.2,
+    "no_fits": true,
+    "no_state_reset": true,
+    "physiological_validation": false,
+    "limitations": [
+      "legacy decoder transfer",
+      "same scene family",
+      "24 independent rooms"
+    ]
+  },
+  "report": "docs/ONGOING_WALKING_YAW_REPORT_V1.md",
+  "progress_snapshot": "PROJECT_PROGRESS_REPORT_2026-10-27.md",
+  "live_progress_and_AGENTS_excluded": true,
+  "physiological_validation": false
+}

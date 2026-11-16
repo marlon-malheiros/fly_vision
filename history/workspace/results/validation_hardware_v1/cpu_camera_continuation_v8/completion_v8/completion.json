@@ -1,0 +1,23 @@
+{
+  "status": "COMPLETE_CONTINUED_HISTORY_API_COMPONENT",
+  "created_utc": "2026-10-22T13:51:42.596294+00:00",
+  "source_commit": "595ec126457b66927144c151c585a4231e6b8e3a",
+  "unit_checks": 28,
+  "complete_camera_traces": 72,
+  "hard_fault_checks": 96,
+  "retrospective_frame_classifications": 384960,
+  "numerical_and_publication_checks": "PASS_scoped_preserved_fixtures_and_synthetic_clocks",
+  "new_performance_measurement": false,
+  "original_timing_gates": "FAIL_unchanged",
+  "bound_retrospective_episode_events": {
+    "strict": 114,
+    "continuing": 237,
+    "total": 240,
+    "expired": 3
+  },
+  "physical_camera_validated": false,
+  "physiological_validation": false,
+  "hard_real_time_certified": false,
+  "broad_goal_complete": false,
+  "report": "docs/PORTABLE_CPU_CONTINUATION_REPORT_V8.md"
+}

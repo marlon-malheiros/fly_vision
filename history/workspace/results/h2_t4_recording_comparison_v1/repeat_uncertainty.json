@@ -1,0 +1,19 @@
+{
+  "draws": 10000,
+  "defined_draws": 10000,
+  "scope": "within-recording repeat resampling only; one animal; not an independent-animal confidence interval",
+  "criterion_unchanged": true,
+  "baseline_error_interval_deg": [
+    0.16166681523721502,
+    11.09761392185087
+  ],
+  "hybrid_error_interval_deg": [
+    4.38220591248962,
+    23.501322238242338
+  ],
+  "body_horizontal_error_interval_deg": [
+    0.3516939773955151,
+    15.56864949996897
+  ],
+  "fraction_draws_hybrid_lower_error_than_reference": 0.0213
+}

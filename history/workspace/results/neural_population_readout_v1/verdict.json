@@ -1,0 +1,27 @@
+{
+  "primary": "spatial_mlp",
+  "behavior": {
+    "dnp_linear": false,
+    "individual_linear": false,
+    "spatial_linear": false,
+    "spatial_mlp": false,
+    "frozen_dnp_reference": false
+  },
+  "numerical": {
+    "dnp_linear": false,
+    "individual_linear": true,
+    "spatial_linear": false,
+    "spatial_mlp": false,
+    "frozen_dnp_reference": false
+  },
+  "all_gates": {
+    "dnp_linear": false,
+    "individual_linear": false,
+    "spatial_linear": false,
+    "spatial_mlp": false,
+    "frozen_dnp_reference": false
+  },
+  "neural_parameters_changed": false,
+  "task_trained_readout": true,
+  "physiological_validation": false
+}

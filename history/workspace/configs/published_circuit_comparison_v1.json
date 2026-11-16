@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-24",
+  "source_doi": "10.1038/s41593-025-01948-9",
+  "signed_weights_source": "Extended Data Fig. 9c, visually transcribed by row; target-first table notation",
+  "weights": {
+    "HS_F_ipsi": 1.0, "HS_B_ipsi": -0.2, "HS_B_contra": 0.2,
+    "H2_B_ipsi": 0.8, "H2_F_ipsi": -0.3, "H2_F_contra": 0.3,
+    "B_HS_ipsi": 0.9, "B_H2_contra": 0.0, "B_U_ipsi": -0.7,
+    "U_HS_ipsi": 0.5, "U_H2_contra": 0.0, "U_B_contra": -0.5,
+    "D_HS_ipsi": 0.8, "D_H2_contra": 0.3, "D_U_ipsi": -0.2, "D_B_contra": -0.5
+  },
+  "input_study": "results/image_sampling_diagnostic_v1",
+  "profile": "direct",
+  "original_variants": ["intact", "bips_silence"],
+  "hs_interfaces": ["all_hs", "classic_hs"],
+  "reference_variants": ["intact", "bips_silence"],
+  "window_indices": [70, 140],
+  "solver_dt_s": 0.001,
+  "review_tolerance": 1e-10,
+  "algebra_tolerance": 1e-12,
+  "workers": 2,
+  "full_author_simulator_reproduction": false,
+  "new_decoder_fit": false,
+  "new_held_out_validation": false,
+  "biological_validation": false,
+  "closed_loop_control": false
+}

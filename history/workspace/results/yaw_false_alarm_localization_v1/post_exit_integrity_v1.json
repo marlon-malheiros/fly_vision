@@ -1,0 +1,15 @@
+{
+  "utc": "2026-10-30T17:20:54.429271+00:00",
+  "status": "PASS",
+  "checked_after_sealing_process_exit": true,
+  "index": {
+    "path": "results/yaw_false_alarm_localization_v1/completion_v1/artifact_index.json",
+    "size_bytes": 29358,
+    "sha256": "35b834274d5ad2e513b7e2aa98b3b83096cf3d6afcc81b1400688dc5aefb8523"
+  },
+  "indexed_files": 133,
+  "indexed_bytes": 272343482,
+  "all_archived_sources_equal_live": true,
+  "parent_study_and_live_frozen_inputs_unchanged": true,
+  "live_progress_and_agents_outside_index": true
+}

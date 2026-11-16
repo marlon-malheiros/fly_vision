@@ -1,0 +1,29 @@
+{
+  "utc": "2026-10-27T02:14:52.389385+00:00",
+  "status": "COMPLETE",
+  "scope": "The fixed prospective engineering experiment is executed and reported",
+  "source_report_checkpoint": "9478d86c15b7c6f525ba34bc0759507ac881a29f",
+  "study_result": {
+    "behavioral_gates_by_method": {
+      "registered_uniform": false,
+      "registered_confidence": true,
+      "lattice_uniform": false,
+      "lattice_confidence": true,
+      "dense_confidence": true
+    },
+    "numerical_sampling_by_method": {
+      "registered_uniform": true,
+      "registered_confidence": true,
+      "lattice_uniform": true,
+      "lattice_confidence": true,
+      "dense_confidence": true
+    },
+    "primary_complete_success": true,
+    "physiological_validation": false,
+    "neural_model_repaired": false
+  },
+  "report": "docs/RELIABILITY_WEIGHTED_YAW_REPORT_V1.md",
+  "progress_snapshot": "PROJECT_PROGRESS_REPORT_2026-10-26.md",
+  "live_progress_and_AGENTS_excluded": true,
+  "physiological_validation": false
+}

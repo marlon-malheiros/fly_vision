@@ -1,0 +1,274 @@
+{
+  "timestamp_utc": "2026-10-25T12:26:18.321652+00:00",
+  "files": [
+    {
+      "path": "configs/h2_frozen_model_benchmark_v1.json",
+      "size_bytes": 1133,
+      "sha256": "aefbb37814a43bcd993eea0df173fcfea0e7b39081b71d614fab5f590dd5dc87"
+    },
+    {
+      "path": "docs/H2_FROZEN_MODEL_BENCHMARK_PROTOCOL_V1.md",
+      "size_bytes": 8032,
+      "sha256": "1130a96b9def1405d9494d293ad1b512e8353810283379e97a728f0bfb11be40"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/condition_manifest.json",
+      "size_bytes": 207666,
+      "sha256": "29020ac10d89ea7acfafa5e4608503beb8fdd8f6cafe2d352a5300b157d810bc"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/geometry_review.json",
+      "size_bytes": 440,
+      "sha256": "5153c5c802378310e225ae54113d70b3ca74d6b194ae3d5a45c7e83fa0ced162"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/identity_and_counts.json",
+      "size_bytes": 313,
+      "sha256": "b2f7a75ded9447fca988dbcdb5c55de7ad66a6ae9510adfecf067f0be66c2a9a"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/methods/streaming_core_v1.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/numerical_plans.json",
+      "size_bytes": 4337,
+      "sha256": "c10f12dcada7e989340013bed3c87738305dbfa6b53171547ee43176a15db561"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/original_model_reuse_verification.json",
+      "size_bytes": 1314,
+      "sha256": "c8a8185be5bc985ff5ffd89de11ae6f5d81e499677fe7c423ead6e13f4d121f6"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/plans.json",
+      "size_bytes": 486417,
+      "sha256": "ae6805845e4726a7f3dca2ee85b52b3a6a79aa097639f866cb6ac4b5cf6fafb1"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/positions.json",
+      "size_bytes": 17787,
+      "sha256": "df040c55ecc3763a456aead191a35a3b2fa3e4fc0d21c95f0b479ec1dcc9c87b"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v1/R_execution.log",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v1/R_geometry_input.csv",
+      "size_bytes": 41003,
+      "sha256": "7b5f43cf46509c5e1739d96886a345f827fcf23c5b0bad7effaa86e3e1b0b242"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v1/R_geometry_rounded.csv",
+      "size_bytes": 22631,
+      "sha256": "a30b80139c81c03ccd95a128541ec0b8c3d64f1fa22cd34ac0c3d0fd8daeefeb"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v1/R_geometry_unrounded.csv",
+      "size_bytes": 64979,
+      "sha256": "23a301107a6008c3e8512acaa13466de91920a84fcda4312b1d412ed17e7913c"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v1/geometry_reference.R",
+      "size_bytes": 416,
+      "sha256": "e7ed5f15d8f3bdfee8eafab9c4fa8290c11eea3379abe55d4d8a19b706fe90b8"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v2/R_execution.log",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v2/R_geometry_input.csv",
+      "size_bytes": 41003,
+      "sha256": "7b5f43cf46509c5e1739d96886a345f827fcf23c5b0bad7effaa86e3e1b0b242"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v2/R_geometry_rounded.csv",
+      "size_bytes": 22631,
+      "sha256": "a30b80139c81c03ccd95a128541ec0b8c3d64f1fa22cd34ac0c3d0fd8daeefeb"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v2/R_geometry_unrounded.csv",
+      "size_bytes": 64979,
+      "sha256": "23a301107a6008c3e8512acaa13466de91920a84fcda4312b1d412ed17e7913c"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v2/geometry_reference.R",
+      "size_bytes": 416,
+      "sha256": "e7ed5f15d8f3bdfee8eafab9c4fa8290c11eea3379abe55d4d8a19b706fe90b8"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v3/R_execution.log",
+      "size_bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v3/R_geometry_input.csv",
+      "size_bytes": 41003,
+      "sha256": "7b5f43cf46509c5e1739d96886a345f827fcf23c5b0bad7effaa86e3e1b0b242"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v3/R_geometry_rounded.csv",
+      "size_bytes": 22631,
+      "sha256": "a30b80139c81c03ccd95a128541ec0b8c3d64f1fa22cd34ac0c3d0fd8daeefeb"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v3/R_geometry_unrounded.csv",
+      "size_bytes": 64979,
+      "sha256": "23a301107a6008c3e8512acaa13466de91920a84fcda4312b1d412ed17e7913c"
+    },
+    {
+      "path": "results/h2_frozen_model_benchmark_v1/source_evidence/rounding_check_v3/geometry_reference.R",
+      "size_bytes": 416,
+      "sha256": "e7ed5f15d8f3bdfee8eafab9c4fa8290c11eea3379abe55d4d8a19b706fe90b8"
+    },
+    {
+      "path": "results/h2_trial_metadata_v1/completion_v1/artifact_index.json",
+      "size_bytes": 20333,
+      "sha256": "f82dab3b0bb21df0b0fa43e6c111e6160bc05579e3f519f34a2a5b053e851b2e"
+    },
+    {
+      "path": "results/h2_trial_metadata_v1/metadata/conditions.json",
+      "size_bytes": 3999526,
+      "sha256": "715b4a0cbdbc14e8c96532ed1666f4297bb2edffea66611c94b43418bcc176e3"
+    },
+    {
+      "path": "results/h2_trial_metadata_v1/source_curves/condition_endpoints.json",
+      "size_bytes": 2535931,
+      "sha256": "8df0c384f368045b4ea71988a90e2225340936169aa1123e33d0f995728b19be"
+    },
+    {
+      "path": "results/h2_trial_metadata_v1/source_curves/direction_curves.json",
+      "size_bytes": 172274,
+      "sha256": "f71d9529cb915313068209ab1e0c74a6ade642fa1daadcde068e238bbe96908a"
+    },
+    {
+      "path": "results/h2_trial_metadata_v1/source_curves/processed_summary_rows.json",
+      "size_bytes": 26682,
+      "sha256": "bb1aeba604112da295909f92a412e043d94df961fcbf09368ac4ef375500b7a1"
+    },
+    {
+      "path": "results/h2_trial_metadata_v1/source_curves/protocol_windows.json",
+      "size_bytes": 4974,
+      "sha256": "be09b3e40a1a6d740db971a893990e1238ff054edf855236dd6b19d91e515b21"
+    },
+    {
+      "path": "scripts/analyze_h2_frozen_model_benchmark_v1.py",
+      "size_bytes": 11609,
+      "sha256": "eda96dafffcf47a7a8d74c8b253bbb7747f2fb8b4c0bbc20edf4bfa38158b106"
+    },
+    {
+      "path": "scripts/check_h2_frozen_model_geometry_v1.py",
+      "size_bytes": 3394,
+      "sha256": "af7c41a4d5fb49a2dcd449115558f17ccdd6507bcf768d72492367ecb31a39d0"
+    },
+    {
+      "path": "scripts/check_h2_frozen_model_geometry_v2.py",
+      "size_bytes": 3423,
+      "sha256": "ee1345a0b4f9b0066d6b4fe2e7ead252fe82dae040f40819066de4cab479245d"
+    },
+    {
+      "path": "scripts/check_h2_frozen_model_geometry_v3.py",
+      "size_bytes": 3430,
+      "sha256": "c7197950b0364309683c12fce75b58e477852dfed6fcb71252d4f3f9ba23298b"
+    },
+    {
+      "path": "scripts/review_h2_frozen_model_benchmark_v1.py",
+      "size_bytes": 4562,
+      "sha256": "8070021c07bba149129f94ea1e26262f1e1eeaefc81ba836c9c8238cfe9df6a5"
+    },
+    {
+      "path": "scripts/run_h2_frozen_model_benchmark_v1.py",
+      "size_bytes": 14100,
+      "sha256": "76c16903e99021546fa5df5b7d3ff370eb25b8f4860db3797c12db26d65869b8"
+    },
+    {
+      "path": "scripts/validate_h2_frozen_model_benchmark_v1.py",
+      "size_bytes": 3114,
+      "sha256": "0f53410b573d3d6f05b70c595b203d98d9f9cb5545f1a478edd5dce81c4db31e"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/h2_edge_arena_v1.py",
+      "size_bytes": 4383,
+      "sha256": "f23298b994ba356ef1050fcf7a5dc45f98280abd3cff5887c27b2521753218d2"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "tests/test_h2_benchmark_statistics_v1.py",
+      "size_bytes": 1162,
+      "sha256": "fa724534acfb19cabe6e465b737dfbc7fe3d805c7b4604b6a2b0ba16023a498c"
+    },
+    {
+      "path": "tests/test_h2_edge_arena_v1.py",
+      "size_bytes": 2012,
+      "sha256": "c0fef899ce98b0abf7120f1739c3eb8497779a440ce4b7fcede3a23c59408bd1"
+    }
+  ],
+  "source_response_data_previously_inspected": true,
+  "neural_predictions_inspected": false,
+  "neural_parameter_fit": false,
+  "prospective_rules_for_new_predictions": true
+}

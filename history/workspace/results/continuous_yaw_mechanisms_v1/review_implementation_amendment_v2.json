@@ -1,0 +1,23 @@
+{
+  "frozen_utc": "2026-10-24T22:54:24.793109+00:00",
+  "primary_experiment_and_criteria_unchanged": true,
+  "original_review_source_preserved": true,
+  "probe_and_normalization_neural_outcomes_inspected": false,
+  "files": [
+    {
+      "path": "scripts/review_continuous_yaw_mechanisms_v1.py",
+      "size_bytes": 19519,
+      "sha256": "322be7a94f0d8316dcc758370d175a547f32d84e25709d8587a56fa3cd701c77"
+    },
+    {
+      "path": "scripts/review_continuous_yaw_mechanisms_v2.py",
+      "size_bytes": 19639,
+      "sha256": "9feaa33f9fa9e0684961e671d1384cc4b5ed7f6d0470931bacb8bd0100dbdaba"
+    },
+    {
+      "path": "docs/CONTINUOUS_YAW_VERIFICATION_CORRECTION_V2.md",
+      "size_bytes": 1578,
+      "sha256": "0a9e9872f50c094f3a878e4c19ea50b88cb18ef3e6946625372ea13a2b91a676"
+    }
+  ]
+}

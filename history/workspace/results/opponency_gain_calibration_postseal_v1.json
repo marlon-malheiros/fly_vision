@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-29T19:18:17.876946+00:00",
+  "indexed_files": 266,
+  "total_bytes": 3522924,
+  "index": {
+    "path": "results/opponency_gain_calibration_v1/completion_v1/artifact_index.json",
+    "size_bytes": 60051,
+    "sha256": "678afa13c0cd4fe153572f84ca2fcd97eb5667712e3c315b5a05653271ea89bb"
+  },
+  "all_sources_and_parent_neural_arrays_exact": true,
+  "original_frontend_graph_parameters_exact": true,
+  "separate_process_after_sealing": true
+}

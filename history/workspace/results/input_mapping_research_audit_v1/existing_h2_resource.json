@@ -1,0 +1,78 @@
+{
+  "status": "EXISTING_PUBLIC_RESOURCE_PRESENT_AND_HASH_VERIFIED",
+  "previously_documented": "docs/VALIDATION_SOURCE_FETCH_AUDIT_V1.md",
+  "source_doi": "10.25378/janelia.28462100.v2",
+  "raw_source_manifest": {
+    "path": "data/raw/validation_sources_v1/zhao2025/h2_raw_source_manifest.json",
+    "size_bytes": 1140,
+    "sha256": "b7b0c9efa09db3ee4ebc1c4019c1fc18e39001d1a021ba272f59750e48ab353a"
+  },
+  "files": [
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/edgeDataAndTable.mat",
+      "size_bytes": 3106787136,
+      "sha256": "12d67bf1fd73d0fe1389e0168311f17c7b26b69fddaaaf4f3e411fc1a7ba0f26"
+    },
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/generatePositionCell.m",
+      "size_bytes": 2892,
+      "sha256": "fabe85740e101cb14efafdf0621d4e9854c9209f4c6deaa92c72e9621f343f07"
+    },
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/plotSuppFigAllEdgePolarScript.m",
+      "size_bytes": 7446,
+      "sha256": "12b7fedfe83b3ee25adf85121808f0ba9f2ca762fe8909da756335b1440b9370"
+    },
+    {
+      "path": "data/raw/validation_sources_v1/zhao2025/h2_raw/READ_ME.txt",
+      "size_bytes": 1586,
+      "sha256": "7ab84c41e62e15cb7e9931f3e66f9808fcd88dbb24b1e1ab9d08e5c7de57186a"
+    }
+  ],
+  "schema": [
+    {
+      "name": "edgeStruct",
+      "kind": "Group",
+      "shape": null,
+      "dtype": null,
+      "children": [
+        "aligned"
+      ],
+      "matlab_class": "b'struct'"
+    },
+    {
+      "name": "edgeTable",
+      "kind": "Dataset",
+      "shape": [
+        1,
+        6
+      ],
+      "dtype": "uint32",
+      "children": [],
+      "matlab_class": "b'table'"
+    }
+  ],
+  "trial_table_decoded_by_this_audit": false,
+  "raw_response_values_scored": false,
+  "new_model_predictions": false,
+  "next_unfinished_task": "Decode and cross-check the MATLAB stimulus/trial table against the author script before any H2 tuning comparison",
+  "previous_processed_summaries_inspected": true,
+  "uninspected_validation_animals_established": false,
+  "recording_families": [
+    "seven H2 cells",
+    "two protocols per cell",
+    "local bright/dark moving edges"
+  ],
+  "required_fields": [
+    "cellNum",
+    "protNum",
+    "newIndex",
+    "relOrt",
+    "relPos",
+    "edgeVal",
+    "stimDur",
+    "ogProtNum"
+  ],
+  "no_new_download_needed": true,
+  "biological_validation": false
+}

@@ -1,0 +1,2134 @@
+{
+  "cutoff": 1.0391996879817291,
+  "summary": [
+    {
+      "speed": 5.5,
+      "yaw_magnitude": 2.0,
+      "negative_correct": 16,
+      "positive_correct": 16,
+      "correct": 32,
+      "total": 32,
+      "raw_sign_correct": 32,
+      "straight_alarms": 0,
+      "straight_total": 16,
+      "gate": true
+    },
+    {
+      "speed": 5.5,
+      "yaw_magnitude": 5.0,
+      "negative_correct": 16,
+      "positive_correct": 16,
+      "correct": 32,
+      "total": 32,
+      "raw_sign_correct": 32,
+      "straight_alarms": 0,
+      "straight_total": 16,
+      "gate": true
+    },
+    {
+      "speed": 11.0,
+      "yaw_magnitude": 2.0,
+      "negative_correct": 16,
+      "positive_correct": 16,
+      "correct": 32,
+      "total": 32,
+      "raw_sign_correct": 32,
+      "straight_alarms": 0,
+      "straight_total": 16,
+      "gate": true
+    },
+    {
+      "speed": 11.0,
+      "yaw_magnitude": 5.0,
+      "negative_correct": 16,
+      "positive_correct": 16,
+      "correct": 32,
+      "total": 32,
+      "raw_sign_correct": 32,
+      "straight_alarms": 0,
+      "straight_total": 16,
+      "gate": true
+    },
+    {
+      "speed": 16.5,
+      "yaw_magnitude": 2.0,
+      "negative_correct": 16,
+      "positive_correct": 14,
+      "correct": 30,
+      "total": 32,
+      "raw_sign_correct": 32,
+      "straight_alarms": 1,
+      "straight_total": 16,
+      "gate": true
+    },
+    {
+      "speed": 16.5,
+      "yaw_magnitude": 5.0,
+      "negative_correct": 16,
+      "positive_correct": 16,
+      "correct": 32,
+      "total": 32,
+      "raw_sign_correct": 32,
+      "straight_alarms": 1,
+      "straight_total": 16,
+      "gate": true
+    }
+  ],
+  "episodes": [
+    {
+      "key": "w00_v16.5_y+0",
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.3917789730550876,
+      "negative_peak": 0.7135790971933125
+    },
+    {
+      "key": "w00_v16.5_y-2",
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.4219312687596417,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v16.5_y+2",
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.1879785625655224,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v16.5_y-5",
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.0295390370344695,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v16.5_y+5",
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.756267288543698,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v16.5_y+0",
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.5833444418881726,
+      "negative_peak": 0.5861831008713992
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.1163951088741526,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v16.5_y+2",
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 0.9910770025679119,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v16.5_y-5",
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.3896394677010475,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v16.5_y+5",
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.3380467760411277,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v16.5_y+0",
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.5652397251175932,
+      "negative_peak": 0.742469768016595
+    },
+    {
+      "key": "w02_v16.5_y-2",
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.676569718133403,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v16.5_y+2",
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.5596599534962459,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v16.5_y-5",
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -5.759862714892809,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v16.5_y+5",
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.661015238157019,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v16.5_y+0",
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.41850508483216275,
+      "negative_peak": 0.6519489860380199
+    },
+    {
+      "key": "w03_v16.5_y-2",
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.0281585248957192,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v16.5_y+2",
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.201675547650698,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v16.5_y-5",
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.3724618078052035,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v16.5_y+5",
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.650271119634174,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v16.5_y+0",
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.25670338842430657,
+      "negative_peak": 0.6904208731858885
+    },
+    {
+      "key": "w04_v16.5_y-2",
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.2693985914070531,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v16.5_y+2",
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.8033965561916976,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v16.5_y-5",
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.6622135860498286,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v16.5_y+5",
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.0568346924802805,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v16.5_y+0",
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.42169194111534797,
+      "negative_peak": 0.6285455991457201
+    },
+    {
+      "key": "w05_v16.5_y-2",
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.2053626638156516,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v16.5_y+2",
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.1034251433333986,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v16.5_y-5",
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.6688704654530806,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v16.5_y+5",
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.641633425785764,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v16.5_y+0",
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.053117304744405465,
+      "negative_peak": 1.0375109058745027
+    },
+    {
+      "key": "w06_v16.5_y-2",
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.712194468222095,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v16.5_y+2",
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.5972230156996166,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v16.5_y-5",
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.105909775780212,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v16.5_y+5",
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.119496590206204,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v16.5_y+0",
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.08149243804539313,
+      "negative_peak": 1.0532966008414115
+    },
+    {
+      "key": "w07_v16.5_y-2",
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.7999527538836624,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v16.5_y+2",
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.5998947161387966,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v16.5_y-5",
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.474376521803564,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v16.5_y+5",
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.141814637276289,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v16.5_y+0",
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.1573733415046225,
+      "negative_peak": 0.7350784263149297
+    },
+    {
+      "key": "w08_v16.5_y-2",
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.554159890502687,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v16.5_y+2",
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.8635260381952783,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v16.5_y-5",
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.001923294162288,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v16.5_y+5",
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.388490948916687,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v16.5_y+0",
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.03131052090791657,
+      "negative_peak": 0.9748963087295086
+    },
+    {
+      "key": "w09_v16.5_y-2",
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.031275961678774,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v16.5_y+2",
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.9663677450891206,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v16.5_y-5",
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -5.039816393064477,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v16.5_y+5",
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.868245096682246,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v16.5_y+0",
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.23851210450486898,
+      "negative_peak": 0.9466193304165674
+    },
+    {
+      "key": "w10_v16.5_y-2",
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.6414986710753925,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v16.5_y+2",
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.087463883753554,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v16.5_y-5",
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.388829334090385,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v16.5_y+5",
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.706009802425534,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v16.5_y+0",
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.45503530591180225,
+      "negative_peak": 0.8099187949164287
+    },
+    {
+      "key": "w11_v16.5_y-2",
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.0707047115205304,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v16.5_y+2",
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.9763920978341103,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v16.5_y-5",
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.260634212421599,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v16.5_y+5",
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.2605880248823205,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v16.5_y+0",
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.13577019944416838,
+      "negative_peak": 0.6721946215688492
+    },
+    {
+      "key": "w12_v16.5_y-2",
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.8673802888351954,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v16.5_y+2",
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.5612160185188124,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v16.5_y-5",
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.338183215334382,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v16.5_y+5",
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.1823346714041065,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v16.5_y+0",
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.5360186286029274,
+      "negative_peak": 1.0391996879817291
+    },
+    {
+      "key": "w13_v16.5_y-2",
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.2213954223629355,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v16.5_y+2",
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.1788984377289768,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v16.5_y-5",
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.65465195906283,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v16.5_y+5",
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.7332202836375576,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v16.5_y+0",
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.0019230469097685637,
+      "negative_peak": 0.5087265911961903
+    },
+    {
+      "key": "w14_v16.5_y-2",
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.8316137665089773,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v16.5_y+2",
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.8696461037293846,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v16.5_y-5",
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.479267487272305,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v16.5_y+5",
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.585957999327893,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v16.5_y+0",
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.7713348916135572,
+      "negative_peak": 0.9777455835259836
+    },
+    {
+      "key": "w15_v16.5_y-2",
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.3449161131283565,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v16.5_y+2",
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 0.7998371708077544,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v16.5_y-5",
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.65933793413677,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v16.5_y+5",
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.1769939262774654,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v0_y+0",
+      "scene": "w00",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w00_v5.5_y+0",
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.030624685450116082,
+      "negative_peak": 0.14899402090164238
+    },
+    {
+      "key": "w00_v5.5_y-2",
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.010460423207244,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v5.5_y+2",
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8893142707834187,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v5.5_y-5",
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.7952733291227,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v5.5_y+5",
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.6847048396695925,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v11_y+0",
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.05378424483229547,
+      "negative_peak": 0.4446371740923807
+    },
+    {
+      "key": "w00_v11_y-2",
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.945462985910894,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v11_y+2",
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.774097375788545,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v11_y-5",
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.6707490845042585,
+      "negative_peak": null
+    },
+    {
+      "key": "w00_v11_y+5",
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.4714904476285,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v0_y+0",
+      "scene": "w01",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w01_v5.5_y+0",
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.03575453191258492,
+      "negative_peak": 0.17009935822122493
+    },
+    {
+      "key": "w01_v5.5_y-2",
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.653139956131987,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v5.5_y+2",
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.752208264731015,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v5.5_y-5",
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.074337601600946,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v5.5_y+5",
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.144602227218173,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v11_y+0",
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.1091228278895348,
+      "negative_peak": 0.40038379850894484
+    },
+    {
+      "key": "w01_v11_y-2",
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.7222600481494275,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v11_y+2",
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.5357229844186362,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v11_y-5",
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.065676837088425,
+      "negative_peak": null
+    },
+    {
+      "key": "w01_v11_y+5",
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 3.944195817428213,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v0_y+0",
+      "scene": "w02",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+0",
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.12010362039235475,
+      "negative_peak": 0.17570149592117296
+    },
+    {
+      "key": "w02_v5.5_y-2",
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.302935529460873,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.5603470565304116,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v5.5_y-5",
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.670163516255591,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v5.5_y+5",
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 6.141468854730411,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v11_y+0",
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.08968109255577715,
+      "negative_peak": 0.35161917509568036
+    },
+    {
+      "key": "w02_v11_y-2",
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.205585535904452,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v11_y+2",
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.337185666656511,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v11_y-5",
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.580580369428868,
+      "negative_peak": null
+    },
+    {
+      "key": "w02_v11_y+5",
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.664006889399127,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v0_y+0",
+      "scene": "w03",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w03_v5.5_y+0",
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.0873815433747222,
+      "negative_peak": 0.1886958069224166
+    },
+    {
+      "key": "w03_v5.5_y-2",
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.7829502079715438,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v5.5_y+2",
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.9887720454066073,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v5.5_y-5",
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.519849439507302,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v5.5_y+5",
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.773285952588567,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v11_y+0",
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.11036123608172932,
+      "negative_peak": 0.4282193691561218
+    },
+    {
+      "key": "w03_v11_y-2",
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.8583183347315808,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v11_y+2",
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.6445042951806783,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v11_y-5",
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.451154440067806,
+      "negative_peak": null
+    },
+    {
+      "key": "w03_v11_y+5",
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.269549186406943,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v0_y+0",
+      "scene": "w04",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w04_v5.5_y+0",
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.07850963247115524,
+      "negative_peak": 0.24501134463033092
+    },
+    {
+      "key": "w04_v5.5_y-2",
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.0555930324887814,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v5.5_y+2",
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.93224847481044,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v5.5_y-5",
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.839021812802199,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v5.5_y+5",
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.6200270108942965,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v11_y+0",
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.28333262071707205,
+      "negative_peak": 0.39483298473392897
+    },
+    {
+      "key": "w04_v11_y-2",
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.0807080040617083,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v11_y+2",
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.5400211476679733,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v11_y-5",
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.72410250326752,
+      "negative_peak": null
+    },
+    {
+      "key": "w04_v11_y+5",
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.074447723771264,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v0_y+0",
+      "scene": "w05",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w05_v5.5_y+0",
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.07737097744976734,
+      "negative_peak": 0.1500027703800062
+    },
+    {
+      "key": "w05_v5.5_y-2",
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.9423745461198654,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v5.5_y+2",
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.074932701441505,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v5.5_y-5",
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.760762412885777,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v5.5_y+5",
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.0285188725352965,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v11_y+0",
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.2214618521645823,
+      "negative_peak": 0.35294295368557016
+    },
+    {
+      "key": "w05_v11_y-2",
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.075414450133374,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v11_y+2",
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.658572156389625,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v11_y-5",
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.805476212450753,
+      "negative_peak": null
+    },
+    {
+      "key": "w05_v11_y+5",
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.564322346363871,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v0_y+0",
+      "scene": "w06",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w06_v5.5_y+0",
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.15942918929061511,
+      "negative_peak": 0.1954307291548878
+    },
+    {
+      "key": "w06_v5.5_y-2",
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.2663151836119835,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v5.5_y+2",
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.9285947743892269,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v5.5_y-5",
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.29488073238872,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v5.5_y+5",
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.057034217675784,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v11_y+0",
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.31909382263031577,
+      "negative_peak": 0.5233335696179094
+    },
+    {
+      "key": "w06_v11_y-2",
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.5723216470920456,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v11_y+2",
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.1868295832209137,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v11_y-5",
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.336004394323907,
+      "negative_peak": null
+    },
+    {
+      "key": "w06_v11_y+5",
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.985870492938877,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v0_y+0",
+      "scene": "w07",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w07_v5.5_y+0",
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.06801537397651342,
+      "negative_peak": 0.21133666329149406
+    },
+    {
+      "key": "w07_v5.5_y-2",
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.277114977970957,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v5.5_y+2",
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.0863973476905557,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v5.5_y-5",
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.536051448443081,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v5.5_y+5",
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.2678458863902575,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v11_y+0",
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.18167615286831082,
+      "negative_peak": 0.5007765538997271
+    },
+    {
+      "key": "w07_v11_y-2",
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.2477852762435817,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v11_y+2",
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.8241916005049281,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v11_y-5",
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.244262354424861,
+      "negative_peak": null
+    },
+    {
+      "key": "w07_v11_y+5",
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.770523694673917,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v0_y+0",
+      "scene": "w08",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w08_v5.5_y+0",
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.0709935425034023,
+      "negative_peak": 0.3627285941664973
+    },
+    {
+      "key": "w08_v5.5_y-2",
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.0356803393091067,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v5.5_y+2",
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.800629776357255,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v5.5_y-5",
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.845678320673663,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v5.5_y+5",
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.713577631965064,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v11_y+0",
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.107428912289162,
+      "negative_peak": 0.6120509523712901
+    },
+    {
+      "key": "w08_v11_y-2",
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.0528336004339005,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v11_y+2",
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.7551980125665458,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v11_y-5",
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.71713701625053,
+      "negative_peak": null
+    },
+    {
+      "key": "w08_v11_y+5",
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.579476524832808,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v0_y+0",
+      "scene": "w09",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w09_v5.5_y+0",
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.11293899633308374,
+      "negative_peak": 0.13628941007242348
+    },
+    {
+      "key": "w09_v5.5_y-2",
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.3702756939294627,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v5.5_y+2",
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.198057208164839,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v5.5_y-5",
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.564675411534236,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v5.5_y+5",
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.341007557723259,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v11_y+0",
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.19998041492455845,
+      "negative_peak": 0.3921671673161802
+    },
+    {
+      "key": "w09_v11_y-2",
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.0600205030150964,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v11_y+2",
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.4562187829697204,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v11_y-5",
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.303948270082427,
+      "negative_peak": null
+    },
+    {
+      "key": "w09_v11_y+5",
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.679035916492345,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v0_y+0",
+      "scene": "w10",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w10_v5.5_y+0",
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.03203798187130165,
+      "negative_peak": 0.2455476545704082
+    },
+    {
+      "key": "w10_v5.5_y-2",
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.1206279446165675,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v5.5_y+2",
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.0823594604902835,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v5.5_y-5",
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.098260352375926,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v5.5_y+5",
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.986379340614387,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v11_y+0",
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.14920925476434072,
+      "negative_peak": 0.4049665193230325
+    },
+    {
+      "key": "w10_v11_y-2",
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.9342221970347084,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v11_y+2",
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.2509942046409224,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v11_y-5",
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.863074048870857,
+      "negative_peak": null
+    },
+    {
+      "key": "w10_v11_y+5",
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.124488805090989,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v0_y+0",
+      "scene": "w11",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w11_v5.5_y+0",
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.034043660390673074,
+      "negative_peak": 0.11160792336016828
+    },
+    {
+      "key": "w11_v5.5_y-2",
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.8411656212318857,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v5.5_y+2",
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.7856112723205944,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v5.5_y-5",
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.478517645128363,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v5.5_y+5",
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.450698396911465,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v11_y+0",
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.12881692584244003,
+      "negative_peak": 0.29466408598336
+    },
+    {
+      "key": "w11_v11_y-2",
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.5920115330643803,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v11_y+2",
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.8377165496495924,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v11_y-5",
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.1298284046031,
+      "negative_peak": null
+    },
+    {
+      "key": "w11_v11_y+5",
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.420310673416829,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v0_y+0",
+      "scene": "w12",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w12_v5.5_y+0",
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.09425564085392739,
+      "negative_peak": 0.0955570284361441
+    },
+    {
+      "key": "w12_v5.5_y-2",
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.1080285201639,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v5.5_y+2",
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.949037576550991,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v5.5_y-5",
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.07371011681483,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v5.5_y+5",
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.934579448620193,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v11_y+0",
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.18990296844447316,
+      "negative_peak": 0.386029229723925
+    },
+    {
+      "key": "w12_v11_y-2",
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.0944114152192754,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v11_y+2",
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.775991312359277,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v11_y-5",
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.861079696724304,
+      "negative_peak": null
+    },
+    {
+      "key": "w12_v11_y+5",
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.702852020076644,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v0_y+0",
+      "scene": "w13",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w13_v5.5_y+0",
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.12625635403834892,
+      "negative_peak": 0.23855766492124691
+    },
+    {
+      "key": "w13_v5.5_y-2",
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.2638285622439396,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v5.5_y+2",
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.998343506155397,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v5.5_y-5",
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.352248906675265,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v5.5_y+5",
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.101289280023026,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v11_y+0",
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.5293363396472621,
+      "negative_peak": 0.6482785961191706
+    },
+    {
+      "key": "w13_v11_y-2",
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.4338721983701626,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v11_y+2",
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.3322349836283909,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v11_y-5",
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.139168905051697,
+      "negative_peak": null
+    },
+    {
+      "key": "w13_v11_y+5",
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.107591393590584,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v0_y+0",
+      "scene": "w14",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w14_v5.5_y+0",
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.2590823816832163,
+      "negative_peak": 0.3025050367885428
+    },
+    {
+      "key": "w14_v5.5_y-2",
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.9165793664951232,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v5.5_y+2",
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.2930652561279423,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v5.5_y-5",
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.814143734289901,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v5.5_y+5",
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.216426437028524,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v11_y+0",
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.13064044178958917,
+      "negative_peak": 0.4115805504561857
+    },
+    {
+      "key": "w14_v11_y-2",
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.8272060109127841,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v11_y+2",
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.1382010078204874,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v11_y-5",
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.702763149235575,
+      "negative_peak": null
+    },
+    {
+      "key": "w14_v11_y+5",
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.123638900412983,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v0_y+0",
+      "scene": "w15",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "w15_v5.5_y+0",
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.1459542647279627,
+      "negative_peak": 0.19188081570030704
+    },
+    {
+      "key": "w15_v5.5_y-2",
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.1875893127420256,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v5.5_y+2",
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8639645321162288,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v5.5_y-5",
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.063012332625134,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v5.5_y+5",
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.799237993153453,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v11_y+0",
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.12821448461758164,
+      "negative_peak": 0.6988618854493719
+    },
+    {
+      "key": "w15_v11_y-2",
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.92693747423014,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v11_y+2",
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.644392186929913,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v11_y-5",
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.503773627937196,
+      "negative_peak": null
+    },
+    {
+      "key": "w15_v11_y+5",
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.285591977642447,
+      "negative_peak": null
+    }
+  ],
+  "stationary_total": 16,
+  "stationary_alarms": 0,
+  "all_gates": true,
+  "selection_retrospective": true,
+  "model_refitted": false,
+  "prefix_comparisons": 192,
+  "previously_inspected_development_rooms": true
+}

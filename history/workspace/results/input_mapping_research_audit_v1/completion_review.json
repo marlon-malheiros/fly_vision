@@ -1,0 +1,70 @@
+{
+  "status": "PASS",
+  "implementation_checks_passed": true,
+  "coding_correction_justified": false,
+  "neural_simulations": 0,
+  "new_detection_threshold": false,
+  "physiological_validation": false,
+  "full_second_audit": false,
+  "fresh_namespace_prepare_smoke_passed": true,
+  "external_h2_data_present": true,
+  "external_h2_trial_decoder_complete": false,
+  "links": [
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_PROTOCOL_V1.md"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/research_decision_ledger.csv"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/complete.json"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/target_crosswalk.csv"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/independent_review.json"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "docs/INPUT_MAPPING_LOADER_CHECK_ADDENDUM_V1.md"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/production_loader_complete.json"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/population_difference_accounting.csv"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/channel_reconstruction.csv"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/virtual_common_sampling.csv"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/presentation_v2/input_sampling_accounting.png"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "docs/VALIDATION_SOURCE_FETCH_AUDIT_V1.md"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "results/input_mapping_research_audit_v1/existing_h2_resource.json"
+    },
+    {
+      "document": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPORT_V1.md",
+      "target": "docs/INPUT_MAPPING_AND_RESEARCH_AUDIT_REPRODUCTION_V1.md"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "body_id": "100365",
+      "condition": "bright_plus",
+      "max_error_mv": 0.002720547603722423,
+      "passed": true
+    },
+    {
+      "body_id": "100365",
+      "condition": "bright_minus",
+      "max_error_mv": 0.0011431091843547847,
+      "passed": true
+    },
+    {
+      "body_id": "151742",
+      "condition": "bright_plus",
+      "max_error_mv": 0.0026790713960380685,
+      "passed": true
+    },
+    {
+      "body_id": "151742",
+      "condition": "bright_minus",
+      "max_error_mv": 0.0011399760351480381,
+      "passed": true
+    },
+    {
+      "body_id": "92996",
+      "condition": "bright_plus",
+      "max_error_mv": 0.0026905408875208536,
+      "passed": true
+    },
+    {
+      "body_id": "92996",
+      "condition": "bright_minus",
+      "max_error_mv": 0.0011351446226939288,
+      "passed": true
+    },
+    {
+      "body_id": "101873",
+      "condition": "bright_plus",
+      "max_error_mv": 0.002713652575494052,
+      "passed": true
+    },
+    {
+      "body_id": "101873",
+      "condition": "bright_minus",
+      "max_error_mv": 0.0011446312346805598,
+      "passed": true
+    }
+  ],
+  "guard_mv": 0.005
+}

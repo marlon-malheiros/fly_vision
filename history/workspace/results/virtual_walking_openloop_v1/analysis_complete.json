@@ -1,0 +1,12 @@
+{
+  "status": "COMPLETE_EXPLORATORY",
+  "completed_utc": "2026-10-15T19:09:56.809590+00:00",
+  "primary_trials": 36,
+  "refinement_trials": 4,
+  "cell_rows": 504,
+  "class_rows": 144,
+  "static_wide_maximum": 0.0,
+  "timing_flags": 0,
+  "biological_validation": false,
+  "parameters_refitted": false
+}

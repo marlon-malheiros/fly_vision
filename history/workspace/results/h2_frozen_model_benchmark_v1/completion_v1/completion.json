@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETE_EXPLORATORY_H2_FROZEN_MODEL_COMPARISON",
+  "date": "2026-10-25",
+  "source_commit": "cf8dfa060a3971db2ef781a5a96bb84243e50f48",
+  "prospective_source_commit": "0910046ac7f93836799d01270da0938f454f73de",
+  "primary_unique_movies": 1056,
+  "posed_source_conditions": 1248,
+  "missing_pose_conditions": 96,
+  "main_and_sensitivity_static_cases": 1473,
+  "numerical_controls": 32,
+  "original_python_replays": 2,
+  "new_parameter_fits": 0,
+  "original_model_unchanged": true,
+  "numerical_gate": "PASS",
+  "quantitative_physiological_validation": false,
+  "exact_recording_replay": false,
+  "reliable_small_turn_detection": false,
+  "closed_loop": false,
+  "physical_deployment": false,
+  "broader_phd_goal_complete": false,
+  "progress_snapshot_saved": true
+}

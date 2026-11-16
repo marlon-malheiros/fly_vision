@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-25T15:11:11.282086+00:00",
+  "pretest_fixture_original_failure": "Object of type bool is not JSON serializable",
+  "scientific_formulas_unchanged": true,
+  "held_out_inputs_not_generated": true,
+  "script": {
+    "path": "scripts/score_geometry_grounded_small_yaw_v2.py",
+    "size_bytes": 2085,
+    "sha256": "2d8065acc3e757acd6ec05dac6389309086c9da43dd18adcce2b79239b485f5f"
+  }
+}

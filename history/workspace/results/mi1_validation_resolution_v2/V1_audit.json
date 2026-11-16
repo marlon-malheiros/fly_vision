@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "roi_checks": 113,
+  "old_gains_reproduced": {
+    "measured250_rectified": 0.0,
+    "measured200_rectified": 0.0,
+    "measured300_rectified": 0.0,
+    "measured250_signed": 0.0,
+    "lowpass54": 0.0
+  },
+  "old_index": {
+    "path": "results/mi1_calcium_benchmark_v1/completion_r2/artifact_index.json",
+    "bytes": 8208,
+    "sha256": "15c43a8b6f27f461c0105d56385d0714a08471e6ec187846721a7993459e1793"
+  },
+  "all_quality_zero": true,
+  "all_fluorescence_means_positive": true,
+  "minimum_native_interpolated_correlation": 0.9992983048464603,
+  "metadata_resolves_sign": false,
+  "original_helper_uint8_limitation_preserved": true,
+  "conclusion": "V1 arithmetic correct; all-ROI failure does not exclude a positive-response Mi1 model"
+}

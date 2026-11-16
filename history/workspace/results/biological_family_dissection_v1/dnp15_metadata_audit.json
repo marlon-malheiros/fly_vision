@@ -1,0 +1,764 @@
+{
+  "status": "AUDIT_COMPLETE",
+  "sessions": 16,
+  "recording_summaries": 46,
+  "entries": [
+    {
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t1_corr_concat_responses_OF.mat",
+      "fly": "GC7f R77F05LexA|220523|1",
+      "cohort": "DNp15|GC7f|dendrite|native",
+      "split": "calibration",
+      "neuron": "DNp15",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/GC7f R77F05LexA/220523/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 4653250,
+        "sha256": "120ab34c90374a179855d898ebb5921a33f3c2185cb4a4e06f5fdf1826754a14"
+      }
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t2_corr_concat_responses_OF.mat",
+      "fly": "GC7f R77F05LexA|220523|1",
+      "cohort": "DNp15|GC7f|dendrite|native",
+      "split": "calibration",
+      "neuron": "DNp15",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/GC7f R77F05LexA/220523/1/t2_corr_concat_responses_OF.mat",
+        "size_bytes": 4521670,
+        "sha256": "b2ac9e0fce4edd60fd27e5beedfee87a59addadef6e4135692b7dbab8fa57b54"
+      }
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220524/1/t1_corr_concat_responses_OF.mat",
+      "fly": "GC7f R77F05LexA|220524|1",
+      "cohort": "DNp15|GC7f|dendrite|native",
+      "split": "calibration",
+      "neuron": "DNp15",
+      "neurite": "dendrite",
+      "soma": "L",
+      "imaging_hemisphere": "L",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/GC7f R77F05LexA/220524/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 5522308,
+        "sha256": "02c9cd6abff17062fb40fa4dd988e9c5f599ee8f45b5935616cac12e419c7c79"
+      }
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t10_corr_concat_responses_OF.mat",
+      "fly": "GC7f R77F05LexA|220602|1",
+      "cohort": "DNp15|GC7f|dendrite|native",
+      "split": "validation",
+      "neuron": "DNp15",
+      "neurite": "dendrite",
+      "soma": "L",
+      "imaging_hemisphere": "L",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.469827586206897",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/GC7f R77F05LexA/220602/1/t10_corr_concat_responses_OF.mat",
+        "size_bytes": 4762341,
+        "sha256": "d20237bffea263bd882cfd2ff6054661b5dbeeaac8dc05ea0e5d79883681265b"
+      }
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t1_corr_concat_responses_OF.mat",
+      "fly": "GC7f R77F05LexA|220602|1",
+      "cohort": "DNp15|GC7f|dendrite|native",
+      "split": "validation",
+      "neuron": "DNp15",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.469827586206897",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/GC7f R77F05LexA/220602/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 4721185,
+        "sha256": "f6b7c48abcb98b69bc68f739d11df24a426ebc559377ba32c1c2cd29e71a2968"
+      }
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220617/1/t1_corr_concat_responses_OF.mat",
+      "fly": "GC7f R77F05LexA|220617|1",
+      "cohort": "DNp15|GC7f|dendrite|native",
+      "split": "calibration",
+      "neuron": "DNp15",
+      "neurite": "dendrite",
+      "soma": "L",
+      "imaging_hemisphere": "L",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/GC7f R77F05LexA/220617/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 4794591,
+        "sha256": "6739738166b2b3795954242aec760281e4f673d0297bdc4863a24891d538d87c"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231114/1/t2_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "calibration",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231114/1/t2_corr_concat_responses_OF.mat",
+        "size_bytes": 5054355,
+        "sha256": "f0ddd360707b0160c9945c76dd4ba5f3ff930c35d5f81a59d3736a5a8e05c5ff"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231230/1/t1_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "calibration",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        2
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231230/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 5909323,
+        "sha256": "b09e639c00bdc6fb002330c777100678a627ac0a025a86074bd7e573bd25fc66"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240119/1/t1_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "validation",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.469827586206897",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240119/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 5866421,
+        "sha256": "1fddd5c39a5f89f2c511bb53f42b36eabc3dc9da22c842f94b75f5dd4181e6c2"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/1/t1_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "validation",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 5933996,
+        "sha256": "24aac62f43c931563e156efc29e8cc7fa6e600bfb6aaa9e5452bb73fce3fe824"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/2/t1_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "calibration",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.469827586206897",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/2/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 6397847,
+        "sha256": "a8b5ba4cfe15f05b098c43b48fa296a4aa8376693f372c223639e71d734b6c23"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240212/2/t1_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "validation",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.469827586206897",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240212/2/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 5860012,
+        "sha256": "33011e64234e4ad7fea54c32ac4154070d54c9e7993ce0440debf37e777bf586"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240214/1/t1_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "validation",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "L",
+      "imaging_hemisphere": "L",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.469827586206897",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240214/1/t1_corr_concat_responses_OF.mat",
+        "size_bytes": 6187270,
+        "sha256": "016c4096647530cb330feb99da1ba1a6eeb8ed1808a080a8f86322b226487668"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240221/1/t2_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "validation",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "L",
+      "imaging_hemisphere": "L",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotLift_4pxsq_20px/s",
+        "DotProgSide315_4pxsq_20px/s",
+        "DotProgSide45_4pxsq_20px/s",
+        "DotProgressive_4pxsq_20px/s",
+        "DotSideslip_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240221/1/t2_corr_concat_responses_OF.mat",
+        "size_bytes": 6607251,
+        "sha256": "c7f2d0c0ecf99725b8ab5e6efe1b1ab9f8b45593b3cd36f4ca8a61bd654889ac"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240222/1/t2_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "split": "calibration",
+      "neuron": "DNp15-RdlFlpStop-WT",
+      "neurite": "dendrite",
+      "soma": "R",
+      "imaging_hemisphere": "R",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotLift_4pxsq_20px/s",
+        "DotProgSide315_4pxsq_20px/s",
+        "DotProgSide45_4pxsq_20px/s",
+        "DotProgressive_4pxsq_20px/s",
+        "DotSideslip_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240222/1/t2_corr_concat_responses_OF.mat",
+        "size_bytes": 6970939,
+        "sha256": "5601218c7b1fbbd883ac5e3339de3e8497b7398163cf826cd7569e8e900809bd"
+      }
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD mCherry GC7f/230128/1/t2_corr_concat_responses_OF.mat",
+      "fly": "R11E07AD R77F05DBD mCherry GC7f|230128|1",
+      "cohort": "DNp15|GC7f|dendrite|native",
+      "split": "calibration",
+      "neuron": "DNp15",
+      "neurite": "dendrite",
+      "soma": "L",
+      "imaging_hemisphere": "L",
+      "hemisphere_differs_from_soma": false,
+      "roi_indices": [
+        0
+      ],
+      "metadata_checks": {
+        "soma": true,
+        "neurite": true,
+        "ROI": true
+      },
+      "frame_rate": "13.020833333333334",
+      "stimulus_names": [
+        "DotProgressive_4pxsq_20px/s",
+        "DotYawRightFlipped_4pxsq_20px/s",
+        "DotYaw_4pxsq_20px/s",
+        "DotYaw_4pxsq_Left_20px/s",
+        "DotYaw_4pxsq_Right_20px/s"
+      ],
+      "source_record": {
+        "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/zenodo-figure-candidates-v1/data/Preprocessed Data/DNp15/R11E07AD R77F05DBD mCherry GC7f/230128/1/t2_corr_concat_responses_OF.mat",
+        "size_bytes": 4594974,
+        "sha256": "b07f4054691a6cc2cfd3213cc1433633a823de8359eb59ec3639eac1999563f0"
+      }
+    }
+  ],
+  "mismatches": [],
+  "array_checks": [
+    {
+      "key": "ef092a65e4e4183b1f61",
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "8153e5b345f39b6b3131",
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "96045ba91756dbc9a3f1",
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "630c7304a995fcc22696",
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "6b1d11886405a50e88d9",
+      "source": "DNp15/GC7f R77F05LexA/220524/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "4238f64120bb45ca3db9",
+      "source": "DNp15/GC7f R77F05LexA/220524/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "480194ae84b3554decb9",
+      "source": "DNp15/GC7f R77F05LexA/220617/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "d18330e7f517e58b78d7",
+      "source": "DNp15/GC7f R77F05LexA/220617/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "a082995d17e9f72cd93b",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231114/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "0ef903692d7d21168550",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231114/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "65f0485d73190418dfec",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231230/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "95d81d9652bb822f5464",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231230/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "e10a6d4d5364985ffdbe",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/2/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "74382d210be3dfece7c1",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/2/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "37333ef1f3a00ce0b7fb",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240222/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "d59f5e9ac8369be1c0df",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240222/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "791938fc3d7a58ee9320",
+      "source": "DNp15/R11E07AD R77F05DBD mCherry GC7f/230128/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "6464d2c4c70f63da6039",
+      "source": "DNp15/R11E07AD R77F05DBD mCherry GC7f/230128/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "4ec52348f1de6d853b88",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t10_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "b77f0dcad6021b774185",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t10_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "c3f3f6751efd0d91137d",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t10_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "c9fc12d33760a01958d3",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t10_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "de66a593f1203ac90e39",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "1a293b8d512afca16ec6",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "568cfbdb09ab96f0fbbb",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "99b809875573413d8eb9",
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "c5c9eba18ae30b2d9256",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240119/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "07e5b772c8592408fc10",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240119/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "3fb36cdb7364adc1d16e",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240119/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "dd6fd341fe42e5258aa3",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240119/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "47c70d83677318a06bf8",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "748f2ac880635ff06232",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "39c02c0e904dce256a33",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "2999cd8711fcadc322ee",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "91ea2a43136c1d312d5b",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240212/2/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "0cfc0fd5789f6c0cbbfc",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240212/2/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "d30a2c75acfde2556d0b",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240212/2/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "42b1b40a25f913992f7c",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240212/2/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "06d4c1b0643cb5e02800",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240214/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "5e7c4096faf476568bfc",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240214/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "29fd59dc3961b867916e",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240214/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "44e33bc8d92313293d29",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240214/1/t1_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "b2004e4e94d2b1f67b2a",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240221/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "6a4723456f92736b5e5c",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240221/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "fa3a05337f6dc8d83287",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240221/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    },
+    {
+      "key": "ee019d12ac1122b63989",
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240221/1/t2_corr_concat_responses_OF.mat",
+      "exact_raw_array_and_clock": true
+    }
+  ],
+  "raw_array_and_clock_maximum_error": 0.0,
+  "single_compartment_to_dendritic_calcium_equivalence": "UNVERIFIED",
+  "mapping_changed": false,
+  "new_independent_animals": false
+}

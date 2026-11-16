@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "kernel": "strict",
+      "cases": 3,
+      "fault_checks": 24,
+      "status": "PASS"
+    },
+    {
+      "kernel": "parallel4",
+      "cases": 3,
+      "fault_checks": 24,
+      "status": "PASS"
+    }
+  ],
+  "all_inputs_retained": true,
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "performance_measured": false
+}

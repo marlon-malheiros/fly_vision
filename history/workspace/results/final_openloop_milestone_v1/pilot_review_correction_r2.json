@@ -1,0 +1,21 @@
+{
+  "utc": "2026-10-29T20:02:53.063977+00:00",
+  "original_freeze": {
+    "path": "results/final_openloop_milestone_v1/before_pilot.json",
+    "size_bytes": 26801,
+    "sha256": "8d4a51a7710bf30288812cd5d6f9ac54056e79905d081a0fa943dc16c116e0d6"
+  },
+  "fresh_scientific_images_generated": false,
+  "corrections": [
+    "Retain all full hidden-state final/checkpoints for 108 numerical profiles, allowing 27-case full-state convergence instead of observable-only comparison.",
+    "Archive false-alarm room-bootstrap intervals as well as joint-detection intervals."
+  ],
+  "unchanged": [
+    "All scientific inputs, fits, thresholds, model parameters, seeds and acceptance gates"
+  ],
+  "initial_pilot_complete": {
+    "path": "results/final_openloop_milestone_v1/pilot_complete.json",
+    "size_bytes": 132,
+    "sha256": "1307406ebc61cb41d3ec58ec76855cdc37caddab37ff43271227c52cb71677de"
+  }
+}

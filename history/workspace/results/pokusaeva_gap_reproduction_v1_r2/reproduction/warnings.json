@@ -1,0 +1,22 @@
+[
+  {
+    "seed": 0,
+    "category": "RuntimeWarning",
+    "message": "invalid value encountered in divide"
+  },
+  {
+    "seed": 0,
+    "category": "RuntimeWarning",
+    "message": "invalid value encountered in divide"
+  },
+  {
+    "seed": 1,
+    "category": "RuntimeWarning",
+    "message": "invalid value encountered in divide"
+  },
+  {
+    "seed": 1,
+    "category": "RuntimeWarning",
+    "message": "invalid value encountered in divide"
+  }
+]

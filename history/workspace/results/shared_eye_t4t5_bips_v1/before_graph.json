@@ -1,0 +1,87 @@
+{
+  "inputs": [
+    {
+      "condition": 0,
+      "label": "STATIC",
+      "path": "results/physiological_population_v1/condition_00/downstream.npz",
+      "sha256": "f13caed05373c685efef2ee608d3e8988098bcfb039d531049818290c9741604",
+      "bytes": 37074369
+    },
+    {
+      "condition": 1,
+      "label": "HORIZONTAL_GLOBAL_POSITIVE",
+      "path": "results/physiological_population_v1/condition_01/downstream.npz",
+      "sha256": "bb09cd0f47abac3d9af6e0da21153e0ca90f32636157a69c69c4159fed6c9c8f",
+      "bytes": 36989025
+    },
+    {
+      "condition": 2,
+      "label": "HORIZONTAL_GLOBAL_NEGATIVE",
+      "path": "results/physiological_population_v1/condition_02/downstream.npz",
+      "sha256": "7f26fb34fb106042bc9c71b27e53f81db275b3ca7afa84668dc465a64b8c77ce",
+      "bytes": 36986101
+    },
+    {
+      "condition": 3,
+      "label": "LEFT_FIELD_POSITIVE",
+      "path": "results/physiological_population_v1/condition_03/downstream.npz",
+      "sha256": "303564eb216492212e6b2b93660a79fc4bb823953ff9e434898c0da668a817c8",
+      "bytes": 37030991
+    },
+    {
+      "condition": 4,
+      "label": "LEFT_FIELD_NEGATIVE",
+      "path": "results/physiological_population_v1/condition_04/downstream.npz",
+      "sha256": "cb858a6fdadb51258f437d8b88e1608547c522c2d6d7ae6c7391d597914fac01",
+      "bytes": 37072762
+    },
+    {
+      "condition": 5,
+      "label": "RIGHT_FIELD_POSITIVE",
+      "path": "results/physiological_population_v1/condition_05/downstream.npz",
+      "sha256": "499bf4c09a35afd94503e89e64e81c869e38bb0fef5a60eb81a31b7ad9692dc1",
+      "bytes": 37088513
+    },
+    {
+      "condition": 6,
+      "label": "RIGHT_FIELD_NEGATIVE",
+      "path": "results/physiological_population_v1/condition_06/downstream.npz",
+      "sha256": "8fb0e96b63296cb1d9665be0b3dc61928ac03b65369afe8a2f0c9b00aa1119df",
+      "bytes": 37045391
+    }
+  ],
+  "frozen_sha256": {
+    "scripts/shared_eye_t4t5_bips_v1.py": "0ddaf00824c28d156f886627b3a6a7fe553c886a1172da31082c69f6cd84cf48",
+    "docs/SHARED_EYE_T4T5_BIPS_PROTOCOL_V1.md": "01487d8148a6cde1f327a1319a9484fedac31138b086acc00b354d8af8bd03fd",
+    "src/male_optic_frontend/streaming_held_circuit_v1.py": "4a5499d2d8d2c494f6657140d9f2982dafb177de1502a9cd00a3fb7677e61d21",
+    "src/male_optic_frontend/streaming_v1.py": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc",
+    "src/male_optic_frontend/streaming_core_v1.cpp": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857",
+    "src/male_optic_frontend/held_input_graph_v2.py": "d4e7afbeedf7ade0a23a7e25bfca2b010eca64d312b75046102f9b39a4b1ed0c",
+    "src/male_optic_frontend/virtual_walking_v1.py": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa",
+    "src/male_optic_frontend/anatomical_strengthening_v1.py": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57",
+    "results/physiological_population_analysis_v1/analysis_summary.json": "1672be577f731ff74efcf18adea46d053fe1ebf3a054965e0e7921c9776f87cd",
+    "results/physiological_population_v1/continuation_01/run_manifest.json": "09fc313bff0b53bc7725ff26830cac479613749bbc9e5925ea8526318628f757",
+    "results/shared_eye_t4t5_bips_v1/held_kernel.so": "2dc7fa9a0038ae55ce88f66e6b099c90b07738bbbaf2936209b14a5f13d5af20",
+    "results/horizontal_opponency_v1/graphs/lpi/graph.json": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8",
+    "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54",
+    "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa",
+    "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+  },
+  "condition_outcomes_new_to_graph_uninspected": true,
+  "source_outcomes_previously_inspected": true,
+  "protocol": "docs/SHARED_EYE_T4T5_BIPS_PROTOCOL_V1.md",
+  "build_command": [
+    "g++",
+    "-std=c++17",
+    "-O3",
+    "-fno-fast-math",
+    "-ffp-contract=off",
+    "-shared",
+    "-fPIC",
+    "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+    "-o",
+    "<WORKSPACE>/results/shared_eye_t4t5_bips_v1/held_kernel.so"
+  ],
+  "planned_retained_bytes_max": 33554432,
+  "free_bytes": 154273959936
+}

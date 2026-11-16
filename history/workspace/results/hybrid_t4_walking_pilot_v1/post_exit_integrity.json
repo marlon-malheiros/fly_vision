@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "files_checked": 92,
+  "bytes_checked": 2739160,
+  "index_sha256": "1bf666e6766de506a076998a86c1c0b9413ff4bc9d599af19662f0dbd8895865",
+  "failures": [],
+  "scope": "new pilot archive only, excludes intentional historical movie retirements"
+}

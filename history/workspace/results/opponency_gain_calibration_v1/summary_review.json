@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "summary_rows": 80,
+  "sensitivity_rows": 96,
+  "paired_bootstrap_comparisons": 16,
+  "all_per_fly_and_paired_bootstrap_estimands_reproduced": true,
+  "all_decision_components_verified": true
+}

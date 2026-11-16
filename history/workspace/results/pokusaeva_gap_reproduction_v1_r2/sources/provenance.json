@@ -1,0 +1,13 @@
+{
+  "utc": "2026-10-26T23:10:44.670821+00:00",
+  "author_commit": "114dd16720501570ba0e6bfe27b04d6a39cba46b",
+  "notebook_url": "https://github.com/joesch-lab/Bilateral-course-control/blob/114dd16720501570ba0e6bfe27b04d6a39cba46b/flyagentmodel.ipynb",
+  "paper_url": "https://www.nature.com/articles/s41467-024-53173-w",
+  "archive_already_present": true,
+  "original_archive_path": "<HOME>/Lab/mech_male_fly_cns/data/raw/pokusaeva-2024",
+  "source_zip_sha256": "9483c77dfe49b04d794b7cb17e0521c4acef937990cf41d26d252fafd4c71e38",
+  "notebook_saved_outputs": 0,
+  "s15_workbook_content": "chemical LPTC connectivity; no numerical DI results",
+  "license_note": "Archive manifest labels dataset CC-BY-4.0; paper/source-data are CC-BY-4.0. No separate software LICENSE file found in archived author repository; attribution retained.",
+  "retrieval_failure": "Web tool failed to fetch article-linked supplementary PDF (cache miss); not needed to execute the locally archived author calculation."
+}

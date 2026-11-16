@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-02T13:57:55.966229+00:00",
+  "passed": true,
+  "index": {
+    "path": "results/hs_gain_transfer_v1_r2/completion_v1/artifact_index.json",
+    "size_bytes": 80242,
+    "sha256": "6d843da96821b663f34a409406892a75a2b4129ae8267ec6ff82d6b03f3b3547"
+  },
+  "indexed_files": 353,
+  "total_package_bytes": 23662460,
+  "complete_biological_validation": false
+}

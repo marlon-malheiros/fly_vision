@@ -1,0 +1,30 @@
+{
+  "utc": "2026-10-30T17:11:08.879514+00:00",
+  "clamp_review_pass": true,
+  "late_numerics_post_outcome": true,
+  "late_numerics": [
+    {
+      "profile": "spatial",
+      "cases": 9,
+      "episode_alarm_changes": 0,
+      "maximum_score_change": 0.20942123881073746,
+      "sample_decision_changes": 0
+    },
+    {
+      "profile": "temporal",
+      "cases": 9,
+      "episode_alarm_changes": 0,
+      "maximum_score_change": 0.04058480530194497,
+      "sample_decision_changes": 0
+    },
+    {
+      "profile": "solver",
+      "cases": 9,
+      "episode_alarm_changes": 0,
+      "maximum_score_change": 3.0673974471540078e-09,
+      "sample_decision_changes": 0
+    }
+  ],
+  "new_simulations": 0,
+  "original_numerical_gate_unchanged": true
+}

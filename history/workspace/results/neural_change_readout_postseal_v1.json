@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T18:16:53.485954+00:00",
+  "index": {
+    "path": "results/neural_change_readout_v1/completion_v1/artifact_index.json",
+    "size_bytes": 616780,
+    "sha256": "00bb5f9037ac0932ffcf853f6975d0c74227c609df2401410a0d34841c5fa195"
+  },
+  "checked_files": 2899,
+  "checked_bytes": 22811831466,
+  "verified_after_sealer_exited": true,
+  "original_frontend_graph_neural_parameters_unchanged": true,
+  "physiological_validation": false
+}

@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "indexed_files": 30,
+  "indexed_bytes": 1175565,
+  "index_sha256": "f903af81d17e6382b1ba7ca0da633b0282ed3f0748562175e8ef29739687a51f",
+  "available_bytes_at_verification": 13016420352,
+  "scope": "Independent post-exit verification of the new cleanup archive; no full-project rehash and no new scientific validation."
+}

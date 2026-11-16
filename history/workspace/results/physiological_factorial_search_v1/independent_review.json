@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "independent_endpoint_count": 1005,
+  "maximum_independent_endpoint_discrepancy": 1.1492543028346347e-17,
+  "frequency_scores_recomputed": 80,
+  "screen_cases": 10,
+  "screen_copies": 80,
+  "candidate_combinations": 72,
+  "source_shape": [
+    18,
+    7,
+    61,
+    4
+  ],
+  "source_outputs": 30744,
+  "all_copy_strict_checks": 160,
+  "finalists": 3,
+  "finalist_extra_checks": 18,
+  "prior_indexed_files_reverified": {
+    "t4_horizontal_integration_pilot_v1": 228,
+    "hs_temporal_components_v1": 230,
+    "physiological_branch_validation_v1": 59
+  },
+  "case_failures": 0,
+  "CPU_seconds": 7960.063238341,
+  "peak_RSS_bytes": 1971044352,
+  "numerical_reproducibility_is_not_biological_validation": true,
+  "biological_validation": false
+}

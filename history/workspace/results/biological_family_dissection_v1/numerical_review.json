@@ -1,0 +1,47 @@
+{
+  "status": "PASS",
+  "fixed_original_1ms_forcing_ramp": true,
+  "tolerance": 1e-07,
+  "checks": [
+    {
+      "variant": "expanded_ulptcrn_silent",
+      "reference": "parity",
+      "errors": {
+        "rate": 0.0,
+        "checkpoint_states": 0.0,
+        "chemical_by_role": 0.0,
+        "final_state": 0.0
+      }
+    },
+    {
+      "variant": "expanded_ulptcrn_silent",
+      "reference": "half",
+      "errors": {
+        "rate": 2.1123973444371602e-10,
+        "checkpoint_states": 9.218386332054962e-10,
+        "chemical_by_role": 1.0674052895905117e-10,
+        "final_state": 3.62864944136802e-18
+      }
+    },
+    {
+      "variant": "expanded_h2rn_silent",
+      "reference": "parity",
+      "errors": {
+        "rate": 0.0,
+        "checkpoint_states": 0.0,
+        "chemical_by_role": 0.0,
+        "final_state": 0.0
+      }
+    },
+    {
+      "variant": "expanded_h2rn_silent",
+      "reference": "half",
+      "errors": {
+        "rate": 1.7616859989029454e-10,
+        "checkpoint_states": 9.21838938516828e-10,
+        "chemical_by_role": 1.0679096498701808e-10,
+        "final_state": 3.6283384214577e-18
+      }
+    }
+  ]
+}

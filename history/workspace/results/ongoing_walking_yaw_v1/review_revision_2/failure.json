@@ -1,0 +1,9 @@
+{
+  "stage": "Original independent stationary-control audit",
+  "exception": "TypeError: bad operand type for abs(): 'list'",
+  "location": "scripts/review_ongoing_walking_yaw_v1.py:147",
+  "expression": "np.max(abs(pair)) == 0",
+  "intended_check": "maximum absolute stationary neural feature is exactly zero",
+  "simulation_or_acceptance_change": false,
+  "original_output_written": false
+}

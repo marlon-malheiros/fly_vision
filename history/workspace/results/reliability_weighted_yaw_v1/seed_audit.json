@@ -1,0 +1,57 @@
+{
+  "seed_inventories": [
+    {
+      "path": "results/geometry_grounded_small_yaw_v1/scenes.json",
+      "size_bytes": 22390,
+      "sha256": "243854d02eea3c3622b5cafd292d56702c31a8c71b50db3deb9b6b20c190f159"
+    },
+    {
+      "path": "results/geometry_grounded_small_yaw_v2/scenes.json",
+      "size_bytes": 22390,
+      "sha256": "243854d02eea3c3622b5cafd292d56702c31a8c71b50db3deb9b6b20c190f159"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/scenes.json",
+      "size_bytes": 22391,
+      "sha256": "5688a1a5a25ff5ce89df05e50347167cec23ae97490f0a93024a26ac3324a14b"
+    },
+    {
+      "path": "results/small_turn_target_decision_v4/scenes.json",
+      "size_bytes": 12203,
+      "sha256": "a91a12d50921f1ea787f2aa513b784ce8a3eb39ec732a475e4387670b7cc3d69"
+    },
+    {
+      "path": "results/small_yaw_image_reference_v3/scenes.json",
+      "size_bytes": 20362,
+      "sha256": "dc4384724ad0a4aa8428a170f824bfe8b6b3e0a783e04272a86e410afbae0682"
+    }
+  ],
+  "prior_distinct_seeds": 116,
+  "fresh_seeds_disjoint": true,
+  "test_seeds": [
+    202610273000,
+    202610273001,
+    202610273002,
+    202610273003,
+    202610273004,
+    202610273005,
+    202610273006,
+    202610273007,
+    202610273008,
+    202610273009,
+    202610273010,
+    202610273011,
+    202610273012,
+    202610273013,
+    202610273014,
+    202610273015,
+    202610273016,
+    202610273017,
+    202610273018,
+    202610273019,
+    202610273020,
+    202610273021,
+    202610273022,
+    202610273023
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "utc": "2026-10-30T13:11:06.677143+00:00",
+  "known_pilot_only": true,
+  "scientific_gate_changes": false,
+  "results": [
+    {
+      "model": "original_frozen",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.199040866595169e-14,
+      "passed": true
+    },
+    {
+      "model": "original_frozen",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.108624468950438e-14,
+      "passed": true
+    },
+    {
+      "model": "original_frozen",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.398081733190338e-14,
+      "passed": true
+    },
+    {
+      "model": "original_frozen",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 7.771561172376096e-15,
+      "passed": true
+    },
+    {
+      "model": "expanded_pre_LPi",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 8.881784197001252e-15,
+      "passed": true
+    },
+    {
+      "model": "expanded_pre_LPi",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.108624468950438e-14,
+      "passed": true
+    },
+    {
+      "model": "expanded_pre_LPi",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.907985046680551e-14,
+      "passed": true
+    },
+    {
+      "model": "expanded_pre_LPi",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.0658141036401503e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_intact",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 7.438494264988549e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_silent_same_normalization",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.021405182655144e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_silent",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 8.881784197001252e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_all_outputs_cut",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 8.881784197001252e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_to_DNp15_cut",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 9.547918011776346e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_HS_silent",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 0.0,
+      "passed": true
+    },
+    {
+      "model": "LPi_H2_silent",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 9.103828801926284e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_sham",
+      "role": "hs",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 7.438494264988549e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_intact",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.3306690738754696e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_silent_same_normalization",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.4868995751603507e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_silent",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.219646771412954e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_all_outputs_cut",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.219646771412954e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_to_DNp15_cut",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.2751579226442118e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_HS_silent",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.886579864025407e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_H2_silent",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 0.0,
+      "passed": true
+    },
+    {
+      "model": "LPi_sham",
+      "role": "h2",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.3306690738754696e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_intact",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.3092638912203256e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_silent_same_normalization",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.5757174171303632e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_silent",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 0.0,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_all_outputs_cut",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.4210854715202004e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_to_DNp15_cut",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.1538326677728037e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_HS_silent",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 3.552713678800501e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_H2_silent",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.4424906541753444e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_sham",
+      "role": "bips",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.3092638912203256e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_intact",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.0658141036401503e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_silent_same_normalization",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.199040866595169e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_silent",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.2212453270876722e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_all_outputs_cut",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.2212453270876722e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_bIPS_to_DNp15_cut",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.2434497875801753e-14,
+      "passed": true
+    },
+    {
+      "model": "LPi_HS_silent",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 2.886579864025407e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_H2_silent",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 7.327471962526033e-15,
+      "passed": true
+    },
+    {
+      "model": "LPi_sham",
+      "role": "dnp15",
+      "pair_exact": true,
+      "max_FIR_streaming_difference": 1.0658141036401503e-14,
+      "passed": true
+    }
+  ],
+  "passed": true,
+  "previous_partial_output": {
+    "path": "results/final_openloop_milestone_v1/resume_2026-10-30_r2/known_pilot_independent_auditor_preflight.json",
+    "size_bytes": 289,
+    "sha256": "e4730c5a6fdb15352a391b84045ef2aab67919657bf44ea3bd9abe4abd017cd8"
+  },
+  "previous_failure": "NumPy boolean serialization in auxiliary check; numerical comparisons passed; corrected native-bool serialization only"
+}

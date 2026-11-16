@@ -1,0 +1,316 @@
+{
+  "utc": "2026-11-02T03:55:07.315883+00:00",
+  "files": [
+    {
+      "path": "configs/raw_local_heldout_v1.json",
+      "size_bytes": 468,
+      "sha256": "faa3c9b0706cdd4c702dc4d67c24ecb3a8cdd6e82c4c76f66c92b3a401194397"
+    },
+    {
+      "path": "docs/RAW_LOCAL_HELDOUT_PROTOCOL_V1.md",
+      "size_bytes": 4341,
+      "sha256": "d7dc3be36cd5723b062f939ef3ee013846fe3006e267133e77c3f72ef11aec67"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/methods/renderer.so",
+      "size_bytes": 11736,
+      "sha256": "2fc169c9b7e6e8359da448e985ae1f8e2543ce81774a1d74aaa11c671e4dab62"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz",
+      "size_bytes": 716856,
+      "sha256": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph.json",
+      "size_bytes": 1916,
+      "sha256": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz",
+      "size_bytes": 64837,
+      "sha256": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54"
+    },
+    {
+      "path": "results/neural_population_readout_v1/methods/observer.so",
+      "size_bytes": 24672,
+      "sha256": "e23a33759b5758e28defc6a3a5566a5f1c4f6430e38f95e832e389ca58f3f11a"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/cutoff.json",
+      "size_bytes": 68,
+      "sha256": "c07e84bb044ed14c6993ad329aff1d81164e47cae2f62cac57fd5b8c82765e4f"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/freshness_audit.json",
+      "size_bytes": 1475,
+      "sha256": "f8330fe3d2c2350611490dc0231a7220b0a376a36e7f3d9caa918cb68455b5fd"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/geometry_audit.json",
+      "size_bytes": 27987,
+      "sha256": "91d76ddd7ba457762f3b3ec2b5e09e81e89cca9a728f9467261b2f454b8bfec2"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/local_map.npz",
+      "size_bytes": 18753,
+      "sha256": "f23180743243e92e8ed9d3438f6755ef289fa8273306cde029a0debbfd2edd9c"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/model.json",
+      "size_bytes": 2802,
+      "sha256": "8d2e9a7f091043a9b5618d5c421f36b3494169614a85f11df20a85c273584b1b"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/plans.json",
+      "size_bytes": 59091,
+      "sha256": "4a348ec44deb437849590870f4a9dd1a866185a47eba843399590c2f6ee51eb1"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/scenes.json",
+      "size_bytes": 12039,
+      "sha256": "7a06f4cef291d5114454e11208367c928d244fe0f41ad5d74a04af5cdf0efd82"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/training_floor.json",
+      "size_bytes": 166,
+      "sha256": "09fa8351e323416065179bb44258d13f0237685c637acbae10aa85d38f1317ea"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st00.json",
+      "size_bytes": 6645,
+      "sha256": "c9adbe9825a123b9cbe8392e99c48b9623c747794cab15719d548984f65c2316"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st01.json",
+      "size_bytes": 10192,
+      "sha256": "9da9f1aee9b6c806bc0842cd9968711e2f1a306d347e68e1fb7fccf391de0ce7"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st02.json",
+      "size_bytes": 6647,
+      "sha256": "1e1c683f63300abe98faf119ccab5e066941167b029e16f353c2342374431f60"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st03.json",
+      "size_bytes": 10169,
+      "sha256": "7e6e9cae9dbcd134379ec74b661a4875fb64254d33d9a29ecc6039907cd60161"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st04.json",
+      "size_bytes": 6669,
+      "sha256": "b9d8e10e1de604a91a078f5e344bd88f4cefa0cb5fca192faaf6e903b8844150"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st05.json",
+      "size_bytes": 10181,
+      "sha256": "75ba20c8f9d42fb6a40ab2bcc010826ba7cf2f47ece1e66c2d4bfea443ffc65b"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st06.json",
+      "size_bytes": 6668,
+      "sha256": "046df8834f6beceee3954d966b06782a6a199246a70189bf140eb2f3b9716d36"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st07.json",
+      "size_bytes": 10153,
+      "sha256": "9bbc8646b1e122d0a76a1de3e1daf68069f984bed143b7b5401eab66dd2a3f6b"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st08.json",
+      "size_bytes": 6636,
+      "sha256": "80624568e2b0fdd11785a121f349c2abc307cadfcc5becf6b7291079647485ab"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st09.json",
+      "size_bytes": 10189,
+      "sha256": "41c693a5a95a66694896bd2204900c25ebe493cf37b902a8f8850d56a468a6c5"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st10.json",
+      "size_bytes": 6660,
+      "sha256": "723acb79e084a6172d07d3276b31e6cb72efdd32e9fb07608165bace38996ae5"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st11.json",
+      "size_bytes": 10177,
+      "sha256": "714aaf096c8a46c8d9bc9c285ff4b8d9d42a914e94c174d0c785a6f0edbfd12c"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st12.json",
+      "size_bytes": 6657,
+      "sha256": "83bf770634306df619522f0c1235684f8db6309d4086f80d6e93bc5d4e3c03fe"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st13.json",
+      "size_bytes": 10159,
+      "sha256": "1604fe1f3ccc68166ac5751486c205cb19a9d3fb12b62ba7d1d70a89c8260798"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st14.json",
+      "size_bytes": 6662,
+      "sha256": "d6f294717322b0fa605fc32a875297d3accdf1aa53aff908914bae917f3ba60c"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st15.json",
+      "size_bytes": 10168,
+      "sha256": "6218e493d5b3023bcdf53911cf5c3672c6dc00df905b6719f76bfd99e21ca8f3"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st16.json",
+      "size_bytes": 6666,
+      "sha256": "3487d5e3bb4fa44303b24e8b4dcba2034fa8c287939f5b99c4a45a98452af3c3"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st17.json",
+      "size_bytes": 10158,
+      "sha256": "749e6e02de572f3f4c00ab0e4dab476cc9a542c2dd359bd86a3ff0c6c24ebf0c"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st18.json",
+      "size_bytes": 6640,
+      "sha256": "6d7e4687277690aab49a34397249415096f3ccf5a6df9606e5b9b764a4243774"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st19.json",
+      "size_bytes": 10170,
+      "sha256": "facab5e5f49dd40f3759dbc30be97917a2dea446212a8b1e87f42b48739373be"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st20.json",
+      "size_bytes": 6660,
+      "sha256": "dd624f3fc14593aecd1fe7abc02aa9180c3007a8dd0cc3c24874e82405266961"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st21.json",
+      "size_bytes": 10155,
+      "sha256": "2ee03d8758abd36822450e2379ca6768769e0404df8a079c918ca8b7e76f9a14"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st22.json",
+      "size_bytes": 6656,
+      "sha256": "8aa95debd95ee5713ff024262263b5226eb70e09c4424a472ccfb11c1724c130"
+    },
+    {
+      "path": "results/raw_local_heldout_v1/worlds/st23.json",
+      "size_bytes": 10152,
+      "sha256": "7e9dae86d520de4754cc4923a423c526e2f1a809568bb81875a1671fa1fbec3a"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/before_qualification.json",
+      "size_bytes": 3658,
+      "sha256": "aab5813a5706ae9bb7d1709539b3aa901f273d02824d62ca58227da54c1abd48"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/calibration_results.json",
+      "size_bytes": 45586,
+      "sha256": "4629a983a58c572342a878436ac1fe60e695568a748e7cdb5cf1856bcc5877d3"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/solver_numerical_results.json",
+      "size_bytes": 6690,
+      "sha256": "cd5f958a242b61a50158e09f90b8b969cdb33a52d96bb84a14ebe5939e1468be"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/spatial_numerical_results.json",
+      "size_bytes": 6649,
+      "sha256": "23292de99a7f94e4769b8224e8cd3dd58072a56b307bf5c8fab23473447bf1a6"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/temporal_numerical_results.json",
+      "size_bytes": 6680,
+      "sha256": "79a88739ff9346ea13207bbc0a32cbec304ead2bef33596b8d727353c7d219cd"
+    },
+    {
+      "path": "scripts/local_subunit_pilot_v1.py",
+      "size_bytes": 22191,
+      "sha256": "aa7e5ce9567d4cfd1f8dfaefb0db4176570b881dca93108085a775f8c7d7c66b"
+    },
+    {
+      "path": "scripts/neural_population_readout_v1.py",
+      "size_bytes": 20013,
+      "sha256": "800d6d4b223463213fd2caeddd6c4e9899148c9e9ce6f285e355bace58229b03"
+    },
+    {
+      "path": "scripts/raw_local_heldout_v1.py",
+      "size_bytes": 13903,
+      "sha256": "aa73b4daffcf9a631c506fca82941ead1d42cfb9e4f3fb91e92cc713fab46e56"
+    },
+    {
+      "path": "scripts/review_local_subunit_pilot_v1.py",
+      "size_bytes": 9438,
+      "sha256": "f2cf4c162f78aae05ad245e03627c5141fa360e7bab2b9cc0f421525af7c93e2"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_v1.py",
+      "size_bytes": 6523,
+      "sha256": "6319db9e70cb1be83413dd6e95c1223209eb8674098eca5927580ee0cb701030"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/local_subunit_v1.py",
+      "size_bytes": 4641,
+      "sha256": "97011e13b452b9bdac6cb606f3c27d461b781232ddbf61961c02b4bd7af427a3"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_observer_v1.cpp",
+      "size_bytes": 3368,
+      "sha256": "1d8b992b937ea9cf64ac428ea9d95f47ead8f3286ff32f48297afaab5c828254"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_readout_v1.py",
+      "size_bytes": 6283,
+      "sha256": "472e4b5ce6326cb9c03f30ca0ebd8b1b7c4efe9aed90b2499c5cc28e69ef02e4"
+    },
+    {
+      "path": "src/male_optic_frontend/ongoing_walking_yaw_v1.py",
+      "size_bytes": 661,
+      "sha256": "62696cbe63a00f23bdd37090090d3ce8f3ea8dee26fee12030bfe202d67f791f"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    }
+  ],
+  "test_responses_not_computed": true,
+  "all_81_numerics_passed": true,
+  "no_new_fits": true,
+  "planned_cpu_seconds": 3200,
+  "planned_output_bytes": 104857600,
+  "free_bytes": 162548461568
+}

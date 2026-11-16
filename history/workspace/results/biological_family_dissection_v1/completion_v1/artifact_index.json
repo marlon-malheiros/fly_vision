@@ -1,0 +1,2096 @@
+{
+  "files": [
+    {
+      "path": "results/biological_family_dissection_v1/aggregation_review.json",
+      "size_bytes": 145,
+      "sha256": "515f77e3e807976ba8f650b2016eaa433a9ce382d3ce94c88256da20c5092059"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/before_audit_r2.json",
+      "size_bytes": 551,
+      "sha256": "6ee63457750208fd950890a11aafff52312c591d16f76a5363c42c08483859a0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/before_dissection.json",
+      "size_bytes": 5092,
+      "sha256": "16aef27a762a22473191be9098128a60979f38c938f5fe10ef1444bba3a81641"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/before_reused_test_scoring.json",
+      "size_bytes": 617,
+      "sha256": "6b17e92cbf0cbab6ee47ed7bfb8eb98ee2c22b420c1e44351028a4ef2b705f37"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/before_shape_r3.json",
+      "size_bytes": 607,
+      "sha256": "ed4ab1829ba288a21e4b0605c180dff13b7d3f87b400448d3cbb156578107b25"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1868285,
+      "sha256": "8c9fcb83d04e761f3d631862c1416fe9cbd0e9b6ae0b9954ef58244a24007157"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1017,
+      "sha256": "7790fa9134ea70eb5ce6adb609508c30826f24885772533cc2c8cf0f70926458"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_intact/network.npz",
+      "size_bytes": 2162304,
+      "sha256": "eddaf4542b53937dbe1e2e5c843cfaebfce80faf655d54c71c82debbd172d9b9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_intact/receipt.json",
+      "size_bytes": 1325,
+      "sha256": "fb5d52a2bde86335c82231ce83f6f06230ee936d878e6989b677359ed0cf1062"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_new_silent/network.npz",
+      "size_bytes": 1392899,
+      "sha256": "acfe42fc6637e3428661db1506140889d95f984778f48e6fac62de699da46045"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_new_silent/receipt.json",
+      "size_bytes": 1341,
+      "sha256": "9ec7afbab5346541bd4f605dc8671d8a2da62dd01223f47769355fcb1cc3a296"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1727842,
+      "sha256": "44de3643c4ca0a88ee519277bb330442608e807ead941f1970107c69a535c5a2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_left/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1026,
+      "sha256": "f077d777c44460c9e47b5259b29dae39b7e582548f9bce73ec49276f976f2afe"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1869332,
+      "sha256": "ef8795a34c8877b2b51376d8eab6c852e766a25f34fd9a7fa0300023c301f9ad"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1021,
+      "sha256": "eb640b662ac366d0fe55c97216a0ed54a6db5085a581d2cd187eced517f82048"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_intact/network.npz",
+      "size_bytes": 2162829,
+      "sha256": "ea8ef2d82db654876d27a2fad183f0fb0564307678f07d748eaa68ca45853782"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_intact/receipt.json",
+      "size_bytes": 1330,
+      "sha256": "5ae6fa2c958938d2e0baa3f310d4e5727051731b32e071f41d73be2a9a6c5e86"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_new_silent/network.npz",
+      "size_bytes": 1391719,
+      "sha256": "3967495ff4e82b44e1a1f932db631f99327e71db25291107eb0e032659719faf"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_new_silent/receipt.json",
+      "size_bytes": 1346,
+      "sha256": "abbea40304874feb20e371745a3d91daf29a2c896b3d4a50f35bd3a983cce970"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1727019,
+      "sha256": "48990a30d30f3ec5864f4b748ede901c17038b33d5cc425654dc7e9144220477"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_right/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1031,
+      "sha256": "f8b59fcb69ab358f111fc993076add1d5f57479c91e39d3433b28b11ef9aa031"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1845800,
+      "sha256": "67b31a5a1223bb4e28de6d3c58126a136f03afd0228da45fdd58e690e449ed32"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1052,
+      "sha256": "1f4a8366e96a60fce3c684cea78472a126d9bac19395bca236a0d7d44a2d77dc"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_intact/network.npz",
+      "size_bytes": 2143867,
+      "sha256": "16772ad7827dd006d406215c7b789439333e7069c1260d6aaf8fc152d257a848"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_intact/receipt.json",
+      "size_bytes": 1360,
+      "sha256": "8b09b52bb97261b959983fb1562324020932965b785ecf5dacf9f26f6c4abcbc"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_new_silent/network.npz",
+      "size_bytes": 1373705,
+      "sha256": "ade6c43d5b767306c12dc7c67c3a978d7240b397d9ef897e74e2ce4073c1c3b2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_new_silent/receipt.json",
+      "size_bytes": 1376,
+      "sha256": "ec7f87d4dedf49ca2813b0621a1241caf52766940af708259eb5153a30f18677"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1707994,
+      "sha256": "939997400ca8db105014ba8774847edcd0183b8850273c8d91a4f0c6e6e7f31c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_translation/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1061,
+      "sha256": "bc5d7b7e20d00b50b59e4353a548489cf1c7b083c83b82926ba023656ec36b3d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1848287,
+      "sha256": "bac903f81abfb1fa3536f00796c4f306cea0e7ccd07d574be64047bc9d55eaed"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1012,
+      "sha256": "426fb5b2f40cc22b5f048f7998fc8fb0cb776b5f91aa157fdc454fd0abb440fe"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_intact/network.npz",
+      "size_bytes": 2145109,
+      "sha256": "f15d7faf7f0e971084403e21733373211171c6749d1f66b6f8848d300c2d88ec"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_intact/receipt.json",
+      "size_bytes": 1320,
+      "sha256": "626a7e4a0173f8569dcc9c4a2d7b40baa38e67c1384a6f9f2cc6ab8231cfd306"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_new_silent/network.npz",
+      "size_bytes": 1374459,
+      "sha256": "fbda13782d17c2ba558ee4931ed60654e2920ef69a01b61d2385bc92ec0986e5"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_new_silent/receipt.json",
+      "size_bytes": 1336,
+      "sha256": "5e714cd7bb0af105f213c42cb3820294b9f8724286bb4d6114afe11128191a4c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1708487,
+      "sha256": "019973e8fee05cc8cc8de980746f764018a79c39acaa141c52b90a2a9528bd95"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279100_yaw/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1021,
+      "sha256": "69e42f1176be1868e38f4da96fb7f831a2427a18e1148612f27a908bbda15fd1"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1867718,
+      "sha256": "ae09a1bc862233d1cb452ea317fbd9fc6452fd4f5b29198d165e438039f551ac"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1017,
+      "sha256": "f8b007a32047a0f1c4472714c679caf4da42bc10bf8b75a023d7650b6e858b6c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_intact/network.npz",
+      "size_bytes": 2162041,
+      "sha256": "909d6ad023c54f0cd091f3e7309f16eceea406bc70e6aa2a400d6a947a875e20"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_intact/receipt.json",
+      "size_bytes": 1325,
+      "sha256": "562df14496dc9f2b3d35036b3f5f1bad10a8cd7938cbe29854e59ee3451e9fc0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_new_silent/network.npz",
+      "size_bytes": 1392535,
+      "sha256": "65772a29d5b24baa528718d5fd61a6530bb413d1329d1876520f8d9a66609c6c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_new_silent/receipt.json",
+      "size_bytes": 1341,
+      "sha256": "8483ee1c5105b4fe7cf85a373449f7967b9322805fe82cb34565356dc8c5debd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1727278,
+      "sha256": "82800c433cb31cf1d809f41b7b59e435143e9d4d603ab3678d2416b1cc76ff35"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_left/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1026,
+      "sha256": "a7f9191037b530b829bd567f1e8ec6d20f9646dfa5abf87eb0344332093b4e72"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1869354,
+      "sha256": "9b642f17a7290d7dd8faf033a2eb85a3e00fe788e8036b84761a1c64adc65713"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1022,
+      "sha256": "b51612cea8bb5469a2cefbf46b94227ecaf2df422073c15b34388429b6bf8fbd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_intact/network.npz",
+      "size_bytes": 2162978,
+      "sha256": "663b48d74a6d418d23d56b530ebd657d5119a4a4afe54b4539db8a913260f1e9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_intact/receipt.json",
+      "size_bytes": 1330,
+      "sha256": "817de8ed511e10b80e855277cbe33f68cb7bb605d9a15e97ddf42e076f347d6e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_new_silent/network.npz",
+      "size_bytes": 1391765,
+      "sha256": "4a190901418528098886cade696be23ca3ecd0faf2b18cd0c11983d7c64ff17a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_new_silent/receipt.json",
+      "size_bytes": 1346,
+      "sha256": "549514b2767239a1db90c8c27f938f741fab643b7ccf92a3af235c256bebc415"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1726954,
+      "sha256": "6bf47594e99c335d14d8f888c57ed46897a4c946845843480fd47a568ddccd69"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_right/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1031,
+      "sha256": "5044888f8b6fda7084f0a24c8620d1fcab765aac233702027af13cc33af730b2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1845180,
+      "sha256": "c07eb48682ee44c057488fd38e4f81d5e3513ba0f83d2970876ce79fde032f9a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1052,
+      "sha256": "da7875b7d20013e997d38f7b10518e63031bb0bf047e70b4b3f724deab8303a5"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_intact/network.npz",
+      "size_bytes": 2143482,
+      "sha256": "2a147a34e39f45dfb843575dd4320b7edb0ad3e14b5fc95ec5841a10e5519b86"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_intact/receipt.json",
+      "size_bytes": 1360,
+      "sha256": "cd20bfc6220efebe5dc4bf7ee53be36c3049d54775918945dd2367a5581b7408"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_new_silent/network.npz",
+      "size_bytes": 1373428,
+      "sha256": "bec1b82fa9948bde30edf1f1a1ac84b37d25048e5740bf8cd39f6341c59b7ebc"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_new_silent/receipt.json",
+      "size_bytes": 1376,
+      "sha256": "3564202acbe2eb25edfb82390a3555e4ffd9c281b4dd29ed8161823daf04f8ce"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1707672,
+      "sha256": "8ebc9279412ce7c6fae3dff5e6ee2c3b6334d425abee3d2b5431a2901bb4f8da"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_translation/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1061,
+      "sha256": "4280e5ce3720fe4c96fa0d3a95fcb03415247c21bd384dae3d86f9c3247d460a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_h2rn_silent/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_h2rn_silent/network.npz",
+      "size_bytes": 1846717,
+      "sha256": "d3ee40ec84d6edf41e4b6387ccb3eafd60497f1c1bc2027bb4ffac8de370d2ac"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_h2rn_silent/receipt.json",
+      "size_bytes": 1012,
+      "sha256": "87e3444dafa9ea1f22c64e587cf810b90a71016bc644ef21ea023a9b9367562c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_intact/network.npz",
+      "size_bytes": 2144167,
+      "sha256": "6fb7612bdcf1dceb090f72dcc36d2ae87b95305076a291e65fb2d0e567aca49c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_intact/receipt.json",
+      "size_bytes": 1320,
+      "sha256": "3472ebd4f32980e6cd02650e0c9cc811db0daa0d0c26a71fc5c381a45a3c05c3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_new_silent/intervention.json",
+      "size_bytes": 751,
+      "sha256": "d530ad681bf9b1ffae89a49c7d3ee69c3ba62eef9bf7102058bb833530c8c451"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_new_silent/network.npz",
+      "size_bytes": 1373186,
+      "sha256": "98122b5aa5645235532e27590c36c8fb087d54cef2af64c6393f5b2102250e5e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_new_silent/receipt.json",
+      "size_bytes": 1336,
+      "sha256": "9a5aeb893a603662252a98f320b81b3e5ded9cd516264250114b71665c11be19"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_ulptcrn_silent/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_ulptcrn_silent/network.npz",
+      "size_bytes": 1707081,
+      "sha256": "51e30f712e86e05c9b0d7d40dab17944709b0902e69013213d4f1efeb89958d6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/cases/aligned_100_202610279101_yaw/expanded_ulptcrn_silent/receipt.json",
+      "size_bytes": 1020,
+      "sha256": "12ce1f426076f2f2c59dfc2bb1d17e465e666f8faeae7f06cb88732ef3741419"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/chemical_current_epochs.csv",
+      "size_bytes": 86928,
+      "sha256": "2aadcbf264f007903bd2ce31254e94538c16a2d2d9431cc737fbacf746a7f8ea"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/PROJECT_PROGRESS_REPORT_2026-10-27.md",
+      "size_bytes": 384348,
+      "sha256": "996f2ddeebdd4a8b0e8d7bf784782f2aafd27a7ef1b1af067f7171f28321b84e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/completion.json",
+      "size_bytes": 5410,
+      "sha256": "3c935ac20b30af9043b908c30ed3d6b01c090fc69d870a17dedbe3f7d6869e77"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/environment.json",
+      "size_bytes": 243,
+      "sha256": "f3ca8399f3132a994bc0f4b925ec6c5c0f439dfecf2b3c8373c046298bc09d26"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/configs/biological_family_dissection_v1.json",
+      "size_bytes": 1143,
+      "sha256": "e1cd7527cafdb42abb9f491ec00633878b7fbd5b552daac81e58f9b969284abc"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/docs/BIOLOGICAL_FAMILY_AUDIT_CORRECTION_R2.md",
+      "size_bytes": 915,
+      "sha256": "833745f9cb0305019ea331a5d3f59e53ebf9577b4606dd5011a6613b3b4e8fc0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/docs/BIOLOGICAL_FAMILY_DISSECTION_PROTOCOL_V1.md",
+      "size_bytes": 6810,
+      "sha256": "d83dcdcace54eb3ae5016294efe668fcc9cb365ee65ca1aaeb259db7f70fe04b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/docs/BIOLOGICAL_FAMILY_DISSECTION_REPORT_V1.md",
+      "size_bytes": 16037,
+      "sha256": "472e25e5a3c407b9ddc6bd5cb82fc06d7205517cba24fe565d3d8ec5c1d64dea"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/docs/BIOLOGICAL_FAMILY_SHAPE_CORRECTION_R3.md",
+      "size_bytes": 975,
+      "sha256": "c8c758ea564f66fd235cc7322af40b67a155054e8a3d5160f6d3a48ef2aa78ac"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/audit_dnp15_family_dissection_r2.py",
+      "size_bytes": 7068,
+      "sha256": "31016925c1b392ac78a7236a858bfab9d7006caf31f8ad9f6029c4165f5570ee"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/audit_dnp15_family_dissection_r3.py",
+      "size_bytes": 7122,
+      "sha256": "455f770840b4d5bd85e80ef81dfc9fa57b7002aec627b6732fe64ae91727101f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/audit_dnp15_family_dissection_v1.py",
+      "size_bytes": 6996,
+      "sha256": "948e750a3e533f5ee4a134281b9d982929a89b7d8d45405cd10e5dc2b47bcd7d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/biological_failure_localization_v1.py",
+      "size_bytes": 24931,
+      "sha256": "8fbfa1dcbbd55f4b021779981182815affb96f3d33835ba9a91a69a2edb2eb40"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/biological_family_dissection_v1.py",
+      "size_bytes": 7402,
+      "sha256": "1eed0f2cf6f2ba612f920c46147e3691f0be8f8ff41da0fa7d08635391f96283"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/finish_biological_family_dissection_v1.py",
+      "size_bytes": 15827,
+      "sha256": "573c167a99811c95e8f29d2d18ac629d82b11671f975efa97f88c0a45c78ba5e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/review_biological_failure_localization_v1.py",
+      "size_bytes": 21399,
+      "sha256": "4d3517186f0743291bb5ff04fb60ec54d2e808ab9d6ee336725211d05d355df9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/review_biological_family_dissection_v1.py",
+      "size_bytes": 6432,
+      "sha256": "9a9c43174e324c2757f2f9e0824d86d56bf061da9c081daccd1b254f306bb2e6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/scripts/review_biological_selectivity_v1.py",
+      "size_bytes": 9076,
+      "sha256": "a3f5ba2f9f1cc277e286d21457a818bdd0c4c54188d0c84d326b2070d207f9c7"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/src/male_optic_frontend/biological_failure_localization_v1.py",
+      "size_bytes": 3234,
+      "sha256": "b45099a951ae67db4bf3989bd47b175e8e1a795ff9d4a8a5cf3dbbe013e0b197"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/completion_v1/sources/src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/dnp15_metadata_audit.json",
+      "size_bytes": 27878,
+      "sha256": "cff7cf6cc5443d9f6673005a68c0050c432fbaac4b1646343d991bbae626bd59"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/dnp15_shape_complete.json",
+      "size_bytes": 158,
+      "sha256": "a680a27bad3658f6313f1458dd04043b3b363d0007be54b1bea070187e044b9c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/dnp15_shape_diagnostics.csv",
+      "size_bytes": 633300,
+      "sha256": "14c34b47b7dc97f04118a4b6cd919ce4b33557d20765ee67437c48ec9ab76de2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/dnp15_shape_review.json",
+      "size_bytes": 200,
+      "sha256": "ac9a8cb73f171cce377aee5e41864c1de3337fdbb720715ae8cd87616d819c44"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/dnp15_shape_summary.json",
+      "size_bytes": 195410,
+      "sha256": "71fe5af8a3245b4b1f3dacabcffd6fd785722caf62f101410c3ba3c7b0e48761"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/execution_complete.json",
+      "size_bytes": 202,
+      "sha256": "491189694d5db44125bb0edb964ff7bc0b3585827f891f0b2791cee24fa6abb5"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/factorial_conclusion.json",
+      "size_bytes": 4791,
+      "sha256": "a85afa4c47b16988b4abae21e827b2b2fba3cf30640ca27a264f3c91222359ce"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/factorial_effects.csv",
+      "size_bytes": 10921,
+      "sha256": "7f049bca946127ce485d898bf234e1c58b38ecd5751e2c3f1b0e16ac7c5fca56"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/failure_dnp15_metadata_syntax_v1.json",
+      "size_bytes": 401,
+      "sha256": "88438408dff2aeb08aba9b2642356726bbc092daf9a777ffd685d24fdef75fbe"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/failure_dnp15_shape_1793150764430579145.json",
+      "size_bytes": 779,
+      "sha256": "9ee509f398087c7d6b2b018daca5cbf3dc305d9becaad4c99499a2c3230f4122"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figure_generation.json",
+      "size_bytes": 1319,
+      "sha256": "a6d3a769be339781e929c7a355cb7e7ef9a0009a76dfdf47b965cbdc7cd26e26"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figures/dnp15_shape_ceiling.pdf",
+      "size_bytes": 20373,
+      "sha256": "9e7124be808861bca5d70108dee15c937ccbb9b78b574ccc6213ad9f4c7ec2dd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figures/dnp15_shape_ceiling.png",
+      "size_bytes": 91454,
+      "sha256": "abc96298255d7026987d42b38ce2404eb7b484b71ac3f234c221a557058a1127"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figures/factorial_selectivity.pdf",
+      "size_bytes": 21281,
+      "sha256": "56cc332442ca258b21e70bd49cd000bcb52ab4c171e8b2c6204864aad0194298"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figures/factorial_selectivity.png",
+      "size_bytes": 153014,
+      "sha256": "7f902776de74158d120420f722f4af6089e92aeeb8ebe7e1771b4325080300e1"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figures/waveform_transfer.pdf",
+      "size_bytes": 25963,
+      "sha256": "989818bf273833fec6fa655709e71a78725e2ec667c3b3a03a42627e0f2a7f45"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figures/waveform_transfer.png",
+      "size_bytes": 150542,
+      "sha256": "a0ec6f16cb5a6cb26a3fcb0ddd30a204be2e4a314582586afa70e09339f1bfcf"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/figures_review.json",
+      "size_bytes": 1380,
+      "sha256": "1e0f348fff58aca03749bc4ab0651dda4e101c7c6897e3aef086a346e757866b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_quality.json",
+      "size_bytes": 45145,
+      "sha256": "7219b8579fa3ed326657262651774afbdb7237e367c0d3268879a7d97d61c8ab"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_review.json",
+      "size_bytes": 550,
+      "sha256": "816c25d0864423f95a3fcb55f6b5d87dea680306630849d6e5c035d17b3f5d4f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/004285258d5c01fe78ee.npz",
+      "size_bytes": 945,
+      "sha256": "e31859dad722776e1ed053ecb1124f0b0012a026f84031d8a16123694a38969c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/00b506b03ed64d4dcaf7.npz",
+      "size_bytes": 956,
+      "sha256": "171eaf6508eed0da37696ae32d88382aabf5b7a6bf4c0927a5fe157fd9f2bd07"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/03a68fb2ef901694d661.npz",
+      "size_bytes": 835,
+      "sha256": "561261302a04b9376ff0613adadfb02e050a098bddd6a47e8ca931bc8fdecfa2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/03d59c4824c02dffff22.npz",
+      "size_bytes": 741,
+      "sha256": "c341b0bebae18af5fada7d3467cfa7474c49fbf2102aff10a17fb899ef54542d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/06d4c1b0643cb5e02800.npz",
+      "size_bytes": 886,
+      "sha256": "b31c85e58ec93ee608c7f2ddd8b6b32cf5a265a1f07149957f2adf9acb1db16c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/07e5b772c8592408fc10.npz",
+      "size_bytes": 865,
+      "sha256": "ddd4953cdcc7f6f24be05d44986f99ab305375645ae59d7c1e9a1651b20e8564"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/081ddc23322df3cfd43c.npz",
+      "size_bytes": 771,
+      "sha256": "668c621ef58e33f55bf2582d9daecf77b8155172b9415f6b379184159457ad71"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0852de13dcbb9981c104.npz",
+      "size_bytes": 883,
+      "sha256": "042c96f81034e541a0ac0be04ac54bf765ed1f55adc8fffdd7122421d3b96036"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0c5e7367bed6eeaa1286.npz",
+      "size_bytes": 803,
+      "sha256": "cc9fd922a2db21c14682ad6427722787e30343cae3b0a407df92afea66eaa4e8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0cfc0fd5789f6c0cbbfc.npz",
+      "size_bytes": 884,
+      "sha256": "d4408cf7eebad572767b2640eb451e980636fe5cc1a7310cdaba697a9296d7f7"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0d2a41600f5682c233ba.npz",
+      "size_bytes": 834,
+      "sha256": "fb6af9721577723e03136015cff6aa74bcd4aa4dffec4e8e8480af5b8c490af4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0da0a67b3e4da2066219.npz",
+      "size_bytes": 888,
+      "sha256": "cc4ea406af6699cd350a51bd9b8d1828cd715f3777a7f60f9b1423f1104f8c46"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0e0386c510c87e4d784b.npz",
+      "size_bytes": 775,
+      "sha256": "f1663e9445ad0341c6df3cb4949fc941c9bc4e79101b0c435b2a6810d654aef9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0e9a9517812e4eb1db77.npz",
+      "size_bytes": 958,
+      "sha256": "1a3ccb65df5f38ea2e8917119c6643c01735230bcaaca33e21ebe5abd13dfc14"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0ea50a91aa131c0d2289.npz",
+      "size_bytes": 887,
+      "sha256": "43ff88f83edec5fcd08acbb1a9e8d280f015c808f221ff99420948cc28abb503"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0ef903692d7d21168550.npz",
+      "size_bytes": 803,
+      "sha256": "412000bdd1a637797457cd7710481fdbfd4f48a4b2724be3d79fb2f8db4d6db2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/0f8192efbddd0b6ee271.npz",
+      "size_bytes": 887,
+      "sha256": "46b05fe7b71a113b8f9730b7ef4fd8d99976f76d290406621e440665342e7ac3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/10d8491e01777efa57b5.npz",
+      "size_bytes": 887,
+      "sha256": "df7571316dde186a9a0f4ea07d336b1223c84618260b0e4b337ddd817a43bab5"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/12159c817ccccdcd999b.npz",
+      "size_bytes": 946,
+      "sha256": "4a7d8f3f4d67a2233c663017dee1ff7c88c5825e10bfd53a9acfdbeca32b1b41"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/157dcafe0e59fb95c5ff.npz",
+      "size_bytes": 886,
+      "sha256": "0fae6c9ec6cf1873c044feae003b38ecae0d0f931f30447c7f202a013ad05a87"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/1692afcf9cde7523b8b2.npz",
+      "size_bytes": 956,
+      "sha256": "8d0c50b849bbf209363da276e553398e18315f3dbc8484757836a9a8fcc92e66"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/16a33049313e576093bd.npz",
+      "size_bytes": 735,
+      "sha256": "0e645a409846969ed500353da7d70fe9345eec5cdc2b43e69c41387c9312575a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/17003489025aa04798c0.npz",
+      "size_bytes": 934,
+      "sha256": "e0ae6ee13be0cacfc8bd153b42d027f8502ae0fea74a2f81b03e4e0b09b3c7c2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/19114076978de3fe923c.npz",
+      "size_bytes": 884,
+      "sha256": "5b51913c84e2e88f14217ba5c73f3e17043e73efa7236cb753fb5c75087cda22"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/1a293b8d512afca16ec6.npz",
+      "size_bytes": 795,
+      "sha256": "c6495abac945950d8a8cb506aa7611ce4b539a7e3d604aaa5f954882fa28d17d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/1c430958bff40a951079.npz",
+      "size_bytes": 951,
+      "sha256": "6da6a6b20223ed84eb09053f845904713fe843a240f0552be3b54a6475166b55"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/1d03cd90080b1ce87803.npz",
+      "size_bytes": 865,
+      "sha256": "84fcf54967f17bb69987cfa980f088984217e8bb4ac4550636ff847c7f6869a8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/1eee0a820a3ea94f1b00.npz",
+      "size_bytes": 887,
+      "sha256": "b9ecd1c4ce9574f13fe13eb39c80ad7a601322a8ea7ac4a2add74c7a3c2d59e2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/23e29f62d20d973c66ca.npz",
+      "size_bytes": 866,
+      "sha256": "89f8fa3b85edba5fb0fef63cbd7e5e6cc70702e8ffc089ef7876db9f64689f9b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/24da238fe48ed1555ae6.npz",
+      "size_bytes": 957,
+      "sha256": "64058aac1379f2f995a2236568be00c682ff76a5e44b9d2b6df6298111fd574e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2508261e8fa2efba500e.npz",
+      "size_bytes": 888,
+      "sha256": "fbb0f9fb677d4e0f6d739398812513c3a63efe321c4295c27eec6b6d477bdb13"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/257a0fdc6ea7ba8137af.npz",
+      "size_bytes": 885,
+      "sha256": "2e737f2e234ef3757427f37d29d0802e7cbd8dfeaff7d65f05638bc9c5b04600"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/27f7798bc9b49f167daf.npz",
+      "size_bytes": 865,
+      "sha256": "4d2d637eeb6a4740b7d9c920e0d2b677f4e757dba6dfc5ede9083533c0918498"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/292baead618de33bc9fe.npz",
+      "size_bytes": 805,
+      "sha256": "618815fddff9258ed8d69fe9164fb6debd2e47c24b551e1a7652a6bbd3b59d3e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/295fe3292ca31fae6aaf.npz",
+      "size_bytes": 835,
+      "sha256": "fb99388217d50c6d44af5a7b1452e949c7f91d73f3ce433a98943b225720f956"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2999cd8711fcadc322ee.npz",
+      "size_bytes": 736,
+      "sha256": "def71476ae31d183806bb71d68084bf4e65559d810ae1c73956b5d3962c1652b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/29fd59dc3961b867916e.npz",
+      "size_bytes": 866,
+      "sha256": "58b2a3ef5b2e697b9e6fd8eaf63e257d671e7c914cf4675bf0a49bd6613f2933"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2b06b3cad9ac41431667.npz",
+      "size_bytes": 907,
+      "sha256": "d498635797755475903d308f99c3b7d797708479b6b8a2858512014bd0d1c452"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2b227f6e1a72e86b225c.npz",
+      "size_bytes": 865,
+      "sha256": "38905a173f08beace69b625c71af33ad33132c57369f12e2d1443849f1272f92"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2bd27c8310d9ae2b4c80.npz",
+      "size_bytes": 935,
+      "sha256": "e63ee89643a34d8203f548f1f80eff8569bb1d65137db9303a9249505bc86b8e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2c00ea51bfade2164165.npz",
+      "size_bytes": 876,
+      "sha256": "631196e9498f6512e8ebdbf6f6d08d9408c2f1ab82142dbdb5d276cfb2bbd2c2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2c55044f5de5c351774b.npz",
+      "size_bytes": 885,
+      "sha256": "7a8d3788169cc7b53dcf70c487a9610519f11e34a32a311674365e00ab460453"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2dd3cf7911d39ab2c9f2.npz",
+      "size_bytes": 865,
+      "sha256": "00d2d2185eb77581322959041c0f3333367b1a01894254e70d9578af7fb43096"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2ec1de1acb3bcfc97dc2.npz",
+      "size_bytes": 869,
+      "sha256": "12843e53107f8872816a56841382852c6fcb35b77192ec6f1164cf4e3f437579"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/2f32086e30fc55464287.npz",
+      "size_bytes": 956,
+      "sha256": "92f857c5401b15dc32d80078c9c0f2f12f4fcd4aa336c094f9a83cb3b785accc"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/31ca28e97d56e60bd9e2.npz",
+      "size_bytes": 935,
+      "sha256": "8dc11f0a8b319ba56444a9667a53cf143458c40b5845347a361f0c164c12448e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/3290bd0e72eae27a1598.npz",
+      "size_bytes": 884,
+      "sha256": "e501d12d7936d3317d80c5811675b0168c0a9fcf335227dad08b00efc31584d9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/34c5712a4be3851cfc5f.npz",
+      "size_bytes": 936,
+      "sha256": "7d28d92d9958467f344a97e9d7cdf2abbd688f1f4c9ab0d4e7e5b1f4c147294b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/34ce09ac122d8b04b36c.npz",
+      "size_bytes": 886,
+      "sha256": "d6918e8f3cfdf313306ab6a6233b5404a1ec111a185dc395135837bb00d0d59d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/3652844a14c7c7d994ca.npz",
+      "size_bytes": 882,
+      "sha256": "e362ce62fad116bbefefa10aa84cda3e23c43c8f1b62ad2273aa339542fb4b3d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/37333ef1f3a00ce0b7fb.npz",
+      "size_bytes": 808,
+      "sha256": "b84d02be335fc6e16809d9a6e32535db2657caf1a8c4faa348ff2e28b48e7cce"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/385d17cc69f36206efb1.npz",
+      "size_bytes": 936,
+      "sha256": "c3e9cc154ce4a7a92590de9d77b3d02fd5b514bde5548102063e9cd0b4bf10fc"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/387e2917d0c2230fdc09.npz",
+      "size_bytes": 954,
+      "sha256": "80faa2edb2bd65796c65d3993d53096b815f08fc36680733e345b8bb398912d9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/39c02c0e904dce256a33.npz",
+      "size_bytes": 834,
+      "sha256": "42b41cbe13b47a97f0c970c0013dc19522fb732afd065f64478d0c62bb16aa99"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/3d14516959ba3858ff39.npz",
+      "size_bytes": 934,
+      "sha256": "856f1a5125550bbfe5abe96e1a31af4118f84308b92d3c9ae8ac58584a07e2a6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/3fb36cdb7364adc1d16e.npz",
+      "size_bytes": 888,
+      "sha256": "39859e025e23ddac5bd4754eeadb6990645c385348b4d8744a817d58c1f4214e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/40dcbf2057b27717324c.npz",
+      "size_bytes": 954,
+      "sha256": "a255a471b0494ddb6b98cbec7970d2fafd3066c1af28a3e22b2b0919f9382440"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/4238f64120bb45ca3db9.npz",
+      "size_bytes": 817,
+      "sha256": "a9be54165c05dbbb54a0457329dc2f03c4a1303b5ad41ecb4088c84d4e005799"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/42b1b40a25f913992f7c.npz",
+      "size_bytes": 864,
+      "sha256": "46678916207250656368cc913baba05703e91712186fa065c92ae85cd60972fd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/44d88c2d9f350258580c.npz",
+      "size_bytes": 934,
+      "sha256": "5d4f09e037a59bb0fe2148b37eeb162363e9b1e154076e31e0fd8479abf1ae71"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/44e33bc8d92313293d29.npz",
+      "size_bytes": 866,
+      "sha256": "d7c237880b36421cf3073394b791d546a0787dcf04f163b2ca45e6d66426e146"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/4776279a8f1ed6142646.npz",
+      "size_bytes": 956,
+      "sha256": "e738170cbf28bd51fc17ac7224184858b800fa17c411d4d0fdc43ad9d4a23869"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/47c70d83677318a06bf8.npz",
+      "size_bytes": 834,
+      "sha256": "7ea99045acf78ecbeb49edb6981c40aa8d32a09084fb443833baaef76cb234ce"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/480194ae84b3554decb9.npz",
+      "size_bytes": 865,
+      "sha256": "dae50b526f2353f3b5fdd6c95a374d01abd02b9e76049e24d5455222e5392b29"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/49d9e91081f7058e49c0.npz",
+      "size_bytes": 705,
+      "sha256": "6605ad4d59eea13f0622af6db2b75f7e7806654db61667169ccc4b632aa40aa2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/4bc97bca40520fef3645.npz",
+      "size_bytes": 887,
+      "sha256": "ec822b582d4611685878d29e82fb1d44aa3ffc231ed9a6f65458b0469e940654"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/4defd08e8e1799eca316.npz",
+      "size_bytes": 874,
+      "sha256": "675589712fbf122c922e2ee3bc901b85d9a2750ff187c9c977c5f324e8f3f1d0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/4ec52348f1de6d853b88.npz",
+      "size_bytes": 818,
+      "sha256": "81684cb5605087a278a961ef33300aeb17b7bf9f7f2545824d4668d7fd0595f8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/5299dd9f74a8ca5c8e58.npz",
+      "size_bytes": 885,
+      "sha256": "7fa6a0f27c46fdf19300d82655378991046110e2e7c81976a15ec1051adb2bc0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/52ccd0e22e4f6352b389.npz",
+      "size_bytes": 885,
+      "sha256": "6497ba9eee2c20577e5bac888913e841744508ed4053a656fae3b678f8dfe0c8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/568cfbdb09ab96f0fbbb.npz",
+      "size_bytes": 819,
+      "sha256": "83df4fa9d18f004f5a61deaeddd207fd6be7c05d7b86333f32fc2055c644504a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/5833c1f0d03880f15792.npz",
+      "size_bytes": 887,
+      "sha256": "0e27e83919a2f3591771df86a4d7932cb05d010e5f8108a31e135333eade5ffd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/58e5b36428269069bb7c.npz",
+      "size_bytes": 887,
+      "sha256": "630eb2b915217f17b5a0b161eecc6860dcbaeac89e6bbcb4758241559cc1d956"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/59bbaa28848ccb8667da.npz",
+      "size_bytes": 887,
+      "sha256": "8c0916497100e4df4dfc38cd73f01d36516b0f871eecbbe0fc31ed357c0190f8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/5be338d0fae5e1cd8061.npz",
+      "size_bytes": 888,
+      "sha256": "aaee16aa188281f5b667148ec769037b94c7106d84b8f1a4459d6ed133f015d4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/5c3fe3331c64341c7984.npz",
+      "size_bytes": 862,
+      "sha256": "59cd24ad8c2906e2702ca7764584e9392bc23209d45131836cc41b96ec9b6002"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/5e7c4096faf476568bfc.npz",
+      "size_bytes": 864,
+      "sha256": "8f8efc8d49ba7a1616e012481be0b4115ae982f995e00a257bc26f461fb57e80"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/5f016ab034b5f711e2f6.npz",
+      "size_bytes": 884,
+      "sha256": "2c8cb5ccbb8ddc445a9cc2cc2dbba337319c7db29b7c1f4cf5bedaca4c40599d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/61164eff8736cbcf3a0f.npz",
+      "size_bytes": 956,
+      "sha256": "3779ac05016ef367a3663e5c42afb96c6244c77abb5f744193dd26bd57b997fa"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6167f79a5f3969985195.npz",
+      "size_bytes": 874,
+      "sha256": "264aeb359371abca0eec361885ba57abaf59100b7eb68abbacae336b692f713b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/62236a16ec4d5b253991.npz",
+      "size_bytes": 773,
+      "sha256": "8ca3091facbe6d52d00e4ecbabb44963b8ee3c18f5bdeadd79776f1341384e15"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/62ef07882e5703c81498.npz",
+      "size_bytes": 886,
+      "sha256": "5602863fc02481bbdd1968ddcf1c96c7d15538f18758c77e2ceba9feb4f69ee4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/630c7304a995fcc22696.npz",
+      "size_bytes": 785,
+      "sha256": "79207fbbeb94733f8d7d226acbcd53eb82110ae2ef6597aa25e474f3668f22df"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6335adda6bf087b27547.npz",
+      "size_bytes": 865,
+      "sha256": "41284aa0a955f8c2eeff7943caf65165a173103898d6419b1ff7e301533d12b8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/634c5114bd36d3ac85c1.npz",
+      "size_bytes": 951,
+      "sha256": "2605e3c01a4a5d873a3f0aac8c6d2f5e22f95f345af521465579d6b6912b0edb"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/643dae0db8ec3506f43e.npz",
+      "size_bytes": 883,
+      "sha256": "697aa743b68c8891326a71f9aa732e82c994d8136651da58a99ab82609c08e39"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6464d2c4c70f63da6039.npz",
+      "size_bytes": 887,
+      "sha256": "e6fc4ad641d75c2b1b60a1713b463907ddb94a5072d7f5236154bcbb6a18b47c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/65f0485d73190418dfec.npz",
+      "size_bytes": 886,
+      "sha256": "225866f82329b1f7d2fa2e667fb665a79183e8c0f3dd3a9626f94a7802107f31"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/665cdde8ef0bd870263f.npz",
+      "size_bytes": 886,
+      "sha256": "765a6e0d261df11df252dd7d1af09cd048e33230b9fcbdc72cc08b43d9615799"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/66ded52695dfb7acf424.npz",
+      "size_bytes": 887,
+      "sha256": "a2d1d360ad283f0a791f3bf1b33a687fa4c14369e3e7c3daa263d4eb98d7af32"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/671bc36a26d3090a99c7.npz",
+      "size_bytes": 772,
+      "sha256": "e3be64add148eba66b066068e9e920127adfcdb673cbd6d832ec6a7ebdfd08f4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6739178193e28d352b99.npz",
+      "size_bytes": 888,
+      "sha256": "6e9929657d21e5f3b35599d516e2cd6458ec289841943ae7802ce9224edabff3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/68911f21b61dc7c5cd30.npz",
+      "size_bytes": 834,
+      "sha256": "90305b41ee135a34097eb13459187bb11b2250c7116724faa786e7011b2abf39"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6a4723456f92736b5e5c.npz",
+      "size_bytes": 907,
+      "sha256": "0d035b985d013e617142ae81cf3eb113dfc6406a8e35a288ed944f31af540843"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6a9c1b426119a53c30a8.npz",
+      "size_bytes": 954,
+      "sha256": "036a9622253d61d15bf12b4991fd042fd48e52729788ad39df47dd83419738b9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6b1d11886405a50e88d9.npz",
+      "size_bytes": 819,
+      "sha256": "4c9add804ecc8bf76bcafa618eb25c7f98b05234e1d4ff59b8d9f9700d059096"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6c25333f4c86db286052.npz",
+      "size_bytes": 800,
+      "sha256": "8c0d956d636b666ad7dd66c5decdbffc5632eeb000fc9b584271b0e7a098a15e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6f19c7af9e7c92960141.npz",
+      "size_bytes": 887,
+      "sha256": "525e963dbd1d9151980b6f616c627a6d386cc3efbce859ec559245363e6732c1"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/6f633d7288787689730e.npz",
+      "size_bytes": 883,
+      "sha256": "dd061062163d64afd0590e4ef4e2a834dca85beed564d9e1d9f584d336fb99b6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/70dab70b641b1a47b2e0.npz",
+      "size_bytes": 957,
+      "sha256": "0d1c7a6175f696499c7fa74b27afe30feb3b9203f07312bd32131a8e94322ef6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/71589f8c08a786da4f47.npz",
+      "size_bytes": 886,
+      "sha256": "0932be61e5fd3ea620e381f667ec952535384247732f281080473d2d3abe7eb9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/721c8eec5a4d95bab7cf.npz",
+      "size_bytes": 866,
+      "sha256": "257ce00daed5cd10d4a7065d87c9111e5bbb9906896b263de5bd3273d6c17dea"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/733e89cb1eb62c533cfe.npz",
+      "size_bytes": 957,
+      "sha256": "630e873c1b3b28915e61a76144bbdc2a96d881d5ec9be3c7d7bcb6dadeeba4f6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/73a644b1af80b6c270f7.npz",
+      "size_bytes": 956,
+      "sha256": "b33b149c0ccfb986da93db2087ea891e592ded8298c58d616e6f472abe261bbd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/73eb580618c05cd18c95.npz",
+      "size_bytes": 957,
+      "sha256": "8957d91d465d679a62b5f6da2fe966cd09aa15f22b8615213d63fc897344c40f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/74024bb90f42cd6b2f29.npz",
+      "size_bytes": 842,
+      "sha256": "f04f2581949d8240ec4823d17cc9a86d64104aeed3ba24b702bea5b32e9761a6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/74382d210be3dfece7c1.npz",
+      "size_bytes": 885,
+      "sha256": "64142b675ad26521e9f779245980a9fed5d5922e3f98739c9365cd6ca7099d6a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/744d6ad2d50e7a9962a6.npz",
+      "size_bytes": 837,
+      "sha256": "13502014089ddcb56c01fb92687eca3be9a5945b935d6bc9160ef53ea434b3e4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/748f2ac880635ff06232.npz",
+      "size_bytes": 737,
+      "sha256": "47a2e77ceeb771eced52346ceebb0d7de034bce65f4c601d4208292925881332"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7511c12999a9f9f11464.npz",
+      "size_bytes": 887,
+      "sha256": "5cbd4e4ecf2483a4f11e563d26f341dc1f0a74a2c599bbf0b057706f758fa32f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7583c3d178bec552a587.npz",
+      "size_bytes": 863,
+      "sha256": "347acbaf778493d841816b5431cf3134390dd68356e98a8693a5a312143113c9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/77ff3df05c6dcc80cd62.npz",
+      "size_bytes": 953,
+      "sha256": "0ac0ef09ba49d2423ddfe5a1650d1ec69e3169c42bdd1baf826f5202dc40ad85"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/785eb18f32a0d6e59bf3.npz",
+      "size_bytes": 886,
+      "sha256": "3122e372c47af1ff6bf0eef9bd3b001d9da9f62791b17fd1f65159665f12ece6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/790d4cf2c2dc184f29e2.npz",
+      "size_bytes": 953,
+      "sha256": "83a5e2183f2920f69993d2825731c56e19e2f6c60c973ad2ed370e82f7c815cf"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7910b1f5d899af6d5ba0.npz",
+      "size_bytes": 888,
+      "sha256": "ca578c3f58fc06314b3e080cabf0eca65f355d2cbefb2fdf6dad1e9452b89a63"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/791938fc3d7a58ee9320.npz",
+      "size_bytes": 886,
+      "sha256": "41a99e0edf83c477fc63b8754af6ca65a1a126e6c80d1a5ec3ee0282cd2b553b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/79efd57c102ac085a708.npz",
+      "size_bytes": 843,
+      "sha256": "fe518a541d7d21ddc19264218b008917939038e06cf140cf069a3aa3faa2727d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7b4b528fc672881d15c2.npz",
+      "size_bytes": 736,
+      "sha256": "a25ebb8464f81415a9db3e9d6805bb0444f2053b747a4e509880b4ad4ebc032f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7cc0922dd3780e1ab37f.npz",
+      "size_bytes": 957,
+      "sha256": "940cccaf3836dd721f17cc02e629c35262d2e495e0c07e5c3777eae5d653f512"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7d6913042536b535a769.npz",
+      "size_bytes": 836,
+      "sha256": "0932edecbf13cf411b8bbd5d7f88657ac089f116fe909eaf0ea1907043e55a04"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7e03ab0685af80948ca3.npz",
+      "size_bytes": 836,
+      "sha256": "726ab647eebc5126743a26cdbb995bca6290844cce555ddb356ba8d37f8b319d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/7e9b08e5596b46c5f18e.npz",
+      "size_bytes": 774,
+      "sha256": "1b5df4843e135d7d63bc2122fe23979f7c6a717593e515e2298194d431835f13"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/81467c9d1a6599b7baae.npz",
+      "size_bytes": 766,
+      "sha256": "84ac48bc2e220047c63ba61c216dee6b494db647785b2617534df2b83a17ba9c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8153e5b345f39b6b3131.npz",
+      "size_bytes": 770,
+      "sha256": "9cbfed83b22170306fd01767f1670b2047d14832bbe67898ed129f674ee85bf4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/81c3526dc1b805981eeb.npz",
+      "size_bytes": 956,
+      "sha256": "37a3d0f43461e87256dfc66eb057e1e3ce273fa5f08dadc5a419b467081a2e07"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/837a8b76e363b883b36d.npz",
+      "size_bytes": 773,
+      "sha256": "c962a3c2356c7c388e3c5eceb10118e329dc56e784d57321341906003a7abd4e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/85e12f7109023293d246.npz",
+      "size_bytes": 889,
+      "sha256": "bea4cb3d529a933fbbd646756bbdb97770932929e7b13ba30b4a1926e18b9226"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/869548a9260a71354ce7.npz",
+      "size_bytes": 888,
+      "sha256": "63892f35cc92f1c5f8a50bcfc332ceb22fec7236b7f87ae98b93142449f5d394"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8814e2fdfbe68483ea69.npz",
+      "size_bytes": 957,
+      "sha256": "65f1e589a17d7d44fb7638e136d07c554abe71aa819f0a50fb50f990bd92fc5d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8840ff2738a8b9368ba3.npz",
+      "size_bytes": 736,
+      "sha256": "583a0305d1c798dde1c4f4c51922006161c676d0e17c90028e12182d224bd758"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8931d53ac62ef5e86f95.npz",
+      "size_bytes": 934,
+      "sha256": "528142e285ff88588623a943c93597776cd818e9378647d653d994f7cc18e6c6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/89c0e7d07c77aa7f0914.npz",
+      "size_bytes": 864,
+      "sha256": "59099f47371b178a3456ba8447a76e766fcd07740108c904ea74e57ad8421039"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8a57fdca46c81e97675b.npz",
+      "size_bytes": 955,
+      "sha256": "a9815663a6a34fec5cfb42ff46b2952f408b4535a751b9f900810cf5872b6cbf"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8cbb0603f65b9d54dac9.npz",
+      "size_bytes": 844,
+      "sha256": "292c9544399e70e820e8184281b167c427f0fc96dcf3450aa8313d9e590782e8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8d3c53364779f933508b.npz",
+      "size_bytes": 888,
+      "sha256": "5dedae0b549e8e4b718598eadf22baa6a55f21db328b7016609d21648d862140"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8da3013b2ecaa80913ef.npz",
+      "size_bytes": 771,
+      "sha256": "b96642e0fe36084180a985a048f2cd7b71e7a5a23e25f4b4b02ccc34e5a58d56"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8dd819423ba670fda604.npz",
+      "size_bytes": 843,
+      "sha256": "18988c363b269a61ebe45d5ecb7d1edbb799a30dd7a7707b56307b5b85ddaf1d"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/8e5cf3bdc21332237245.npz",
+      "size_bytes": 907,
+      "sha256": "98724a6c3c4cb76567daf6e2efc9defd444a9473c3ca125a0aa9212bf7fac8f0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/904b937c919886b73c15.npz",
+      "size_bytes": 885,
+      "sha256": "c52df459d8f0b7499e84f5b5e86096174aad3944523c3e81845a4355c46ba367"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/91778586a5ff3dc9bfea.npz",
+      "size_bytes": 886,
+      "sha256": "1c58d4ae0c728cd41967a7e4f8fc634a347f32d0ebc6b407de70ad6263c03ef5"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/91ea2a43136c1d312d5b.npz",
+      "size_bytes": 834,
+      "sha256": "68cdd7885bc90c9878c518a8ae2ca9d43218c4a77b8d89ce43e2287a4b3eadf4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/946c72e2b20d909a3ce7.npz",
+      "size_bytes": 887,
+      "sha256": "567b76184c64f2453e4e3f9c7582c8f1604c3204ff5cadbcc01cb65e47d3ff23"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/9484b4d3e7c58164ead7.npz",
+      "size_bytes": 884,
+      "sha256": "a7eb7c7e1cd692cfabde651889a0b17cd345f3eeb39093802de8dc43075fdab3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/95d81d9652bb822f5464.npz",
+      "size_bytes": 888,
+      "sha256": "a345656273985f8ff674a65d45149af35dcb87ff19c591dd730c6d64b91d0097"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/96045ba91756dbc9a3f1.npz",
+      "size_bytes": 765,
+      "sha256": "6dd0c74ec2e652003196cbfdf0d3bb1e76e9a66a0c6d8e777e3676da489e5581"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/9744116a8237eb9b1dec.npz",
+      "size_bytes": 954,
+      "sha256": "4e926374d847d9806b40e2e4375a38256d5fbe896f572504d03560726771bf49"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/988eeb2098811e5f5ce7.npz",
+      "size_bytes": 885,
+      "sha256": "81606a68158c8c9094626b72363574bdd972c8f83f93ed2eea8224a674aab37f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/98935114cba61b96f888.npz",
+      "size_bytes": 843,
+      "sha256": "8e75610b44af3d07ee0d22bab93fef6f53c7a5930f10d94c7b0314237ea122ea"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/98ce35827fa49d185e45.npz",
+      "size_bytes": 887,
+      "sha256": "de737fe0f7e2c9b72de89241872fc2f73444ae432d30200d6176f93824e1b9fe"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/99b809875573413d8eb9.npz",
+      "size_bytes": 796,
+      "sha256": "e46c0b2e848ca2c400053921850edc13509a8f9a4df4a895fff4a0e2941859df"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/99cf78897e7b368ecb57.npz",
+      "size_bytes": 906,
+      "sha256": "86d0d27c14329844d48438bf1b6b7b4959ecb0586789827db3572eba8c98721c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/99efc4e744f6a58fb001.npz",
+      "size_bytes": 956,
+      "sha256": "ec1e67f9a928f1a1e8e65dfff7d7041e8cf7c510529c92ab03ab66c3172980c1"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/9c53c55b78ab09b83ea3.npz",
+      "size_bytes": 884,
+      "sha256": "fefee352af732feab91acb307b275caecd54e00cada096d9421c43b3ee803eeb"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/9e22e610f77125cf10ee.npz",
+      "size_bytes": 702,
+      "sha256": "32a323162aaa20c1cbb446c4375307e56bd3384c74adf9233646f1baf9c74fb8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a082995d17e9f72cd93b.npz",
+      "size_bytes": 837,
+      "sha256": "8c3487872748692649d49abe93b7b3ceac165e396e8c865a4749a1215ba060e4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a112fa777b2700e82d53.npz",
+      "size_bytes": 784,
+      "sha256": "e393233ad237dcb99042b10bd0b0dc3b19b59b2ec2f056fbcfcf17e195916625"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a2fea506abb05f49fd59.npz",
+      "size_bytes": 874,
+      "sha256": "47c4f229d0aa73fb7e27a589434d66e31a84d6e05a727c15cc0d1447845a39ac"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a30d7c95584873264060.npz",
+      "size_bytes": 864,
+      "sha256": "00f8fed42e27d36b3abe3c028268eb1ec66e1e2f7aaf63fe751fd3fa361b6e82"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a3887d879f61e23ad6da.npz",
+      "size_bytes": 951,
+      "sha256": "c8394b5dc74ddbad968663078e4aef008726cf80fc56b8a969dbd1dfc22e6017"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a590335d5819bd800af1.npz",
+      "size_bytes": 957,
+      "sha256": "487e222b22682a0aa7796e29d38651e7c8ac9a125658886bfecedac222efecee"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a6681847cbeb7b4fd82a.npz",
+      "size_bytes": 886,
+      "sha256": "ae09871da38f6791de9127dabcdda2c9610997c90fc31daaf6be4258f1c99260"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/a746ddcca1c3a2137c09.npz",
+      "size_bytes": 937,
+      "sha256": "18a1c10c875c57be69ed72d1502b7c8ea9f256b17025de5aa39aa5f1a146a0e0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ab0f2c998199c0ba8b1c.npz",
+      "size_bytes": 776,
+      "sha256": "b792264cd8b09f88b831054c90c31da2f9443389e6f6757d247adcddc080a5b3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/adb7fbe30e305bcf1cec.npz",
+      "size_bytes": 883,
+      "sha256": "16a5fad1356588f2672f52cfb02f471782638f132266477c88fd2e7cc3170cec"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ae829e368470f2e0b3a6.npz",
+      "size_bytes": 707,
+      "sha256": "61bfa2740a04e435f149531b1c3f913fb5b02db6c25c1838737cccfe240070d7"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/af51e8c77d870d834d79.npz",
+      "size_bytes": 887,
+      "sha256": "a2333d5a9d2c81bdcb9f004ef9351a0c249617db4aaf347563399b9322c0d77a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/b00f965ed6679e1b25e3.npz",
+      "size_bytes": 887,
+      "sha256": "54dfd1d44526115e5a3c71979c8b76484db90ad5fe6fb808ad1ef2ea751363af"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/b1340007650e73c894e6.npz",
+      "size_bytes": 843,
+      "sha256": "c3502b46a8b507bb2be8a4ad2160b219b562d343f12996d138ff5dcc29b78b7c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/b2004e4e94d2b1f67b2a.npz",
+      "size_bytes": 905,
+      "sha256": "8c7f120c533f5390eb30428f9e640262d41f1d0c66435fcc106793b091ccd84e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/b24af7ae73e66fed2523.npz",
+      "size_bytes": 886,
+      "sha256": "620f9d9ca9a177c72e9844f57263974b0ab2073bd45d343c7fe1d0f7d140fc00"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/b7436a56b18110b55da5.npz",
+      "size_bytes": 907,
+      "sha256": "593b41d0c9e3513c3e75425c63daa384ab01e4f3484d4b4ada3f66f5129c851b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/b77f0dcad6021b774185.npz",
+      "size_bytes": 818,
+      "sha256": "224a03d02215ebde7426bfa287333d7e265550d1ca6b40050c86d5a29591b998"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/b852b370346667fda33e.npz",
+      "size_bytes": 805,
+      "sha256": "a507eb67950199c23c309d57cd2be9e2591155c76a2fbf28b14d56b5a32d2346"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ba7e8d36cd74c761f533.npz",
+      "size_bytes": 887,
+      "sha256": "7308b29dd4d5fcf7d2fe0a291fb0dde4b69852e313ac59700a5fd09d79762e78"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ba8dc58f470ed03f37ce.npz",
+      "size_bytes": 888,
+      "sha256": "eaceafa0cda054d668313486c79d01a3dfd7b3e79a66d4a8c62154abe63301cd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/c3f3f6751efd0d91137d.npz",
+      "size_bytes": 819,
+      "sha256": "5fb64f0957e1c035f380bdd33bb46f108f9c8f5b58d5aa78b494d9b382e7ed9a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/c59a789e8d6c2c484897.npz",
+      "size_bytes": 905,
+      "sha256": "a620f63ff8b196d1b7208fe5ed66b31463769ac4bdc69279aeabc098cdcd0c7c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/c5c9eba18ae30b2d9256.npz",
+      "size_bytes": 867,
+      "sha256": "da6bec5bd67fbc81dd31da42b930e74f9219ae294c4b98f04361aa07fe090e86"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/c5e67c41753fb7609336.npz",
+      "size_bytes": 887,
+      "sha256": "cc5bad42839dbbae792f7ad589a47f09e6b8b49dd1849fa17945cf70fe21c2ea"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/c858852cbe838593d1cb.npz",
+      "size_bytes": 931,
+      "sha256": "0c5a7fd5074b364f5d71e243cd9839ac9ceff8440ad6e35ec330a52e93272736"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/c9fc12d33760a01958d3.npz",
+      "size_bytes": 817,
+      "sha256": "38593196cb38ea447174d1981c45ff1e27ee29501f7cdd446ae128db3041333c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ca510ab6f0aca53f3e04.npz",
+      "size_bytes": 957,
+      "sha256": "2d27a4759a4d65a625184037fa34ae6f78020b989a5eda08cbbadb96bf919540"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/cb5065c437090bfc163d.npz",
+      "size_bytes": 886,
+      "sha256": "f0abaabbdd3294edf9beaa3054aadf467cce1b981e64fbb27747bf46ecf1dee6"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/cbb3576e458233cda2c9.npz",
+      "size_bytes": 886,
+      "sha256": "bd8c1605f2e2ffa4d73894582703d782eaf2b5504ace120fcea456a2e4d51e74"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/cd0e543f2166c16123c6.npz",
+      "size_bytes": 873,
+      "sha256": "1be229002769cd971feab9a07af3299b70fdb4f8fc92eb20d20ef0c33c0e2b3c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/cf90b0e42e8ad2cc9d23.npz",
+      "size_bytes": 836,
+      "sha256": "fc3be9d83b234d992c6a72d342ae47b45aa510d5f49613e36b479c3213bb51d2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d18330e7f517e58b78d7.npz",
+      "size_bytes": 886,
+      "sha256": "de692a2fb28429b20566ba669f395245bfac8e6e2fa84720a3aab9d94e5f38d4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d233a323ca06223613e4.npz",
+      "size_bytes": 864,
+      "sha256": "a0e2ee60794b8c0fc8783fcf1f23f9c2a084cc5283a51bcf8e080e5c90a76b21"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d2bef5bd8136c556b4a6.npz",
+      "size_bytes": 787,
+      "sha256": "4b20c2b92c1d18d4b99abe8586fcac31ba1b5d2867fd7d63a56816e27c72430b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d30a2c75acfde2556d0b.npz",
+      "size_bytes": 864,
+      "sha256": "f698fedb0167d9e38ac2a68b0212d906c4ba8e5d034c482961da38b6f66d467b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d358d00842c042990d85.npz",
+      "size_bytes": 953,
+      "sha256": "fb9596c770b674e41376a5ace79942f832ae9903566b2a59379cbd74816348e8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d36098dd1d5154afde4d.npz",
+      "size_bytes": 735,
+      "sha256": "e2e952ce59054ed1e0bd906f278a7f4d1010628a27a33e4108ee63def25a41ed"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d3d2a806c225bbeb5837.npz",
+      "size_bytes": 835,
+      "sha256": "7cde29275cba19fde944b422adb9104060dcbec0c635690c080253ced70dcaea"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d59f5e9ac8369be1c0df.npz",
+      "size_bytes": 840,
+      "sha256": "61c3c53b88ff5d88f40dcda588cdebb0a07f47f8b7c32edb8b0be9584dce20ed"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d5f2bcb4de048239c153.npz",
+      "size_bytes": 954,
+      "sha256": "8899514c2554a2e9547dafbc6ac51bb1722c247ab7218cca6ffc435b714aac85"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d689b725bfe92e4a5848.npz",
+      "size_bytes": 887,
+      "sha256": "4c4b18f97cd735bf2a17deed1a272f3ad0a2fd54affe43513ee9e1092112e1f7"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d7b0761d749109031e80.npz",
+      "size_bytes": 887,
+      "sha256": "1aa4061a55a1d119687a88552ca131ab6fe90ae819fcfb395a61e07a796d5702"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/d8fde6feefc95333ffcb.npz",
+      "size_bytes": 873,
+      "sha256": "aaa06159d87a628627e620d7e9b22b7f9f6c08a2e6350460181a8678a7cc95b4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/dd6fd341fe42e5258aa3.npz",
+      "size_bytes": 882,
+      "sha256": "9dba0a5cdd21f24701d091277843cf93702a78e4cff6187febbfc7b06c05ee59"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/de66a593f1203ac90e39.npz",
+      "size_bytes": 818,
+      "sha256": "345670b556d1d285e76c6322f7e3276d5c5a3a7e7224c4fc28fb334c53152971"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e00904f836b3b34a3d44.npz",
+      "size_bytes": 958,
+      "sha256": "5536f592e2f2883465f11f85693d1cdcca37a7441ab00a0fd0a699e5078afc7f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e10a6d4d5364985ffdbe.npz",
+      "size_bytes": 885,
+      "sha256": "b884edcb00782700c611de415b854cdbc671ea534c997c60a621353905bfe4d1"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e19074bdb513ab565b96.npz",
+      "size_bytes": 887,
+      "sha256": "39eae409bf2a9384db664385c20f1dc0d717f1e09a70e12feb9a315f812ba5bd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e2b659806ffecfa25798.npz",
+      "size_bytes": 774,
+      "sha256": "ee323096f2b2d9e5d48113ef142d158df97dfa317f41b308c4f08a05d2b1bfd1"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e342c90252457abfae36.npz",
+      "size_bytes": 953,
+      "sha256": "1f24c9b281bfb4edb385e1b2cdf9060a9fbe55ff78bb1801c2a23213accaf12e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e569bb1c76f0bce988ac.npz",
+      "size_bytes": 956,
+      "sha256": "ea494c9e313e37b26fd6ded9ea13f1f8b01910a2e4b783963f333dc3cf840d32"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e6d3aa22da4502f3f1c7.npz",
+      "size_bytes": 934,
+      "sha256": "b9dd4f9f49c8786d347a27f41734abd83515db3fb89d0f2633ea95c586887138"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e7a1e54c48747030e825.npz",
+      "size_bytes": 737,
+      "sha256": "4edea1ab59d4cab95ebcea87a646260d8e1dc4899f386e6dc99a3414e5d233aa"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e841c92aa83057aa49c7.npz",
+      "size_bytes": 886,
+      "sha256": "a32aa37a7dd1a675c73748f5cdf4f034408d8bf5aeb71e17d66ba8a2232f0de2"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e8960d5e5bc71c11f637.npz",
+      "size_bytes": 888,
+      "sha256": "82c8f00d29e44c6bd97045de61b0018c508ab50690685beacf6da65756ba1c03"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/e967d686634dd8e922de.npz",
+      "size_bytes": 887,
+      "sha256": "16dea2ede79de793f10ff3ac9d8b18fbb628be3fd878214f7cf943d14c92bed0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ea650a0c7b39f4346961.npz",
+      "size_bytes": 958,
+      "sha256": "17971ca4eb0a8008e32c8768246ff62ea7f7f5aea991edffba2c3b2b9ca5038a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/eb4f99c85d51303e6e7c.npz",
+      "size_bytes": 886,
+      "sha256": "8760493fad1063f285ea9f7bd247e136a96f80238e701f630b65882ac2a41868"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/eb679dab7c306dd9f67a.npz",
+      "size_bytes": 835,
+      "sha256": "434439f6d63414686cd4efac27683b89535843c5e17cf9c10549421955bb8144"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ec1cb19306ffa3fcbf1e.npz",
+      "size_bytes": 886,
+      "sha256": "979737aadd0b44928f7cefdb89d9c5588c6a6b4d7d4a1018b9046efaf3dab2a3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ee019d12ac1122b63989.npz",
+      "size_bytes": 903,
+      "sha256": "7708dc642e8f4e007a465cfab23ab52414c39a6194105bd939def7c76c337547"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ef092a65e4e4183b1f61.npz",
+      "size_bytes": 771,
+      "sha256": "1a72fb6da712dbbb218fa8e9531852db020cb66ec7b2ebc928bad8992b2b1a1c"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/ef7bc6557b49d6c246fa.npz",
+      "size_bytes": 736,
+      "sha256": "bad66c28af908b3b8578658753f65b538f11098fd21e3fc3e751329ef98776f9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/efda8fc143c803da60dd.npz",
+      "size_bytes": 955,
+      "sha256": "10629e206f21e54699ade4aea872a8baff5dc25ac6f602a833361dbd95b54899"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/efdd107e5d4b7bd49c42.npz",
+      "size_bytes": 774,
+      "sha256": "c4ed479d9733dbaa6b369d68bffea91be97b2cb4d1b83b1614c7db7ab87cdf40"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/f19977b26dc0ca0f55d4.npz",
+      "size_bytes": 906,
+      "sha256": "61fad3144653f0f3290a4cc67ccb9d04026bfcffd2f29820f9911fc59333c58b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/f232d2cce060b7e57ef8.npz",
+      "size_bytes": 957,
+      "sha256": "1cdaa6be27655ad109513012d02871c5e5948d88e6b8b67425c0ae170aa9e9d7"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/f4322b20424c54209d96.npz",
+      "size_bytes": 955,
+      "sha256": "faae1f486f161b2c1cbee276ae9291ff272e6c1513e82d23792bd020e66a0a48"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/f44e8a415f841fd41173.npz",
+      "size_bytes": 907,
+      "sha256": "653772d9ec4d803d30218dad699eb3adfd21d44f998eb7b6f4edb441c6df6d92"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/f7beb2ccde52666d4e7c.npz",
+      "size_bytes": 707,
+      "sha256": "f81f80eb680000205f3655bd5eba6735af84a0149a9818b5b7364bedc8a7d9b4"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/f8028a03ae2cd78e4f37.npz",
+      "size_bytes": 937,
+      "sha256": "61b62dfff0aee4b09f0cb6137ac6bbe672ce25ea898e93d08b4e9cd352c6ef63"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/f806f3e4d727cea8c49a.npz",
+      "size_bytes": 865,
+      "sha256": "205ff21084820791adf063620ee12af824f6324614d79edf20f9ff85de5c3a7f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/fa1a91f1036a091ff50a.npz",
+      "size_bytes": 702,
+      "sha256": "e448652e6f941d933da098206250142e2829906922d79068c90bde9413e550f1"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/fa3a05337f6dc8d83287.npz",
+      "size_bytes": 804,
+      "sha256": "bdbc9dde464556a5becd5c0fcb6287f8b04249b5998c8dca1478f58bc9575b5f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/fa992de0b8da8c00f925.npz",
+      "size_bytes": 775,
+      "sha256": "820dbce532631c08637b323d95a513fc7773fe34339547a28b6344dbdcaacc3f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/fe905bcbf6967c15bee4.npz",
+      "size_bytes": 774,
+      "sha256": "37fbcc4beebc3c51f232b0400e21fad64ce843ebe509e6983868ad886d79084f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/fe9339aa52becd0f1f54.npz",
+      "size_bytes": 886,
+      "sha256": "5d1e4271cf4e915a27e7b34b7edd8e7cdff9da7b62c87c260771d6eedd4bc5a9"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/fe96911e21fd22b0c758.npz",
+      "size_bytes": 837,
+      "sha256": "69f0168f9b8e0a012219d65551cbaf9618edf6273e33f8dab7b0df57f60d0662"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/measurement_units/fec47554fec2bc3442c7.npz",
+      "size_bytes": 865,
+      "sha256": "208187255ba8d205b7b3c9e8ff63d9aeb288a51ee8b2a1c0ec979c4b00e120fa"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/methods/neural.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/methods/reference.so",
+      "size_bytes": 16472,
+      "sha256": "3c1b94aaca0725acd9a379defda525166b9edd300776393d24444ee27567bd23"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/neural_epochs.csv",
+      "size_bytes": 28518,
+      "sha256": "dc0ceb97738264f44a7034dffcba3ba87ff45c665a70b513f3879b3a01f12716"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/neural_review.json",
+      "size_bytes": 5848,
+      "sha256": "3e21c40037deb8ba693d7b0e6f2e2a7cb50b3ed9915e54a936eb0ece6c22131e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerical_review.json",
+      "size_bytes": 1148,
+      "sha256": "07609d354db492ad9a73efce2dfb414ef71cabe2fe74b34743474a360ba67cb5"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_h2rn_silent/half/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_h2rn_silent/half/network.npz",
+      "size_bytes": 1848321,
+      "sha256": "7e0b3d214c438dca5520e6c3945ef449e13899fa81a1f11f993a3d614edb5642"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_h2rn_silent/half/receipt.json",
+      "size_bytes": 1154,
+      "sha256": "6a219e88d6111566ea1e50b9ffb2f8a050c52818a420ea5c60b66b734117229a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_h2rn_silent/parity/intervention.json",
+      "size_bytes": 449,
+      "sha256": "17b799d390a98423493360e726253e5e84b14c19b6b802d52be72f044aa4d60f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_h2rn_silent/parity/network.npz",
+      "size_bytes": 1848287,
+      "sha256": "bac903f81abfb1fa3536f00796c4f306cea0e7ccd07d574be64047bc9d55eaed"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_h2rn_silent/parity/receipt.json",
+      "size_bytes": 1159,
+      "sha256": "971e2ceed9870b77cd40a9baaf7ea2159410bd2474aacbca9ca10519f7cd632e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_ulptcrn_silent/half/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_ulptcrn_silent/half/network.npz",
+      "size_bytes": 1708502,
+      "sha256": "66cec8d6c3d187e96bc468df79a34469b1461357c0df75f560c5070f38d8e405"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_ulptcrn_silent/half/receipt.json",
+      "size_bytes": 1166,
+      "sha256": "2c44d21c7109de8a0421f4db22535b5549d6dd120525c1f0eb6fb71ca67d4f8f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_ulptcrn_silent/parity/intervention.json",
+      "size_bytes": 612,
+      "sha256": "c749b8865c997018575f7bdcb42d1df185c7920efb8999a944bfcd4fdeb71a4a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_ulptcrn_silent/parity/network.npz",
+      "size_bytes": 1708487,
+      "sha256": "019973e8fee05cc8cc8de980746f764018a79c39acaa141c52b90a2a9528bd95"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/numerics/expanded_ulptcrn_silent/parity/receipt.json",
+      "size_bytes": 1171,
+      "sha256": "11cc3d043a53033b3b172dfd89f85b3c237c6a220bc356e2cfa40bc5ffb139a8"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/observation_candidates.json",
+      "size_bytes": 110601,
+      "sha256": "1271fb8d8e74f2ea144cb22ba59b0f00d540493d8b444a355cbbc2e166a53de0"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/observation_models.json",
+      "size_bytes": 1972,
+      "sha256": "99163118a13d2beac86a57816299338909b4320db7f9309be87d700dba72d573"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/observations.json",
+      "size_bytes": 112459,
+      "sha256": "8248f3312b33e74c9b9e3b49cf92da63145517d53692cf88828d84e7bff69e9a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/observed_epoch_rows.csv",
+      "size_bytes": 387166,
+      "sha256": "183840617323c73004331cf8a5bb92f3e59797f74c3a4f00ba302d16f18cb287"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/observed_fly_indices.json",
+      "size_bytes": 616277,
+      "sha256": "655438a0d260f9601561c4bddabe529ab5230d6633025c88b9343d4adc7d457a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/parent_inputs.json",
+      "size_bytes": 75121,
+      "sha256": "74332e377744918b5b2b8a4a837b0e46cce9e5ada7cd511b25253ea6fc879f51"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/parity/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/parity/network.npz",
+      "size_bytes": 2145109,
+      "sha256": "f15d7faf7f0e971084403e21733373211171c6749d1f66b6f8848d300c2d88ec"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/parity/receipt.json",
+      "size_bytes": 1023,
+      "sha256": "534e78bd34f51a3af5e94bb62871af97fe77d8b4a07c1448d4eae9dd678fed96"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/parity_review.json",
+      "size_bytes": 59,
+      "sha256": "164ca374a067d70a0f376f01be6ae139bec6db47315007fbdfaff1eddb065603"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/plans.json",
+      "size_bytes": 1087,
+      "sha256": "42b05ffbc751dcaf6747583e6a0889baa366de6d49fc79c81a47d9a014d2e36b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/predicted_epoch_rows.csv",
+      "size_bytes": 817803,
+      "sha256": "200916137a98c3cb1dd98ac063a07fff4d8595c390fd113756d2e2087137b139"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/predicted_fly_indices.json",
+      "size_bytes": 1166400,
+      "sha256": "5b92802be941aa8db567da64e1afe9cc84ee6f9fa172a6c6ab1e6594203797ff"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/preflight_review.json",
+      "size_bytes": 580,
+      "sha256": "1cf5cb77f7d2fd061a7471312eb68ac7dd79a7d89d691726b834ad5f7068bb7f"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/report_review.json",
+      "size_bytes": 327,
+      "sha256": "f1021bb9a222d77362855f9c9275d1bd1074321fbe47aad755fef96003c33410"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/scoring_complete.json",
+      "size_bytes": 250,
+      "sha256": "e338981f7cbc44fde750834c875a7d1851fd6b4efd1a42170e06fdc49fdb1eb3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/seed_indices.csv",
+      "size_bytes": 6691,
+      "sha256": "65b530f26fbec488295aef45bcfd642cda4f5209b1c91f8cc8c020d3191003bb"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/selectivity_summary.json",
+      "size_bytes": 322010,
+      "sha256": "943363417c8aa0da88b3a97c1104ede51d4ec46931a7f595dac17b57cd424208"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/source_constraints_review.json",
+      "size_bytes": 2220,
+      "sha256": "f5716857e1951c51912a157a6dd3616807bb5f863635de164f770f250e69c0bd"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/transfer_review.json",
+      "size_bytes": 71,
+      "sha256": "edde8cf5ce5ec1dcb4cbfc36561e10c998c7d4035e96bf1fa66dd7659b2c07b3"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/transfer_summary.json",
+      "size_bytes": 138769,
+      "sha256": "ffacb35732a59518257a6cfe3dd51a61d8a84bfbcd78bf674c51c3f80538514e"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/waveform_metrics.csv",
+      "size_bytes": 267472,
+      "sha256": "d039f118a4b7d6bf1336202ad694945f3ed2b7164e64c7f7cc6b5a0d16c38abc"
+    }
+  ],
+  "count": 418,
+  "total_bytes": 72565406
+}

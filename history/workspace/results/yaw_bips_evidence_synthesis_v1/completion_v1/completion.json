@@ -1,0 +1,21 @@
+{
+  "status": "COMPLETE_RETROSPECTIVE_EVIDENCE_SYNTHESIS",
+  "date": "2026-10-24",
+  "source_commit": "1f8ed0b46dbb2256071eb4b8af885e469c92d495",
+  "numerical_audit_totals": {
+    "predictions": 122232,
+    "curves": 6540,
+    "thresholds": 1308
+  },
+  "report_review_status": "PASS",
+  "completion_scope": "Consolidated scientific conclusions, failures and next evidence priorities",
+  "full_predecessor_rehash": false,
+  "new_neural_simulation": false,
+  "changed_parameters": false,
+  "physiological_validation_established": false,
+  "reliable_small_yaw_detection_established": false,
+  "physical_deployment_validated": false,
+  "broad_goal_complete": false,
+  "unfinished_v9_preserved": true,
+  "live_reporting_files_excluded": true
+}

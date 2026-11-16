@@ -1,0 +1,13 @@
+{
+  "advance_to_independent_recordings": false,
+  "failed_primary_guards": [
+    "frequency_violations",
+    "null_error"
+  ],
+  "independent_HS_recordings_evaluated": false,
+  "full_biological_validation": false,
+  "coupling_physiologically_calibrated": false,
+  "small_turn_model_requalified": false,
+  "no_post_score_tuning": true,
+  "HP_removed_is_diagnostic_only": true
+}

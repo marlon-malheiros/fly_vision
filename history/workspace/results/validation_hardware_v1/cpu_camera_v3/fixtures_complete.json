@@ -1,0 +1,132 @@
+{
+  "status": "COMPLETE_SYNTHETIC_CAMERA_REFERENCE_FIXTURES",
+  "created_utc": "2026-10-21T20:55:50.537144+00:00",
+  "cases": [
+    {
+      "case": "s01_v16.5_y+0",
+      "yaw": 0.0,
+      "speed": 16.5,
+      "frames": 401,
+      "neural_samples": 201,
+      "response_window_samples": 70,
+      "independent_projection_max_error": 0.0,
+      "raw": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y+0_raw.npz",
+        "size_bytes": 8445747,
+        "sha256": "01a8136d0e721d6e452a68dea1be14587110c0119b18ca41784e26c442ba9ee8"
+      },
+      "expected": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y+0_expected.npz",
+        "size_bytes": 819083,
+        "sha256": "0709439edec5e0205bbc8a2889fcbe005c73d13cbe179e26b38ad3275299f65c"
+      },
+      "expected_episode_detection": {
+        "hs": {
+          "score_deg_s": -9.158884922903608,
+          "decision": -1,
+          "cutoff": 8.800670018162986
+        },
+        "h2": {
+          "score_deg_s": 5.593546657790042,
+          "decision": 1,
+          "cutoff": 3.5956696226815583
+        },
+        "bips": {
+          "score_deg_s": -7.869968405647621,
+          "decision": -1,
+          "cutoff": 7.840699713508163
+        },
+        "dnp15": {
+          "score_deg_s": -7.90422536116649,
+          "decision": 0,
+          "cutoff": 8.89168365946884
+        }
+      }
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "yaw": 20.0,
+      "speed": 16.5,
+      "frames": 401,
+      "neural_samples": 201,
+      "response_window_samples": 70,
+      "independent_projection_max_error": 0.0,
+      "raw": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y+20_raw.npz",
+        "size_bytes": 8904008,
+        "sha256": "1bc0a61c6c03b447cdce6604eccf6bba0573ad1f868084f07b80e24e919f6195"
+      },
+      "expected": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y+20_expected.npz",
+        "size_bytes": 820541,
+        "sha256": "49f62530f193387d402633510674e649b052c1d3fcbc32d890c851a785bbc1c2"
+      },
+      "expected_episode_detection": {
+        "hs": {
+          "score_deg_s": 15.420213508303227,
+          "decision": 1,
+          "cutoff": 8.800670018162986
+        },
+        "h2": {
+          "score_deg_s": -5.2131827487879665,
+          "decision": -1,
+          "cutoff": 3.5956696226815583
+        },
+        "bips": {
+          "score_deg_s": 13.957339759264018,
+          "decision": 1,
+          "cutoff": 7.840699713508163
+        },
+        "dnp15": {
+          "score_deg_s": 13.898666275968617,
+          "decision": 1,
+          "cutoff": 8.89168365946884
+        }
+      }
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "yaw": -20.0,
+      "speed": 16.5,
+      "frames": 401,
+      "neural_samples": 201,
+      "response_window_samples": 70,
+      "independent_projection_max_error": 0.0,
+      "raw": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y-20_raw.npz",
+        "size_bytes": 8881126,
+        "sha256": "f29055ba29f004a019e1d894aacd0f8a943018ca87524448f774780e7c48dc04"
+      },
+      "expected": {
+        "path": "results/validation_hardware_v1/cpu_camera_v3/s01_v16.5_y-20_expected.npz",
+        "size_bytes": 824588,
+        "sha256": "25be9fc91be0c6704f130722d85c186df6f3fa328e80144659bb26c6230a2e56"
+      },
+      "expected_episode_detection": {
+        "hs": {
+          "score_deg_s": -28.650288924874037,
+          "decision": -1,
+          "cutoff": 8.800670018162986
+        },
+        "h2": {
+          "score_deg_s": 8.6714434622894,
+          "decision": 1,
+          "cutoff": 3.5956696226815583
+        },
+        "bips": {
+          "score_deg_s": -26.355306387435956,
+          "decision": -1,
+          "cutoff": 7.840699713508163
+        },
+        "dnp15": {
+          "score_deg_s": -26.295442852432537,
+          "decision": -1,
+          "cutoff": 8.89168365946884
+        }
+      }
+    }
+  ],
+  "physical_camera_validated": false,
+  "neural_parameters_changed": false,
+  "scope": "Independent synthetic-camera reference; deployment replay still requires verification"
+}

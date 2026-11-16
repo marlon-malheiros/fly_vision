@@ -1,0 +1,54 @@
+{
+  "status": "DESCRIPTIVE_STRUCTURAL_AUDIT",
+  "created_utc": "2026-10-19T14:13:50.135098+00:00",
+  "central_nodes": 39,
+  "central_reciprocal_pairs": 118,
+  "new_family_reciprocal_pairs": 105,
+  "selected_path_summaries": [
+    {
+      "pre_role": "hs",
+      "middle_role": "bips",
+      "post_role": "dnp15",
+      "neuronal_two_edge_walks": 30,
+      "sum_signed_normalized_weight_products": -0.15626609960911908,
+      "interpretation": "STATIC_TWO_EDGE_PRODUCTS_NOT_DYNAMICAL_GAIN_OR_BIOLOGICAL_CONDUCTANCE"
+    },
+    {
+      "pre_role": "h2",
+      "middle_role": "bips",
+      "post_role": "dnp15",
+      "neuronal_two_edge_walks": 8,
+      "sum_signed_normalized_weight_products": -0.04914456155586386,
+      "interpretation": "STATIC_TWO_EDGE_PRODUCTS_NOT_DYNAMICAL_GAIN_OR_BIOLOGICAL_CONDUCTANCE"
+    },
+    {
+      "pre_role": "h2",
+      "middle_role": "h2rn",
+      "post_role": "h2",
+      "neuronal_two_edge_walks": 8,
+      "sum_signed_normalized_weight_products": -0.009613313937617714,
+      "interpretation": "STATIC_TWO_EDGE_PRODUCTS_NOT_DYNAMICAL_GAIN_OR_BIOLOGICAL_CONDUCTANCE"
+    },
+    {
+      "pre_role": "bips",
+      "middle_role": "ulptcrn",
+      "post_role": "bips",
+      "neuronal_two_edge_walks": 25,
+      "sum_signed_normalized_weight_products": 0.08617935641296345,
+      "interpretation": "STATIC_TWO_EDGE_PRODUCTS_NOT_DYNAMICAL_GAIN_OR_BIOLOGICAL_CONDUCTANCE"
+    },
+    {
+      "pre_role": "bips",
+      "middle_role": "ulptcrn",
+      "post_role": "dnp15",
+      "neuronal_two_edge_walks": 14,
+      "sum_signed_normalized_weight_products": 0.025207056857932744,
+      "interpretation": "STATIC_TWO_EDGE_PRODUCTS_NOT_DYNAMICAL_GAIN_OR_BIOLOGICAL_CONDUCTANCE"
+    }
+  ],
+  "full_graph_used_for_all_simulations": true,
+  "central_block_used_only_for_audit": true,
+  "functional_outputs_used_to_select_edges": false,
+  "static_products_are_not_effective_dynamic_gains": true,
+  "anatomical_soma_side_not_imaged_neurite_side": true
+}

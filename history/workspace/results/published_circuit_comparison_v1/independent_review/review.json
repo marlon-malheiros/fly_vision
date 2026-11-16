@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "reviewed_output_hashes": 352,
+  "reference_arrays_checked": 880,
+  "reference_closed_form_max_error": 1.3010426069826053e-18,
+  "equation_residual_max": 4.336808689942018e-19,
+  "mean_rows": 1232,
+  "decoder_scores_checked": 84,
+  "original_python_solver": [
+    {
+      "variant": "intact",
+      "rate_error": 8.673617379884035e-19,
+      "final_state_error": 8.131516293641283e-20,
+      "final_current_error": 2.710505431213761e-20
+    },
+    {
+      "variant": "bips_silence",
+      "rate_error": 8.673617379884035e-19,
+      "final_state_error": 5.421010862427522e-20,
+      "final_current_error": 2.710505431213761e-20
+    }
+  ],
+  "bilateral_exchange_and_homogeneity": true,
+  "rational_gain_identities": true,
+  "scope": "Independent algebra, summary arithmetic and one original nonzero two-intervention solver replay; not physiological validation"
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T02:10:07.779062+00:00",
+  "episodes": 384,
+  "predictions": 1920,
+  "curve_counts": 30,
+  "independent_scalar_medians": 107520,
+  "maximum_median_error": 0.0,
+  "all_creation_receipts_verified": true,
+  "bootstrap_arrays_exact": true,
+  "physiological_validation": false
+}

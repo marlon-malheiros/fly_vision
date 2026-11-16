@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "relative_links_verified": 27,
+  "comparison_table_rows_verified": 8,
+  "maximum_table_rounding_error": 4.948053950237785e-06,
+  "report": {
+    "path": "docs/BIOLOGICAL_FAILURE_LOCALIZATION_REPORT_V1.md",
+    "size_bytes": 23934,
+    "sha256": "a4f7187ff41fdc63591e6a6ecb61ea8da46e30276ee4f67e67ec6d962f71f002"
+  }
+}

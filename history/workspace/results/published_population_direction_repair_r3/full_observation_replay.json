@@ -1,0 +1,6 @@
+{
+  "case": "p02_v16.5_y+2",
+  "image_and_final_state_bitwise_equal": true,
+  "separate_full_state_feature_error": 0.0,
+  "neural_parameters_unchanged": true
+}

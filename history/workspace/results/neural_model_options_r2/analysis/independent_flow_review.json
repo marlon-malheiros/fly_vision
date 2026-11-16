@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "episode_reader_rows": 192,
+  "independent_curve_rows": 72,
+  "artifacts_rehashed": 64,
+  "maximum_arithmetic_error": 2.1316282072803006e-14
+}

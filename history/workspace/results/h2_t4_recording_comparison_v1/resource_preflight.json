@@ -1,0 +1,166 @@
+{
+  "left_t4_cells": 3424,
+  "cases": [
+    {
+      "row": 1,
+      "case": "c26c087d3230f3217dd3",
+      "edge": 0.0,
+      "relOrt": 0.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 7,
+      "case": "f7754aefcfc43fbc7177",
+      "edge": 0.0,
+      "relOrt": 1.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 13,
+      "case": "815c4c89e58c3d2fc4a6",
+      "edge": 0.0,
+      "relOrt": 2.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 19,
+      "case": "5e2cee4fe2bf106aa94f",
+      "edge": 0.0,
+      "relOrt": 3.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 25,
+      "case": "56080e4cbfcdfc12b760",
+      "edge": 0.0,
+      "relOrt": 4.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 31,
+      "case": "f21cd2073e806ef16df4",
+      "edge": 0.0,
+      "relOrt": 5.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 37,
+      "case": "895a480af9dd8b60af72",
+      "edge": 0.0,
+      "relOrt": 6.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 43,
+      "case": "1a120a3399ac6c300180",
+      "edge": 0.0,
+      "relOrt": 7.0,
+      "active_t4_cells": 0,
+      "new_distinct_nonzero_sequences": 0,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 49,
+      "case": "44a44a3712db99eb72db",
+      "edge": 1.0,
+      "relOrt": 0.0,
+      "active_t4_cells": 148,
+      "new_distinct_nonzero_sequences": 148,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 55,
+      "case": "71513b7c0a9c98093ee9",
+      "edge": 1.0,
+      "relOrt": 1.0,
+      "active_t4_cells": 148,
+      "new_distinct_nonzero_sequences": 146,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 61,
+      "case": "560e63c5a750675b5b75",
+      "edge": 1.0,
+      "relOrt": 2.0,
+      "active_t4_cells": 148,
+      "new_distinct_nonzero_sequences": 146,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 67,
+      "case": "cfa7df31186780a163fc",
+      "edge": 1.0,
+      "relOrt": 3.0,
+      "active_t4_cells": 148,
+      "new_distinct_nonzero_sequences": 146,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 73,
+      "case": "10fee65d62c2d2dea5c4",
+      "edge": 1.0,
+      "relOrt": 4.0,
+      "active_t4_cells": 146,
+      "new_distinct_nonzero_sequences": 146,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 79,
+      "case": "6a6b31fb88f34d8ac366",
+      "edge": 1.0,
+      "relOrt": 5.0,
+      "active_t4_cells": 148,
+      "new_distinct_nonzero_sequences": 144,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 85,
+      "case": "d0cfe151916c73265a44",
+      "edge": 1.0,
+      "relOrt": 6.0,
+      "active_t4_cells": 148,
+      "new_distinct_nonzero_sequences": 142,
+      "outside_grid_samples": 520
+    },
+    {
+      "row": 91,
+      "case": "eff56dff0c6c8beebfe6",
+      "edge": 1.0,
+      "relOrt": 7.0,
+      "active_t4_cells": 148,
+      "new_distinct_nonzero_sequences": 142,
+      "outside_grid_samples": 520
+    }
+  ],
+  "unique_nonzero_sequences": 1160,
+  "complete_input_payload_bytes": 1616256,
+  "estimated_uncompressed_voltage_bytes": 36087072,
+  "estimated_new_result_bytes": 71257760,
+  "estimated_cable_cpu_seconds_including_safety_factor": 823.7217281894883,
+  "caps": {
+    "unique_cable_solves": 3000,
+    "cable_cpu_seconds": 1200,
+    "new_result_bytes": 536870912
+  },
+  "outside_grid_samples_total_across_cases": 8320,
+  "elapsed_seconds": 7.925287365000258,
+  "preflight_cpu_seconds": 7.740872919999999,
+  "peak_rss_bytes": 86298624,
+  "zero_sequences_require_no_solve": true,
+  "input_only_no_voltage_or_recorded_response_scored": true,
+  "admitted_by_resource_caps": true
+}

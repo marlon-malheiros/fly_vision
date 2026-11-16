@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "case": "s07_v16.5_y+2",
+      "model": "t4_field",
+      "maximum_error": 8.673617379884035e-19,
+      "tolerance": 1e-12,
+      "passes": true,
+      "timings": {
+        "strict": 2.907183723000344,
+        "fast": 2.337950389002799
+      },
+      "source": {
+        "path": "results/geometry_grounded_small_yaw_v1/pilot/s07_v16.5_y+2/source.npz",
+        "size_bytes": 13943328,
+        "sha256": "99d88ebae92b8b3f457ecc43df535c0030f092f056f3b150aaff2e9f35bfa630"
+      }
+    },
+    {
+      "case": "s12_v16.5_y-2",
+      "model": "t4t5_field_hypothesis",
+      "maximum_error": 8.673617379884035e-19,
+      "tolerance": 1e-12,
+      "passes": true,
+      "timings": {
+        "strict": 2.695510577003006,
+        "fast": 2.3907342730017263
+      },
+      "source": {
+        "path": "results/geometry_grounded_small_yaw_v1/pilot/s12_v16.5_y-2/source.npz",
+        "size_bytes": 13909965,
+        "sha256": "02063dafeef7cd42e7607e01afd8fec0545dec249e14d308ad642d31496794bf"
+      }
+    }
+  ],
+  "compile": [
+    "g++",
+    "-DOPTIC_APPROX_TANH",
+    "-std=c++17",
+    "-O3",
+    "-fno-fast-math",
+    "-ffp-contract=off",
+    "-shared",
+    "-fPIC",
+    "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+    "-o",
+    "<WORKSPACE>/results/geometry_grounded_small_yaw_v1/methods/neural_fast_v2.so"
+  ],
+  "library": {
+    "path": "results/geometry_grounded_small_yaw_v1/methods/neural_fast_v2.so",
+    "size_bytes": 16464,
+    "sha256": "569115f620bd921f884bd65f126f352a0f936cd334c18bc3cd7b16d1e1acfc94"
+  },
+  "neural_parameters_unchanged": true
+}

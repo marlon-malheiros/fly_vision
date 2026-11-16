@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "conditions_checked": 16,
+  "max_endpoint_error": 3.2526065174565133e-19,
+  "direction_and_decision_independently_recomputed": true,
+  "row_49_two_full_graphs_max_error": 4.336808689942018e-18,
+  "scope": "independent numerical review; recordings already inspected and stimulus approximate"
+}

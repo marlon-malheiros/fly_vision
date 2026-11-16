@@ -1,0 +1,672 @@
+{
+  "status": "COMPLETE_PENDING_REVIEW",
+  "completed_utc": "2026-10-12T01:04:58.158436+00:00",
+  "decision": "MATCHED_COMPARISON_COMPLETE_SCOPE_LIMITED",
+  "observation_traces": 8,
+  "direction_pairs": 4,
+  "observation_samples": 9248,
+  "primary_mean_and_amplitude_fixed_before_scores": true,
+  "counts_passed": {
+    "observed": {
+      "mean": 3,
+      "amplitude": 4,
+      "harmonic": 4,
+      "raw_mean": 3
+    },
+    "model": {
+      "mean": 0,
+      "amplitude": 4,
+      "harmonic": 4,
+      "raw_mean": 0
+    },
+    "archived": {
+      "mean": 0,
+      "amplitude": 4,
+      "harmonic": 4,
+      "raw_mean": 0
+    }
+  },
+  "pairs": [
+    {
+      "pair": 0,
+      "positive_index": 0,
+      "negative_index": 1,
+      "period_ms": 320.0,
+      "frequency_hz": 3.125,
+      "starting_phase": 1,
+      "observed": {
+        "mean": {
+          "positive_response_mv": 6.417393225986978,
+          "negative_response_mv": 8.005511993793245,
+          "difference_mv": -1.5881187678062672,
+          "denominator_mv": 14.422905219780223,
+          "dsi": -0.11011087874502909,
+          "raw_expected_sign": false,
+          "resolved": true,
+          "passed": false,
+          "failures": [
+            "resolved_wrong_sign"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 5.127823565323566,
+          "negative_response_mv": 1.8479090354090322,
+          "difference_mv": 3.279914529914534,
+          "denominator_mv": 6.975732600732599,
+          "dsi": 0.470189257192868,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 4.300636627558098,
+          "negative_response_mv": 0.9000033528702477,
+          "difference_mv": 3.4006332746878503,
+          "denominator_mv": 5.200639980428345,
+          "dsi": 0.6538874614442665,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 6.518435076075996,
+          "negative_response_mv": 8.22883380248333,
+          "difference_mv": -1.710398726407333,
+          "denominator_mv": 14.747268878559325,
+          "dsi": -0.11598071076699752,
+          "raw_expected_sign": false,
+          "resolved": true,
+          "passed": false,
+          "failures": [
+            "resolved_wrong_sign"
+          ]
+        }
+      },
+      "model": {
+        "mean": {
+          "positive_response_mv": 4.189767258767361,
+          "negative_response_mv": 4.220802932401348,
+          "difference_mv": -0.03103567363398696,
+          "denominator_mv": 8.41057019116871,
+          "dsi": -0.0036900796175002647,
+          "raw_expected_sign": false,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "difference_floor",
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 3.6900865231158715,
+          "negative_response_mv": 1.779359029328444,
+          "difference_mv": 1.9107274937874275,
+          "denominator_mv": 5.4694455524443155,
+          "dsi": 0.34934573814954906,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 2.8027207577051727,
+          "negative_response_mv": 0.9290583471378598,
+          "difference_mv": 1.873662410567313,
+          "denominator_mv": 3.7317791048430324,
+          "dsi": 0.5020828827021699,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.189767258767361,
+          "negative_response_mv": 4.220802932401348,
+          "difference_mv": -0.03103567363398696,
+          "denominator_mv": 8.41057019116871,
+          "dsi": -0.0036900796175002647,
+          "raw_expected_sign": false,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "difference_floor",
+            "dsi_floor"
+          ]
+        }
+      },
+      "archived": {
+        "mean": {
+          "positive_response_mv": 4.150778058720104,
+          "negative_response_mv": 4.22319383706391,
+          "difference_mv": -0.07241577834380575,
+          "denominator_mv": 8.373971895784013,
+          "dsi": -0.008647721683931664,
+          "raw_expected_sign": false,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 3.670562729947391,
+          "negative_response_mv": 1.790539671993849,
+          "difference_mv": 1.880023057953542,
+          "denominator_mv": 5.46110240194124,
+          "dsi": 0.3442570601286027,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 2.7984296139426488,
+          "negative_response_mv": 0.9308696439432264,
+          "difference_mv": 1.8675599699994225,
+          "denominator_mv": 3.729299257885875,
+          "dsi": 0.5007803989047891,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.150778058720104,
+          "negative_response_mv": 4.22319383706391,
+          "difference_mv": -0.07241577834380575,
+          "denominator_mv": 8.373971895784013,
+          "dsi": -0.008647721683931664,
+          "raw_expected_sign": false,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        }
+      },
+      "interpretation_flags": [
+        "RESOLVED_WRONG_SIGN_PRESENT"
+      ]
+    },
+    {
+      "pair": 1,
+      "positive_index": 2,
+      "negative_index": 3,
+      "period_ms": 320.0,
+      "frequency_hz": 3.125,
+      "starting_phase": 5,
+      "observed": {
+        "mean": {
+          "positive_response_mv": 6.127387947700446,
+          "negative_response_mv": 3.9248543701668743,
+          "difference_mv": 2.2025335775335715,
+          "denominator_mv": 10.05224231786732,
+          "dsi": 0.2191086832058044,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "amplitude": {
+          "positive_response_mv": 4.153693528693527,
+          "negative_response_mv": 3.2628713878713844,
+          "difference_mv": 0.8908221408221424,
+          "denominator_mv": 7.416564916564911,
+          "dsi": 0.12011249828508741,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 3.2872209411842017,
+          "negative_response_mv": 1.9547154053946763,
+          "difference_mv": 1.3325055357895255,
+          "denominator_mv": 5.241936346578878,
+          "dsi": 0.2542010142223833,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 6.128666607736554,
+          "negative_response_mv": 4.689217887295571,
+          "difference_mv": 1.439448720440983,
+          "denominator_mv": 10.817884495032125,
+          "dsi": 0.1330619421109569,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        }
+      },
+      "model": {
+        "mean": {
+          "positive_response_mv": 4.461774327945815,
+          "negative_response_mv": 4.257145693777353,
+          "difference_mv": 0.20462863416846133,
+          "denominator_mv": 8.718920021723168,
+          "dsi": 0.023469493200835606,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 3.6785330621212466,
+          "negative_response_mv": 2.9872718544181796,
+          "difference_mv": 0.6912612077030671,
+          "denominator_mv": 6.665804916539426,
+          "dsi": 0.10370258601296384,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 2.8436282750415733,
+          "negative_response_mv": 1.9268313447046752,
+          "difference_mv": 0.9167969303368981,
+          "denominator_mv": 4.770459619746249,
+          "dsi": 0.19218209636279546,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.461774327945815,
+          "negative_response_mv": 4.257145693777353,
+          "difference_mv": 0.20462863416846133,
+          "denominator_mv": 8.718920021723168,
+          "dsi": 0.023469493200835606,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        }
+      },
+      "archived": {
+        "mean": {
+          "positive_response_mv": 4.503825610456593,
+          "negative_response_mv": 4.225465734861882,
+          "difference_mv": 0.27835987559471054,
+          "denominator_mv": 8.729291345318476,
+          "dsi": 0.03188802671181265,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 3.6719492960326567,
+          "negative_response_mv": 2.9793668677425664,
+          "difference_mv": 0.6925824282900903,
+          "denominator_mv": 6.651316163775223,
+          "dsi": 0.10412712480306863,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 2.8454735818736694,
+          "negative_response_mv": 1.9094557612742684,
+          "difference_mv": 0.936017820599401,
+          "denominator_mv": 4.754929343147937,
+          "dsi": 0.1968520987484796,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.503825610456593,
+          "negative_response_mv": 4.225465734861882,
+          "difference_mv": 0.27835987559471054,
+          "denominator_mv": 8.729291345318476,
+          "dsi": 0.03188802671181265,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        }
+      },
+      "interpretation_flags": [
+        "OBSERVED_MEAN_MODEL_INCOMPLETE"
+      ]
+    },
+    {
+      "pair": 2,
+      "positive_index": 4,
+      "negative_index": 5,
+      "period_ms": 1280.0,
+      "frequency_hz": 0.78125,
+      "starting_phase": 1,
+      "observed": {
+        "mean": {
+          "positive_response_mv": 3.4384318480998166,
+          "negative_response_mv": 2.38089892240283,
+          "difference_mv": 1.0575329256969868,
+          "denominator_mv": 5.8193307705026465,
+          "dsi": 0.18172758473490966,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "amplitude": {
+          "positive_response_mv": 9.945487382987386,
+          "negative_response_mv": 4.271978021978027,
+          "difference_mv": 5.6735093610093585,
+          "denominator_mv": 14.217465404965413,
+          "dsi": 0.39905209539162306,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 9.097534829730817,
+          "negative_response_mv": 3.9178518710857393,
+          "difference_mv": 5.179682958645078,
+          "denominator_mv": 13.015386700816556,
+          "dsi": 0.39796612100047063,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.245666172252363,
+          "negative_response_mv": 2.2696537000293393,
+          "difference_mv": 1.9760124722230241,
+          "denominator_mv": 6.515319872281703,
+          "dsi": 0.3032871003969623,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        }
+      },
+      "model": {
+        "mean": {
+          "positive_response_mv": 4.563933518059418,
+          "negative_response_mv": 3.798772559417794,
+          "difference_mv": 0.7651609586416241,
+          "denominator_mv": 8.362706077477212,
+          "dsi": 0.0914968135377121,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 9.004414457624502,
+          "negative_response_mv": 5.229944828205171,
+          "difference_mv": 3.7744696294193316,
+          "denominator_mv": 14.234359285829672,
+          "dsi": 0.26516610643492905,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 8.896061182150707,
+          "negative_response_mv": 5.134329009069917,
+          "difference_mv": 3.761732173080789,
+          "denominator_mv": 14.030390191220624,
+          "dsi": 0.26811315450333345,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.563933518059418,
+          "negative_response_mv": 3.798772559417794,
+          "difference_mv": 0.7651609586416241,
+          "denominator_mv": 8.362706077477212,
+          "dsi": 0.0914968135377121,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        }
+      },
+      "archived": {
+        "mean": {
+          "positive_response_mv": 4.567865112952125,
+          "negative_response_mv": 3.795506712919044,
+          "difference_mv": 0.7723584000330814,
+          "denominator_mv": 8.36337182587117,
+          "dsi": 0.09235012099352988,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 9.001399812302061,
+          "negative_response_mv": 5.22508337119695,
+          "difference_mv": 3.776316441105111,
+          "denominator_mv": 14.226483183499012,
+          "dsi": 0.265442723433236,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 8.89650253601205,
+          "negative_response_mv": 5.129553493933178,
+          "difference_mv": 3.7669490420788723,
+          "denominator_mv": 14.026056029945229,
+          "dsi": 0.2685679448332834,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.567865112952125,
+          "negative_response_mv": 3.795506712919044,
+          "difference_mv": 0.7723584000330814,
+          "denominator_mv": 8.36337182587117,
+          "dsi": 0.09235012099352988,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        }
+      },
+      "interpretation_flags": [
+        "OBSERVED_MEAN_MODEL_INCOMPLETE"
+      ]
+    },
+    {
+      "pair": 3,
+      "positive_index": 6,
+      "negative_index": 7,
+      "period_ms": 1280.0,
+      "frequency_hz": 0.78125,
+      "starting_phase": 5,
+      "observed": {
+        "mean": {
+          "positive_response_mv": 4.303931131079569,
+          "negative_response_mv": 2.725691066023098,
+          "difference_mv": 1.578240065056471,
+          "denominator_mv": 7.0296221971026664,
+          "dsi": 0.22451278615043627,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "amplitude": {
+          "positive_response_mv": 9.660739723239724,
+          "negative_response_mv": 4.474486161986169,
+          "difference_mv": 5.1862535612535545,
+          "denominator_mv": 14.135225885225893,
+          "dsi": 0.36690277207909466,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 8.799286570344702,
+          "negative_response_mv": 4.279123408562172,
+          "difference_mv": 4.52016316178253,
+          "denominator_mv": 13.078409978906873,
+          "dsi": 0.34562023740445064,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 3.8013228405896515,
+          "negative_response_mv": 3.0233333132251374,
+          "difference_mv": 0.7779895273645141,
+          "denominator_mv": 6.824656153814789,
+          "dsi": 0.11399688274839165,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        }
+      },
+      "model": {
+        "mean": {
+          "positive_response_mv": 4.564395475902676,
+          "negative_response_mv": 3.7989949454052168,
+          "difference_mv": 0.7654005304974589,
+          "denominator_mv": 8.363390421307892,
+          "dsi": 0.09151797201137517,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 9.005419923310253,
+          "negative_response_mv": 5.236440528792015,
+          "difference_mv": 3.7689793945182384,
+          "denominator_mv": 14.241860452102268,
+          "dsi": 0.2646409440110679,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 8.898246702916918,
+          "negative_response_mv": 5.139634115494826,
+          "difference_mv": 3.7586125874220917,
+          "denominator_mv": 14.037880818411743,
+          "dsi": 0.2677478628036496,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.564395475902676,
+          "negative_response_mv": 3.7989949454052168,
+          "difference_mv": 0.7654005304974589,
+          "denominator_mv": 8.363390421307892,
+          "dsi": 0.09151797201137517,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        }
+      },
+      "archived": {
+        "mean": {
+          "positive_response_mv": 4.585029658173472,
+          "negative_response_mv": 3.797871239184805,
+          "difference_mv": 0.7871584189886667,
+          "denominator_mv": 8.382900897358276,
+          "dsi": 0.09390048011145233,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        },
+        "amplitude": {
+          "positive_response_mv": 9.031475838827864,
+          "negative_response_mv": 5.233123213671127,
+          "difference_mv": 3.7983526251567374,
+          "denominator_mv": 14.26459905249899,
+          "dsi": 0.26627826069119764,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "harmonic": {
+          "positive_response_mv": 8.919450823959856,
+          "negative_response_mv": 5.137977998814718,
+          "difference_mv": 3.781472825145138,
+          "denominator_mv": 14.057428822774575,
+          "dsi": 0.2690017408460029,
+          "raw_expected_sign": true,
+          "resolved": true,
+          "passed": true,
+          "failures": []
+        },
+        "raw_mean": {
+          "positive_response_mv": 4.585029658173472,
+          "negative_response_mv": 3.797871239184805,
+          "difference_mv": 0.7871584189886667,
+          "denominator_mv": 8.382900897358276,
+          "dsi": 0.09390048011145233,
+          "raw_expected_sign": true,
+          "resolved": false,
+          "passed": false,
+          "failures": [
+            "dsi_floor"
+          ]
+        }
+      },
+      "interpretation_flags": [
+        "OBSERVED_MEAN_MODEL_INCOMPLETE"
+      ]
+    }
+  ],
+  "pooled_full_waveform_rmse_mv": 4.305291244139051,
+  "pooled_retained_waveform_rmse_mv": 4.020545433942283,
+  "parameters_refitted": false,
+  "independent_cell_validation": false,
+  "biological_validation_claimed": false,
+  "degeneracy_assessed": false,
+  "prospective_manifest_sha256": "e8f56f41da6342e012b939c91db744459c745b79fb93a538b3213fae8b1fd63e"
+}

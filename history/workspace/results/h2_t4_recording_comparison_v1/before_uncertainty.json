@@ -1,0 +1,6 @@
+{
+  "source_sha256": "1a7002f49194d1dbfd3104f741bbc4c14856ad1d8ac2ebc119ddd2927b0490b9",
+  "script_sha256": "ebfe125d1380ad6c292366a8cc907c04978368bcc20f017d12f89e6336aa0389",
+  "fixed_before_graph_predictions": true,
+  "scope": "descriptive within-animal repeat uncertainty only; does not modify primary rule"
+}

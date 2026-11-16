@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "files": 3672,
+  "bytes": 9844931130,
+  "index": {
+    "path": "results/source_path_attribution_v1/completion_v1/artifact_index.json",
+    "size_bytes": 761571,
+    "sha256": "0b34706ad2ba54025f0115379989732f6e0060daf5ae68542a3a79e5abced809"
+  },
+  "all_files_rehashed_after_sealer_exit": true,
+  "physiological_validation": false
+}

@@ -1,0 +1,321 @@
+{
+  "status": "PASS",
+  "date": "2026-10-24",
+  "selected_sources_unchanged": 26,
+  "replayed_identical_files": [
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/all_group_generalization_thresholds.csv",
+      "size_bytes": 12401,
+      "sha256": "350ac470f53d52cf49b1aa17fbf09a5f1cf2c55408b1f1361354583eb44839fe"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/all_reconstructed_thresholds.csv",
+      "size_bytes": 151914,
+      "sha256": "347045d4b59f09971a0c25d0071b843fe6f6cf7618f1ea08415358a2359f4215"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/before_analysis.json",
+      "size_bytes": 515,
+      "sha256": "fbb64f0180bfdefe9e4fd5746d6148ace7ecd793ba57603edebd0ac8f8d87efc"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/bips_and_added_family_response_effects.csv",
+      "size_bytes": 3672,
+      "sha256": "ea670eb31a12bdb294c3b64cbd74291e999d53a32aaf33f99c7208d5c667365d"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/dnp15_generalization.csv",
+      "size_bytes": 15613,
+      "sha256": "39abc2091c39ede24a162a96b77885e3eee0bf26e33ddf0d771fd2347027a6f1"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/historical_dnp15_sampling.csv",
+      "size_bytes": 13872,
+      "sha256": "fa4583236b639df281c961635b302f7b4915472e2ebd8045b55e6274cea732e2"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/review.json",
+      "size_bytes": 986,
+      "sha256": "f3c15dab65aee2c02bf3be3fe6923126c989ff4086600c4884919c2ad3c0e765"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/source_verification.json",
+      "size_bytes": 9335,
+      "sha256": "acf00688aad3242a5084eaf5e6e2bc6cea000e125932b858af97f64713ed13dd"
+    },
+    {
+      "path": "results/yaw_bips_evidence_synthesis_v1/study_a_dnp15_lesions.csv",
+      "size_bytes": 7910,
+      "sha256": "959f036dc4abcfe598dd37cfc4c2e682d8fcc80e7da1927f79cb34350e43dfc3"
+    }
+  ],
+  "quoted_rows_checked": [
+    {
+      "study": "extension",
+      "kind": "generalization",
+      "profile": "legacy",
+      "copy": "original_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "5.5",
+      "magnitude": "2",
+      "rooms": "40",
+      "false_positives": "6",
+      "straight_cases": "40",
+      "fpr": "0.15",
+      "detected": "46",
+      "rotation_cases": "80",
+      "detection": "0.575",
+      "correct_sign": "72",
+      "direction": "0.9",
+      "correctly_directed_detection": "0.5625"
+    },
+    {
+      "study": "extension",
+      "kind": "generalization",
+      "profile": "legacy",
+      "copy": "original_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "11.0",
+      "magnitude": "2",
+      "rooms": "40",
+      "false_positives": "8",
+      "straight_cases": "40",
+      "fpr": "0.2",
+      "detected": "26",
+      "rotation_cases": "80",
+      "detection": "0.325",
+      "correct_sign": "60",
+      "direction": "0.75",
+      "correctly_directed_detection": "0.3"
+    },
+    {
+      "study": "extension",
+      "kind": "generalization",
+      "profile": "legacy",
+      "copy": "original_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "magnitude": "2",
+      "rooms": "40",
+      "false_positives": "6",
+      "straight_cases": "40",
+      "fpr": "0.15",
+      "detected": "14",
+      "rotation_cases": "80",
+      "detection": "0.175",
+      "correct_sign": "52",
+      "direction": "0.65",
+      "correctly_directed_detection": "0.1375"
+    },
+    {
+      "study": "extension",
+      "kind": "generalization",
+      "profile": "legacy",
+      "copy": "original_bips_silence",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "magnitude": "2",
+      "rooms": "40",
+      "false_positives": "14",
+      "straight_cases": "40",
+      "fpr": "0.35",
+      "detected": "33",
+      "rotation_cases": "80",
+      "detection": "0.4125",
+      "correct_sign": "45",
+      "direction": "0.5625",
+      "correctly_directed_detection": "0.2875"
+    },
+    {
+      "study": "extension",
+      "kind": "generalization",
+      "profile": "legacy",
+      "copy": "expanded_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "rooms": "40",
+      "false_positives": "4",
+      "straight_cases": "40",
+      "fpr": "0.1",
+      "threshold": "20",
+      "status": "resolved_tested_grid"
+    },
+    {
+      "study": "extension",
+      "kind": "generalization",
+      "profile": "legacy",
+      "copy": "expanded_new_families_silence",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "rooms": "40",
+      "false_positives": "5",
+      "straight_cases": "40",
+      "fpr": "0.125",
+      "threshold": "",
+      "status": "unresolved_false_positives"
+    },
+    {
+      "study": "extension",
+      "kind": "convergence",
+      "profile": "legacy",
+      "copy": "original_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "rooms": "6",
+      "false_positives": "0",
+      "straight_cases": "6",
+      "fpr": "0.0",
+      "threshold": "20",
+      "status": "resolved_tested_grid"
+    },
+    {
+      "study": "extension",
+      "kind": "convergence",
+      "profile": "spatial_half",
+      "copy": "original_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "rooms": "6",
+      "false_positives": "2",
+      "straight_cases": "6",
+      "fpr": "0.3333333333333333",
+      "threshold": "",
+      "status": "unresolved_false_positives"
+    },
+    {
+      "study": "extension",
+      "kind": "convergence",
+      "profile": "spatial_quarter",
+      "copy": "original_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "rooms": "6",
+      "false_positives": "3",
+      "straight_cases": "6",
+      "fpr": "0.5",
+      "threshold": "",
+      "status": "unresolved_false_positives"
+    },
+    {
+      "study": "extension",
+      "kind": "convergence",
+      "profile": "quarter_fine_time",
+      "copy": "original_intact",
+      "mode": "sealed_original_transfer",
+      "role": "dnp15",
+      "speed": "16.5",
+      "rooms": "6",
+      "false_positives": "2",
+      "straight_cases": "6",
+      "fpr": "0.3333333333333333",
+      "threshold": "",
+      "status": "unresolved_false_positives"
+    }
+  ],
+  "local_links_checked": 17,
+  "links": [
+    {
+      "document": "docs/PROFESSOR_YAW_BIPS_SUMMARY_V1.md",
+      "target": "YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "PROFESSOR_YAW_BIPS_SUMMARY_V1.md"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "YAW_SENSITIVITY_ABLATION_REPORT_V1.md"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "ANATOMICAL_STRENGTHENING_REPORT_V1.md"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/dnp15_generalization.csv"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/all_group_generalization_thresholds.csv"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/presentation_v2/dnp15_detection_and_false_alarms.png"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/bips_and_added_family_response_effects.csv"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/study_a_dnp15_lesions.csv"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/historical_dnp15_sampling.csv"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "CORRECTED_PHYSIOLOGICAL_DIAGNOSTICS_REPORT_V2.md"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "ANATOMICAL_STRENGTHENING_DATASET_MAP_V1.md"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/review.json"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/source_verification.json"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "../results/yaw_bips_evidence_synthesis_v1/all_reconstructed_thresholds.csv"
+    },
+    {
+      "document": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "target": "YAW_BIPS_SYNTHESIS_METHODS_V1.md"
+    }
+  ],
+  "presentation_v1_v2_data_byte_identical": true,
+  "figure_visual_review": "Final V2 PNG visually inspected: labels separated, counts visible, both panels required",
+  "scientific_criteria_or_model_changed": false,
+  "physiological_validation": false,
+  "documents": [
+    {
+      "path": "docs/YAW_BIPS_SYNTHESIS_METHODS_V1.md",
+      "size_bytes": 3110,
+      "sha256": "33000b65916773cf56f760e71e1c946db6371b67be3653780386218e394a379a"
+    },
+    {
+      "path": "docs/PROFESSOR_YAW_BIPS_SUMMARY_V1.md",
+      "size_bytes": 2792,
+      "sha256": "a5a9f386866af1cb88fc3a6f2c5c2dda07b7ffcf58c2681f787381066310320b"
+    },
+    {
+      "path": "docs/YAW_BIPS_EVIDENCE_SYNTHESIS_V1.md",
+      "size_bytes": 13499,
+      "sha256": "fc116326fa257522d9446f10602c26793bc9ebe8a831aacbaf3458d473b5af2c"
+    }
+  ],
+  "source": {
+    "path": "scripts/review_yaw_bips_synthesis_v1.py",
+    "size_bytes": 4747,
+    "sha256": "754741b2386a8b20946e9d28dd9a6c6451c19407e13ae86968024655e668d532"
+  }
+}

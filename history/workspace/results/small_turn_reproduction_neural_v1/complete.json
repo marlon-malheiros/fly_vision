@@ -1,0 +1,73 @@
+{
+  "status": "PASS",
+  "kind": "neural",
+  "source_built": [
+    [
+      "g++",
+      "-std=c++17",
+      "-O3",
+      "-fno-fast-math",
+      "-ffp-contract=off",
+      "-shared",
+      "-fPIC",
+      "<WORKSPACE>/src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "-o",
+      "<WORKSPACE>/results/small_turn_reproduction_neural_v1/methods/renderer.so"
+    ],
+    [
+      "g++",
+      "-std=c++17",
+      "-O3",
+      "-fno-fast-math",
+      "-ffp-contract=off",
+      "-shared",
+      "-fPIC",
+      "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+      "-o",
+      "<WORKSPACE>/results/small_turn_reproduction_neural_v1/methods/neural.so"
+    ],
+    [
+      "g++",
+      "-DOPTIC_APPROX_TANH",
+      "-std=c++17",
+      "-O3",
+      "-fno-fast-math",
+      "-ffp-contract=off",
+      "-shared",
+      "-fPIC",
+      "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+      "-o",
+      "<WORKSPACE>/results/small_turn_reproduction_neural_v1/methods/neural_fast_v2.so"
+    ]
+  ],
+  "cases": [
+    {
+      "key": "f00_A_v5.5_y+2",
+      "group": "cases",
+      "profile": "primary",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "key": "c00_A_v11_y+0",
+      "group": "cases",
+      "profile": "primary",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "key": "t00_A_v16.5_y+2",
+      "group": "cases",
+      "profile": "primary",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "key": "s12_v16.5_y-2",
+      "group": "numerical",
+      "profile": "fine",
+      "all_retained_arrays_exact": true
+    }
+  ],
+  "all_primary_execution": false,
+  "analysis_or_independent_review_repeated": false,
+  "seconds": 108.63306361399736,
+  "physiological_validation": false
+}

@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "samples": 48960,
+  "maximum_error": 1.7763568394002505e-15,
+  "no_event_or_true_velocity_inputs": true
+}

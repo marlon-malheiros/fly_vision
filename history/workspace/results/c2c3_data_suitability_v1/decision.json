@@ -1,0 +1,13 @@
+{
+  "descriptive_source_reproduction": "eligible after independent preprocessing implementation; not executed here",
+  "Mi1_calcium_component_benchmark": "GO:16 explicit flyIDs, stimulus/time logs and6 reserved test animals; prospective observation and scoring protocol still required",
+  "T4T5_relative_direction_benchmark": "CONDITIONAL: source-label groups available; reconcile directions/preprocessing and avoid ON/OFF position pairing",
+  "exact_image_to_recording_validation": "NO-GO: original Figure6 time/stimulus logs, generator and registration missing from acquired files",
+  "integrate_C2C3_into_full_neural_circuit": "NO-GO: conductances, kinetics and voltage-to-release coupling not identified; avoid double counting intact-kernel dynamics",
+  "biological_validation_achieved": false,
+  "new_small_turn_result": false,
+  "new_neural_model_built": false,
+  "new_response_outcomes_inspected": false,
+  "Mi1_test_animals_reserved": 6,
+  "all_source_control_animals_retained": true
+}

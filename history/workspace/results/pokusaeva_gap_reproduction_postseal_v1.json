@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-26T23:16:36.217020+00:00",
+  "index": {
+    "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/artifact_index.json",
+    "size_bytes": 23741,
+    "sha256": "823b7609ed8f33ebe049691aed88cd1d813accbc5795a1218bdc2fdb44796206"
+  },
+  "verified_artifacts": 110,
+  "live_code_equals_sealed_snapshot": true,
+  "failed_original_source_preserved": true,
+  "biological_validation": false
+}

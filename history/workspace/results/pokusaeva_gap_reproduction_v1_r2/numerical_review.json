@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-26T23:11:14.222502+00:00",
+  "author_residual_cases": 96,
+  "maximum_author_residual": 5.684341886080802e-14,
+  "raw_source_checks": [
+    {
+      "key": "f00_A_v0_y+0",
+      "cached_mean_error": 0.0,
+      "time_average_error": 0.0,
+      "solve_residual": 0.0
+    },
+    {
+      "key": "f00_A_v16.5_y+0",
+      "cached_mean_error": 0.0,
+      "time_average_error": 1.4201098560984171e-08,
+      "solve_residual": 6.938893903907228e-18
+    },
+    {
+      "key": "f00_A_v16.5_y-2",
+      "cached_mean_error": 0.0,
+      "time_average_error": 2.158287750516491e-08,
+      "solve_residual": 2.7755575615628914e-17
+    },
+    {
+      "key": "f00_A_v16.5_y+2",
+      "cached_mean_error": 0.0,
+      "time_average_error": 1.8704761628463018e-08,
+      "solve_residual": 5.963111948670274e-19
+    }
+  ],
+  "independent_scores": 14400,
+  "maximum_score_discrepancy": 1.4210854715202004e-14,
+  "decoders_with_disjoint_test_rooms": 120,
+  "dynamic_circuit_solver": "not applicable: author model is steady-state linear",
+  "biological_validation": false
+}

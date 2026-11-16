@@ -1,0 +1,13 @@
+{
+  "utc": "2026-10-30T14:02:49.941666+00:00",
+  "status": "PASS",
+  "indexed_files": 13,
+  "index": {
+    "path": "results/final_openloop_release_review_r2/completion/artifact_index.json",
+    "size_bytes": 2817,
+    "sha256": "934f2ab254c3b0cd0f7b6da916ef8eb27d2041c027f35f8934f42546e9583829"
+  },
+  "original_7949_file_seal_reverified": true,
+  "archived_source_and_note_equal_live": true,
+  "checked_after_sealing_process_exit": true
+}

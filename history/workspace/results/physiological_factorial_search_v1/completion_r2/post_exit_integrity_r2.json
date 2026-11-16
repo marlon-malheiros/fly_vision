@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/physiological_factorial_search_v1/completion_r2/artifact_index.json",
+    "size_bytes": 37846,
+    "sha256": "9f8894018cf913361f4ce46d9c3c043d3f668017758e136ab7481a93192eae0a"
+  },
+  "indexed_files": 165,
+  "original_scientific_freeze_unchanged": true,
+  "old_studies_rehashed": true,
+  "numerical_checks": 18,
+  "maximum_normalized_refinement_error": 0.010788431108117403,
+  "live_progress_and_AGENTS_outside_index": true,
+  "old_failed_seal_explicitly_preserved": true
+}

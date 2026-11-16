@@ -1,0 +1,2314 @@
+{
+  "utc": "2026-10-27T18:09:50.460046+00:00",
+  "status": "PASS",
+  "results": [
+    {
+      "key": "w00_v0_y+0",
+      "profile": "primary",
+      "seconds": 6.546360104999621,
+      "parity": null
+    },
+    {
+      "key": "w00_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 13.232434528996237,
+      "parity": null
+    },
+    {
+      "key": "w00_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 13.61586352600716,
+      "parity": null
+    },
+    {
+      "key": "w00_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 14.752239737994387,
+      "parity": null
+    },
+    {
+      "key": "w00_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 15.7421530890133,
+      "parity": null
+    },
+    {
+      "key": "w00_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 11.33342501000152,
+      "parity": null
+    },
+    {
+      "key": "w00_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.58925508899847,
+      "parity": null
+    },
+    {
+      "key": "w00_v11_y+0",
+      "profile": "primary",
+      "seconds": 14.067646155992406,
+      "parity": null
+    },
+    {
+      "key": "w00_v11_y-5",
+      "profile": "primary",
+      "seconds": 11.642801360008889,
+      "parity": null
+    },
+    {
+      "key": "w00_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.75699266200536,
+      "parity": null
+    },
+    {
+      "key": "w00_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.254680879996158,
+      "parity": null
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.455473855006858,
+      "parity": null
+    },
+    {
+      "key": "w00_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.412046035999083,
+      "parity": null
+    },
+    {
+      "key": "w00_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.730625625001267,
+      "parity": null
+    },
+    {
+      "key": "w00_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 12.707933205005247,
+      "parity": null
+    },
+    {
+      "key": "w00_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 12.724292483006138,
+      "parity": null
+    },
+    {
+      "key": "w01_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.2352542909939075,
+      "parity": null
+    },
+    {
+      "key": "w01_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 13.250431792999734,
+      "parity": null
+    },
+    {
+      "key": "w01_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 13.494937720010057,
+      "parity": null
+    },
+    {
+      "key": "w01_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 13.858792104991153,
+      "parity": null
+    },
+    {
+      "key": "w01_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.691491858990048,
+      "parity": null
+    },
+    {
+      "key": "w01_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.91000047599664,
+      "parity": null
+    },
+    {
+      "key": "w01_v11_y+0",
+      "profile": "primary",
+      "seconds": 13.219991856996785,
+      "parity": null
+    },
+    {
+      "key": "w01_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.975658529001521,
+      "parity": null
+    },
+    {
+      "key": "w01_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.505112143000588,
+      "parity": null
+    },
+    {
+      "key": "w01_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.637538672992378,
+      "parity": null
+    },
+    {
+      "key": "w01_v11_y-5",
+      "profile": "primary",
+      "seconds": 13.679915405999054,
+      "parity": null
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.807739996991586,
+      "parity": null
+    },
+    {
+      "key": "w01_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 13.840101409005001,
+      "parity": null
+    },
+    {
+      "key": "w01_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 13.280906618994777,
+      "parity": null
+    },
+    {
+      "key": "w01_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 13.529863421004848,
+      "parity": null
+    },
+    {
+      "key": "w01_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 13.687274691998027,
+      "parity": null
+    },
+    {
+      "key": "w02_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.638322426006198,
+      "parity": null
+    },
+    {
+      "key": "w02_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.860001419001492,
+      "parity": null
+    },
+    {
+      "key": "w02_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 13.771079063008074,
+      "parity": null
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 13.366626483999426,
+      "parity": null
+    },
+    {
+      "key": "w02_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.738926828009426,
+      "parity": null
+    },
+    {
+      "key": "w02_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.888184886003728,
+      "parity": null
+    },
+    {
+      "key": "w02_v11_y+0",
+      "profile": "primary",
+      "seconds": 12.799538414998096,
+      "parity": null
+    },
+    {
+      "key": "w02_v11_y-2",
+      "profile": "primary",
+      "seconds": 13.759272225986933,
+      "parity": null
+    },
+    {
+      "key": "w02_v11_y+2",
+      "profile": "primary",
+      "seconds": 13.166073091997532,
+      "parity": null
+    },
+    {
+      "key": "w02_v11_y-5",
+      "profile": "primary",
+      "seconds": 14.07875597399834,
+      "parity": null
+    },
+    {
+      "key": "w02_v11_y+5",
+      "profile": "primary",
+      "seconds": 13.721933064996847,
+      "parity": null
+    },
+    {
+      "key": "w02_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.873512874008156,
+      "parity": null
+    },
+    {
+      "key": "w02_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 13.444044799995027,
+      "parity": null
+    },
+    {
+      "key": "w02_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 14.947694575006608,
+      "parity": null
+    },
+    {
+      "key": "w02_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 13.110555870007374,
+      "parity": null
+    },
+    {
+      "key": "w03_v0_y+0",
+      "profile": "primary",
+      "seconds": 6.066717891997541,
+      "parity": null
+    },
+    {
+      "key": "w02_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 13.428406032995554,
+      "parity": null
+    },
+    {
+      "key": "w03_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.703593748999992,
+      "parity": null
+    },
+    {
+      "key": "w03_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 12.605666468007257,
+      "parity": null
+    },
+    {
+      "key": "w03_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 13.342707946998416,
+      "parity": null
+    },
+    {
+      "key": "w03_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.491759413998807,
+      "parity": null
+    },
+    {
+      "key": "w03_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 13.480371133991866,
+      "parity": null
+    },
+    {
+      "key": "w03_v11_y+0",
+      "profile": "primary",
+      "seconds": 12.82282483499148,
+      "parity": null
+    },
+    {
+      "key": "w03_v11_y-2",
+      "profile": "primary",
+      "seconds": 13.549983468998107,
+      "parity": null
+    },
+    {
+      "key": "w03_v11_y+2",
+      "profile": "primary",
+      "seconds": 13.62921177399403,
+      "parity": null
+    },
+    {
+      "key": "w03_v11_y-5",
+      "profile": "primary",
+      "seconds": 13.420311702007893,
+      "parity": null
+    },
+    {
+      "key": "w03_v11_y+5",
+      "profile": "primary",
+      "seconds": 13.098993366002105,
+      "parity": null
+    },
+    {
+      "key": "w03_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.793721041001845,
+      "parity": null
+    },
+    {
+      "key": "w03_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.547308529989095,
+      "parity": null
+    },
+    {
+      "key": "w03_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 13.585397189002833,
+      "parity": null
+    },
+    {
+      "key": "w03_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 13.256422068006941,
+      "parity": null
+    },
+    {
+      "key": "w03_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 13.719834224000806,
+      "parity": null
+    },
+    {
+      "key": "w04_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.782895839991397,
+      "parity": null
+    },
+    {
+      "key": "w04_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.69266120599059,
+      "parity": null
+    },
+    {
+      "key": "w04_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.232664119001129,
+      "parity": null
+    },
+    {
+      "key": "w04_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 13.417617674000212,
+      "parity": null
+    },
+    {
+      "key": "w04_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 13.446415683007217,
+      "parity": null
+    },
+    {
+      "key": "w04_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.560947188991122,
+      "parity": null
+    },
+    {
+      "key": "w04_v11_y+0",
+      "profile": "primary",
+      "seconds": 13.512632655998459,
+      "parity": null
+    },
+    {
+      "key": "w04_v11_y-2",
+      "profile": "primary",
+      "seconds": 13.092104515992105,
+      "parity": null
+    },
+    {
+      "key": "w04_v11_y-5",
+      "profile": "primary",
+      "seconds": 13.759766723989742,
+      "parity": null
+    },
+    {
+      "key": "w04_v11_y+5",
+      "profile": "primary",
+      "seconds": 13.754727119987365,
+      "parity": null
+    },
+    {
+      "key": "w04_v11_y+2",
+      "profile": "primary",
+      "seconds": 14.813773843998206,
+      "parity": null
+    },
+    {
+      "key": "w04_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.531990738993045,
+      "parity": null
+    },
+    {
+      "key": "w04_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 13.959902296992368,
+      "parity": null
+    },
+    {
+      "key": "w04_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 12.43130605299666,
+      "parity": null
+    },
+    {
+      "key": "w04_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 13.343924153989065,
+      "parity": null
+    },
+    {
+      "key": "w04_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 13.986654829001054,
+      "parity": null
+    },
+    {
+      "key": "w05_v0_y+0",
+      "profile": "primary",
+      "seconds": 6.073604368997621,
+      "parity": null
+    },
+    {
+      "key": "w05_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 13.673629808006808,
+      "parity": null
+    },
+    {
+      "key": "w05_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 19.673255600995617,
+      "parity": null
+    },
+    {
+      "key": "w05_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 17.919984182997723,
+      "parity": null
+    },
+    {
+      "key": "w05_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 19.719125554009224,
+      "parity": null
+    },
+    {
+      "key": "w05_v11_y+0",
+      "profile": "primary",
+      "seconds": 9.549129619990708,
+      "parity": null
+    },
+    {
+      "key": "w05_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 19.102536274003796,
+      "parity": null
+    },
+    {
+      "key": "w05_v11_y-5",
+      "profile": "primary",
+      "seconds": 13.398378297992167,
+      "parity": null
+    },
+    {
+      "key": "w05_v11_y-2",
+      "profile": "primary",
+      "seconds": 13.654417748999549,
+      "parity": null
+    },
+    {
+      "key": "w05_v11_y+2",
+      "profile": "primary",
+      "seconds": 13.74562648400024,
+      "parity": null
+    },
+    {
+      "key": "w05_v11_y+5",
+      "profile": "primary",
+      "seconds": 13.685690818994772,
+      "parity": null
+    },
+    {
+      "key": "w05_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 13.288635144999716,
+      "parity": null
+    },
+    {
+      "key": "w06_v0_y+0",
+      "profile": "primary",
+      "seconds": 6.720447120009339,
+      "parity": null
+    },
+    {
+      "key": "w05_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 13.261605316991336,
+      "parity": null
+    },
+    {
+      "key": "w05_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 13.41866503599158,
+      "parity": null
+    },
+    {
+      "key": "w05_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 13.454963629003032,
+      "parity": null
+    },
+    {
+      "key": "w05_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 13.650151711000944,
+      "parity": null
+    },
+    {
+      "key": "w06_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.14472346099501,
+      "parity": null
+    },
+    {
+      "key": "w06_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.436719737001113,
+      "parity": null
+    },
+    {
+      "key": "w06_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.522629557002801,
+      "parity": null
+    },
+    {
+      "key": "w06_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 13.62094817700563,
+      "parity": null
+    },
+    {
+      "key": "w06_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 14.083436383996741,
+      "parity": null
+    },
+    {
+      "key": "w06_v11_y+0",
+      "profile": "primary",
+      "seconds": 17.472967570007313,
+      "parity": null
+    },
+    {
+      "key": "w06_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.773555619001854,
+      "parity": null
+    },
+    {
+      "key": "w06_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.450176352998824,
+      "parity": null
+    },
+    {
+      "key": "w06_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.833153043000493,
+      "parity": null
+    },
+    {
+      "key": "w06_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.692158434991143,
+      "parity": null
+    },
+    {
+      "key": "w06_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.824338535996503,
+      "parity": null
+    },
+    {
+      "key": "w06_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.280471894002403,
+      "parity": null
+    },
+    {
+      "key": "w06_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 12.350008948997129,
+      "parity": null
+    },
+    {
+      "key": "w06_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 14.901288638997357,
+      "parity": null
+    },
+    {
+      "key": "w06_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 13.406919260989525,
+      "parity": null
+    },
+    {
+      "key": "w07_v0_y+0",
+      "profile": "primary",
+      "seconds": 7.1278959330084035,
+      "parity": null
+    },
+    {
+      "key": "w07_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.898986676998902,
+      "parity": null
+    },
+    {
+      "key": "w07_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 12.541647541002021,
+      "parity": null
+    },
+    {
+      "key": "w07_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.406134787001065,
+      "parity": null
+    },
+    {
+      "key": "w07_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 15.935321060998831,
+      "parity": null
+    },
+    {
+      "key": "w07_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.69167457500589,
+      "parity": null
+    },
+    {
+      "key": "w07_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.132420052002999,
+      "parity": null
+    },
+    {
+      "key": "w07_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.812866632011719,
+      "parity": null
+    },
+    {
+      "key": "w07_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.429926957993302,
+      "parity": null
+    },
+    {
+      "key": "w07_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.040256162988953,
+      "parity": null
+    },
+    {
+      "key": "w07_v11_y+0",
+      "profile": "primary",
+      "seconds": 17.674399145995267,
+      "parity": null
+    },
+    {
+      "key": "w07_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.437255117009045,
+      "parity": null
+    },
+    {
+      "key": "w07_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.030493329992169,
+      "parity": null
+    },
+    {
+      "key": "w07_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.265232599005685,
+      "parity": null
+    },
+    {
+      "key": "w07_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 12.628700270986883,
+      "parity": null
+    },
+    {
+      "key": "w08_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.041668238991406,
+      "parity": null
+    },
+    {
+      "key": "w07_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 18.649574087001383,
+      "parity": null
+    },
+    {
+      "key": "w08_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.525710058005643,
+      "parity": null
+    },
+    {
+      "key": "w08_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.067726191002293,
+      "parity": null
+    },
+    {
+      "key": "w08_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 11.907621524005663,
+      "parity": null
+    },
+    {
+      "key": "w08_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.131122627004515,
+      "parity": null
+    },
+    {
+      "key": "w08_v11_y+0",
+      "profile": "primary",
+      "seconds": 13.916148842006805,
+      "parity": null
+    },
+    {
+      "key": "w08_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.924064253995311,
+      "parity": null
+    },
+    {
+      "key": "w08_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.986233995994553,
+      "parity": null
+    },
+    {
+      "key": "w08_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 18.648892105993582,
+      "parity": null
+    },
+    {
+      "key": "w08_v11_y-5",
+      "profile": "primary",
+      "seconds": 11.689155562009546,
+      "parity": null
+    },
+    {
+      "key": "w08_v11_y+5",
+      "profile": "primary",
+      "seconds": 11.85864797901013,
+      "parity": null
+    },
+    {
+      "key": "w08_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.256186158992932,
+      "parity": null
+    },
+    {
+      "key": "w08_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.435940761002712,
+      "parity": null
+    },
+    {
+      "key": "w08_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.906754442999954,
+      "parity": null
+    },
+    {
+      "key": "w08_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 15.99232221400598,
+      "parity": null
+    },
+    {
+      "key": "w09_v0_y+0",
+      "profile": "primary",
+      "seconds": 8.49496576700767,
+      "parity": null
+    },
+    {
+      "key": "w08_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 12.163031030999264,
+      "parity": null
+    },
+    {
+      "key": "w09_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.691491742996732,
+      "parity": null
+    },
+    {
+      "key": "w09_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.334607555996627,
+      "parity": null
+    },
+    {
+      "key": "w09_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 12.249373614991782,
+      "parity": null
+    },
+    {
+      "key": "w09_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.247491989008267,
+      "parity": null
+    },
+    {
+      "key": "w09_v11_y+0",
+      "profile": "primary",
+      "seconds": 12.358988423991832,
+      "parity": null
+    },
+    {
+      "key": "w09_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.793893118010601,
+      "parity": null
+    },
+    {
+      "key": "w09_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 18.440226721999352,
+      "parity": null
+    },
+    {
+      "key": "w09_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.133984458007035,
+      "parity": null
+    },
+    {
+      "key": "w09_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.124922436996712,
+      "parity": null
+    },
+    {
+      "key": "w09_v11_y+5",
+      "profile": "primary",
+      "seconds": 11.829084394994425,
+      "parity": null
+    },
+    {
+      "key": "w09_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.238409859011881,
+      "parity": null
+    },
+    {
+      "key": "w09_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.12232158301049,
+      "parity": null
+    },
+    {
+      "key": "w10_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.323340850009117,
+      "parity": null
+    },
+    {
+      "key": "w09_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 18.389475683987257,
+      "parity": null
+    },
+    {
+      "key": "w09_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.995981368003413,
+      "parity": null
+    },
+    {
+      "key": "w09_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 11.80668525400688,
+      "parity": null
+    },
+    {
+      "key": "w10_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 13.142185111995786,
+      "parity": null
+    },
+    {
+      "key": "w10_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.056444953996106,
+      "parity": null
+    },
+    {
+      "key": "w10_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 13.560530009999638,
+      "parity": null
+    },
+    {
+      "key": "w10_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 11.898732389003271,
+      "parity": null
+    },
+    {
+      "key": "w10_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 11.629280355991796,
+      "parity": null
+    },
+    {
+      "key": "w10_v11_y+0",
+      "profile": "primary",
+      "seconds": 15.272360023998772,
+      "parity": null
+    },
+    {
+      "key": "w10_v11_y-2",
+      "profile": "primary",
+      "seconds": 13.814667382001062,
+      "parity": null
+    },
+    {
+      "key": "w10_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.842081843002234,
+      "parity": null
+    },
+    {
+      "key": "w10_v11_y+5",
+      "profile": "primary",
+      "seconds": 11.564112228996237,
+      "parity": null
+    },
+    {
+      "key": "w10_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.114021304005291,
+      "parity": null
+    },
+    {
+      "key": "w10_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 11.994819576008013,
+      "parity": null
+    },
+    {
+      "key": "w10_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.15552135699545,
+      "parity": null
+    },
+    {
+      "key": "w10_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 11.886676975002047,
+      "parity": null
+    },
+    {
+      "key": "w10_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 12.372764751999057,
+      "parity": null
+    },
+    {
+      "key": "w11_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.245772979003959,
+      "parity": null
+    },
+    {
+      "key": "w10_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 17.74349456599157,
+      "parity": null
+    },
+    {
+      "key": "w11_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 11.934680405989639,
+      "parity": null
+    },
+    {
+      "key": "w11_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 11.85101162698993,
+      "parity": null
+    },
+    {
+      "key": "w11_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 11.808740305001265,
+      "parity": null
+    },
+    {
+      "key": "w11_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 11.930248824995942,
+      "parity": null
+    },
+    {
+      "key": "w11_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 17.312594301009085,
+      "parity": null
+    },
+    {
+      "key": "w11_v11_y+0",
+      "profile": "primary",
+      "seconds": 11.602003981999587,
+      "parity": null
+    },
+    {
+      "key": "w11_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.939812602999154,
+      "parity": null
+    },
+    {
+      "key": "w11_v11_y+2",
+      "profile": "primary",
+      "seconds": 16.26616095598729,
+      "parity": null
+    },
+    {
+      "key": "w11_v11_y-5",
+      "profile": "primary",
+      "seconds": 15.169102658997872,
+      "parity": null
+    },
+    {
+      "key": "w11_v11_y+5",
+      "profile": "primary",
+      "seconds": 11.714699208998354,
+      "parity": null
+    },
+    {
+      "key": "w11_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 11.607845947000897,
+      "parity": null
+    },
+    {
+      "key": "w11_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 11.39619641599711,
+      "parity": null
+    },
+    {
+      "key": "w12_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.209264953999082,
+      "parity": null
+    },
+    {
+      "key": "w11_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 11.860483878001105,
+      "parity": null
+    },
+    {
+      "key": "w11_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 11.991174167997087,
+      "parity": null
+    },
+    {
+      "key": "w12_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 11.980800599994836,
+      "parity": null
+    },
+    {
+      "key": "w11_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 18.22102838300634,
+      "parity": null
+    },
+    {
+      "key": "w12_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 14.106197094006347,
+      "parity": null
+    },
+    {
+      "key": "w12_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 15.549771940990468,
+      "parity": null
+    },
+    {
+      "key": "w12_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 11.4809801139927,
+      "parity": null
+    },
+    {
+      "key": "w12_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 10.923550748993875,
+      "parity": null
+    },
+    {
+      "key": "w12_v11_y+0",
+      "profile": "primary",
+      "seconds": 14.413423789999797,
+      "parity": null
+    },
+    {
+      "key": "w12_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.411598496997613,
+      "parity": null
+    },
+    {
+      "key": "w12_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.685663393989671,
+      "parity": null
+    },
+    {
+      "key": "w12_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.041015915005119,
+      "parity": null
+    },
+    {
+      "key": "w12_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.061162016994786,
+      "parity": null
+    },
+    {
+      "key": "w12_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 11.84658623400901,
+      "parity": null
+    },
+    {
+      "key": "w12_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.090083920003963,
+      "parity": null
+    },
+    {
+      "key": "w12_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.829167708012392,
+      "parity": null
+    },
+    {
+      "key": "w12_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 18.121026904991595,
+      "parity": null
+    },
+    {
+      "key": "w12_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 11.900719878001837,
+      "parity": null
+    },
+    {
+      "key": "w13_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.133057582002948,
+      "parity": null
+    },
+    {
+      "key": "w13_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.577853462003986,
+      "parity": null
+    },
+    {
+      "key": "w13_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.458760521010845,
+      "parity": null
+    },
+    {
+      "key": "w13_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.641861601994606,
+      "parity": null
+    },
+    {
+      "key": "w13_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.311750545995892,
+      "parity": null
+    },
+    {
+      "key": "w13_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 18.60683400099515,
+      "parity": null
+    },
+    {
+      "key": "w13_v11_y+0",
+      "profile": "primary",
+      "seconds": 12.18185419398651,
+      "parity": null
+    },
+    {
+      "key": "w13_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.926858860999346,
+      "parity": null
+    },
+    {
+      "key": "w13_v11_y-5",
+      "profile": "primary",
+      "seconds": 11.886898251992534,
+      "parity": null
+    },
+    {
+      "key": "w13_v11_y+2",
+      "profile": "primary",
+      "seconds": 15.724763726990204,
+      "parity": null
+    },
+    {
+      "key": "w13_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.414020800002618,
+      "parity": null
+    },
+    {
+      "key": "w13_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.259607156986021,
+      "parity": null
+    },
+    {
+      "key": "w13_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.365645164012676,
+      "parity": null
+    },
+    {
+      "key": "w13_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.17098548800277,
+      "parity": null
+    },
+    {
+      "key": "w13_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 11.600689821993,
+      "parity": null
+    },
+    {
+      "key": "w13_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 14.107881297997665,
+      "parity": null
+    },
+    {
+      "key": "w14_v0_y+0",
+      "profile": "primary",
+      "seconds": 9.863507859001402,
+      "parity": null
+    },
+    {
+      "key": "w14_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.71083178500703,
+      "parity": null
+    },
+    {
+      "key": "w14_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.524778766994132,
+      "parity": null
+    },
+    {
+      "key": "w14_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.150991225993494,
+      "parity": null
+    },
+    {
+      "key": "w14_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 15.278753588005202,
+      "parity": null
+    },
+    {
+      "key": "w14_v11_y+0",
+      "profile": "primary",
+      "seconds": 11.940939080988755,
+      "parity": null
+    },
+    {
+      "key": "w14_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.857084837000002,
+      "parity": null
+    },
+    {
+      "key": "w14_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 23.415871096003684,
+      "parity": null
+    },
+    {
+      "key": "w14_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.58442060300149,
+      "parity": null
+    },
+    {
+      "key": "w14_v11_y-5",
+      "profile": "primary",
+      "seconds": 11.684077318001073,
+      "parity": null
+    },
+    {
+      "key": "w14_v11_y+5",
+      "profile": "primary",
+      "seconds": 11.783821378005086,
+      "parity": null
+    },
+    {
+      "key": "w14_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.130294684000546,
+      "parity": null
+    },
+    {
+      "key": "w14_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.271380220001447,
+      "parity": null
+    },
+    {
+      "key": "w15_v0_y+0",
+      "profile": "primary",
+      "seconds": 6.210013787000207,
+      "parity": null
+    },
+    {
+      "key": "w14_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 15.560274083996774,
+      "parity": null
+    },
+    {
+      "key": "w14_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 13.863905966005404,
+      "parity": null
+    },
+    {
+      "key": "w14_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 13.85015631999704,
+      "parity": null
+    },
+    {
+      "key": "w15_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 11.764597361994674,
+      "parity": null
+    },
+    {
+      "key": "w15_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.006210784995346,
+      "parity": null
+    },
+    {
+      "key": "w15_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.494663256991771,
+      "parity": null
+    },
+    {
+      "key": "w15_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 17.229129971994553,
+      "parity": null
+    },
+    {
+      "key": "w15_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 13.907533113000682,
+      "parity": null
+    },
+    {
+      "key": "w15_v11_y+0",
+      "profile": "primary",
+      "seconds": 13.334270492996438,
+      "parity": null
+    },
+    {
+      "key": "w15_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.979610986003536,
+      "parity": null
+    },
+    {
+      "key": "w15_v11_y+2",
+      "profile": "primary",
+      "seconds": 13.946712122997269,
+      "parity": null
+    },
+    {
+      "key": "w15_v11_y+5",
+      "profile": "primary",
+      "seconds": 13.718929670998477,
+      "parity": null
+    },
+    {
+      "key": "w15_v11_y-5",
+      "profile": "primary",
+      "seconds": 19.878986222000094,
+      "parity": null
+    },
+    {
+      "key": "w15_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.580335940001532,
+      "parity": null
+    },
+    {
+      "key": "w15_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 19.197091719994205,
+      "parity": null
+    },
+    {
+      "key": "w15_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.752778724010568,
+      "parity": null
+    },
+    {
+      "key": "w16_v0_y+0",
+      "profile": "primary",
+      "seconds": 6.965350380007294,
+      "parity": null
+    },
+    {
+      "key": "w15_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.906002709001768,
+      "parity": null
+    },
+    {
+      "key": "w15_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 14.243137449986534,
+      "parity": null
+    },
+    {
+      "key": "w16_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 14.37908390701341,
+      "parity": null
+    },
+    {
+      "key": "w16_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 12.964313610995305,
+      "parity": null
+    },
+    {
+      "key": "w16_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 13.075298597992514,
+      "parity": null
+    },
+    {
+      "key": "w16_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 19.31729017199541,
+      "parity": null
+    },
+    {
+      "key": "w16_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.090827106992947,
+      "parity": null
+    },
+    {
+      "key": "w16_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.79270489999908,
+      "parity": null
+    },
+    {
+      "key": "w16_v11_y+0",
+      "profile": "primary",
+      "seconds": 12.586779638993903,
+      "parity": null
+    },
+    {
+      "key": "w16_v11_y-2",
+      "profile": "primary",
+      "seconds": 15.500447535989224,
+      "parity": null
+    },
+    {
+      "key": "w16_v11_y+5",
+      "profile": "primary",
+      "seconds": 11.972318725005607,
+      "parity": null
+    },
+    {
+      "key": "w16_v11_y-5",
+      "profile": "primary",
+      "seconds": 18.353183957995498,
+      "parity": null
+    },
+    {
+      "key": "w16_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 11.753938622990972,
+      "parity": null
+    },
+    {
+      "key": "w16_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 11.569971525997971,
+      "parity": null
+    },
+    {
+      "key": "w16_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 11.408361587004038,
+      "parity": null
+    },
+    {
+      "key": "w17_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.273662467006943,
+      "parity": null
+    },
+    {
+      "key": "w16_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.68286218799767,
+      "parity": null
+    },
+    {
+      "key": "w17_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 11.834860356990248,
+      "parity": null
+    },
+    {
+      "key": "w17_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 11.882499653002014,
+      "parity": null
+    },
+    {
+      "key": "w17_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 12.011306729997159,
+      "parity": null
+    },
+    {
+      "key": "w16_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 18.0697848550044,
+      "parity": null
+    },
+    {
+      "key": "w17_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.070796410000185,
+      "parity": null
+    },
+    {
+      "key": "w17_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 11.746554345998447,
+      "parity": null
+    },
+    {
+      "key": "w17_v11_y+0",
+      "profile": "primary",
+      "seconds": 14.588227468004334,
+      "parity": null
+    },
+    {
+      "key": "w17_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.476389324991032,
+      "parity": null
+    },
+    {
+      "key": "w17_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.400806829013163,
+      "parity": null
+    },
+    {
+      "key": "w17_v11_y+2",
+      "profile": "primary",
+      "seconds": 13.64410588699684,
+      "parity": null
+    },
+    {
+      "key": "w17_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.634976102010114,
+      "parity": null
+    },
+    {
+      "key": "w17_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.207882760005305,
+      "parity": null
+    },
+    {
+      "key": "w17_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.024784627006738,
+      "parity": null
+    },
+    {
+      "key": "w17_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.936736696006847,
+      "parity": null
+    },
+    {
+      "key": "w17_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 16.916215915000066,
+      "parity": null
+    },
+    {
+      "key": "w18_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.419235175999347,
+      "parity": null
+    },
+    {
+      "key": "w17_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 12.909826453993446,
+      "parity": null
+    },
+    {
+      "key": "w18_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 11.517230130993994,
+      "parity": null
+    },
+    {
+      "key": "w18_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.130959852001979,
+      "parity": null
+    },
+    {
+      "key": "w18_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 11.977082159995916,
+      "parity": null
+    },
+    {
+      "key": "w18_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 11.924143130992888,
+      "parity": null
+    },
+    {
+      "key": "w18_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 18.08821317400725,
+      "parity": null
+    },
+    {
+      "key": "w18_v11_y+0",
+      "profile": "primary",
+      "seconds": 11.588596977991983,
+      "parity": null
+    },
+    {
+      "key": "w18_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.549170697995578,
+      "parity": null
+    },
+    {
+      "key": "w18_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.630185720001464,
+      "parity": null
+    },
+    {
+      "key": "w18_v11_y-5",
+      "profile": "primary",
+      "seconds": 11.994523733010283,
+      "parity": null
+    },
+    {
+      "key": "w18_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.069645784999011,
+      "parity": null
+    },
+    {
+      "key": "w18_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.06599035099498,
+      "parity": null
+    },
+    {
+      "key": "w18_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.149470206000842,
+      "parity": null
+    },
+    {
+      "key": "w18_v11_y+5",
+      "profile": "primary",
+      "seconds": 16.82971575600095,
+      "parity": null
+    },
+    {
+      "key": "w18_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 12.082587204989977,
+      "parity": null
+    },
+    {
+      "key": "w19_v0_y+0",
+      "profile": "primary",
+      "seconds": 8.130465308000566,
+      "parity": null
+    },
+    {
+      "key": "w18_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 13.227269202005118,
+      "parity": null
+    },
+    {
+      "key": "w19_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 11.939429341000505,
+      "parity": null
+    },
+    {
+      "key": "w19_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.617090058003669,
+      "parity": null
+    },
+    {
+      "key": "w19_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 11.955471277004108,
+      "parity": null
+    },
+    {
+      "key": "w19_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 16.384036482006195,
+      "parity": null
+    },
+    {
+      "key": "w19_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 14.6200959560083,
+      "parity": null
+    },
+    {
+      "key": "w19_v11_y+0",
+      "profile": "primary",
+      "seconds": 11.786344221007312,
+      "parity": null
+    },
+    {
+      "key": "w19_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.042498416005401,
+      "parity": null
+    },
+    {
+      "key": "w19_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.1115027830092,
+      "parity": null
+    },
+    {
+      "key": "w19_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.156324581999797,
+      "parity": null
+    },
+    {
+      "key": "w19_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.123988431994803,
+      "parity": null
+    },
+    {
+      "key": "w19_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.293849894005689,
+      "parity": null
+    },
+    {
+      "key": "w19_v11_y-5",
+      "profile": "primary",
+      "seconds": 17.548040074994788,
+      "parity": null
+    },
+    {
+      "key": "w19_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.317149027003325,
+      "parity": null
+    },
+    {
+      "key": "w20_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.076511070001288,
+      "parity": null
+    },
+    {
+      "key": "w19_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 11.984047148987884,
+      "parity": null
+    },
+    {
+      "key": "w20_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 11.75960770600068,
+      "parity": null
+    },
+    {
+      "key": "w20_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 12.441777892003302,
+      "parity": null
+    },
+    {
+      "key": "w19_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 16.51783894399705,
+      "parity": null
+    },
+    {
+      "key": "w20_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 11.829151603000355,
+      "parity": null
+    },
+    {
+      "key": "w20_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 11.922351075001643,
+      "parity": null
+    },
+    {
+      "key": "w20_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 11.656296729997848,
+      "parity": null
+    },
+    {
+      "key": "w20_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.842792903000372,
+      "parity": null
+    },
+    {
+      "key": "w20_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.746944806000101,
+      "parity": null
+    },
+    {
+      "key": "w20_v11_y+0",
+      "profile": "primary",
+      "seconds": 18.05096357499133,
+      "parity": null
+    },
+    {
+      "key": "w20_v11_y-5",
+      "profile": "primary",
+      "seconds": 11.92259120500239,
+      "parity": null
+    },
+    {
+      "key": "w20_v11_y+5",
+      "profile": "primary",
+      "seconds": 11.915117113007,
+      "parity": null
+    },
+    {
+      "key": "w20_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.06428582398803,
+      "parity": null
+    },
+    {
+      "key": "w20_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 11.829190681994078,
+      "parity": null
+    },
+    {
+      "key": "w21_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.408388341005775,
+      "parity": null
+    },
+    {
+      "key": "w20_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.904076357997837,
+      "parity": null
+    },
+    {
+      "key": "w21_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 9.37808646200574,
+      "parity": null
+    },
+    {
+      "key": "w20_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 25.584806553000817,
+      "parity": null
+    },
+    {
+      "key": "w21_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 14.238640345007298,
+      "parity": null
+    },
+    {
+      "key": "w20_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 20.985756084992317,
+      "parity": null
+    },
+    {
+      "key": "w21_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 18.332798774004914,
+      "parity": null
+    },
+    {
+      "key": "w21_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 10.822498718000134,
+      "parity": null
+    },
+    {
+      "key": "w21_v11_y+0",
+      "profile": "primary",
+      "seconds": 12.20106221199967,
+      "parity": null
+    },
+    {
+      "key": "w21_v11_y-2",
+      "profile": "primary",
+      "seconds": 12.365665227989666,
+      "parity": null
+    },
+    {
+      "key": "w21_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.375480932998471,
+      "parity": null
+    },
+    {
+      "key": "w21_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 18.548090230004163,
+      "parity": null
+    },
+    {
+      "key": "w21_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.574060921004275,
+      "parity": null
+    },
+    {
+      "key": "w21_v11_y+5",
+      "profile": "primary",
+      "seconds": 12.431492005009204,
+      "parity": null
+    },
+    {
+      "key": "w21_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.47525454100105,
+      "parity": null
+    },
+    {
+      "key": "w21_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.661846688002697,
+      "parity": null
+    },
+    {
+      "key": "w21_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 14.147063028998673,
+      "parity": null
+    },
+    {
+      "key": "w21_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.976663031993667,
+      "parity": null
+    },
+    {
+      "key": "w22_v0_y+0",
+      "profile": "primary",
+      "seconds": 10.616061082997476,
+      "parity": null
+    },
+    {
+      "key": "w21_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 11.574386186999618,
+      "parity": null
+    },
+    {
+      "key": "w22_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 14.41484766099893,
+      "parity": null
+    },
+    {
+      "key": "w22_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 11.987305333997938,
+      "parity": null
+    },
+    {
+      "key": "w22_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.287517928009038,
+      "parity": null
+    },
+    {
+      "key": "w22_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 15.541344461991685,
+      "parity": null
+    },
+    {
+      "key": "w22_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 12.181388059005258,
+      "parity": null
+    },
+    {
+      "key": "w22_v11_y+0",
+      "profile": "primary",
+      "seconds": 12.005519665995962,
+      "parity": null
+    },
+    {
+      "key": "w22_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.72551327200199,
+      "parity": null
+    },
+    {
+      "key": "w22_v11_y+2",
+      "profile": "primary",
+      "seconds": 12.130035944996052,
+      "parity": null
+    },
+    {
+      "key": "w22_v11_y-5",
+      "profile": "primary",
+      "seconds": 12.753918539994629,
+      "parity": null
+    },
+    {
+      "key": "w22_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.126653860002989,
+      "parity": null
+    },
+    {
+      "key": "w22_v11_y+5",
+      "profile": "primary",
+      "seconds": 16.803460197988898,
+      "parity": null
+    },
+    {
+      "key": "w22_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 12.684495050998521,
+      "parity": null
+    },
+    {
+      "key": "w23_v0_y+0",
+      "profile": "primary",
+      "seconds": 5.400880244007567,
+      "parity": null
+    },
+    {
+      "key": "w22_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 12.118584762996761,
+      "parity": null
+    },
+    {
+      "key": "w22_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 12.604903542989632,
+      "parity": null
+    },
+    {
+      "key": "w22_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 16.52819416100101,
+      "parity": null
+    },
+    {
+      "key": "w23_v5.5_y-2",
+      "profile": "primary",
+      "seconds": 12.951320231004502,
+      "parity": null
+    },
+    {
+      "key": "w23_v5.5_y+2",
+      "profile": "primary",
+      "seconds": 13.10184301600384,
+      "parity": null
+    },
+    {
+      "key": "w23_v5.5_y+5",
+      "profile": "primary",
+      "seconds": 11.540728036998189,
+      "parity": null
+    },
+    {
+      "key": "w23_v5.5_y-5",
+      "profile": "primary",
+      "seconds": 12.301461237002513,
+      "parity": null
+    },
+    {
+      "key": "w23_v5.5_y+0",
+      "profile": "primary",
+      "seconds": 26.186239065995323,
+      "parity": null
+    },
+    {
+      "key": "w23_v11_y+0",
+      "profile": "primary",
+      "seconds": 11.514763642000617,
+      "parity": null
+    },
+    {
+      "key": "w23_v11_y-2",
+      "profile": "primary",
+      "seconds": 11.842489532995387,
+      "parity": null
+    },
+    {
+      "key": "w23_v11_y+2",
+      "profile": "primary",
+      "seconds": 11.945799905995955,
+      "parity": null
+    },
+    {
+      "key": "w23_v11_y-5",
+      "profile": "primary",
+      "seconds": 11.603391878001275,
+      "parity": null
+    },
+    {
+      "key": "w23_v16.5_y+0",
+      "profile": "primary",
+      "seconds": 12.056956410990097,
+      "parity": null
+    },
+    {
+      "key": "w23_v16.5_y-2",
+      "profile": "primary",
+      "seconds": 11.688311400997918,
+      "parity": null
+    },
+    {
+      "key": "w23_v11_y+5",
+      "profile": "primary",
+      "seconds": 16.848060438001994,
+      "parity": null
+    },
+    {
+      "key": "w23_v16.5_y-5",
+      "profile": "primary",
+      "seconds": 11.987311410994153,
+      "parity": null
+    },
+    {
+      "key": "w23_v16.5_y+2",
+      "profile": "primary",
+      "seconds": 12.18934214199544,
+      "parity": null
+    },
+    {
+      "key": "w23_v16.5_y+5",
+      "profile": "primary",
+      "seconds": 9.04979247400479,
+      "parity": null
+    }
+  ],
+  "failures": [],
+  "seconds": 990.185187510986,
+  "execution_revision": 2,
+  "preserved_failed_attempt": "execution_failure_v1/held_out_complete.json"
+}

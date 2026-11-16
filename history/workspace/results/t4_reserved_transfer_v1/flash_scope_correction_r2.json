@@ -1,0 +1,15 @@
+{
+  "source": {
+    "path": "results/t4_reserved_transfer_v1/flash_decision.json",
+    "bytes": 3250,
+    "sha256": "f523ae0130b5be6773e619ee33c5a2956bd73e7f423bbc03e14f1a74267fb452"
+  },
+  "legacy_fields_preserved": true,
+  "legacy_primary_applies_to_gain_fitted_flash_readout": true,
+  "study_primary_motion_readout": "physical_ensemble",
+  "study_primary_flash_readout": "registered_physical",
+  "early_motion_localizers_processed_before_flash_scoring": true,
+  "later_motion_voltages_unscored_at_flash_scoring": true,
+  "later_motion_voltages_scored_in_final_decision": true,
+  "explanation": "Legacy helper field new_moving_data_opened=false refers only to unscored late motion at that stage; interpreted literally as no new moving data it is inaccurate. Companion corrects metadata scope, never scores or criteria."
+}

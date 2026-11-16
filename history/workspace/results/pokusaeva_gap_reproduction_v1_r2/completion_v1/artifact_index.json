@@ -1,0 +1,555 @@
+{
+  "utc": "2026-10-26T23:16:30.520841+00:00",
+  "files": [
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/FAILED_ATTEMPT.json",
+      "size_bytes": 359,
+      "sha256": "a6938f85bf40b32b48e84b63f42f014f3ed1eee8f9611f998bc0a6700bfce89d"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/before_reproduction.json",
+      "size_bytes": 3787,
+      "sha256": "2eb2a4ec0ccaa95de6be2b32c96131f1eca19063aad7b02e00272a828a20871c"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/failures/reproduce_20261026T231002117812.json",
+      "size_bytes": 573,
+      "sha256": "55c4bdd3d59bbfe8eb17153ef1fffaf920d26520974fe8cbc522184cbb7cb17a"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/frozen_code/configs/pokusaeva_gap_reproduction_v1.json",
+      "size_bytes": 916,
+      "sha256": "4240fa840915e6810e9b0c767f4be89bc26c884d87d13d41c832e8dbefc8a10c"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/frozen_code/docs/POKUSAEVA_GAP_REPRODUCTION_PROTOCOL_V1.md",
+      "size_bytes": 6185,
+      "sha256": "46af77d679840af9cdf263650e1f2e06b3b29933d63f5ef125983bc4c51f595e"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/frozen_code/scripts/pokusaeva_gap_reproduction_v1.py",
+      "size_bytes": 27961,
+      "sha256": "aa711559d51ee661997dc1edd22fce3343c91400e47d264028d46785ad2301f7"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/frozen_code/src/male_optic_frontend/pokusaeva_circuit_v1.py",
+      "size_bytes": 2503,
+      "sha256": "bec20d5d70073b31467bf3b50d5bdc1622bc937407025951bf136f55e10ea167"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/reproduction/author_stdout_seed_0.txt",
+      "size_bytes": 6440,
+      "sha256": "52a3c78073ec4cc44cd4a10a5080fa6a5c4bb7a819ac66914be00428c5e94f2b"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/sources/README.md",
+      "size_bytes": 564,
+      "sha256": "48b0c6bfe54f3610a4b65539f9b924afd229f969596427141fe8e5cf147f4d6b"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/sources/Source Data S15.xlsx",
+      "size_bytes": 10572,
+      "sha256": "595aa6871802b3740b7f71e10bc680242f38e1b973c89b39017d3ce25c81ef5f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/sources/author_README.md",
+      "size_bytes": 55,
+      "sha256": "ff802aa1f2c2858b1f3149c3b710d56ab8a4fc051b2a3696b2089d3a13f6f15f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/sources/flyagentmodel.ipynb",
+      "size_bytes": 50354,
+      "sha256": "72e3e66d85a10ba6a276ce9a879973ca201d1b2c60de2d11449a6fbe12f2f517"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/sources/manifest.yaml",
+      "size_bytes": 1314,
+      "sha256": "6841e2e35c2f757f080b4e3f5d88d3d6717ad2ef987112fc550466ef8b849840"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/sources/provenance.json",
+      "size_bytes": 1009,
+      "sha256": "f6253d70e2f52503310e0572922306ab923fdf76b96e1c07f2a5198b34ac0036"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1/sources/selected_cells.json",
+      "size_bytes": 9446,
+      "sha256": "bbdd4c38db8a28f461da7fac4266e710ebcbf342831889a0167fc4c38eabaa87"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/additional_arithmetic_review.json",
+      "size_bytes": 1708,
+      "sha256": "6982c76b41c426aa623bece6ce19f7c9830d937f5891d64cebab97acd6d692d2"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/before_reproduction.json",
+      "size_bytes": 3808,
+      "sha256": "1a226a794470d301333e34f0143751e154b85685a97936714f1ff16b6813e0f5"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/before_transfer.json",
+      "size_bytes": 150925,
+      "sha256": "f98efcdadbfdda3165376e7c89c343c5cdc8bcbbeeabed986dd55ab9828cca27"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/PROJECT_PROGRESS_REPORT_2026-10-26.md",
+      "size_bytes": 288961,
+      "sha256": "7d1ffaac4684f7e573211dab0f44bff2bef4d5954961cfecaf8efbb6da244e18"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/completion.json",
+      "size_bytes": 488,
+      "sha256": "370b06a2d4d30d6173ed7ad9f236e1dd48d524ea78cd97bf2c92d89532d0635d"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/source_snapshot/configs/pokusaeva_gap_reproduction_v1.json",
+      "size_bytes": 916,
+      "sha256": "4240fa840915e6810e9b0c767f4be89bc26c884d87d13d41c832e8dbefc8a10c"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/source_snapshot/docs/POKUSAEVA_GAP_REPRODUCTION_PROTOCOL_V1.md",
+      "size_bytes": 6789,
+      "sha256": "8860c338fd31bc77a31d089655661b98868e573f94a0af1b515ccab50c24c900"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/source_snapshot/docs/POKUSAEVA_GAP_REPRODUCTION_REPORT_V1.md",
+      "size_bytes": 14402,
+      "sha256": "147393dd088f1a33bd5e835b188f0df5e46a49d37a051fe52749d89d80af54ed"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/source_snapshot/scripts/finish_pokusaeva_gap_v1.py",
+      "size_bytes": 9465,
+      "sha256": "d9b5c968d8aa448cb23c22c0e27f95e58cd2f3b45509330219e3363a43096eb7"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/source_snapshot/scripts/pokusaeva_gap_reproduction_v1.py",
+      "size_bytes": 28541,
+      "sha256": "b6283d1c96386179a64d5d35659937dbccf6f6d7e264846347e06683851a27e2"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/completion_v1/source_snapshot/src/male_optic_frontend/pokusaeva_circuit_v1.py",
+      "size_bytes": 2503,
+      "sha256": "bec20d5d70073b31467bf3b50d5bdc1622bc937407025951bf136f55e10ea167"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/environment.json",
+      "size_bytes": 298,
+      "sha256": "3b6d88a01e45bfa954f83d1084d224d69357f59470440ef92d967d6b2c1ba4df"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/figures/reproduction_and_transfer.pdf",
+      "size_bytes": 24986,
+      "sha256": "59614df7ec20c48bca6d6e9281fc803a5f4c9017c6f31a757fabdb866aa32613"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/figures/reproduction_and_transfer.png",
+      "size_bytes": 158443,
+      "sha256": "8e17449ca54ea06750be77d4bab4e522b86b1ac01daa59b5af404a99da1de10f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/figures/transfer_all_criteria.pdf",
+      "size_bytes": 24802,
+      "sha256": "1a1dcf2a52fa1048b1d721baeb337576e2ef432ffa1eccd8675cfff3ed43b77e"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/figures/transfer_all_criteria.png",
+      "size_bytes": 127149,
+      "sha256": "7e416de4267eec409bccf2e80fecc361160cc0534e68509c4fe4424aad0b0f1a"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/figures_review.json",
+      "size_bytes": 319,
+      "sha256": "bf64627703dab0b75efd1db348206467cdd0c883b66eb9177571117f8eacfe86"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/before_reproduction.json",
+      "size_bytes": 3899,
+      "sha256": "605a57382af0ffbb32040b64b3706cc995acf0058ffc1e4183133cfcd7d34881"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/before_transfer.json",
+      "size_bytes": 150964,
+      "sha256": "627055881d644ea2f26a2e1e40425ba5f812c362d5d4e8e2c6f1e68fffea1dd2"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/numerical_review.json",
+      "size_bytes": 1087,
+      "sha256": "e1b7ed7c6a750e36bc46fc6ef311c5ba6a2433ea8b6f3ad67caea45a27efb1a6"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/DI.csv",
+      "size_bytes": 4269,
+      "sha256": "6648093ad7a51586e35ea64ca2f03b2c821fd5770312dbefe565566aca6b6b7f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/DI.json",
+      "size_bytes": 12225,
+      "sha256": "45987ccf853b425d9628ca2509b95e0bc64f60837743d4165fa35949b6508003"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/author_stdout_seed_0.txt",
+      "size_bytes": 6440,
+      "sha256": "52a3c78073ec4cc44cd4a10a5080fa6a5c4bb7a819ac66914be00428c5e94f2b"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/author_stdout_seed_1.txt",
+      "size_bytes": 6443,
+      "sha256": "fec86b22865be79a7afa0b5d966a4ff0a6e282c76add1a27b54572598e34bc3f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/completion.json",
+      "size_bytes": 1080,
+      "sha256": "27927eed2c98881773ae1f15100b0fae313c4e725fdfb7af77a01644a96bb676"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/solutions.json",
+      "size_bytes": 102560,
+      "sha256": "c527e1cef65c1cb8be3654f5345f96d5cd28f8d268247acc673fa404e56b005d"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/unrounded_solver_seed_0.json",
+      "size_bytes": 46060,
+      "sha256": "f8691d09ae4260c888625819bfc2ab635210dd5474a610573a69b425c5a4b06d"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/unrounded_solver_seed_1.json",
+      "size_bytes": 45911,
+      "sha256": "4685dfecf548c83a2b64a9facb2b234c0f93061f7e5df10a8df66ee02966b863"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/reproduction/warnings.json",
+      "size_bytes": 447,
+      "sha256": "839fcbca7ecde4d33b69288a0993232c9d9d0e239cb7f2664ebc222d4cd62735"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/sources/README.md",
+      "size_bytes": 564,
+      "sha256": "48b0c6bfe54f3610a4b65539f9b924afd229f969596427141fe8e5cf147f4d6b"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/sources/Source Data S15.xlsx",
+      "size_bytes": 10572,
+      "sha256": "595aa6871802b3740b7f71e10bc680242f38e1b973c89b39017d3ce25c81ef5f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/sources/author_README.md",
+      "size_bytes": 55,
+      "sha256": "ff802aa1f2c2858b1f3149c3b710d56ab8a4fc051b2a3696b2089d3a13f6f15f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/sources/flyagentmodel.ipynb",
+      "size_bytes": 50354,
+      "sha256": "72e3e66d85a10ba6a276ce9a879973ca201d1b2c60de2d11449a6fbe12f2f517"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/sources/manifest.yaml",
+      "size_bytes": 1314,
+      "sha256": "6841e2e35c2f757f080b4e3f5d88d3d6717ad2ef987112fc550466ef8b849840"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/sources/provenance.json",
+      "size_bytes": 1009,
+      "sha256": "c15019efedf11d04970da92ef5aa6d8a8cca3734ae4d8002b03ee24dbfe16146"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/sources/selected_cells.json",
+      "size_bytes": 9446,
+      "sha256": "bbdd4c38db8a28f461da7fac4266e710ebcbf342831889a0167fc4c38eabaa87"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/before_test.json",
+      "size_bytes": 576,
+      "sha256": "92029fbaa972599ef928cb7f86c94e5ba092feed10b65debb366bed7d4f74379"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/completion.json",
+      "size_bytes": 1004,
+      "sha256": "b1889fb9937f540e3c0303c9b64eee8c3ce2461be7e6b9b659661dbe7aadbc7b"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/curves.csv",
+      "size_bytes": 24560,
+      "sha256": "71ff93dbd49df0f34635b40caceae0aaf2df9a146925e60b73a832b4f8bd3c56"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/curves.json",
+      "size_bytes": 92563,
+      "sha256": "493428484db6a4468d78e1e130d2d0eee8119fe5140d705b2dcfb8e021d78c2f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/decoders.json",
+      "size_bytes": 166356,
+      "sha256": "ba56b0f68f5d5e801935b0e0067b8a91d90418a1e69f86cd35d4ff15f427b1b5"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/development_features.json",
+      "size_bytes": 3546327,
+      "sha256": "cd9d6e41e9363e4b98dcef5d2d3fb6c31126a706fcf81b87db761adc620bd8d8"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/input_rank.json",
+      "size_bytes": 1201,
+      "sha256": "b4c90bea73cb27a6127b3a715b27b2a511553bf0587ebec501017069040b9a60"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/offsets.csv",
+      "size_bytes": 11536,
+      "sha256": "71d7651aaea59daf57ff983f2492b3768cc6271c9f816c7369da70b8e599e655"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/offsets.json",
+      "size_bytes": 28505,
+      "sha256": "93ab5d53068b6104422b30f3e9c7203b9ec3b1cd7c5e3927056612df43e92f56"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/original_MaleCNS_context.json",
+      "size_bytes": 2462,
+      "sha256": "bcf338552f3503d0d07224f98fa24bb3d6341b6b41f230d09c887ab7a3aba19a"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/paired_bootstrap.npz",
+      "size_bytes": 263621,
+      "sha256": "dcee822070a23b799d1334d437bc3c08fc8d475629f1a486a2da5500fe82d626"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/paired_effects.json",
+      "size_bytes": 4708,
+      "sha256": "bba33dc87baddaa9879a9b6ee013acfbdd68e9488d32bfe7bc9af5cacbde9cfd"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/plans.json",
+      "size_bytes": 137843,
+      "sha256": "8c91a1a2d31e34cdcbca21b29871977792b6a12f0a53a8642dd71f883f27c5d2"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/predictions.json",
+      "size_bytes": 5229966,
+      "sha256": "8ef111494db9d73d584b6354dd28efb36da16aa73831fd72f182c74ea0d8ad74"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/test_features.json",
+      "size_bytes": 4228334,
+      "sha256": "6a235893ba41aa33f2791bf255ba6528b23776336f6faa0f66705e3948713408"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/thresholds.csv",
+      "size_bytes": 5154,
+      "sha256": "b13fa41efbe09b2e60783a440a6e6cc021b44878f50443d340af09011aff43b6"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/thresholds.json",
+      "size_bytes": 21571,
+      "sha256": "bc05d7fcaecd28bdca1c2090e55a7e230d2bc1bdc2876a1308413840cd4ed2cb"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay/transfer/weights.json",
+      "size_bytes": 1492,
+      "sha256": "e2506998d15769b4192ab6d379d4029bd4d511fe023888271728ad5d06138d98"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/fresh_replay_review.json",
+      "size_bytes": 632,
+      "sha256": "d243dd924e215e0d6382c11246cc3465902b3904ef154a588eee89a1b0b2f6c3"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/numerical_review.json",
+      "size_bytes": 1087,
+      "sha256": "3d7d62c7332dd9535bb49ccc9af56b4d4ea1e96457b5567de1ef4b622dcf0951"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/replay_logs/freeze_transfer.txt",
+      "size_bytes": 82,
+      "sha256": "71b87506da955cdbf88dcadd6e6d4fe9af8af94d177f0fb500ecb310274f2fa5"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/replay_logs/prepare.txt",
+      "size_bytes": 56,
+      "sha256": "ec7a7e182f43e799e8e55df31287a9671662505bccbb7f891973c9fb6af759cf"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/replay_logs/reproduce.txt",
+      "size_bytes": 890,
+      "sha256": "958bf4083aa4454a0ea6dbc86770862a770b1748438e0305d357798c97ae6a0c"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/replay_logs/review.txt",
+      "size_bytes": 933,
+      "sha256": "5e2299b7f400736af3b7b7ab6f315d6e38807a9abad414a8bfe365590436b085"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/replay_logs/transfer.txt",
+      "size_bytes": 772,
+      "sha256": "64956ca09752e24c12ab957f174d03b5503e70682fd99e8fc85be59877148608"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/DI.csv",
+      "size_bytes": 4269,
+      "sha256": "6648093ad7a51586e35ea64ca2f03b2c821fd5770312dbefe565566aca6b6b7f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/DI.json",
+      "size_bytes": 12225,
+      "sha256": "45987ccf853b425d9628ca2509b95e0bc64f60837743d4165fa35949b6508003"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/author_stdout_seed_0.txt",
+      "size_bytes": 6440,
+      "sha256": "52a3c78073ec4cc44cd4a10a5080fa6a5c4bb7a819ac66914be00428c5e94f2b"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/author_stdout_seed_1.txt",
+      "size_bytes": 6443,
+      "sha256": "fec86b22865be79a7afa0b5d966a4ff0a6e282c76add1a27b54572598e34bc3f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/completion.json",
+      "size_bytes": 1080,
+      "sha256": "0dc17dba7c121aaac218e46d504aff895d865b599ca65c04244660fa2b03f5be"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/solutions.json",
+      "size_bytes": 102560,
+      "sha256": "c527e1cef65c1cb8be3654f5345f96d5cd28f8d268247acc673fa404e56b005d"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/unrounded_solver_seed_0.json",
+      "size_bytes": 46060,
+      "sha256": "f8691d09ae4260c888625819bfc2ab635210dd5474a610573a69b425c5a4b06d"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/unrounded_solver_seed_1.json",
+      "size_bytes": 45911,
+      "sha256": "4685dfecf548c83a2b64a9facb2b234c0f93061f7e5df10a8df66ee02966b863"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/reproduction/warnings.json",
+      "size_bytes": 447,
+      "sha256": "839fcbca7ecde4d33b69288a0993232c9d9d0e239cb7f2664ebc222d4cd62735"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/sources/README.md",
+      "size_bytes": 564,
+      "sha256": "48b0c6bfe54f3610a4b65539f9b924afd229f969596427141fe8e5cf147f4d6b"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/sources/Source Data S15.xlsx",
+      "size_bytes": 10572,
+      "sha256": "595aa6871802b3740b7f71e10bc680242f38e1b973c89b39017d3ce25c81ef5f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/sources/author_README.md",
+      "size_bytes": 55,
+      "sha256": "ff802aa1f2c2858b1f3149c3b710d56ab8a4fc051b2a3696b2089d3a13f6f15f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/sources/flyagentmodel.ipynb",
+      "size_bytes": 50354,
+      "sha256": "72e3e66d85a10ba6a276ce9a879973ca201d1b2c60de2d11449a6fbe12f2f517"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/sources/manifest.yaml",
+      "size_bytes": 1314,
+      "sha256": "6841e2e35c2f757f080b4e3f5d88d3d6717ad2ef987112fc550466ef8b849840"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/sources/provenance.json",
+      "size_bytes": 1009,
+      "sha256": "00d753058c23772e8d4f7504274a251a897be77185d15a6da81999a9995af2fe"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/sources/selected_cells.json",
+      "size_bytes": 9446,
+      "sha256": "bbdd4c38db8a28f461da7fac4266e710ebcbf342831889a0167fc4c38eabaa87"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/before_test.json",
+      "size_bytes": 550,
+      "sha256": "49370a41dddb8d74deefddc062d065f63660d3e026486c214887d5e4eb8c0181"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/completion.json",
+      "size_bytes": 1004,
+      "sha256": "e57f28dd2163f53c9d689abae38943d942e5226056da1f097dbdb47abf9169e7"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/curves.csv",
+      "size_bytes": 24560,
+      "sha256": "71ff93dbd49df0f34635b40caceae0aaf2df9a146925e60b73a832b4f8bd3c56"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/curves.json",
+      "size_bytes": 92563,
+      "sha256": "493428484db6a4468d78e1e130d2d0eee8119fe5140d705b2dcfb8e021d78c2f"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/decoders.json",
+      "size_bytes": 166356,
+      "sha256": "ba56b0f68f5d5e801935b0e0067b8a91d90418a1e69f86cd35d4ff15f427b1b5"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/development_features.json",
+      "size_bytes": 3546327,
+      "sha256": "cd9d6e41e9363e4b98dcef5d2d3fb6c31126a706fcf81b87db761adc620bd8d8"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/input_rank.json",
+      "size_bytes": 1201,
+      "sha256": "b4c90bea73cb27a6127b3a715b27b2a511553bf0587ebec501017069040b9a60"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/offsets.csv",
+      "size_bytes": 11536,
+      "sha256": "71d7651aaea59daf57ff983f2492b3768cc6271c9f816c7369da70b8e599e655"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/offsets.json",
+      "size_bytes": 28505,
+      "sha256": "93ab5d53068b6104422b30f3e9c7203b9ec3b1cd7c5e3927056612df43e92f56"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/original_MaleCNS_context.json",
+      "size_bytes": 2462,
+      "sha256": "bcf338552f3503d0d07224f98fa24bb3d6341b6b41f230d09c887ab7a3aba19a"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/paired_bootstrap.npz",
+      "size_bytes": 263621,
+      "sha256": "dcee822070a23b799d1334d437bc3c08fc8d475629f1a486a2da5500fe82d626"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/paired_effects.json",
+      "size_bytes": 4708,
+      "sha256": "bba33dc87baddaa9879a9b6ee013acfbdd68e9488d32bfe7bc9af5cacbde9cfd"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/plans.json",
+      "size_bytes": 137843,
+      "sha256": "8c91a1a2d31e34cdcbca21b29871977792b6a12f0a53a8642dd71f883f27c5d2"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/predictions.json",
+      "size_bytes": 5229966,
+      "sha256": "8ef111494db9d73d584b6354dd28efb36da16aa73831fd72f182c74ea0d8ad74"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/test_features.json",
+      "size_bytes": 4228334,
+      "sha256": "6a235893ba41aa33f2791bf255ba6528b23776336f6faa0f66705e3948713408"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/thresholds.csv",
+      "size_bytes": 5154,
+      "sha256": "b13fa41efbe09b2e60783a440a6e6cc021b44878f50443d340af09011aff43b6"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/thresholds.json",
+      "size_bytes": 21571,
+      "sha256": "bc05d7fcaecd28bdca1c2090e55a7e230d2bc1bdc2876a1308413840cd4ed2cb"
+    },
+    {
+      "path": "results/pokusaeva_gap_reproduction_v1_r2/transfer/weights.json",
+      "size_bytes": 1492,
+      "sha256": "e2506998d15769b4192ab6d379d4029bd4d511fe023888271728ad5d06138d98"
+    }
+  ]
+}

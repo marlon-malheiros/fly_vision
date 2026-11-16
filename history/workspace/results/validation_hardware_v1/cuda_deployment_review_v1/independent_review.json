@@ -1,0 +1,25 @@
+{
+  "status": "SAVED_ARRAY_AND_TIMING_ARITHMETIC_REVIEW_PASS",
+  "completed_utc": "2026-10-21T14:16:27.038140+00:00",
+  "numerical_cases": 33,
+  "timing_records": 33,
+  "timing_updates": 1320,
+  "maximum_cumulative_state_error": 3.552713678800501e-15,
+  "maximum_rate_error": 1.1102230246251565e-16,
+  "verified_manifest_entries": {
+    "results/validation_hardware_v1/prospective_manifest.json": 30,
+    "results/validation_hardware_v1/frontend_memory_v3/before_execution.json": 8,
+    "results/validation_hardware_v1/cuda_driver_v1/preflight_r2/before_execution.json": 16,
+    "results/validation_hardware_v1/cuda_driver_v2/preflight_r1/before_execution.json": 16,
+    "results/validation_hardware_v1/cuda_driver_v2/preflight_r1_implementation_before_execution.json": 5,
+    "results/validation_hardware_v1/cuda_driver_v3/preflight_r1/before_execution.json": 16,
+    "results/validation_hardware_v1/cuda_driver_v3/preflight_r1_implementation_before_execution.json": 6,
+    "results/validation_hardware_v1/hardware_cuda_benchmark_v1/before_execution.json": 11,
+    "results/validation_hardware_v1/hardware_cuda_benchmark_v2/before_execution.json": 7,
+    "results/validation_hardware_v1/hardware_frontend_benchmark_v3/before_execution.json": 10
+  },
+  "production_solver_or_timing_helpers_imported": false,
+  "scope": "independent_saved_array_and_summary_arithmetic; full_state_every_time_step_comparison_was_in_the_recorded_preflight_runner",
+  "physiological_validation_established": false,
+  "physical_camera_tested": false
+}

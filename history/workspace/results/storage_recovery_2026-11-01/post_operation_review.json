@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "index_files_unchanged": 113,
+  "duplicate_file_hash_records_match_original_indexes": 881,
+  "compressed_file_hash_records_match_original_indexes": 583,
+  "compressed_unindexed_paths": [],
+  "changed_paths_exist": true,
+  "original_index_conflicts": [
+    "results/validation_hardware_v1/scientific_sealing_execution_v1.log"
+  ],
+  "disposable_cache_removal_verified": true,
+  "exact_driver_sources_preserved": true,
+  "independent_full_data_rehash": false,
+  "scope": "Post-operation metadata/index review; drivers perform actual full-file pre/post SHA256 reads."
+}

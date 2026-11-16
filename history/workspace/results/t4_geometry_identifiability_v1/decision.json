@@ -1,0 +1,312 @@
+{
+  "models": [
+    {
+      "candidate": "alias_ensemble",
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 20.322432564199786,
+          "zero_mse": 67.38932527113073,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.698432467123902,
+          "blind_skill": 0.10958851580367879
+        },
+        {
+          "cell": 4,
+          "mse": 29.30365037179704,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022612,
+          "zero_skill": 0.6627227711206823,
+          "blind_skill": -0.16589460960027602
+        },
+        {
+          "cell": 5,
+          "mse": 18.377007620899096,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.6891027807009633,
+          "blind_skill": 0.22005647535602335
+        }
+      ],
+      "rmse_mv": 4.761060475597705,
+      "zero_skill": 0.6813080587617794,
+      "blind_skill": 0.04916928460449732,
+      "bootstrap_joint_lower": -0.07987218865033396,
+      "waveform_pass": false
+    },
+    {
+      "candidate": "physical_ensemble",
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 13.552701910551086,
+          "zero_mse": 67.38932527113073,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.7988894850033912,
+          "blind_skill": 0.40619896831138635
+        },
+        {
+          "cell": 4,
+          "mse": 24.104117471655353,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022612,
+          "zero_skill": 0.7225680131221514,
+          "blind_skill": 0.040977479842508435
+        },
+        {
+          "cell": 5,
+          "mse": 15.802400515671915,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.7326592838224173,
+          "blind_skill": 0.3293260681890088
+        }
+      ],
+      "rmse_mv": 4.22134338403777,
+      "zero_skill": 0.749466937063964,
+      "blind_skill": 0.25252414436286785,
+      "bootstrap_joint_lower": 0.1330004414073791,
+      "waveform_pass": true
+    },
+    {
+      "candidate": "previous_primary",
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 20.322432564199786,
+          "zero_mse": 67.38932527113073,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.698432467123902,
+          "blind_skill": 0.10958851580367879
+        },
+        {
+          "cell": 4,
+          "mse": 36.19942291961371,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022612,
+          "zero_skill": 0.5833542615186122,
+          "blind_skill": -0.4402544228154506
+        },
+        {
+          "cell": 5,
+          "mse": 16.256771726367937,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.7249723551967644,
+          "blind_skill": 0.3100419773904619
+        }
+      ],
+      "rmse_mv": 4.925397689871734,
+      "zero_skill": 0.6589278252455322,
+      "blind_skill": -0.017603076699314713,
+      "bootstrap_joint_lower": -0.26856034662515316,
+      "waveform_pass": false
+    },
+    {
+      "candidate": "previous_physical",
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 13.552701910551086,
+          "zero_mse": 67.38932527113073,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.7988894850033912,
+          "blind_skill": 0.40619896831138635
+        },
+        {
+          "cell": 4,
+          "mse": 32.981464883478054,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022612,
+          "zero_skill": 0.6203921034020365,
+          "blind_skill": -0.3122225946763417
+        },
+        {
+          "cell": 5,
+          "mse": 13.691451391249007,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.7683717472660554,
+          "blind_skill": 0.4189174279147424
+        }
+      ],
+      "rmse_mv": 4.480536358714143,
+      "zero_skill": 0.7177566634904677,
+      "blind_skill": 0.15791521892180438,
+      "bootstrap_joint_lower": -0.08788812039511451,
+      "waveform_pass": false
+    }
+  ],
+  "members": [
+    {
+      "cell": 3,
+      "alias": 0,
+      "shift": [
+        0,
+        -2
+      ],
+      "mse": 20.322432564199786,
+      "blind_skill": 0.10958851580367879
+    },
+    {
+      "cell": 3,
+      "alias": 1,
+      "shift": [
+        0,
+        -1
+      ],
+      "mse": 20.322432564199786,
+      "blind_skill": 0.10958851580367879
+    },
+    {
+      "cell": 3,
+      "alias": 2,
+      "shift": [
+        0,
+        0
+      ],
+      "mse": 20.322432564199786,
+      "blind_skill": 0.10958851580367879
+    },
+    {
+      "cell": 3,
+      "alias": 3,
+      "shift": [
+        0,
+        1
+      ],
+      "mse": 20.322432564199786,
+      "blind_skill": 0.10958851580367879
+    },
+    {
+      "cell": 3,
+      "alias": 4,
+      "shift": [
+        0,
+        2
+      ],
+      "mse": 20.322432564199786,
+      "blind_skill": 0.10958851580367879
+    },
+    {
+      "cell": 4,
+      "alias": 0,
+      "shift": [
+        -1,
+        0
+      ],
+      "mse": 24.29956604005243,
+      "blind_skill": 0.03320123253348528
+    },
+    {
+      "cell": 4,
+      "alias": 1,
+      "shift": [
+        0,
+        1
+      ],
+      "mse": 36.19942291961371,
+      "blind_skill": -0.4402544228154506
+    },
+    {
+      "cell": 5,
+      "alias": 0,
+      "shift": [
+        0,
+        -1
+      ],
+      "mse": 16.256771726367937,
+      "blind_skill": 0.3100419773904619
+    },
+    {
+      "cell": 5,
+      "alias": 1,
+      "shift": [
+        1,
+        0
+      ],
+      "mse": 22.203357526911933,
+      "blind_skill": 0.05766132954224634
+    }
+  ],
+  "solver_checks": [
+    {
+      "case": "c04_h160_ND",
+      "cell": 4,
+      "alias": 0,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m000_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c04_a0_c04_h160_ND_voltage.npz",
+      "max_error_mv": 0.0009119608631742437,
+      "passed": true
+    },
+    {
+      "case": "c04_h160_PD",
+      "cell": 4,
+      "alias": 0,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m003_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c04_a0_c04_h160_PD_voltage.npz",
+      "max_error_mv": 0.0019055029615353547,
+      "passed": true
+    },
+    {
+      "case": "c04_h20_ND",
+      "cell": 4,
+      "alias": 0,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m006_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c04_a0_c04_h20_ND_voltage.npz",
+      "max_error_mv": 0.002368818968271569,
+      "passed": true
+    },
+    {
+      "case": "c04_h20_PD",
+      "cell": 4,
+      "alias": 0,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m009_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c04_a0_c04_h20_PD_voltage.npz",
+      "max_error_mv": 0.0028666842968050332,
+      "passed": true
+    },
+    {
+      "case": "c05_h160_ND",
+      "cell": 5,
+      "alias": 1,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m020_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c05_a1_c05_h160_ND_voltage.npz",
+      "max_error_mv": 0.0009119259715428818,
+      "passed": true
+    },
+    {
+      "case": "c05_h160_PD",
+      "cell": 5,
+      "alias": 1,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m023_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c05_a1_c05_h160_PD_voltage.npz",
+      "max_error_mv": 0.0019049507619914863,
+      "passed": true
+    },
+    {
+      "case": "c05_h20_ND",
+      "cell": 5,
+      "alias": 1,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m026_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c05_a1_c05_h20_ND_voltage.npz",
+      "max_error_mv": 0.002368539301334849,
+      "passed": true
+    },
+    {
+      "case": "c05_h20_PD",
+      "cell": 5,
+      "alias": 1,
+      "coarse": "results/t4_geometry_identifiability_v1/motion/m029_voltage.npz",
+      "fine": "results/t4_geometry_identifiability_v1/numerical/c05_a1_c05_h20_PD_voltage.npz",
+      "max_error_mv": 0.0028641316738600153,
+      "passed": true
+    }
+  ],
+  "numerical_pass": true,
+  "reuse_prior_numerical_checks": true,
+  "primary_diagnostic_pass": false,
+  "fresh_biological_validation": false,
+  "reliable_small_yaw_established": false,
+  "no_member_selected_using_motion_outcomes": true
+}

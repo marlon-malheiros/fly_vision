@@ -1,0 +1,29 @@
+{
+  "decision": "NO_MATERIAL_OUTPUT_EQUIVALENCE_IN_LOCAL_BANK",
+  "completed_utc": "2026-10-12T18:21:09.741382+00:00",
+  "sensitivity_interpretation_provisional": false,
+  "generated_candidates": 40,
+  "valid_generated_candidates": 40,
+  "rejected_candidates": 0,
+  "executed_parameter_sets": 84,
+  "trajectories": 6552,
+  "output_equivalent_candidates": [
+    "full_svd_v0_a0_-1",
+    "full_svd_v0_a0_+1",
+    "full_svd_v0_a1_-1",
+    "full_svd_v0_a1_+1",
+    "full_svd_v1_a0_-1",
+    "full_svd_v1_a0_+1",
+    "full_svd_v1_a1_-1",
+    "full_svd_v1_a1_+1",
+    "full_svd_v1_a2_-1",
+    "strength_svd_v0_a0_+1"
+  ],
+  "material_output_equivalent_candidates": [],
+  "both_e_i_compensation_candidates": [],
+  "either_channel_compensation_candidates": [],
+  "known_reference_bitwise_replays": 78,
+  "new_recorded_cells": 0,
+  "physiological_parameters_refitted": false,
+  "biological_degeneracy_established": false
+}

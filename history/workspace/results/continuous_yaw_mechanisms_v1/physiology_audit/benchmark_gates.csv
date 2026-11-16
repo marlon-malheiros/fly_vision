@@ -1,0 +1,7 @@
+gate,status,evidence
+recordings_and_metadata,AVAILABLE,11 eligible sessions from 8 bIPS/sytGC7f/axon/native flies
+published_geometry_and_nominal_epochs,PARTIAL,"Paper describes G3 32x96, 216x72 degrees, 74-degree tilt and 13-s epochs"
+exact_G3_pattern_frames_or_modified_generator,UNAVAILABLE_IN_AUDITED_SOURCES,"Public generator is G4; paper states modified G3 compatibility. Exact per-trial dot state/seed, frame clock, mask and mapping not verified"
+verified_eye_neurite_world_sign_mapping,UNRESOLVED,Soma/neurite labels exist; these do not determine the full visual-display-to-compartment mapping
+source_constrained_observation_model,UNRESOLVED,Reporter identified; no generic 0.5-s decay is treated as measured physiology
+fresh_independent_validation_flies,NONE_IN_PRIMARY_ELIGIBLE_COHORT,0 uninspected primary-cohort flies after existing 63-fly analysis

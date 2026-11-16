@@ -1,0 +1,67 @@
+{
+  "exploratory_after_outcomes": true,
+  "oracle_fits_use_scored_responses_not_validated": true,
+  "cells": [
+    {
+      "cell": 1,
+      "gain_from_own_scored_responses": 0.33490036758410346,
+      "fixed_mse": 27.28586124184438,
+      "oracle_mse": 3.9888227218473196,
+      "blind_mse": 5.778268187901739,
+      "oracle_blind_skill": 0.30968542958962597,
+      "amplitude_only_can_beat_blind": true
+    },
+    {
+      "cell": 2,
+      "gain_from_own_scored_responses": 0.23339342224870277,
+      "fixed_mse": 26.763799339848966,
+      "oracle_mse": 3.441526632821193,
+      "blind_mse": 4.925244217163717,
+      "oracle_blind_skill": 0.3012475156403407,
+      "amplitude_only_can_beat_blind": true
+    },
+    {
+      "cell": 3,
+      "gain_from_own_scored_responses": 0.9382637421360766,
+      "fixed_mse": 21.154951398727917,
+      "oracle_mse": 20.95391252399395,
+      "blind_mse": 22.823641568979383,
+      "oracle_blind_skill": 0.08192071538341472,
+      "amplitude_only_can_beat_blind": true
+    },
+    {
+      "cell": 4,
+      "gain_from_own_scored_responses": 1.126431290530484,
+      "fixed_mse": 20.79730334331763,
+      "oracle_mse": 19.95413743659821,
+      "blind_mse": 25.134047392022612,
+      "oracle_blind_skill": 0.20609135785541943,
+      "amplitude_only_can_beat_blind": true
+    },
+    {
+      "cell": 5,
+      "gain_from_own_scored_responses": 0.7343599587822796,
+      "fixed_mse": 34.379103187489974,
+      "oracle_mse": 30.65598896341507,
+      "blind_mse": 23.56197216880249,
+      "oracle_blind_skill": -0.3010790753757657,
+      "amplitude_only_can_beat_blind": false
+    }
+  ],
+  "comparisons": [
+    {
+      "previous_output": "delivered_drive",
+      "previous_rmse_mv": 8.013763712899948,
+      "cable_rmse_mv": 5.044183380539594,
+      "mse_reduction_fraction": 0.6038052943971475
+    },
+    {
+      "previous_output": "signed_branch",
+      "previous_rmse_mv": 7.272242852921239,
+      "cable_rmse_mv": 5.044183380539594,
+      "mse_reduction_fraction": 0.5188893321435519
+    }
+  ],
+  "no_frozen_gain_or_decision_changed": true,
+  "new_recordings_opened": false
+}

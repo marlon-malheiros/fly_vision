@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T11:55:01.534539+00:00",
+  "trajectories_reviewed": 52,
+  "candidate_ids": [
+    "baseline",
+    "i_poles_spread"
+  ],
+  "states": [
+    "h_e",
+    "g_e",
+    "h_i",
+    "g_i"
+  ],
+  "maximum_absolute_state_error": [
+    2.241540286718191e-12,
+    8.975459264704e-14,
+    1.4654943925052066e-14,
+    1.3145040611561853e-13
+  ],
+  "interpretation_not_used_to_change_decision": true
+}

@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "source_cases_checked": 8,
+  "source_values_checked": 21835032,
+  "maximum_independent_source_error": 5.551115123125783e-17,
+  "maximum_channel_summary_error": 2.168404344971009e-19,
+  "virtual_same_sampling_differences_exactly_zero": true,
+  "new_neural_run": false,
+  "biological_validation": false,
+  "review_scope": "Saved source arrays, independent stable-sum arithmetic, graph ID joins and virtual same-measure sampling; not independent physiology",
+  "files": [
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s07_S_v0_y+0/reconstruction.npz",
+      "size_bytes": 55185,
+      "sha256": "50d15e4cf3d5db12919032816621f2e7f411704c3c5b54fcfbb6ef77787484f3"
+    },
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s07_S_v5.5_y+0/reconstruction.npz",
+      "size_bytes": 6754207,
+      "sha256": "e5a926562abae9c337df9ca71e16c4dcf8b920d4c583f6a017b4d3e0e3197c97"
+    },
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s07_S_v11_y+0/reconstruction.npz",
+      "size_bytes": 6973990,
+      "sha256": "6dae6c2a29db9a5ce432cd7899af37dda354ac8f2d01d6f7d38787258a3ea1a9"
+    },
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s07_S_v16.5_y+0/reconstruction.npz",
+      "size_bytes": 7280841,
+      "sha256": "721ba3bf2a1ff193cbf6e622491fa2f3d941eb215abc266b5c08edd543816724"
+    },
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s12_S_v0_y+0/reconstruction.npz",
+      "size_bytes": 55185,
+      "sha256": "50d15e4cf3d5db12919032816621f2e7f411704c3c5b54fcfbb6ef77787484f3"
+    },
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s12_S_v5.5_y+0/reconstruction.npz",
+      "size_bytes": 7323937,
+      "sha256": "4613f8d5b4f9976973aeb5bfe0ef8c6249a917de83a810b41a796926a69b2d26"
+    },
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s12_S_v11_y+0/reconstruction.npz",
+      "size_bytes": 7835892,
+      "sha256": "59b761c6d0944b535fedb2fc8c71f5e0a46fdc41b2c8826cfdd0bd799807cdc0"
+    },
+    {
+      "path": "results/input_mapping_research_audit_v1/cases/s12_S_v16.5_y+0/reconstruction.npz",
+      "size_bytes": 7948826,
+      "sha256": "54bf46c11d0564863003767311f6df0cd655e7cc53d187e60864513bc917ea13"
+    }
+  ]
+}

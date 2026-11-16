@@ -1,0 +1,293 @@
+{
+  "utc": "2026-10-27T17:51:46.099407+00:00",
+  "fresh_images_not_generated": true,
+  "no_candidate_selection": true,
+  "numerical_failures_retained": true,
+  "files": [
+    {
+      "path": "configs/neural_change_readout_v1.json",
+      "size_bytes": 1610,
+      "sha256": "6e339ed9ef2740a30e452add4d1f812c141b9c226a2a2f9627376676033c6620"
+    },
+    {
+      "path": "configs/ongoing_walking_yaw_v1.json",
+      "size_bytes": 969,
+      "sha256": "2789a8892d1f567f1c967460e2bec972e776d0e430f627a57569f075643f3f65"
+    },
+    {
+      "path": "docs/NEURAL_CHANGE_READOUT_PROTOCOL_V1.md",
+      "size_bytes": 5473,
+      "sha256": "b053c8ce5af4fee8310ae48f23221161f25bfd1397e07e83b0cfe78dd4af0ba3"
+    },
+    {
+      "path": "docs/ONGOING_WALKING_YAW_PROTOCOL_V1.md",
+      "size_bytes": 6118,
+      "sha256": "04588f22e774081ae5d84d96a06e1b74f8ffb0de5487f276b53d3758b11afb20"
+    },
+    {
+      "path": "scripts/neural_change_readout_v1.py",
+      "size_bytes": 18697,
+      "sha256": "9384522a9f3763886f7ff85e80b3eeec9716c0b94aa71400d02410b0b2252074"
+    },
+    {
+      "path": "scripts/ongoing_walking_yaw_v1.py",
+      "size_bytes": 21594,
+      "sha256": "f26291885fb5d82efc13198a166f89a411c0f559bc6e4b4b444b5de1a65be5cb"
+    },
+    {
+      "path": "scripts/published_circuit_comparison_v1.py",
+      "size_bytes": 16407,
+      "sha256": "8fad3e35ac0b58faf4aa8df52b3724bd2d1208398348e05c2dfc4d90aef75fe9"
+    },
+    {
+      "path": "scripts/reliability_weighted_yaw_v1.py",
+      "size_bytes": 22604,
+      "sha256": "d1445815d830211e51c0cad66dc2cad4c5ee96a20ef8b164208615aa7bf7c44d"
+    },
+    {
+      "path": "scripts/review_neural_change_readout_v1.py",
+      "size_bytes": 11727,
+      "sha256": "163acb735075120012511615eb30d1183f8cc4a7ed5b4e4b31c60922cbb6ba75"
+    },
+    {
+      "path": "scripts/review_ongoing_walking_yaw_v1.py",
+      "size_bytes": 12587,
+      "sha256": "197688d0fbbe157e1974017d91dc712f7b9daf33e2d4c53d1ce77ce2775d9eb7"
+    },
+    {
+      "path": "src/male_optic_frontend/causal_short_window_yaw_v1.py",
+      "size_bytes": 4844,
+      "sha256": "5cb783a12a8775290bcff6a4bd1889fef713dd012ee7fa05ae9294f962f2a600"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "size_bytes": 1583,
+      "sha256": "d3bc2a05220c9906c5801d03347b6e7e6e10baaf738458244ac566ca9193f577"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_change_readout_v1.py",
+      "size_bytes": 1815,
+      "sha256": "00a6419717ea0853f711e66108fdec10d5196da322443109cc70d7b40caa5d50"
+    },
+    {
+      "path": "src/male_optic_frontend/ongoing_walking_yaw_v1.py",
+      "size_bytes": 661,
+      "sha256": "62696cbe63a00f23bdd37090090d3ce8f3ea8dee26fee12030bfe202d67f791f"
+    },
+    {
+      "path": "src/male_optic_frontend/reliability_weighted_yaw_v1.py",
+      "size_bytes": 5517,
+      "sha256": "ec843ec5724a9ea58ee1b488d4e0042eda6d283cfa8008b146a8001c906973c7"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v1.py",
+      "size_bytes": 4943,
+      "sha256": "6eeeb762940f96132ee191a8a9730ed1c232af6fd2f8dfc7fd932a51f64ea4e6"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v2.py",
+      "size_bytes": 3894,
+      "sha256": "dadea43d9d90ecf5e3c246dd6590ea0b8cc0050a5263bab5f1a494e072c1e71d"
+    },
+    {
+      "path": "src/male_optic_frontend/sequential_repairs_v1.py",
+      "size_bytes": 7267,
+      "sha256": "09c0e546ecbcba1958cdb2bcae6357e27b665a8395f70456e6b1ed68c82f8b85"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "tests/test_neural_change_readout_v1.py",
+      "size_bytes": 1469,
+      "sha256": "56f1de4df9435e5d573a5e56b03ef9fb2c5145b946e9e61c7b701ccff874dc5d"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_hs_5.5.npz",
+      "size_bytes": 2881,
+      "sha256": "c6bf881bb86e5241e60920dfd66677632b57ce5f2be01f3da23d23882bc0634d"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_hs_11.npz",
+      "size_bytes": 2878,
+      "sha256": "6c53b3841aafd1c39d9d005aec0d34375c166770ad37a873c69def7301faad77"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_hs_16.5.npz",
+      "size_bytes": 2875,
+      "sha256": "70d2573460cd397bee613ea0e735161bc3b0a3414b49e04958d6cf0686dee4f2"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_h2_5.5.npz",
+      "size_bytes": 2870,
+      "sha256": "1020c9af6f5c6ba31e39722e980c15e4d106690baef5805162de957fe7995579"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_h2_11.npz",
+      "size_bytes": 2874,
+      "sha256": "845c78f00965b85cb1acd24f853e461aff8db4b42ca57486017abbc98939cc21"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_h2_16.5.npz",
+      "size_bytes": 2880,
+      "sha256": "53f4ca18bf4225296294f601ac71d314eae681b4ec8aaeb51281938481b63f36"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_bips_5.5.npz",
+      "size_bytes": 2884,
+      "sha256": "65944433f0a20635f2864fa8198988c6aa860cd6a20a81f7edafca24124b707f"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_bips_11.npz",
+      "size_bytes": 2886,
+      "sha256": "c6f684197cb280d9c648f1a08b413e072918f3d2efccfeae008612e696f956f3"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_bips_16.5.npz",
+      "size_bytes": 2866,
+      "sha256": "9c90b90e619e27144a818505af8a19f94aeedfb054ba74aacb6298c2113f5f2b"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_dnp15_5.5.npz",
+      "size_bytes": 2878,
+      "sha256": "8d3e83252ac1a39ce0a351da49a46124deb9ac8b9bb328e559f451455d12a096"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_dnp15_11.npz",
+      "size_bytes": 2882,
+      "sha256": "5643472b50a636a0fa63530c0ebb0964eea6619083544cc3401338f5dd937f9f"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/absolute_dnp15_16.5.npz",
+      "size_bytes": 2880,
+      "sha256": "d513757598ecf2291af4776d7cf7f242356399f3bedeace644ff37c9fa4cb893"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_hs_5.5.npz",
+      "size_bytes": 2890,
+      "sha256": "f6f4567279b2c603102fd97f50d25369b1ccaa1ddec8a0060c90566bbad554cc"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_hs_11.npz",
+      "size_bytes": 2890,
+      "sha256": "cbd619ab0dc158b0a5fe038874a079aef7cdabe9bb385723185c39ab411b0ccb"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_hs_16.5.npz",
+      "size_bytes": 2891,
+      "sha256": "aa1a25a25b720478a1aa5f4ace2e8cef0b5bfd990723c150ec3aa50619cb9313"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_h2_5.5.npz",
+      "size_bytes": 2887,
+      "sha256": "a8659586c5a9746a9392554ef748028df06c2cd4cb63ea5c960096a9b88d91c4"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_h2_11.npz",
+      "size_bytes": 2887,
+      "sha256": "71f1b7cb5e7557cb85bc6f48b4608b8184fee5233d5a485ca013e6fdd9117fb9"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_h2_16.5.npz",
+      "size_bytes": 2879,
+      "sha256": "000f3910e0c208468efcf8f65efdae8349d58b4dcdc7bac85a7b1074a7b01e06"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_bips_5.5.npz",
+      "size_bytes": 2886,
+      "sha256": "e25ebab03ddd08de8ed343374bbfa88760d22cbb1b561abd8e42be6532d7dad1"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_bips_11.npz",
+      "size_bytes": 2893,
+      "sha256": "4c630dff0d77f8b98c6fe4c7014abf16e82351ef2050ed8e346c49264f03fdf9"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_bips_16.5.npz",
+      "size_bytes": 2887,
+      "sha256": "97778fc043206b3db6eb3f5cfa5d6111751d92898539a6e7d7fc55b8c111eae7"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_dnp15_5.5.npz",
+      "size_bytes": 2891,
+      "sha256": "1d5dd11fbde2ac2bbc3e16887705f7217c306b39bf34b93decafc496681e5431"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_dnp15_11.npz",
+      "size_bytes": 2895,
+      "sha256": "1bba24890c849a508ada49171466e62b189719878de4e99ee718e1290b65b3aa"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/change_dnp15_16.5.npz",
+      "size_bytes": 2888,
+      "sha256": "fe7cc63f660a7ea0a631dd8c28750952df70a647f0cb9b20f15bb34e3360c539"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/features.json",
+      "size_bytes": 318939,
+      "sha256": "2f81a2cc9fb18090662fd0d6863120120e8177ccc15fcaa97fb1d72aa0aa1af4"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/readouts.json",
+      "size_bytes": 41243,
+      "sha256": "54a16c73cf43794593b1be4b68bd65a90c0c8a9bee2645dcc916e73c03e34ffd"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/predictions.json",
+      "size_bytes": 446604,
+      "sha256": "60514da8f0c4c1d0eb4ac3a0e1328dcc065769ee3bf9eadf22200720d2829970"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration/complete.json",
+      "size_bytes": 443,
+      "sha256": "3b2bb93925c60cfab4606c3b6b16f96b06826c4995fd4ec8cdef6c63300dd13e"
+    },
+    {
+      "path": "results/neural_change_readout_v1/calibration_review.json",
+      "size_bytes": 5097,
+      "sha256": "cbc1d8df5a1f359db3f50266768318336d9be60a10689ab4d1f52459a1011488"
+    },
+    {
+      "path": "results/neural_change_readout_v1/numerical_review.json",
+      "size_bytes": 18564,
+      "sha256": "d3a4f574d7cfb6869d1920ef5b77a5d3ecd39c3f2d18dca46f85929bcaa496cc"
+    },
+    {
+      "path": "results/neural_change_readout_v1/before_development.json",
+      "size_bytes": 23775,
+      "sha256": "f252c375e634bc553467b2ce4670f0c0e788d3fff7003ca3d8f60d01b2cd5d2c"
+    }
+  ]
+}

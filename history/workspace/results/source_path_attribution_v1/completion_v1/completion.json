@@ -1,0 +1,58 @@
+{
+  "status": "COMPLETE_BOUNDED_RETROSPECTIVE_MECHANISTIC_STUDY",
+  "date": "2026-10-26",
+  "source_commit": "ceaf31c7f89a964ab8f9c44dc913d55e02fc88d7",
+  "prospective_component_checkpoint": "8e82d65",
+  "source_episodes": 704,
+  "input_versions": 3,
+  "source_groups": 16,
+  "forward_controls": 80,
+  "nonlinear_group_omission_cases": 64,
+  "linear_forward_cases": 12,
+  "nonlinear_intact_replays": 4,
+  "numerical_checks": {
+    "primitive": {
+      "passed": 16896,
+      "total": 16896,
+      "maximum_absolute_error": 9.522007711404087e-07
+    },
+    "bilateral": {
+      "passed": 8448,
+      "total": 8448,
+      "maximum_absolute_error": 8.247740365496629e-07
+    },
+    "decoder_score": {
+      "passed": 7920,
+      "total": 7920,
+      "maximum_absolute_error": 0.004385042524823746
+    },
+    "linear_replay": {
+      "passed": 12,
+      "total": 12,
+      "maximum_absolute_error": 1.205632815803881e-16
+    },
+    "intact_replay": {
+      "passed": 4,
+      "total": 4,
+      "maximum_absolute_error": 0.0
+    },
+    "input_omission": {
+      "passed": 768,
+      "total": 768,
+      "maximum_absolute_error": 1.7608338955346116e-07
+    }
+  },
+  "all_component_gates_pass": true,
+  "independent_arithmetic_rows": 34048,
+  "fresh_build_full_kernel_exact": true,
+  "fresh_subset_component_cases": 4,
+  "fresh_subset_forward_cases": 4,
+  "second_full_execution": false,
+  "new_decoder_fits": 0,
+  "neural_detector_repaired": false,
+  "unique_biological_cause_identified": false,
+  "original_model_unchanged": true,
+  "physiological_validation": false,
+  "closed_loop": false,
+  "broader_phd_goal_complete": false
+}

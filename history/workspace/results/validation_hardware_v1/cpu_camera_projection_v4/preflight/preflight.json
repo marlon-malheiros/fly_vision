@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-21T21:16:16.955068+00:00",
+  "command": [
+    "g++",
+    "-std=c++17",
+    "-O3",
+    "-fno-fast-math",
+    "-ffp-contract=off",
+    "-shared",
+    "-fPIC",
+    "<WORKSPACE>/src/male_optic_frontend/sensor_projection_v2.cpp",
+    "-o",
+    "<WORKSPACE>/results/validation_hardware_v1/cpu_camera_projection_v4/preflight/projection_cpu.so"
+  ],
+  "library": {
+    "path": "results/validation_hardware_v1/cpu_camera_projection_v4/preflight/projection_cpu.so",
+    "size_bytes": 11720,
+    "sha256": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+  },
+  "cases": [
+    {
+      "case": "s01_v16.5_y+0",
+      "frames": 401,
+      "retinal_pixels": 24003058,
+      "maximum_error": 0.0
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "frames": 401,
+      "retinal_pixels": 24003058,
+      "maximum_error": 0.0
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "frames": 401,
+      "retinal_pixels": 24003058,
+      "maximum_error": 0.0
+    }
+  ],
+  "retinal_pixels": 72009174,
+  "original_model_changed": false,
+  "new_neural_or_timing_outcomes_inspected": false
+}

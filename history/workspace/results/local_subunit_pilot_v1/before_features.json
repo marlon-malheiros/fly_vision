@@ -1,0 +1,370 @@
+{
+  "utc": "2026-11-02T03:19:20.304107+00:00",
+  "files": [
+    {
+      "path": "configs/local_subunit_pilot_v1.json",
+      "size_bytes": 790,
+      "sha256": "8426df6390dd9ae6f6f0bc8667c7c00edc50bb4ec5c90ca033af18cfb22a922b"
+    },
+    {
+      "path": "docs/LOCAL_SUBUNIT_PILOT_PROTOCOL_V1.md",
+      "size_bytes": 8905,
+      "sha256": "b68d60b90e7ac301ced90cf70c445a13db0d1a91b0fe42e4cc2dee4be2fdec08"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/methods/renderer.so",
+      "size_bytes": 11736,
+      "sha256": "2fc169c9b7e6e8359da448e985ae1f8e2543ce81774a1d74aaa11c671e4dab62"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz",
+      "size_bytes": 716856,
+      "sha256": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph.json",
+      "size_bytes": 1916,
+      "sha256": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz",
+      "size_bytes": 64837,
+      "sha256": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/input_manifest.json",
+      "size_bytes": 308095,
+      "sha256": "3a87621be09bea5ceea78749d78b894b00bf9062a0de2997bedc92e6b181c43b"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/local_map.npz",
+      "size_bytes": 18753,
+      "sha256": "f23180743243e92e8ed9d3438f6755ef289fa8273306cde029a0debbfd2edd9c"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/map_coverage.json",
+      "size_bytes": 325089,
+      "sha256": "105e18ff3fe0d12c2218211a634ba2fc8d176480d6d28ff7fe25a3c64da85d5e"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/plans.json",
+      "size_bytes": 153003,
+      "sha256": "929c44a2079d66a113b454f99bd8add4d624e024105e9db1a0f97bc1b1be4adf"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/training_floor.json",
+      "size_bytes": 166,
+      "sha256": "09fa8351e323416065179bb44258d13f0237685c637acbae10aa85d38f1317ea"
+    },
+    {
+      "path": "results/neural_population_readout_v1/methods/observer.so",
+      "size_bytes": 24672,
+      "sha256": "e23a33759b5758e28defc6a3a5566a5f1c4f6430e38f95e832e389ca58f3f11a"
+    },
+    {
+      "path": "results/neural_population_readout_v1/observation_map.npz",
+      "size_bytes": 75010,
+      "sha256": "ee574cd3dd97c2e3f8fce07632ff099f3f84e356d843272b0c013f7a5dc256d6"
+    },
+    {
+      "path": "results/neural_population_readout_v1/readouts.json",
+      "size_bytes": 859562,
+      "sha256": "034dfe1df2d1e42ce2f836048de6ca74f92631811f1560c2a396fe9438b1c093"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p00.json",
+      "size_bytes": 6657,
+      "sha256": "f0cf08aceac36d9e7cf6581f3464224ca66362302ff92f8e42fb89ab843bbcff"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p01.json",
+      "size_bytes": 10168,
+      "sha256": "8b21e24b281aee45e6bbf84d2e47a9336aa06e44ec4ed12d20166f8a1620138c"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p02.json",
+      "size_bytes": 6660,
+      "sha256": "106b1c8ab2c8074f65d7c92804997a41d72923f949d38fc13c0ea59680989577"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p03.json",
+      "size_bytes": 10167,
+      "sha256": "e016de6edfff4cde0bb6b469a4e6dd4c39fed60f5e407ad79bbab382c1850720"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p04.json",
+      "size_bytes": 6657,
+      "sha256": "f53c55f5dda01978be6d5f3f7b236637189edb3606ee236d0cc70a8febd7b331"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p05.json",
+      "size_bytes": 10160,
+      "sha256": "30f827a42357ec8053f3a57c860c434e90ef608875766998f35b5e2e92b6f1e5"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p06.json",
+      "size_bytes": 6648,
+      "sha256": "ac225d05c91cf18bfad4c968a02e42341e991a86f7bc46a7aac96fa9ab0d241e"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p07.json",
+      "size_bytes": 10153,
+      "sha256": "f5f3419d84608b68298bd080efd3a2b922bb42c1db2fa97f395240d11d3b7e62"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p08.json",
+      "size_bytes": 6637,
+      "sha256": "2785f350052fcec03d1b9b9439772e26ff37b1d160e06b0416ce2f4d562f2174"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p09.json",
+      "size_bytes": 10159,
+      "sha256": "91625e01d9ec43eef67e92bfba0bc6cf9f15170197b775c4778a2a53e5ff8ab1"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p10.json",
+      "size_bytes": 6669,
+      "sha256": "30f0efd7e126b6488abdd1d9c75735de3675744540b7cd01ddcb304b66b18df8"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p11.json",
+      "size_bytes": 10148,
+      "sha256": "61dc8aa759fe6517a13d46a991698e561159f20b0ee5d8d06b22c8041a9c5ab4"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p12.json",
+      "size_bytes": 6629,
+      "sha256": "97f0f6f2f7cf27173ed030e77e2d7fea8323a3706a470d1ddd33cccf67ad5146"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p13.json",
+      "size_bytes": 10172,
+      "sha256": "292703f100f85f3e9a370029969a7ee28c6e4ed85ec69be827ba8a6352a73457"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p14.json",
+      "size_bytes": 6655,
+      "sha256": "373b78804b5f88c2f5bfbf46299ec6849b77c7592d83d3b0a6a6df849983e532"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p15.json",
+      "size_bytes": 10157,
+      "sha256": "c31408f7ad939fbfa3081ec6ac4a5c3b538c61b94c2e1a67d27da430b8639762"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p16.json",
+      "size_bytes": 6623,
+      "sha256": "7b5ca16673fdedcab0baa242c148244e1a5999773fe188d04354d323b578ae24"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p17.json",
+      "size_bytes": 10171,
+      "sha256": "df56624ce46475e008158922a16de0a5cc9a5731be2a9352b997eb0a9926e26e"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p18.json",
+      "size_bytes": 6661,
+      "sha256": "34683e0648bb28828b1e382e95bc94392cf021fbcf02d0f5c89fe857c7d69217"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p19.json",
+      "size_bytes": 10159,
+      "sha256": "15aa776ff305436ddca16c797778fbe369332a0c8653139e0d5a660c20aee183"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p20.json",
+      "size_bytes": 6651,
+      "sha256": "854aa35a54d1c0ace5212b6d13395298e7d5101213a2f192fd2d95850ffbeaeb"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p21.json",
+      "size_bytes": 10149,
+      "sha256": "3e8262206311b131e57f5647ac505e80914aadfef393badf47f7443c6a765d49"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p22.json",
+      "size_bytes": 6653,
+      "sha256": "44785a05993839afa9c86e373d9f9ea4ceb73f2dc4e7e61c62ee12fbd56a747c"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/p23.json",
+      "size_bytes": 10150,
+      "sha256": "1dd0861a355f35d57ce1bb6b75770adba3d0ab86ab4495c36f9d2d784c24df35"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w00.json",
+      "size_bytes": 6658,
+      "sha256": "157a5f6e1a42a0cbf7382394c9ded1b5adf104dd591462c3ebdfb67557c1a53e"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w01.json",
+      "size_bytes": 10160,
+      "sha256": "03210397e31cac96d0496c7979f5ea229551a8c1cd0a937d8c1abe9b1c502278"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w02.json",
+      "size_bytes": 6665,
+      "sha256": "9506287bff543c8e60aae46a1edbefcfebde23f8b46a206ce6797b61da87998b"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w03.json",
+      "size_bytes": 10169,
+      "sha256": "aaa41f1e340dc17b15730d79dc9179af08958a9965026d38f893c73c8424fd06"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w04.json",
+      "size_bytes": 6647,
+      "sha256": "862dafde6117df0e2dda169ca2e1b7abc426cbb7ce2df340027c4ae13e05c326"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w05.json",
+      "size_bytes": 10165,
+      "sha256": "3f72b58e3e5c82b8f65dca6d9be27202c9a069a480f1e41eb4a7775b92df03cb"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w06.json",
+      "size_bytes": 6670,
+      "sha256": "b66e8bceb343fcc0bb560ce92907fef62880abf92f36b234c6eead42169208e1"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w07.json",
+      "size_bytes": 10173,
+      "sha256": "e76f236ad2f59f332f4b0eaab07fe70b9991d9160b9121e802823cf33d6120c3"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w08.json",
+      "size_bytes": 6648,
+      "sha256": "ccb28323951e0cac5821b9f8b931807ad1f1ce47a5c3b154457fc89d907ad992"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w09.json",
+      "size_bytes": 10184,
+      "sha256": "226c85f12c3bde5d274316b1d7ddfbecdba75a164793795b171ac9eeb71f0568"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w10.json",
+      "size_bytes": 6651,
+      "sha256": "868b3fe34e7417647ec0d70dde6881f6f9820b827cd2883137dd83ad7277dcaf"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w11.json",
+      "size_bytes": 10152,
+      "sha256": "02209d7378f1f6737288ce8097c201fc82997a58ca771a98ce1a38f7533a30a2"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w12.json",
+      "size_bytes": 6679,
+      "sha256": "34254aefbac0d8511f82a561a84b40db161a764cb303be28c2f61c9bf947e736"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w13.json",
+      "size_bytes": 10155,
+      "sha256": "5cebe65d0c52cf4c63cd73800e40a8fc04e3124aab613ac2637343ca1ed03922"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w14.json",
+      "size_bytes": 6668,
+      "sha256": "f13ab606a904f52154d33af8bf26e4778658dc1688bf1b1a54548f5abba0c2e3"
+    },
+    {
+      "path": "results/neural_population_readout_v1/worlds/w15.json",
+      "size_bytes": 10154,
+      "sha256": "7f424e827707f54fd1cb72a2321ac2cd49000b6ef3792f684de9a1be4c6941e6"
+    },
+    {
+      "path": "scripts/audit_local_subunit_feasibility_v1.py",
+      "size_bytes": 3974,
+      "sha256": "59b5e8b80a6e6184e0e37fa861d6eb49b237bada96105f2e811e198592306c79"
+    },
+    {
+      "path": "scripts/local_subunit_pilot_v1.py",
+      "size_bytes": 22191,
+      "sha256": "aa7e5ce9567d4cfd1f8dfaefb0db4176570b881dca93108085a775f8c7d7c66b"
+    },
+    {
+      "path": "scripts/neural_population_readout_v1.py",
+      "size_bytes": 20013,
+      "sha256": "800d6d4b223463213fd2caeddd6c4e9899148c9e9ce6f285e355bace58229b03"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_v1.py",
+      "size_bytes": 6523,
+      "sha256": "6319db9e70cb1be83413dd6e95c1223209eb8674098eca5927580ee0cb701030"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/local_subunit_v1.py",
+      "size_bytes": 4641,
+      "sha256": "97011e13b452b9bdac6cb606f3c27d461b781232ddbf61961c02b4bd7af427a3"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_observer_v1.cpp",
+      "size_bytes": 3368,
+      "sha256": "1d8b992b937ea9cf64ac428ea9d95f47ead8f3286ff32f48297afaab5c828254"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_readout_v1.py",
+      "size_bytes": 6283,
+      "sha256": "472e4b5ce6326cb9c03f30ca0ebd8b1b7c4efe9aed90b2499c5cc28e69ef02e4"
+    },
+    {
+      "path": "src/male_optic_frontend/ongoing_walking_yaw_v1.py",
+      "size_bytes": 661,
+      "sha256": "62696cbe63a00f23bdd37090090d3ce8f3ea8dee26fee12030bfe202d67f791f"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "tests/test_local_subunit_v1.py",
+      "size_bytes": 2401,
+      "sha256": "ff1e8167e12ce1183f502f93ba0f72da52693863178c0d43c4a6f04822e6ca87"
+    }
+  ],
+  "new_local_features_not_computed": true,
+  "new_fits_not_computed": true,
+  "reserved_rooms_not_accessed": true,
+  "primary": "local_before_pool",
+  "budget_estimate": {
+    "compact_feature_bytes_max": 125829120,
+    "overhead_bytes_max": 104857600,
+    "observation_cpu_seconds_max": 3600,
+    "free_bytes": 162605133824
+  }
+}

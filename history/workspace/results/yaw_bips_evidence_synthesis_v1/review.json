@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "date": "2026-10-24",
+  "scope": "Saved-score decisions, scene counts, curves, thresholds and paired descriptive arithmetic; no solver replay",
+  "selected_source_files_verified": 26,
+  "studies": {
+    "study_a": {
+      "predictions": 19008,
+      "curves": 1440,
+      "thresholds": 288
+    },
+    "study_b": {
+      "predictions": 35640,
+      "curves": 2700,
+      "thresholds": 540
+    },
+    "extension": {
+      "predictions": 67584,
+      "curves": 2400,
+      "thresholds": 480
+    }
+  },
+  "totals": {
+    "predictions": 122232,
+    "curves": 6540,
+    "thresholds": 1308
+  },
+  "paired_room_rows": 1200,
+  "descriptive_summaries": 30,
+  "refinement": {
+    "mean_flags": 3998,
+    "contrast_flags": 4270,
+    "decision_changes": 701,
+    "summaries": 4896,
+    "comparisons": 19008
+  },
+  "source_outcomes_previously_inspected": true,
+  "neural_or_decoder_parameters_changed": false,
+  "new_biological_validation": false,
+  "new_simulation": false
+}

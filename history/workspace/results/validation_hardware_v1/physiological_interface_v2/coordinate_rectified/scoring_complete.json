@@ -1,0 +1,12 @@
+{
+  "status": "CONDITIONAL_PHYSIOLOGY_DIAGNOSTIC_COMPLETE",
+  "completed_utc": "2026-10-21T12:56:43.373981+00:00",
+  "test_traces": 95,
+  "trace_scores": 380,
+  "fly_metric_rows": 112,
+  "cohort_summaries": 32,
+  "calibration_validation_fly_overlap": false,
+  "physiological_validation_established": false,
+  "numerical_model_parameters_fitted": false,
+  "scope": "full_source_clock_soma_matched_signed_input_clamp_with_calibrated_measurement_model"
+}

@@ -1,0 +1,193 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T19:44:09.909089+00:00",
+  "python": "3.11.16 (main, Aug 14 2026, 15:35:36) [Clang 22.1.3 ]",
+  "study_indexes": [
+    {
+      "path": "results/physiological_execution_artifact_index_v1.json",
+      "sha256": "c70985904cb48dcbd2260475a8f73897ba721592950dfc5e103c0a2c115e6235",
+      "entries_verified": 8418
+    },
+    {
+      "path": "results/physiological_texture_replication_v1/artifact_index.json",
+      "sha256": "fe7b1841edea2af6782eadddbcba5ece0b91bc4acf826e02778143ab8db53597",
+      "entries_verified": 427
+    },
+    {
+      "path": "results/physiological_grating_readout_comparison_v1/artifact_index.json",
+      "sha256": "b95a441b83c36489ec5c99ad4cacc18e2d0147e03082a683727033393807a0a9",
+      "entries_verified": 46
+    },
+    {
+      "path": "results/physiological_image_clamp_repair_v1/artifact_index.json",
+      "sha256": "efceaf13e7aa66514956bfc90c1c60def3b4174f0c19f3306b9bb735d55396a6",
+      "entries_verified": 1157
+    },
+    {
+      "path": "results/t5_matched_grating_observation_v1/artifact_index.json",
+      "sha256": "74aec37ffe65659f94827e970cd814a33f711462e6e34c0e1c0e99f594c6fe91",
+      "entries_verified": 57
+    },
+    {
+      "path": "results/t5_image_native_transfer_v1/artifact_index.json",
+      "sha256": "3f82daafd9c73e3ce9b7eff2e6cfe07b69ec99e248b873176f5b9f6d0a1acace",
+      "entries_verified": 653
+    },
+    {
+      "path": "results/t5_moving_bar_transfer_v1/artifact_index.json",
+      "sha256": "e941840acae4832704539a7e2c115dfba7d856172e62f3101222d7f6e525897e",
+      "entries_verified": 1328
+    },
+    {
+      "path": "results/t5_mixed_parameter_sensitivity_v1/artifact_index.json",
+      "sha256": "4169e8dec771bb29ec3abfc0f3cec193bd9c014eed7ed0e9ce273e0e01c6c0b6",
+      "entries_verified": 171
+    },
+    {
+      "path": "results/t5_compensation_challenge_v1/artifact_index.json",
+      "sha256": "e7d5c50f0c5964347b5ec14848d57d65d5c1ea99c51c6b3beacba0332824b6be",
+      "entries_verified": 49
+    },
+    {
+      "path": "results/t5_active_sensitivity_v1/artifact_index.json",
+      "sha256": "842b1c9961555770a70fa164f85ae242f1c6be140f5861b75de40ca5e59ebb71",
+      "entries_verified": 174
+    }
+  ],
+  "entries_verified": 12480,
+  "original_assignment": {
+    "index_sha256": "fadc4e08a49cbe75205eba3f3e3f8bc11fa1cf1f4a1fed95478db89f0b8e8282",
+    "files_verified": 35,
+    "required_artifacts": 14,
+    "batches": 7,
+    "recorded_decisions": {
+      "visual_geometry": "VISUAL_GEOMETRY_VALIDATED",
+      "motion_computation": "DIRECTION_SELECTIVITY_WEAK_OR_INCOMPLETE",
+      "biological_validation": "NOT_RUN"
+    },
+    "neural_simulation_rerun": false,
+    "scope": "Preservation and documentary review, not a new geometry or physiological validation"
+  },
+  "parameter_sets_checked": 84,
+  "trajectories_in_saved_arrays": 6552,
+  "conditions": 78,
+  "candidates_rescored": 40,
+  "material_candidates": 12,
+  "output_equivalent_candidates": [
+    "full_svd_v0_a0_-1",
+    "full_svd_v0_a0_+1",
+    "full_svd_v0_a1_-1",
+    "full_svd_v0_a1_+1",
+    "full_svd_v1_a0_-1",
+    "full_svd_v1_a0_+1",
+    "full_svd_v1_a1_-1",
+    "full_svd_v1_a1_+1",
+    "full_svd_v1_a2_-1",
+    "strength_svd_v0_a0_+1"
+  ],
+  "material_output_equivalent_candidates": [],
+  "both_conductance_changed_candidates": 11,
+  "maximum_feature_arithmetic_difference_mv": 7.105427357601002e-15,
+  "maximum_voltage_state_identity_error_mv": 2.7533531010703882e-14,
+  "decision": "NO_MATERIAL_OUTPUT_EQUIVALENCE_IN_LOCAL_BANK",
+  "known_timing_all_gates_pass": true,
+  "sensitivity": {
+    "maximum_jacobian_recalculation_error": 2.1674328998244619e-13,
+    "post_analysis_diagnostic": true,
+    "full": {
+      "large_step_singular_values": [
+        29.249148211622515,
+        7.579131069966393,
+        5.711121121706743,
+        4.491759902901413,
+        2.113530985609769,
+        1.2190441197815756,
+        0.9535390997012279,
+        0.4243388553162745,
+        0.10004707698731899,
+        0.04777232530699339
+      ],
+      "small_step_singular_values": [
+        29.248703828614595,
+        7.5768754197061625,
+        5.790516524780356,
+        4.493672211778251,
+        2.1124458857812534,
+        1.2143766542590115,
+        0.9507696201392651,
+        0.4483643178940205,
+        0.10249852139155735,
+        0.0477571142878122
+      ],
+      "last_two_vector_angles_degrees": [
+        0.647065645871379,
+        0.5737997437783243
+      ],
+      "last_two_subspace_angles_degrees": [
+        0.12306631537943201,
+        0.33851047340872886
+      ],
+      "matrix_step_spectral_difference": 0.29586168525019996,
+      "weakest_vector_timing_squared_fraction": 0.9968116622024553,
+      "uncertainty_bound_established": false
+    },
+    "strength": {
+      "large_step_singular_values": [
+        29.224167340726776,
+        5.709790113684088,
+        3.8143457449973943,
+        3.2763318927176353,
+        1.0678659724842963,
+        0.4335709672724875
+      ],
+      "small_step_singular_values": [
+        29.22385593020798,
+        5.779002432041406,
+        3.8129111740605595,
+        3.282278857001887,
+        1.0615837967619837,
+        0.45790331901929265
+      ],
+      "last_two_vector_angles_degrees": [
+        0.37676519676524767,
+        0.42114722457372544
+      ],
+      "last_two_subspace_angles_degrees": [
+        0.04304419127611013,
+        0.19679168259392865
+      ],
+      "matrix_step_spectral_difference": 0.2789398403535592,
+      "weakest_vector_timing_squared_fraction": null,
+      "uncertainty_bound_established": false
+    }
+  },
+  "threshold_regression": {
+    "counterfactual_relative_error": 0.06,
+    "requested_margin": 0.1,
+    "legacy_pass": false,
+    "new_checker_pass": true,
+    "actual_frozen_results_affected": false
+  },
+  "prior_independent_ode_review": {
+    "status": "PASS",
+    "completed_utc": "2026-10-12T18:23:14.423678+00:00",
+    "trajectories_reviewed": 6552,
+    "maximum_voltage_error_mv": 6.181721801112872e-12,
+    "maximum_state_error": 7.052136652418994e-13,
+    "maximum_independent_feature_error_mv": 3.488764832582092e-12,
+    "maximum_scaled_jacobian_error": 1.1025391710717258e-10,
+    "all_schedules_independently_reconstructed": true,
+    "all_readout_pair_and_candidate_decisions_reviewed": true,
+    "conductance_and_waveform_metrics_reviewed": true,
+    "svd_reconstruction_and_orthogonality_checked": true,
+    "derived_bank_replayed": true,
+    "biological_validation": false
+  },
+  "limitations": [
+    "Post-analysis audit, not preregistration.",
+    "No new neural trajectories or independent cells.",
+    "Saved-state algebra and features were recomputed; the prior ODE review was hash-verified, not rerun.",
+    "Matrix-step differences are not rigorous uncertainty bounds on the true Jacobian.",
+    "Original bundle integrity does not establish independently measured optics."
+  ]
+}

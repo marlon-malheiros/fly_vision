@@ -1,0 +1,84 @@
+{
+  "utc": "2026-10-29T19:11:06.170721+00:00",
+  "files": [
+    {
+      "path": "scripts/opponency_gain_calibration_v1.py",
+      "size_bytes": 11027,
+      "sha256": "af3fe8dc770ad70a145eda9c28b9878679dad86664a60b7a349ba24db045c0e8"
+    },
+    {
+      "path": "configs/opponency_gain_calibration_v1.json",
+      "size_bytes": 847,
+      "sha256": "5fb9809f505ac48ca3c84fe40ee95f5d7acc4cfd823c3f65f5be68dc8887403e"
+    },
+    {
+      "path": "docs/OPPONENCY_GAIN_CALIBRATION_PROTOCOL_V1.md",
+      "size_bytes": 6766,
+      "sha256": "87584e45d0c0c8422b3274f711b783f1595663bba2876a1e7a0e6604ea6f145f"
+    },
+    {
+      "path": "scripts/review_opponency_gain_calibration_v1.py",
+      "size_bytes": 16476,
+      "sha256": "3077e0288e47efb616ba6a990586d51c8feb213dcc2207cd45d55af75f666c3e"
+    },
+    {
+      "path": "scripts/analyze_opponency_gain_calibration_v1.py",
+      "size_bytes": 10723,
+      "sha256": "3923712eeac33ef4903ca20853b4e6f4fd3f7ef6b2bc2e0fc9a94db06e5d950a"
+    },
+    {
+      "path": "src/male_optic_frontend/observation_gain_v1.py",
+      "size_bytes": 1257,
+      "sha256": "5b06ea33e1ff0a69d39465de320653af2ad3aa2735de00465d38ebda88501ced"
+    },
+    {
+      "path": "tests/test_observation_gain_v1.py",
+      "size_bytes": 876,
+      "sha256": "0813bd8b9fe30cd5fffd4674f8ae3c2734a5e687843f80b4edb2d2aaf30ff1fe"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "scripts/review_biological_selectivity_v1.py",
+      "size_bytes": 9076,
+      "sha256": "a3f5ba2f9f1cc277e286d21457a818bdd0c4c54188d0c84d326b2070d207f9c7"
+    },
+    {
+      "path": "results/opponency_gain_calibration_v1/observations.json",
+      "size_bytes": 25954,
+      "sha256": "4ddb9609069eb0c787f9ecb1c334d0ad89e7ac067b99ed930a4d5430227aecbf"
+    },
+    {
+      "path": "results/opponency_gain_calibration_v1/plans.json",
+      "size_bytes": 1087,
+      "sha256": "42b05ffbc751dcaf6747583e6a0889baa366de6d49fc79c81a47d9a014d2e36b"
+    },
+    {
+      "path": "results/opponency_gain_calibration_v1/parent_inputs.json",
+      "size_bytes": 20889,
+      "sha256": "73b940eb55bc48ad599ff27fea5655a19238b17989a9334ca803f6ffb5b61ee5"
+    },
+    {
+      "path": "results/opponency_gain_calibration_v1/preflight_review.json",
+      "size_bytes": 3386,
+      "sha256": "aef2c9fb6663bc5f16f2a79da1e9bfef2ac4899f2ab9712f05a7ca3138ed6125"
+    },
+    {
+      "path": "results/opponency_gain_calibration_v1/preflight_tests.log",
+      "size_bytes": 168,
+      "sha256": "4002faa2e09643da802a41826116173fbc688d62abed440973d582c7004627eb"
+    }
+  ],
+  "new_fitted_gains_computed": false,
+  "old_test_recordings_known": true,
+  "neural_changes": 0,
+  "independent_animal_validation": false
+}

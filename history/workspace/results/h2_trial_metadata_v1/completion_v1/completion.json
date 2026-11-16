@@ -1,0 +1,23 @@
+{
+  "status": "COMPLETE_H2_METADATA_SOURCE_CURVES_AND_BENCHMARK_SPEC",
+  "date": "2026-10-25",
+  "source_commit": "b68014e5378c5394d1c0870f3b1325c5477a845c",
+  "conditions": 1344,
+  "raw_repeats": 4032,
+  "aligned_repeats": 4000,
+  "complete_measured_curves": 84,
+  "published_summaries_reproduced": 78,
+  "independent_full_metadata_and_spike_reviews": true,
+  "synthetic_tests": 7,
+  "fresh_namespace_replay_conditions": 8,
+  "full_second_replay": false,
+  "new_neural_predictions": 0,
+  "original_models_changed": false,
+  "model_physiological_validation": false,
+  "reliable_small_turn_detection": false,
+  "exact_recording_replay": false,
+  "benchmark": "SPECIFIED_NOT_MODEL_SCORED",
+  "closed_loop_control": false,
+  "broader_phd_goal_complete": false,
+  "progress_snapshot_saved": true
+}

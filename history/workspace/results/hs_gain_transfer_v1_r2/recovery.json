@@ -1,0 +1,15 @@
+{
+  "first_attempt": "results/hs_gain_transfer_v1",
+  "first_target_failure": {
+    "path": "results/hs_gain_transfer_v1/target_execution_v1.log",
+    "size_bytes": 1336,
+    "sha256": "1c839dbdfec76fbbef89cc8f2ca26e54797afc87122a9caa4b5e5d8341895d7d"
+  },
+  "rejected_dependent_launch": {
+    "path": "results/hs_gain_transfer_v1/observation_execution_v1.log",
+    "size_bytes": 1689,
+    "sha256": "905a4de678b822ae535c849ea4116d2b34a8a9f7aa1dbcd5364e2af0ee0750e7"
+  },
+  "no_neural_simulation_in_first_attempt": true,
+  "missingness_rule_frozen_before_finite_frequency_summaries": true
+}

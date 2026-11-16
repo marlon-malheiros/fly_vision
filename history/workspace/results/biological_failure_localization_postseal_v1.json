@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T22:21:58.240977+00:00",
+  "verified_after_sealer_exited": true,
+  "index": {
+    "path": "results/biological_failure_localization_v1/completion_v1/artifact_index.json",
+    "size_bytes": 114047,
+    "sha256": "83c8da1cf00981e379e0ad9623530d1528da469d35a25106ed70a151606e124d"
+  },
+  "verified_files": 493,
+  "verified_bytes": 74209441,
+  "parent_sealed_inputs_and_index_unchanged": true,
+  "live_sources_match_archived": true,
+  "original_frontend_graph_parameters_unchanged": true
+}

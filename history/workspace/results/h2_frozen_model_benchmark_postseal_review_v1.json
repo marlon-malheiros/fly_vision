@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "timestamp_utc": "2026-10-25T13:09:34.138751+00:00",
+  "entries_verified": 6213,
+  "bytes_verified": 1414481819,
+  "index_sha256": "7750e881e9821b928f5b081bba414451adaa22908f234fbe9f112eb9c5d16a2e",
+  "sealer_exit_code": 0,
+  "live_files_excluded": true,
+  "source_commit": "cf8dfa060a3971db2ef781a5a96bb84243e50f48",
+  "scientific_scope": "Completed approximate frozen-model H2 direction-tuning comparison",
+  "physiological_validation": false,
+  "small_yaw_problem_fixed": false
+}

@@ -1,0 +1,7 @@
+# Numerical component seal correction — V2
+
+Recorded 2026-10-21. The first numerical component index captured its own redirected sealer log while that file was still empty. After verification, the sealer's final stdout message changed that log. The V1 index therefore has one stale record: `results/validation_hardware_v1/scientific_sealing_execution_v1.log`. This is a sealing implementation defect, not a changed simulation, analysis, figure, graph or scientific criterion.
+
+Preserve the V1 index, completion record, source and finalized log unchanged as historical evidence. A separately versioned V2 index hashes every original indexed path in its current state, verifies that only the identified log differs from its V1 record, includes the original index for provenance, and records this correction and a new dated progress snapshot. Its own active stdout log is explicitly excluded. Verify the V2 index again in a separate process after the sealer exits. Use [the corrected V2 index](../results/validation_hardware_v1/scientific_completion_v2/artifact_index.json) for the authoritative numerical component seal.
+
+No result or original predecessor artifact is rewritten. The V1 technical report remains immutable; this correction supplements its preservation evidence. The live progress report and AGENTS.md remain outside both indexes. The CPU camera component's sealer also excludes active sealing logs before its first execution. Neither component claims physiological validity, passing real-time deadlines or broad-goal completion.

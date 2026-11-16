@@ -1,0 +1,32 @@
+{
+  "primitive": {
+    "passed": 16896,
+    "total": 16896,
+    "maximum_absolute_error": 9.522007711404087e-07
+  },
+  "bilateral": {
+    "passed": 8448,
+    "total": 8448,
+    "maximum_absolute_error": 8.247740365496629e-07
+  },
+  "decoder_score": {
+    "passed": 7920,
+    "total": 7920,
+    "maximum_absolute_error": 0.004385042524823746
+  },
+  "linear_replay": {
+    "passed": 12,
+    "total": 12,
+    "maximum_absolute_error": 1.205632815803881e-16
+  },
+  "intact_replay": {
+    "passed": 4,
+    "total": 4,
+    "maximum_absolute_error": 0.0
+  },
+  "input_omission": {
+    "passed": 768,
+    "total": 768,
+    "maximum_absolute_error": 1.7608338955346116e-07
+  }
+}

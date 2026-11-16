@@ -1,0 +1,68 @@
+{
+  "status": "FAIL",
+  "controls": [
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "original",
+      "primary_reproduction_error": 0.0,
+      "same_forcing_half_step_rate_error": 1.9801808173791043e-11,
+      "final_state_error": 7.097571315395346e-11,
+      "response_mean_error": 7.042868892248588e-14,
+      "DNp15_decoder_score_error_deg_s": 8.600775647238379e-11,
+      "passes_original_rate_tolerance": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "contrast_normalized",
+      "primary_reproduction_error": 1.734723475976807e-18,
+      "same_forcing_half_step_rate_error": 2.6264848976276234e-10,
+      "final_state_error": 9.118184457479472e-09,
+      "response_mean_error": 1.0719736556752402e-10,
+      "DNp15_decoder_score_error_deg_s": 2.0787449095394095e-08,
+      "passes_original_rate_tolerance": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "original",
+      "primary_reproduction_error": 0.0,
+      "same_forcing_half_step_rate_error": 1.7694886527706963e-11,
+      "final_state_error": 6.446842452240142e-11,
+      "response_mean_error": 7.097404261524609e-14,
+      "DNp15_decoder_score_error_deg_s": 3.8391512191537913e-13,
+      "passes_original_rate_tolerance": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "contrast_normalized",
+      "primary_reproduction_error": 1.734723475976807e-18,
+      "same_forcing_half_step_rate_error": 2.451998534769295e-10,
+      "final_state_error": 5.511582940043169e-09,
+      "response_mean_error": 1.0426652770345601e-10,
+      "DNp15_decoder_score_error_deg_s": 1.9779428317434622e-08,
+      "passes_original_rate_tolerance": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "original",
+      "primary_reproduction_error": 0.0,
+      "same_forcing_half_step_rate_error": 2.2274720427183884e-11,
+      "final_state_error": 6.191364261554089e-11,
+      "response_mean_error": 5.913759065778734e-14,
+      "DNp15_decoder_score_error_deg_s": 4.367839423480291e-11,
+      "passes_original_rate_tolerance": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "contrast_normalized",
+      "primary_reproduction_error": 0.0,
+      "same_forcing_half_step_rate_error": 2.307616736585416e-10,
+      "final_state_error": 5.638826808262998e-09,
+      "response_mean_error": 9.688224701653869e-11,
+      "DNp15_decoder_score_error_deg_s": 1.946157235366286e-08,
+      "passes_original_rate_tolerance": false
+    }
+  ],
+  "primary_arrays_and_acceptance_rules_unchanged": true,
+  "legacy_half_step_failure_preserved": true,
+  "interpretation": "Distinguishes numerical integration error from a changed input-transition waveform; does not waive any earlier sampling or standard-stimulus failure."
+}

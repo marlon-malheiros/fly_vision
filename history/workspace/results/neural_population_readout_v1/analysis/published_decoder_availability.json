@@ -1,0 +1,51 @@
+{
+  "exploratory_source_audit_not_a_detection_result": true,
+  "checkpoint": {
+    "path": "data/derived/flyvis_r3/results/flow/0000/000/best_chkpt",
+    "sha256": "d8a57a022aa18ca338599be713af9db29b89cde4b00098ffe42b78f0d583e46a"
+  },
+  "pretrained_decoder_present": true,
+  "flow_parameter_shapes": {
+    "base.0.weight": [
+      8,
+      34,
+      5,
+      5
+    ],
+    "base.0.bias": [
+      8
+    ],
+    "base.1.weight": [
+      8
+    ],
+    "base.1.bias": [
+      8
+    ],
+    "base.1.running_mean": [
+      8
+    ],
+    "base.1.running_var": [
+      8
+    ],
+    "base.1.num_batches_tracked": [],
+    "decoder.0.weight": [
+      3,
+      8,
+      5,
+      5
+    ],
+    "decoder.0.bias": [
+      3
+    ]
+  },
+  "earlier_backend_sha256": "ace1647be7c58e96d0f73002705f64b8f04a26fcc63a19af115f22fc3f6de3dc",
+  "earlier_backend_declares_decoder_not_invoked": true,
+  "author_docs": "https://turagalab.github.io/flyvis/examples/02_flyvision_optic_flow_task/",
+  "author_source": "https://raw.githubusercontent.com/TuragaLab/flyvis/main/flyvis/task/decoder.py",
+  "caveats": [
+    "Task-trained artificial readout, not reconstructed HS/bIPS/DNp15 connectivity.",
+    "Requires 34 visual output types; a T4/T5-only interface cannot directly supply it.",
+    "No walking transfer, small-yaw accuracy or physiological validation established.",
+    "Main-branch source description must be checked against the pinned installed/release source before execution."
+  ]
+}

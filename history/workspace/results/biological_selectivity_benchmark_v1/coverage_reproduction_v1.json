@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "archive_entries": 5518,
+  "direct_family_files": 582,
+  "direct_family_flies": 110,
+  "unrepresented_cached_flies": 47,
+  "additional_intact_flies": 6,
+  "metadata_audit_reproduced_exactly": true,
+  "files": [
+    {
+      "path": "results/validation_hardware_v1/physiology_source_audit_v1/recording_inventory.csv",
+      "size_bytes": 423334,
+      "sha256": "7609399dae465b9c00e3c849ac3cd5a5a4816963d7df954b1b9f9f2d30a95381"
+    },
+    {
+      "path": "results/published_circuit_comparison_v1/audit/zenodo_archive_inventory.json",
+      "size_bytes": 1053547,
+      "sha256": "10182b3ef824dbba9ee673df73575fda907c7b0d1cfa61dd1a03b231ef49ee1a"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/additional_intact_metadata_audit.json",
+      "size_bytes": 18062,
+      "sha256": "79670f4452bb2790e836fb044fb1cad2e9c3b9b1b84db78c96570ae1c85f3990"
+    }
+  ],
+  "response_arrays_loaded": false
+}

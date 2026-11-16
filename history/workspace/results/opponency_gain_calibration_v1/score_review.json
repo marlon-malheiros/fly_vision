@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "prediction_cases": 216,
+  "window_cases": 1296,
+  "original_transfer_metrics_reproduced": 216,
+  "maximum_absolute_error": 1.1368683772161603e-13,
+  "independent_raw_averaging_filter_and_error_arithmetic": true
+}

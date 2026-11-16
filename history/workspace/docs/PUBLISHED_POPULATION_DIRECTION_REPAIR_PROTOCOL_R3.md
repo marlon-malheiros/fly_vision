@@ -1,0 +1,13 @@
+# Direction-objective and bilateral-symmetry repair R3
+
+1 November 2026. Freeze after the failed R2 calibration results and constant-feature diagnostic, before these fits. R2 remains unchanged. This is post-failure development on the same known training/calibration rooms, not independent validation. Original fits have training MSE 0.69197/0.001214 but no calibrated 2-degree/s detections. Sixteen exactly constant features do not change in calibration; do not claim that normalization caused the failure.
+
+The R2 regression target weights large yaw errors quadratically. Test a task-aligned direction objective and the exact reflection structure of the paired cloned-eye simulator. Reflection swaps eyes with identical within-eye coordinates and reverses yaw. This symmetry is a property of this reference simulation, not an anatomical claim of bilateral equality in MaleCNS. Verify actual reflected 3D input images to 2e-7 before fitting.
+
+Use exactly the same 9,744 training samples and class/episode weights. Normalize using equally weighted training samples and their eye-reflected counterparts, keeping paired feature scales/centers equal. Constant-feature inputs remain at their training center; there is no gain sweep. The two fixed candidates use 1,632 -> 32 tanh networks, float64 full-batch Adam, 600 steps, learning rate .003 and weight decay .001. No early stopping, search or source parameter update.
+
+Primary `symmetric_cross_entropy`: three logits, symmetrized as half of g(X) plus the reversed-class logits g(reflect(X)). Optimize class-balanced weighted cross entropy for negative/zero/positive yaw. Score is probability(positive)-probability(negative). Seed 202611011102.
+
+Secondary `antisymmetric_unit_mse`: one output, symmetrized as (g(X)-g(reflect(X)))/2. Optimize weighted MSE to sign(yaw), giving the small and larger turns equal target magnitude. Seed 202611011101. These are artificial neural readers; the upstream published neural circuit remains frozen.
+
+For each fit set one cutoff to max(.5, the maximum absolute score across all zero-yaw calibration callbacks), without using positive examples to choose it. Retain the R2 gates at every speed and at both 2 and 5 degrees/s, including each sign. Freeze exact fits before scoring calibration. Evaluate both candidates once and retain failures. If neither qualifies, do not run the reserved fresh rooms; report that this bounded family failed, not that all neural models are impossible. If a candidate qualifies, freeze its coefficients/cutoff and execute the untouched 24-room test and independent numerical refinements before any bounded success claim. No physiological validation follows from a behavioral pass.

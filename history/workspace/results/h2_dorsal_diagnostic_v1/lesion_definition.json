@@ -1,0 +1,35 @@
+{
+  "edges": [
+    {
+      "post_body": "10019",
+      "pre_body": "11919",
+      "pre_role": "bips",
+      "original_weight": -0.0011051468266498263,
+      "csr_offset": 35
+    },
+    {
+      "post_body": "10019",
+      "pre_body": "12072",
+      "pre_role": "bips",
+      "original_weight": -7.893905904641616e-05,
+      "csr_offset": 36
+    },
+    {
+      "post_body": "10019",
+      "pre_body": "10016",
+      "pre_role": "hs",
+      "original_weight": 0.00011840858856962425,
+      "csr_offset": 37
+    },
+    {
+      "post_body": "10019",
+      "pre_body": "11793",
+      "pre_role": "hs",
+      "original_weight": 3.946952952320808e-05,
+      "csr_offset": 38
+    }
+  ],
+  "removed_count": 4,
+  "original_nnz": 203861,
+  "scope": "Direct non-T4/T5 chemical afferents to left H2 only"
+}

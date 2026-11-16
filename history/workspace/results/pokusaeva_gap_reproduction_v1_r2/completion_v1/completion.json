@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETE_BOUNDED_STUDY",
+  "utc": "2026-10-26T23:16:30.519798+00:00",
+  "source_commit": "409c5628a72b19217f543d95d0808dbd90925089",
+  "author_code_reproduction": "PASS",
+  "walking_small_turn_acceptance": "FAIL",
+  "next_step": "Close this fixed linear/global-pooling candidate; do not tune coupling to test scores.",
+  "preserved_failed_attempt": "results/pokusaeva_gap_reproduction_v1",
+  "physiological_validation": false,
+  "live_progress_and_AGENTS_excluded": true
+}

@@ -1,0 +1,168 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T02:10:01.296176+00:00",
+  "rendering": [
+    {
+      "key": "q00_v16.5_y+0",
+      "time": 0.7,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q00_v16.5_y+0",
+      "time": 0.7,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q00_v16.5_y+0",
+      "time": 1.0,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q00_v16.5_y+0",
+      "time": 1.0,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q00_v16.5_y+0",
+      "time": 1.39,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q00_v16.5_y+0",
+      "time": 1.39,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q01_v16.5_y-2",
+      "time": 0.7,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q01_v16.5_y-2",
+      "time": 0.7,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q01_v16.5_y-2",
+      "time": 1.0,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q01_v16.5_y-2",
+      "time": 1.0,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q01_v16.5_y-2",
+      "time": 1.39,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q01_v16.5_y-2",
+      "time": 1.39,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q02_v16.5_y+2",
+      "time": 0.7,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q02_v16.5_y+2",
+      "time": 0.7,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q02_v16.5_y+2",
+      "time": 1.0,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q02_v16.5_y+2",
+      "time": 1.0,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q02_v16.5_y+2",
+      "time": 1.39,
+      "side": "L",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "q02_v16.5_y+2",
+      "time": 1.39,
+      "side": "R",
+      "rays": 309,
+      "maximum_image_error": 0.0,
+      "passed": true
+    }
+  ],
+  "paired_statistics": [
+    {
+      "speed": 5.5,
+      "room_differences_exact": true,
+      "all_bootstrap_draws_exact": true
+    },
+    {
+      "speed": 11.0,
+      "room_differences_exact": true,
+      "all_bootstrap_draws_exact": true
+    },
+    {
+      "speed": 16.5,
+      "room_differences_exact": true,
+      "all_bootstrap_draws_exact": true
+    }
+  ],
+  "selection": "Fixed first three q-room cases; no outcome selection"
+}

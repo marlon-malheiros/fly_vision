@@ -1,0 +1,11 @@
+{
+  "flow_linear": {
+    "independent_augmented_lstsq_max_error": 1.6581180872776713e-13,
+    "weighted_mse": 0.6919723159888244
+  },
+  "population_mlp": {
+    "numpy_torch_prediction_max_error": 2.220446049250313e-15,
+    "weighted_mse": 0.001213702160223572,
+    "steps": 600
+  }
+}

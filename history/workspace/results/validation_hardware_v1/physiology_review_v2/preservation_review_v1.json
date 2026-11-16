@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-21T13:37:51.627984+00:00",
+  "original_indexes_verified": {
+    "fixed_neighbor_motion_v1": 337,
+    "virtual_walking_openloop_v1": 270,
+    "yaw_sensitivity_ablation_v1": 1367,
+    "anatomical_strengthening_v1": 976
+  },
+  "report_links_checked": 12,
+  "live_progress_outside_indexes": true
+}

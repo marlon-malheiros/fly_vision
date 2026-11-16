@@ -1,0 +1,384 @@
+{
+  "utc": "2026-10-26T23:50:11.479407+00:00",
+  "new_outcomes_computed": false,
+  "recipes_for_all_three_routes_fixed": true,
+  "original_outcomes_known": true,
+  "fresh_test_seeds_disjoint": true,
+  "files": [
+    {
+      "path": "configs/published_circuit_comparison_v1.json",
+      "size_bytes": 1061,
+      "sha256": "477598edb67ef06fcb852266d613b45c1da0cd9e02e81fdef4bb82043330517f"
+    },
+    {
+      "path": "configs/sequential_small_turn_repairs_v1.json",
+      "size_bytes": 1558,
+      "sha256": "0600a43389b5e628a24405bc664a0f1dea85e3f450699d3231250a4cdea3f6a6"
+    },
+    {
+      "path": "docs/SEQUENTIAL_SMALL_TURN_REPAIRS_PROTOCOL_V1.md",
+      "size_bytes": 8795,
+      "sha256": "270b174c1ed38d0b22698f1af7572afa5f94bafc9f76cc97f3e0805e93bb00ca"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/methods/neural.so",
+      "size_bytes": 16464,
+      "sha256": "569115f620bd921f884bd65f126f352a0f936cd334c18bc3cd7b16d1e1acfc94"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/methods/neural_strict.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/methods/renderer.so",
+      "size_bytes": 11736,
+      "sha256": "2fc169c9b7e6e8359da448e985ae1f8e2543ce81774a1d74aaa11c671e4dab62"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/plans.json",
+      "size_bytes": 67835,
+      "sha256": "b4fa2128a20ee591c64de03613729737adb6d3e6a8c2b025ba97bf9130e526da"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/scenes.json",
+      "size_bytes": 22391,
+      "sha256": "5688a1a5a25ff5ce89df05e50347167cec23ae97490f0a93024a26ac3324a14b"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/source_coverage.json",
+      "size_bytes": 109,
+      "sha256": "0dfa3d08b8e4d14f0570c3f4213b263c9bd2054757a1c65a89bee59f5eefa32a"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/source_sampling.npz",
+      "size_bytes": 74126,
+      "sha256": "f74b94d8b7af5a3782c6d2df6f4eed73763272d902dda452d8f15a5cdc45e0f5"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/sources/41593_2025_1948_MOESM6_ESM.xlsx",
+      "size_bytes": 9402,
+      "sha256": "b5a36e2363279a1bf908bcdcc9da7dda93ce6710487ceb31add0a284d9db9488"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/sources/41593_2025_1948_MOESM9_ESM.xlsx",
+      "size_bytes": 14903,
+      "sha256": "9283b28e43a8e0e1386bd03dd81f9fb6ed8ace6556f05236eaac6867bb830bea"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c00_A.json",
+      "size_bytes": 6652,
+      "sha256": "b8109dfd2d39c40a9e9f264f7690daa09cdce6af0948fa35af6d509855fe4a6d"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c01_A.json",
+      "size_bytes": 10155,
+      "sha256": "d870f9fb3e2f99e0b8f15a3efc6b772a5e06c821460042a53fad12c9f4af2057"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c02_A.json",
+      "size_bytes": 6660,
+      "sha256": "6ebc8102be94a180230c466b2bccb3e8aa2cd42d6384114542f7003b63fb4a50"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c03_A.json",
+      "size_bytes": 10169,
+      "sha256": "0efe4741e692ee48ed07daf2dbcdbfc1bbb3df8d0eac7211e61717a62907d686"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c04_A.json",
+      "size_bytes": 6642,
+      "sha256": "863a64d716fbe66a3753e0b250f9fd517e79c28b1ba94c4ccf43a0f3ca40cde9"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c05_A.json",
+      "size_bytes": 10133,
+      "sha256": "fd9f0bb8cc0cc2b4c1ebc75752427ced4b71c8e560f6ced20ea4d6e4cf3caa49"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c06_A.json",
+      "size_bytes": 6625,
+      "sha256": "93800f69f2f135f2b95a96f635abfa980b477a1e80576859f5092add46910b2a"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c07_A.json",
+      "size_bytes": 10142,
+      "sha256": "4aa022f06c654dfdd644d21dd03774bfdbcdde1465313d891bfb47a450ed45fc"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c08_A.json",
+      "size_bytes": 6653,
+      "sha256": "5d1ed30c7d5690e81295cf20a88dc7c6991474e6bbf4375e9f83a01401f5f247"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c09_A.json",
+      "size_bytes": 10154,
+      "sha256": "be8ee91960b445ea9f7982d0814b0afe902a4c6bd12ce15ec50197dc07a5e6bc"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c10_A.json",
+      "size_bytes": 6657,
+      "sha256": "b5ab4f6de1cf16699f838f0ea3105ff3cb65d564ae446866a8a1cb8f6a193467"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/c11_A.json",
+      "size_bytes": 10187,
+      "sha256": "3525d3be92c48e01ded6522e5b4c2b98e8d042b75e1dd7cddb240ff0ecfcb1b1"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f00_A.json",
+      "size_bytes": 6657,
+      "sha256": "e0d0e1fbd558a3677197070af5b76cc09f475ac4eca8af4ddb7507aafa835c75"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f01_A.json",
+      "size_bytes": 10135,
+      "sha256": "ab670deea6c8fe233e1cb29a3d4644b3fede1b32742bf1f792fdf5c22014a63e"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f02_A.json",
+      "size_bytes": 6653,
+      "sha256": "b8f6abb112457de4c6673037cfa38d65ab3e364aa9066a6138937f613c707b5b"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f03_A.json",
+      "size_bytes": 10160,
+      "sha256": "72ba02fa3991e9e629bd305ce5b9ab7b1b78e28ad31bd4c3c56fe709f8c88fe8"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f04_A.json",
+      "size_bytes": 6636,
+      "sha256": "1622778cf4a9c7caec2c937967ae248ffc9d82259c3dabaaf242ab775516736b"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f05_A.json",
+      "size_bytes": 10137,
+      "sha256": "704bc41d4185d8585e8ca7d67078a0cd71e2ca386427f707642540c8ff999bc0"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f06_A.json",
+      "size_bytes": 6641,
+      "sha256": "eb967ce360b1bf0dd9cc2795bcaf902ea10c1a4322cdd7693214e1eadb2410d1"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/f07_A.json",
+      "size_bytes": 10172,
+      "sha256": "7c3bb92aa137ef7871970be6308b8312153af100040c8c3b53bd56434f246df4"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z00_A.json",
+      "size_bytes": 6664,
+      "sha256": "17f433382ae99e9022f401bc0a6b2524e67ebd583707c8a9349c9d4d3648544a"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z01_A.json",
+      "size_bytes": 10147,
+      "sha256": "a5fbdf3fcdbf2fb6ae47d69e1da406e7f5561c053119d4568080748fa82907c1"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z02_A.json",
+      "size_bytes": 6653,
+      "sha256": "e4366ceb5b401729649b9a7565a7123e2fbc91d6ce78fddd61a8fc546469fc5b"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z03_A.json",
+      "size_bytes": 10165,
+      "sha256": "b16ec6c451cea11d517846e922dd29c90db87f6b5d7a2ed4b62000bfb8dda4b7"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z04_A.json",
+      "size_bytes": 6638,
+      "sha256": "c35d8a213fb438e3e9c83442fbddab87cfe00557dbe3895709d35b1b1a639d41"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z05_A.json",
+      "size_bytes": 10177,
+      "sha256": "ae0743056a53b397c079ef1a5d860cd11d7eccd9ac637316eb42507c58cfe592"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z06_A.json",
+      "size_bytes": 6639,
+      "sha256": "ba75e0f3bf4467343b954c380f4ad7610d72e55f8e14312b49ce2ac8153c4670"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z07_A.json",
+      "size_bytes": 10149,
+      "sha256": "603aee9e54a0391190ef3f7f494460907100e21fefdb657495f220b7dc838a3a"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z08_A.json",
+      "size_bytes": 6640,
+      "sha256": "965f58196e19924400f0b28656d0b40ed4559aff147852494c0dfca6d9ef7970"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z09_A.json",
+      "size_bytes": 10167,
+      "sha256": "d125ccb1feb995381b3036283b5bf611b6297bc9f8ec151b60d15691fdef94d9"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z10_A.json",
+      "size_bytes": 6660,
+      "sha256": "089a5c23687fdaeea67c4678dbefa56b5e95fc86461b0f4f08f988b8dddcf1fb"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z11_A.json",
+      "size_bytes": 10144,
+      "sha256": "2c8c69c11621583a5f7849db70a3b976c6fad0e3f8c326b3d2223b0fad45c2a0"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z12_A.json",
+      "size_bytes": 6653,
+      "sha256": "06707092c6559a4d9a290e21da0d3b8d94097ca003f90c9956d3ce80611ad42f"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z13_A.json",
+      "size_bytes": 10177,
+      "sha256": "7c632239f4ed4c8f83cc18b69c56475d003ec80221f97db144b72f026f8f0a1f"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z14_A.json",
+      "size_bytes": 6655,
+      "sha256": "8ac8904bd91ec82b6e1efbe9e3dfdcd7ede97b00cc1e9f2fb60a60eaea008f7a"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z15_A.json",
+      "size_bytes": 10178,
+      "sha256": "67699bbc2ccbed40ba705c05688f81e4b63858e6bb21502d27c95e029529ed1a"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z16_A.json",
+      "size_bytes": 6652,
+      "sha256": "f5aa3b684a07e7ff3d3c4ac82f60c59e4767796f20b80ce61342e0c5ec42b7d3"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z17_A.json",
+      "size_bytes": 10137,
+      "sha256": "ddb98548f2f4c67e190d4f92326db9a740813d5fbbb5e7737ef47c53345694f2"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z18_A.json",
+      "size_bytes": 6658,
+      "sha256": "cb6da58b4b10389d306a33f3b63d3796c163676238974d0ca1a6d63d72efdb32"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z19_A.json",
+      "size_bytes": 10143,
+      "sha256": "58893eed0b91b92d80ea704322847c07fc96e777b84c369f14a90539ae1c127d"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z20_A.json",
+      "size_bytes": 6651,
+      "sha256": "a75c5c60f9551b8ecf0146b368b89f2a07958687022526845c40e231aac4ab7b"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z21_A.json",
+      "size_bytes": 10144,
+      "sha256": "defa4eb294747500c0e3618ab28e640d0033584fb4075dbc71e2eb862c9630c9"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z22_A.json",
+      "size_bytes": 6666,
+      "sha256": "fed784820763fc3a9d6d7caa77ebf4a80a3fd4a48e7d1e938a103f5d6e3a0dd2"
+    },
+    {
+      "path": "results/sequential_small_turn_repairs_v1/worlds/z23_A.json",
+      "size_bytes": 10189,
+      "sha256": "9e0d50f3b7f7f5f5476245facb0044f7602afcc4ca91174915a467c7645e13ef"
+    },
+    {
+      "path": "scripts/published_circuit_comparison_v1.py",
+      "size_bytes": 16407,
+      "sha256": "8fad3e35ac0b58faf4aa8df52b3724bd2d1208398348e05c2dfc4d90aef75fe9"
+    },
+    {
+      "path": "scripts/sequential_small_turn_repairs_v1.py",
+      "size_bytes": 31544,
+      "sha256": "11081b6878fb7280fe9483372829b52d4f8352ea43cfe780c0d34dd9274f26bb"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "size_bytes": 1583,
+      "sha256": "d3bc2a05220c9906c5801d03347b6e7e6e10baaf738458244ac566ca9193f577"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/published_circuit_boundary_v1.py",
+      "size_bytes": 1974,
+      "sha256": "e89da7a3e3cca601d2de7798f97f565a80acbd99dc8c3ad235abbaa93a5cb7cf"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v1.py",
+      "size_bytes": 4943,
+      "sha256": "6eeeb762940f96132ee191a8a9730ed1c232af6fd2f8dfc7fd932a51f64ea4e6"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v2.py",
+      "size_bytes": 3894,
+      "sha256": "dadea43d9d90ecf5e3c246dd6590ea0b8cc0050a5263bab5f1a494e072c1e71d"
+    },
+    {
+      "path": "src/male_optic_frontend/sequential_repairs_v1.py",
+      "size_bytes": 7267,
+      "sha256": "09c0e546ecbcba1958cdb2bcae6357e27b665a8395f70456e6b1ed68c82f8b85"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    }
+  ]
+}

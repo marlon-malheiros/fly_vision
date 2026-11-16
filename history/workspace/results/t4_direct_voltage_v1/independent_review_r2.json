@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "localizer_traces": 160,
+  "scored_conditions": 40,
+  "native_bin_mean_max_error_mv": 9.114842214330565e-11,
+  "gain_errors": {
+    "delivered_drive": 0.0,
+    "signed_branch": 2.7755575615628914e-17
+  },
+  "metric_and_bootstrap_max_error": 1.4210854715202004e-14,
+  "early_localizer_score_separation": true,
+  "prior": [
+    {
+      "index": {
+        "path": "results/t4_observation_transfer_v1/completion_v1/artifact_index.json",
+        "bytes": 9338,
+        "sha256": "575591faeffae145494ebfa7384344bf0fd37dae55657607d9424eadb3d1fe95"
+      },
+      "files": 45,
+      "unchanged": true
+    },
+    {
+      "index": {
+        "path": "results/t4_matched_source_admission_v1/completion_v1/artifact_index.json",
+        "bytes": 28129,
+        "sha256": "e6d7ae595fc59b4be89a3e2d849e49fc88a6dab575186a64a270259e4954e7dd"
+      },
+      "files": 130,
+      "unchanged": true
+    }
+  ],
+  "whole_circuit_validation": false,
+  "clock_conversion": "producer multiplication by 1e-6; direct-sum bins",
+  "original_failed_review_preserved": true,
+  "correction_protocol": "T4_DIRECT_VOLTAGE_REVIEW_CORRECTION_R2.md"
+}

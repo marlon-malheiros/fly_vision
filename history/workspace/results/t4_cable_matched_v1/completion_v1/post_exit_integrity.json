@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/t4_cable_matched_v1/completion_v1/artifact_index.json",
+    "bytes": 91885,
+    "sha256": "7194beca13cdae151061ae864f70a33a27ad1f7614caae2e818070dec2fa62d7"
+  },
+  "files": 466,
+  "bytes": 6556163,
+  "separate_process_after_sealer_exit": true,
+  "previous": {
+    "index": {
+      "path": "results/t4_direct_voltage_v1/completion_v1/artifact_index.json",
+      "bytes": 73729,
+      "sha256": "01887205cbcf59876032d702a8b458647c33a0a164b80bade74cb3e833d9af9d"
+    },
+    "files": 368,
+    "unchanged": true
+  },
+  "complete_biological_validation": false
+}

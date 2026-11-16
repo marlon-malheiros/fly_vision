@@ -1,0 +1,136 @@
+{
+  "status": "PASS",
+  "full_second_execution": true,
+  "trajectory_files_bit_identical": 264,
+  "array_entries_bit_identical": 1848,
+  "byte_identical_summary_files": [
+    "analysis/means.csv",
+    "analysis/contrasts.csv",
+    "analysis/odd_responses.csv",
+    "analysis/currents.csv",
+    "analysis/original_scores.csv",
+    "analysis/abstract_patterns.csv",
+    "analysis/original_connectivity.csv",
+    "analysis/complete.json",
+    "presentation/original_diagnostic_counts.csv",
+    "presentation/paired_dnp15_odd_effects.csv"
+  ],
+  "public_source_git_blobs_verified": 50,
+  "paired_small_yaw_lesion_ratio_ranges": {
+    "original_cells": {
+      "min": 0.8540420802155024,
+      "max": 0.8560838174852266,
+      "count": 6
+    },
+    "reference_all_hs": {
+      "min": 0.7916655518441357,
+      "max": 0.7932175092276766,
+      "count": 6
+    },
+    "reference_classic_hs": {
+      "min": 0.7910389413090714,
+      "max": 0.7927314584198973,
+      "count": 6
+    }
+  },
+  "original_count_rows_checked": 6,
+  "local_links": [
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPRODUCTION_V1.md",
+      "target": "docs/PUBLISHED_CIRCUIT_COMPARISON_PROTOCOL_V1.md"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPRODUCTION_V1.md",
+      "target": "docs/PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "docs/PUBLISHED_CIRCUIT_COMPARISON_PROTOCOL_V1.md"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "docs/PUBLISHED_CIRCUIT_COMPARISON_REPRODUCTION_V1.md"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/audit/audit_findings.json"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/audit/primary_sources"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/audit/zenodo_archive_inventory.json"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "configs/published_circuit_comparison_v1.json"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/execution_complete.json"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/analysis"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/independent_review/exact_reference_gains.json"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/presentation/reference_transfer_gains.png"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/presentation/paired_dnp15_odd_effects.csv"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/analysis/original_connectivity.csv"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/analysis/currents.csv"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/presentation/matched_boundary_responses.png"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/presentation/original_diagnostic_counts.csv"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_comparison_v1/independent_review/review.json"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "results/published_circuit_reproduction_main_v1.log"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "docs/PUBLISHED_CIRCUIT_COMPARISON_REPRODUCTION_V1.md"
+    },
+    {
+      "document": "PUBLISHED_CIRCUIT_COMPARISON_REPORT_V1.md",
+      "target": "docs/CORRECTED_PHYSIOLOGICAL_DIAGNOSTICS_REPORT_V2.md"
+    }
+  ],
+  "failed_reproduction_preserved": true,
+  "visual_inspection": [
+    "reference_transfer_gains.png",
+    "matched_boundary_responses.png"
+  ],
+  "runtime": {
+    "python": "3.14.8",
+    "numpy": "2.5.3",
+    "platform": "Linux-7.2.11-200.fc44.x86_64-x86_64-with-glibc2.43"
+  },
+  "author_agent_code_reproduced": false,
+  "physiological_validation": false,
+  "new_detection_threshold": false
+}

@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-15T19:12:24.250411+00:00",
+  "predecessor_entries_verified": 337,
+  "predecessor_external_dependencies_verified": 23,
+  "frozen_method_files_verified": 21,
+  "complete_receipts": 40,
+  "documents_checked": 4,
+  "local_links_checked": 20,
+  "report_counts": {
+    "primary_trials": 36,
+    "input_refinements": 4,
+    "solver_only_refinements": 1,
+    "cell_rows": 504,
+    "class_rows": 144,
+    "decoder_predictions": 180
+  },
+  "physiological_validation": false,
+  "closed_loop": false
+}

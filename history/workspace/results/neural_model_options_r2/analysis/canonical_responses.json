@@ -1,0 +1,128 @@
+[
+  {
+    "key": "phase0_vx+0_vy+0",
+    "vx_deg_s": 0,
+    "vy_deg_s": 0,
+    "phase": 0,
+    "decoded_x_change": 0.0,
+    "decoded_y_change": 0.0,
+    "seconds": 8.359934628009796
+  },
+  {
+    "key": "phase0_vx+60_vy+0",
+    "vx_deg_s": 60,
+    "vy_deg_s": 0,
+    "phase": 0,
+    "decoded_x_change": 0.8179225921630859,
+    "decoded_y_change": -0.20402443408966064,
+    "seconds": 1.8037975710030878
+  },
+  {
+    "key": "phase0_vx-60_vy+0",
+    "vx_deg_s": -60,
+    "vy_deg_s": 0,
+    "phase": 0,
+    "decoded_x_change": -1.2117756605148315,
+    "decoded_y_change": 0.46720069646835327,
+    "seconds": 1.8317544919991633
+  },
+  {
+    "key": "phase0_vx+0_vy+60",
+    "vx_deg_s": 0,
+    "vy_deg_s": 60,
+    "phase": 0,
+    "decoded_x_change": 0.10009866952896118,
+    "decoded_y_change": 1.0596035718917847,
+    "seconds": 1.8597075919969939
+  },
+  {
+    "key": "phase0_vx+0_vy-60",
+    "vx_deg_s": 0,
+    "vy_deg_s": -60,
+    "phase": 0,
+    "decoded_x_change": -0.1897108405828476,
+    "decoded_y_change": -1.496968388557434,
+    "seconds": 1.7858090059889946
+  },
+  {
+    "key": "phase0_vx+2_vy+0",
+    "vx_deg_s": 2,
+    "vy_deg_s": 0,
+    "phase": 0,
+    "decoded_x_change": 0.03426816314458847,
+    "decoded_y_change": -0.01043031271547079,
+    "seconds": 1.984368146993802
+  },
+  {
+    "key": "phase0_vx-2_vy+0",
+    "vx_deg_s": -2,
+    "vy_deg_s": 0,
+    "phase": 0,
+    "decoded_x_change": -0.03198018670082092,
+    "decoded_y_change": 0.011073367670178413,
+    "seconds": 1.8468973489943892
+  },
+  {
+    "key": "phase1_vx+0_vy+0",
+    "vx_deg_s": 0,
+    "vy_deg_s": 0,
+    "phase": 1.5707963267948966,
+    "decoded_x_change": 0.0,
+    "decoded_y_change": 0.0,
+    "seconds": 8.379345597000793
+  },
+  {
+    "key": "phase1_vx+60_vy+0",
+    "vx_deg_s": 60,
+    "vy_deg_s": 0,
+    "phase": 1.5707963267948966,
+    "decoded_x_change": 0.7967153787612915,
+    "decoded_y_change": -0.3043983578681946,
+    "seconds": 1.923360553002567
+  },
+  {
+    "key": "phase1_vx-60_vy+0",
+    "vx_deg_s": -60,
+    "vy_deg_s": 0,
+    "phase": 1.5707963267948966,
+    "decoded_x_change": -1.195860505104065,
+    "decoded_y_change": 0.5173538327217102,
+    "seconds": 1.8388943969912361
+  },
+  {
+    "key": "phase1_vx+0_vy+60",
+    "vx_deg_s": 0,
+    "vy_deg_s": 60,
+    "phase": 1.5707963267948966,
+    "decoded_x_change": 0.02770906873047352,
+    "decoded_y_change": 1.108213186264038,
+    "seconds": 1.8502401890000328
+  },
+  {
+    "key": "phase1_vx+0_vy-60",
+    "vx_deg_s": 0,
+    "vy_deg_s": -60,
+    "phase": 1.5707963267948966,
+    "decoded_x_change": -0.19604134559631348,
+    "decoded_y_change": -1.5479099750518799,
+    "seconds": 1.8193616060016211
+  },
+  {
+    "key": "phase1_vx+2_vy+0",
+    "vx_deg_s": 2,
+    "vy_deg_s": 0,
+    "phase": 1.5707963267948966,
+    "decoded_x_change": 0.03140316158533096,
+    "decoded_y_change": -0.01658586412668228,
+    "seconds": 1.8556531310023274
+  },
+  {
+    "key": "phase1_vx-2_vy+0",
+    "vx_deg_s": -2,
+    "vy_deg_s": 0,
+    "phase": 1.5707963267948966,
+    "decoded_x_change": -0.0318533256649971,
+    "decoded_y_change": 0.014620929956436157,
+    "seconds": 1.8208944389916724
+  }
+]

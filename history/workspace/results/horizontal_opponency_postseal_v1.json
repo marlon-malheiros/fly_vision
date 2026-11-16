@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-28T02:47:40.339301+00:00",
+  "artifact_index": {
+    "path": "results/horizontal_opponency_v1/completion_v1/artifact_index.json",
+    "size_bytes": 94898,
+    "sha256": "591be1be034a778d4a28b4b72e3e1d3d2fa1cfab96e69f7b5874e692b7cbcf53"
+  },
+  "indexed_files": 437,
+  "total_bytes": 102611955,
+  "all_indexed_files_and_inputs_exact": true,
+  "all_source_snapshots_exact": true,
+  "separate_process_after_sealing": true
+}

@@ -1,0 +1,1298 @@
+[
+  {
+    "reader": "downstream_softmax_change__conservative",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 1.7911451565970786,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__conservative",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 1.7911451565970786,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__conservative",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 1.7911451565970786,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__conservative",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 1.7911451565970786,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__conservative",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 1.7911451565970786,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 29,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__conservative",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 1.7911451565970786,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__budgeted",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 1.6607557741804568,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__budgeted",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 1.6607557741804568,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__budgeted",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 1.6607557741804568,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__budgeted",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 1.6607557741804568,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__budgeted",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 1.6607557741804568,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 29,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_change__budgeted",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 1.6607557741804568,
+    "joint": 2,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 1
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__conservative",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 0.9969944456494918,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__conservative",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 0.9969944456494918,
+    "joint": 29,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 14,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "downstream_softmax_persist5__conservative",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 0.9969944456494918,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__conservative",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 0.9969944456494918,
+    "joint": 31,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "downstream_softmax_persist5__conservative",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 0.9969944456494918,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 30,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__conservative",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 0.9969944456494918,
+    "joint": 27,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 15,
+      "1": 12
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__budgeted",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 0.9969322140352529,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__budgeted",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 0.9969322140352529,
+    "joint": 29,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 14,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "downstream_softmax_persist5__budgeted",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 0.9969322140352529,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__budgeted",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 0.9969322140352529,
+    "joint": 31,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "downstream_softmax_persist5__budgeted",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 0.9969322140352529,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 30,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "downstream_softmax_persist5__budgeted",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 0.9969322140352529,
+    "joint": 27,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 15,
+      "1": 12
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__conservative",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 1.230686898278076,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__conservative",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 1.230686898278076,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__conservative",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 1.230686898278076,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__conservative",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 1.230686898278076,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__conservative",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 1.230686898278076,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__conservative",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 1.230686898278076,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__budgeted",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 1.188512959739161,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__budgeted",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 1.188512959739161,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__budgeted",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 1.188512959739161,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__budgeted",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 1.188512959739161,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__budgeted",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 1.188512959739161,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_change__budgeted",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 1.188512959739161,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 1
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__conservative",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 0.9908015172289186,
+    "joint": 31,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__conservative",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 0.9908015172289186,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__conservative",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 0.9908015172289186,
+    "joint": 9,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 7,
+      "1": 2
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__conservative",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 0.9908015172289186,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__conservative",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 0.9908015172289186,
+    "joint": 7,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 5,
+      "1": 2
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__conservative",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 0.9908015172289186,
+    "joint": 29,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 15,
+      "1": 14
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__budgeted",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 0.9845084416363452,
+    "joint": 31,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__budgeted",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 0.9845084416363452,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__budgeted",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 0.9845084416363452,
+    "joint": 10,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 7,
+      "1": 3
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__budgeted",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 0.9845084416363452,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__budgeted",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 0.9845084416363452,
+    "joint": 8,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 6,
+      "1": 2
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "opponent_ratio_softmax_persist5__budgeted",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 0.9845084416363452,
+    "joint": 30,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 15,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "male_nuisance_ridge_change__conservative",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 2.3217227309037396,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__conservative",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 2.3217227309037396,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__conservative",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 2.3217227309037396,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__conservative",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 2.3217227309037396,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__conservative",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 2.3217227309037396,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 31,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__conservative",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 2.3217227309037396,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__budgeted",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 1.7091709965971913,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__budgeted",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 1.7091709965971913,
+    "joint": 3,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 2
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__budgeted",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 1.7091709965971913,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__budgeted",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 1.7091709965971913,
+    "joint": 9,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 3,
+      "1": 6
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__budgeted",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 1.7091709965971913,
+    "joint": 0,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 0,
+      "1": 0
+    },
+    "raw_sign_correct": 31,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_change__budgeted",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 1.7091709965971913,
+    "joint": 11,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 7,
+      "1": 4
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__conservative",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 0.9790539980749592,
+    "joint": 1,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 1,
+      "1": 0
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__conservative",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 0.9790539980749592,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__conservative",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 0.9790539980749592,
+    "joint": 4,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 3,
+      "1": 1
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__conservative",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 0.9790539980749592,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__conservative",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 0.9790539980749592,
+    "joint": 7,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 5,
+      "1": 2
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__conservative",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 0.9790539980749592,
+    "joint": 31,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__budgeted",
+    "speed": 5.5,
+    "yaw": 2,
+    "cutoff": 0.9263120973199948,
+    "joint": 5,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 4,
+      "1": 1
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__budgeted",
+    "speed": 5.5,
+    "yaw": 5,
+    "cutoff": 0.9263120973199948,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__budgeted",
+    "speed": 11.0,
+    "yaw": 2,
+    "cutoff": 0.9263120973199948,
+    "joint": 6,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 3,
+      "1": 3
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__budgeted",
+    "speed": 11.0,
+    "yaw": 5,
+    "cutoff": 0.9263120973199948,
+    "joint": 32,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 16
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 0,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__budgeted",
+    "speed": 16.5,
+    "yaw": 2,
+    "cutoff": 0.9263120973199948,
+    "joint": 8,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 6,
+      "1": 2
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": false
+  },
+  {
+    "reader": "male_nuisance_ridge_persist5__budgeted",
+    "speed": 16.5,
+    "yaw": 5,
+    "cutoff": 0.9263120973199948,
+    "joint": 31,
+    "n_turns": 32,
+    "per_sign": {
+      "-1": 16,
+      "1": 15
+    },
+    "raw_sign_correct": 32,
+    "straight_any": 1,
+    "n_straight": 16,
+    "static_any": 0,
+    "n_static": 16,
+    "passed": true
+  }
+]

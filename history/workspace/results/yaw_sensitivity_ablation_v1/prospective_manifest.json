@@ -1,0 +1,129 @@
+{
+  "frozen_utc": "2026-10-19T12:50:02.951803+00:00",
+  "new_yaw_and_lesion_outcomes_inspected": false,
+  "files": [
+    {
+      "path": "configs/yaw_sensitivity_ablation_v1.json",
+      "sha256": "186ffb9f108af86938dc3ca220455fc3d22c7755977184bc50f5ad4dfc634a5d",
+      "size_bytes": 8687
+    },
+    {
+      "path": "scripts/run_yaw_sensitivity_ablation_v1.py",
+      "sha256": "08c35240b6c9c83a8a3245b55c188ba98a244e484c1443d39493651f8a84dfb2",
+      "size_bytes": 9512
+    },
+    {
+      "path": "scripts/analyze_yaw_sensitivity_ablation_v1.py",
+      "sha256": "646f389f6997f5228a29c6831c491aa64c4a16e2d26bdd063364b141281d3754",
+      "size_bytes": 11391
+    },
+    {
+      "path": "scripts/review_yaw_sensitivity_ablation_v1.py",
+      "sha256": "68f0ebca644a14a9b372e15283f25ae58ef543c45f648d4b1b34b614ce8e2a7f",
+      "size_bytes": 10620
+    },
+    {
+      "path": "tests/test_yaw_sensitivity_v1.py",
+      "sha256": "9ba4df7e5ff04cea8decc97cd76fe96db69e0996218b490522e9bf69ffd6e65d",
+      "size_bytes": 3680
+    },
+    {
+      "path": "docs/YAW_SENSITIVITY_ABLATION_PROTOCOL_V1.md",
+      "sha256": "f2fa9873211393c11968076b5eddbdaea2dfb562a59db54a3f8024149310a3bd",
+      "size_bytes": 6835
+    },
+    {
+      "path": "results/yaw_sensitivity_ablation_v1/methods/yaw_batch_solver_v1.so",
+      "sha256": "9d2691fa83da9672e8a2e2413486f970feb92c0856fbd60d3cbaafc29d247b08",
+      "size_bytes": 25520
+    },
+    {
+      "path": "results/yaw_sensitivity_ablation_v1/plans.json",
+      "sha256": "716117b74a00e217dd0cddf4273356976a87213dbdab6d59e0f09a8485a0a946",
+      "size_bytes": 57633
+    },
+    {
+      "path": "results/yaw_sensitivity_ablation_v1/ablation_definitions.json",
+      "sha256": "1568e0d8e9c08c23158c804644b7eaf2f565f5385c7bcf841cfa62e258bdfa57",
+      "size_bytes": 4601
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28",
+      "size_bytes": 9682
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_batch_solver_v1.cpp",
+      "sha256": "cc0ef0885db4c77ae19d13e135fa8d09090aace1ac908934a46fb35f0e0c580b",
+      "size_bytes": 2485
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa",
+      "size_bytes": 10113
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba",
+      "size_bytes": 8086
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_input.py",
+      "sha256": "10ce14adfce3cb273fda657b8ea0ea1e6ca1b9a8e2682b07832f49e91a760ab5",
+      "size_bytes": 3390
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914",
+      "size_bytes": 13419
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_contracts.py",
+      "sha256": "552f707c4943fb86ad7b46add41cf502a66834f30b60a4ef209666e94ee106d6",
+      "size_bytes": 5599
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12",
+      "size_bytes": 12274
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60",
+      "size_bytes": 2410306
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph.json",
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6",
+      "size_bytes": 2010
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/graph_arrays.npz",
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373",
+      "size_bytes": 54879
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/chemical_weights.npz",
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0",
+      "size_bytes": 636379
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/downstream/gap_weights.npz",
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70",
+      "size_bytes": 1041
+    }
+  ],
+  "previous_indexes": {
+    "results/fixed_neighbor_motion_v1/artifact_index.json": "25d1390b8d96eb573d2f191df6faab95e52b4bd4402e8296abe9c2da7ef51c6a",
+    "results/virtual_walking_openloop_v1/artifact_index.json": "7f1436e018fa0b668f6df800f994c19d48bde8ede79227f2e6e69a89980f61b7"
+  },
+  "predecessor_entries_verified": {
+    "results/fixed_neighbor_motion_v1/artifact_index.json": 337,
+    "results/virtual_walking_openloop_v1/artifact_index.json": 270
+  },
+  "compiler": "g++ (GCC) 16.2.1 20260819 (Red Hat 16.2.1-2)",
+  "python": "3.14.8",
+  "numpy": "2.5.3",
+  "scipy": "1.18.1",
+  "parameters_refitted": false
+}

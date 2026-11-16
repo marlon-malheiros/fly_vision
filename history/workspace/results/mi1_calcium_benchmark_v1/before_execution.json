@@ -1,0 +1,95 @@
+{
+  "utc": "2026-11-05T10:34:38.850595+00:00",
+  "response_curves_not_inspected": true,
+  "known_qualitative_paper_findings_read": true,
+  "previous_indexes": [
+    {
+      "path": "results/c2c3_data_suitability_v1/completion_v1/artifact_index.json",
+      "bytes": 13287,
+      "sha256": "c644c89a2d0ac7e763dcf265ddca73210d47da860e79a1964808a2447ee12c68"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_r2/artifact_index.json",
+      "bytes": 37846,
+      "sha256": "9f8894018cf913361f4ce46d9c3c043d3f668017758e136ab7481a93192eae0a"
+    }
+  ],
+  "files": [
+    {
+      "path": "scripts/mi1_calcium_benchmark_v1.py",
+      "bytes": 29810,
+      "sha256": "bf5b0f8cb37153eb4ce51c0aa3e71c2c471748bf34f29a8e68bea7325a5a0bc2"
+    },
+    {
+      "path": "src/male_optic_frontend/mi1_calcium_benchmark_v1.py",
+      "bytes": 2372,
+      "sha256": "1d91df8171d19981ba9264cef61a099dab0a6b0afb8360c02f301f40a0e7cbbc"
+    },
+    {
+      "path": "src/male_optic_frontend/published_parallel_t4_v1.py",
+      "bytes": 3333,
+      "sha256": "a5f4a98411943924228949c1e8b79b721e2a238b502c2c9be262e9fd06f61b60"
+    },
+    {
+      "path": "src/male_optic_frontend/c2c3_metadata_v1.py",
+      "bytes": 1494,
+      "sha256": "3f585bd06f5ddc411659cc247c25906e6b3344170a5d84d3c81cd5f310c0917c"
+    },
+    {
+      "path": "tests/test_mi1_calcium_benchmark_v1.py",
+      "bytes": 753,
+      "sha256": "577780b3df38eb8b94bd176a67c46b0e41020e16e42c759713bb909ca2fae672"
+    },
+    {
+      "path": "configs/mi1_calcium_benchmark_v1.json",
+      "bytes": 397,
+      "sha256": "17d082bfc9d1c93632c62c6b442e2ff956c19f0b329b123276077f7c8e76eed9"
+    },
+    {
+      "path": "docs/MI1_CALCIUM_BENCHMARK_PROTOCOL_V1.md",
+      "bytes": 5604,
+      "sha256": "0ec502cd77bdaf09498ac9ec2d6e1150ede34eeeb31ed4d180903a6a5d06d2d7"
+    },
+    {
+      "path": "results/c2c3_data_suitability_v1/sources/Data/Figure4-SourceData1/FFFDATA_Mi1.mat",
+      "bytes": 9130474,
+      "sha256": "a3de9cc60268d2e52208a2133759e494a577f277372058ddb8de72d22ed8778d"
+    },
+    {
+      "path": "results/c2c3_data_suitability_v1/sources/Data/Figure4-SourceData1/FFFDATA_Mi1_C2Sil.mat",
+      "bytes": 8430785,
+      "sha256": "f407e3666aaf5e6caa9704c7fa725f775991d7c02123c11edf513492f3da55aa"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/converted_filters.mat",
+      "bytes": 14080,
+      "sha256": "8953b11d7c30027d6b14d2f040b3efbcbd0888bb0bb37aaf22b5353c5901e74b"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/kernel_200.mat",
+      "bytes": 14080,
+      "sha256": "380b631e904c6cde2e4da4646bc0f3ef943d76f8ca98330fceb584d354de06f5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/kernel_300.mat",
+      "bytes": 14080,
+      "sha256": "acae991885386dca7117c42949674f906d367af7c3f6506ab15e5c3ac9952bbc"
+    },
+    {
+      "path": "results/c2c3_data_suitability_v1/sources/subscripts/aggregate_fffall_means10Hz_BleedThruFix_v2_mh.m",
+      "bytes": 3682,
+      "sha256": "324c4ea7141a8f7477bbf236e6201788e1fb71faf7341f2cfc85399c2088b2d4"
+    },
+    {
+      "path": "results/c2c3_data_suitability_v1/animal_partitions.csv",
+      "bytes": 5056,
+      "sha256": "147f59eb680e556eb9526592e259f2e3688e5bae98cd8ac17df799aeab0ff27f"
+    },
+    {
+      "path": "results/c2c3_data_suitability_v1/Mi1_explicit_flyID_crosswalk.json",
+      "bytes": 456,
+      "sha256": "47a20d4d5cdf31537cc485260f76abc302615d1757dbadf717d906e57dbf6862"
+    }
+  ],
+  "scope": "Mi1 temporal-calcium component only; no full circuit or walking claim"
+}

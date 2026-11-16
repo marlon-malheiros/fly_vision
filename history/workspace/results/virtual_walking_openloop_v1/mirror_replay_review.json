@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "full_movie_mirror_error": 0.0,
+  "frames_checked": 401,
+  "independent_reflection_of_geometry_texture_and_eye_origin": true,
+  "three_replayed_frames_bitwise_equal": true
+}

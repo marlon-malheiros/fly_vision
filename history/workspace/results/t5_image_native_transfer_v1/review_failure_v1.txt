@@ -1,0 +1,5 @@
+Initial command: python scripts/run_t5_image_native_transfer_v1.py review
+Failure before waveform checks:
+  in review, target = (j+8*k)*pitch
+OverflowError: Python integer -40 out of bounds for uint8
+The original frozen script, scores and simulation outputs were preserved. See review_amendment.json for the post-score audit correction.

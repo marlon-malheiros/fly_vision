@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "run": "<WORKSPACE>/results/neural_change_readout_v1",
+      "configuration": {
+        "path": "configs/neural_change_readout_v1.json",
+        "size_bytes": 1610,
+        "sha256": "6e339ed9ef2740a30e452add4d1f812c141b9c226a2a2f9627376676033c6620"
+      },
+      "parameters_unchanged": true,
+      "new_world_present": true
+    },
+    {
+      "run": "<WORKSPACE>/results/neural_change_readout_v1",
+      "configuration": {
+        "path": "configs/neural_change_readout_v1.json",
+        "size_bytes": 1610,
+        "sha256": "6e339ed9ef2740a30e452add4d1f812c141b9c226a2a2f9627376676033c6620"
+      },
+      "parameters_unchanged": true,
+      "new_world_present": true
+    },
+    {
+      "run": "<WORKSPACE>/results/neural_change_readout_v1",
+      "configuration": {
+        "path": "configs/neural_change_readout_v1.json",
+        "size_bytes": 1610,
+        "sha256": "6e339ed9ef2740a30e452add4d1f812c141b9c226a2a2f9627376676033c6620"
+      },
+      "parameters_unchanged": true,
+      "new_world_present": true
+    },
+    {
+      "run": "<WORKSPACE>/results/neural_change_readout_v1",
+      "configuration": {
+        "path": "configs/neural_change_readout_v1.json",
+        "size_bytes": 1610,
+        "sha256": "6e339ed9ef2740a30e452add4d1f812c141b9c226a2a2f9627376676033c6620"
+      },
+      "parameters_unchanged": true,
+      "new_world_present": true
+    }
+  ],
+  "no_rendering": true
+}

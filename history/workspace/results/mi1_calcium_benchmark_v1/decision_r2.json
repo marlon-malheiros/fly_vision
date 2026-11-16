@@ -1,0 +1,10 @@
+{
+  "limited_component_acceptance": false,
+  "disposition": "Stopped on development: zero locked gains cannot pass unchanged criteria",
+  "holdout_evaluated": false,
+  "reserved_Mi1_animals_remaining": 6,
+  "scientific_thresholds_unchanged": true,
+  "numerical_checks_passed": true,
+  "full_circuit_biological_validation": false,
+  "small_turn_qualification_unchanged": true
+}

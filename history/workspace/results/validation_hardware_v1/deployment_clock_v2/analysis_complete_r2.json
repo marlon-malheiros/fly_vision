@@ -1,0 +1,25 @@
+{
+  "status": "FAIL_DECLARED_TEST_SET_EQUIVALENCE",
+  "samples": 408,
+  "cell_comparisons": 5712,
+  "decisions": 1584,
+  "flagged_cell_comparisons": 0,
+  "decision_changes": 6,
+  "max_mean_absolute_error": 1.502167763371351e-06,
+  "max_mean_relative_error": 0.012672846691782003,
+  "max_contrast_relative_error": 0.0653824422426033,
+  "changes_by_role": {
+    "hs": 3,
+    "h2": 2,
+    "bips": 1,
+    "dnp15": 0
+  },
+  "correction": "Frozen analysis saved complete CSVs, then JSON serialization rejected numpy.int64. New report uses native int; outcomes/criteria untouched.",
+  "scope": "original_primary_input_set_only; explicit_solver_approximation_not_independent_biological_validation",
+  "reporting_recovered_utc": "2026-10-21T11:52:30.493776+00:00",
+  "failure_log": {
+    "path": "results/validation_hardware_v1/deployment_clock_v2_analysis.log",
+    "size_bytes": 1350,
+    "sha256": "16b7c306c125551943f7b0702c6dc76f03e540e3149753413680b9d8ddacc461"
+  }
+}

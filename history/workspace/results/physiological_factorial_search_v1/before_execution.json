@@ -1,0 +1,1651 @@
+{
+  "utc": "2026-11-04T20:16:05.209375+00:00",
+  "no_visual_candidate_outcomes_computed": true,
+  "no_source_family_outcomes_computed": true,
+  "old_counts_verified": {
+    "t4_horizontal_integration_pilot_v1": 228,
+    "hs_temporal_components_v1": 230,
+    "physiological_branch_validation_v1": 59
+  },
+  "files": [
+    {
+      "path": "scripts/physiological_factorial_search_v1.py",
+      "size_bytes": 27728,
+      "sha256": "c9c5f4ff59c16ae44b1ffb3905a8044436fb3b52cf02553e3e7056f6aaf06cf9"
+    },
+    {
+      "path": "configs/physiological_factorial_search_v1.json",
+      "size_bytes": 900,
+      "sha256": "9dc8d760d5d8a4ee8efde4d9d5b50ce7d452e747b6a32d2e07ee4fbaf849ba58"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_FACTORIAL_SEARCH_PROTOCOL_V1.md",
+      "size_bytes": 9892,
+      "sha256": "d427caa7cae0d041e09004055e6a04f5dd72ff2a62f348f92bc546fa25baa697"
+    },
+    {
+      "path": "src/male_optic_frontend/__init__.py",
+      "size_bytes": 104,
+      "sha256": "1a1b602c69967dfa8488e0f29612792da8cdde8dcbb76dbed499b827b4c0db79"
+    },
+    {
+      "path": "src/male_optic_frontend/agreement_yaw_v1.py",
+      "size_bytes": 2154,
+      "sha256": "1443faa1c491c3703efbc58d28bc9e433ee7cb1e2c08e8c20eea40b39a50eddf"
+    },
+    {
+      "path": "src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "src/male_optic_frontend/aperture_input.py",
+      "size_bytes": 3065,
+      "sha256": "b6b56a48c2274c7ce554236756287499e2355adc87fae9d1c644622e51b96acb"
+    },
+    {
+      "path": "src/male_optic_frontend/bar_stimulus.py",
+      "size_bytes": 5450,
+      "sha256": "9c2e4ca8dcda0cefb263e00e9b03c695df7c69505e5b1d285d25920a0981878a"
+    },
+    {
+      "path": "src/male_optic_frontend/biological_failure_localization_v1.py",
+      "size_bytes": 3234,
+      "sha256": "b45099a951ae67db4bf3989bd47b175e8e1a795ff9d4a8a5cf3dbbe013e0b197"
+    },
+    {
+      "path": "src/male_optic_frontend/biological_selectivity_v1.py",
+      "size_bytes": 4116,
+      "sha256": "df7cc796fe7e2a767d749a518703561bebcfe578c546e0583d306e40ef0e5138"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_clock_guard_v1.py",
+      "size_bytes": 13090,
+      "sha256": "5262d39f37290e2cbf40c1d57f9fbb80c6c34a15b5e33d640c935e857d277a96"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v3.py",
+      "size_bytes": 6713,
+      "sha256": "a0e762a1c3473517e5ac3c262559d3631d0a8227f3ccfa8ee8057f35558e3c2f"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v4.py",
+      "size_bytes": 6425,
+      "sha256": "0abf7e248faeec133191d794387364925665e3f55791f658c7fe5ff467982a3f"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v5.py",
+      "size_bytes": 4707,
+      "sha256": "4c56ffaddfce90a486477372b633ebffe86839392d599c2ef91b05a8af6167b6"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v6.py",
+      "size_bytes": 1771,
+      "sha256": "84c1f2c54fa2bc83eefb80372bae9c665cf7d9d461304de9c0e3fb74b19fcce7"
+    },
+    {
+      "path": "src/male_optic_frontend/camera_runtime_v8.py",
+      "size_bytes": 1189,
+      "sha256": "f06d55b873b76ac2f203c237b02b5068d03e29f59dd02087922b9c8a8f475ec4"
+    },
+    {
+      "path": "src/male_optic_frontend/cardinal_study.py",
+      "size_bytes": 2546,
+      "sha256": "eb98058b74b03653279a6c0cd355059a3f77b7554b6c36ccf4ddb180ad7876e5"
+    },
+    {
+      "path": "src/male_optic_frontend/causal_short_window_yaw_v1.py",
+      "size_bytes": 4844,
+      "sha256": "5cb783a12a8775290bcff6a4bd1889fef713dd012ee7fa05ae9294f962f2a600"
+    },
+    {
+      "path": "src/male_optic_frontend/checkpoint_comparison.py",
+      "size_bytes": 6056,
+      "sha256": "c6845da4b49672182523fe51db895e5b050fc2758adbffccf38338a424363da7"
+    },
+    {
+      "path": "src/male_optic_frontend/continuing_camera_v1.py",
+      "size_bytes": 6826,
+      "sha256": "5f4056b49a4a4b46155890b041e1cda35813de83bdb6ca4cfe90102f3fcd253b"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_readout_monitor_r2.py",
+      "size_bytes": 1487,
+      "sha256": "3905cfd68e4bd4e26d88a54f1d4af1342363f7a4f425ca771d6755417c4c6a16"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_readout_repair_v1.py",
+      "size_bytes": 3398,
+      "sha256": "ad012d42c7e17c13a327469e7f0fd36230a2012348c04bd5ec9959ff8c623170"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/current_clamp.py",
+      "size_bytes": 4303,
+      "sha256": "b6290930ff171a3ccbdfb38ca3e1602f90732a2abc2283b4011bd93b4b5ca7b1"
+    },
+    {
+      "path": "src/male_optic_frontend/current_clamp_v2.py",
+      "size_bytes": 4331,
+      "sha256": "9e58a35ee83a8317697379fe756d1a6abcc28ff06b0c2e474540a4ffb4b84093"
+    },
+    {
+      "path": "src/male_optic_frontend/dense_causal_yaw_r3.py",
+      "size_bytes": 2550,
+      "sha256": "096349796addcda8ff8b3efdbbb2590608476905ee8622060497013a27cf8cca"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v1.py",
+      "size_bytes": 18506,
+      "sha256": "c923510f8ba715977cb7c704ad472111ba9b8dd798a1d8da1edc5f402f8d7cec"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v2.py",
+      "size_bytes": 9864,
+      "sha256": "453f6212e4300cb2976ad886defe61690bdf3c93f1ef62c677124fb29fe7d6f8"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_cuda_v3.py",
+      "size_bytes": 5329,
+      "sha256": "93ec347bb5d4a17f48e70da959d45e2dae08cd4c88697f5df4b8093e8d97cf5c"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_frontend_v2.py",
+      "size_bytes": 3142,
+      "sha256": "ea7f96e231f29ef2b144869abe2fa53c53dba18e8c7824f760361228b9a2298e"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_frontend_v3.py",
+      "size_bytes": 667,
+      "sha256": "0e7c737336ff63d9b6a887400382cd529456e1f31ab39f0c9613c4888d4d21de"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_neural_v3.py",
+      "size_bytes": 867,
+      "sha256": "4ad5184815d103e3cb2c438c42c9faa8780168de4c9f704d8803a025505e8d45"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_neural_v4.py",
+      "size_bytes": 700,
+      "sha256": "af578d894ef2ef6a7890e971f4c220598b677a95562273bd2128b9307f062741"
+    },
+    {
+      "path": "src/male_optic_frontend/drive_adapter.py",
+      "size_bytes": 3353,
+      "sha256": "03ca124d5a32c58312aa87066f387530bc49ead0ca4cc00b500e6ea295adc064"
+    },
+    {
+      "path": "src/male_optic_frontend/edge_validation.py",
+      "size_bytes": 20274,
+      "sha256": "231d76e2d67ef108e0456454f246b63aa51b47b045d2e362aaa4183ac77e4d14"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_v1.py",
+      "size_bytes": 6523,
+      "sha256": "6319db9e70cb1be83413dd6e95c1223209eb8674098eca5927580ee0cb701030"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_motion_stimuli.py",
+      "size_bytes": 2528,
+      "sha256": "491a2eb028bf0fd87d5dab84b51bf22249feed6e38111156c727915c15884f89"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/flow_clamp_interface_v2.py",
+      "size_bytes": 1452,
+      "sha256": "b1ea08ff2614f909d265b2992b70bfa38612580ae846e6e362321d77056e07c0"
+    },
+    {
+      "path": "src/male_optic_frontend/flyvis_backend.py",
+      "size_bytes": 12665,
+      "sha256": "ace1647be7c58e96d0f73002705f64b8f04a26fcc63a19af115f22fc3f6de3dc"
+    },
+    {
+      "path": "src/male_optic_frontend/flyvis_drive_adapter.py",
+      "size_bytes": 6432,
+      "sha256": "1b4587fcd875d4f2770a9bc5ca8d196d27571010bf790507e27edeb85db9c116"
+    },
+    {
+      "path": "src/male_optic_frontend/flyvis_t5_round4a.py",
+      "size_bytes": 6205,
+      "sha256": "e93cc9e98065fac535c55c834f53ad32818fbb665a01fdf0b16c9c8522f69465"
+    },
+    {
+      "path": "src/male_optic_frontend/frontend.py",
+      "size_bytes": 9163,
+      "sha256": "f997ddbc1ee2328c758a61c1683386c3e04eb4cef03a4fc11091f2d41b035aef"
+    },
+    {
+      "path": "src/male_optic_frontend/gruntman_cohort.py",
+      "size_bytes": 18577,
+      "sha256": "e93b0e051629baa837207979587dd7d85630731edc4267f8f1dce24e8d7a47cf"
+    },
+    {
+      "path": "src/male_optic_frontend/gruntman_t5.py",
+      "size_bytes": 10684,
+      "sha256": "4e902f06f92650c7e37849ea0ff28ee727aaff4afdc32c11383d0e04bf1694c4"
+    },
+    {
+      "path": "src/male_optic_frontend/h2_edge_arena_v1.py",
+      "size_bytes": 4383,
+      "sha256": "f23298b994ba356ef1050fcf7a5dc45f98280abd3cff5887c27b2521753218d2"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v1.py",
+      "size_bytes": 1793,
+      "sha256": "ceefa9da2b8c701571deda259b94c25a0a997e637c469fd22f4598a3c4369b9f"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v2.py",
+      "size_bytes": 946,
+      "sha256": "1f600f9f506d23ad1f4a8daef2be935a9f389140115152195e66bd463f740c38"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_cuda_v3.py",
+      "size_bytes": 1503,
+      "sha256": "c00eef2aaba8781e6efca533a70ee79932cfccab8bc313dbe864bb802ba285ae"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_split_v1.py",
+      "size_bytes": 1379,
+      "sha256": "aeadf56447dc3dd1c09aca1f937f752712560107abccb92ccd2e1d9c80e10e63"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_v1.py",
+      "size_bytes": 4536,
+      "sha256": "01690d344d4146c6884814526fa1ed8cf34de1e3620724021f1aec44371b0904"
+    },
+    {
+      "path": "src/male_optic_frontend/hardware_runtime_v2.py",
+      "size_bytes": 7068,
+      "sha256": "412461ad5e46cc0df0c86afb892065fd932828031c233f106c993ac0579f625c"
+    },
+    {
+      "path": "src/male_optic_frontend/held_input_circuit_v1.py",
+      "size_bytes": 3341,
+      "sha256": "ea3412b584c054e728221822d241921c620e5d34f5400aa9ee1c915f276b3750"
+    },
+    {
+      "path": "src/male_optic_frontend/horizontal_opponency_v1.py",
+      "size_bytes": 1852,
+      "sha256": "7fb26af03c783e070ca4aac9e86df14b5b0977ca3b0f05205d901aeec7ddaecf"
+    },
+    {
+      "path": "src/male_optic_frontend/hs_contrast_validation_v1.py",
+      "size_bytes": 3360,
+      "sha256": "6a425d317412b991404a741ea4084e2d6b6fbed44aacadca46a2f0ce0e21c22f"
+    },
+    {
+      "path": "src/male_optic_frontend/hs_gain_transfer_v1.py",
+      "size_bytes": 4867,
+      "sha256": "a21d5f21c066bf91190476e053f2831a4590771d3e5a273088c1f4d51ce110b1"
+    },
+    {
+      "path": "src/male_optic_frontend/hs_gain_transfer_v2.py",
+      "size_bytes": 2012,
+      "sha256": "7b2cd08fe8493b07a800a008631191c04b5e38b8568d9f7bf983795811a3dc21"
+    },
+    {
+      "path": "src/male_optic_frontend/hs_temporal_components_v1.py",
+      "size_bytes": 3072,
+      "sha256": "89782ad16542384da5164ed23ff7c2b4cdc9370e0c574ca3e38f6f5a82d7342c"
+    },
+    {
+      "path": "src/male_optic_frontend/hs_temporal_refinement_v1.py",
+      "size_bytes": 1335,
+      "sha256": "fd6549c6cce31ce5bad5e36d52bdf8de6155aec9d072760ef4346a04d5997134"
+    },
+    {
+      "path": "src/male_optic_frontend/hs_upstream_temporal_v1.py",
+      "size_bytes": 3374,
+      "sha256": "6182cf3dd6b0dbc0dee1b7a6b4e44f2d19885869d0bb56af1bbb867ee404382f"
+    },
+    {
+      "path": "src/male_optic_frontend/hybrid_yaw_monitor_v1.py",
+      "size_bytes": 1838,
+      "sha256": "1111d88500a26cbfdcceb387389b9dbf1ab27cc6bad9c21f95471f20c5df5cde"
+    },
+    {
+      "path": "src/male_optic_frontend/initialization_study.py",
+      "size_bytes": 7512,
+      "sha256": "0bc15c1f60104dd2c226e4eed8b4efce801a917dc9f2faa488efbe3b2757cfa5"
+    },
+    {
+      "path": "src/male_optic_frontend/legacy_bridge.py",
+      "size_bytes": 11345,
+      "sha256": "746c6da7e4966d9b284e5f54d55a43126377ac0d9ffc42bdf6428c991c4ad9fc"
+    },
+    {
+      "path": "src/male_optic_frontend/linear_response_attribution_v1.py",
+      "size_bytes": 3609,
+      "sha256": "210175b4aa43b5c3e12dabffb7dee26a1db5bbdda433d5d8c0a2e1c1d10dd2b7"
+    },
+    {
+      "path": "src/male_optic_frontend/local_subunit_v1.py",
+      "size_bytes": 4641,
+      "sha256": "97011e13b452b9bdac6cb606f3c27d461b781232ddbf61961c02b4bd7af427a3"
+    },
+    {
+      "path": "src/male_optic_frontend/lossless_storage_v2.py",
+      "size_bytes": 817,
+      "sha256": "7067bc1a2d5065d6b684a126141fe2528b73878c034234503e9beca8a7b68cc8"
+    },
+    {
+      "path": "src/male_optic_frontend/matched_edge_grating.py",
+      "size_bytes": 3885,
+      "sha256": "0feef65373073df010c46dd58aa937053bc02acd7b26c1b465e45bc92caffa0a"
+    },
+    {
+      "path": "src/male_optic_frontend/matlab_mcos_table_v1.py",
+      "size_bytes": 5187,
+      "sha256": "2ea11d0ddfb6e72089c92db59855b9975d17640d28a3f639fc3dc1ffc45e8598"
+    },
+    {
+      "path": "src/male_optic_frontend/matlab_mcos_table_v2.py",
+      "size_bytes": 5218,
+      "sha256": "2c0923880c1f10ec635433ad049b3cb494a3842e2316c2c245f3ef7efbe97c4c"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_change_readout_v1.py",
+      "size_bytes": 1815,
+      "sha256": "00a6419717ea0853f711e66108fdec10d5196da322443109cc70d7b40caa5d50"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_readout_v1.py",
+      "size_bytes": 6283,
+      "sha256": "472e4b5ce6326cb9c03f30ca0ebd8b1b7c4efe9aed90b2499c5cc28e69ef02e4"
+    },
+    {
+      "path": "src/male_optic_frontend/observation_gain_v1.py",
+      "size_bytes": 1257,
+      "sha256": "5b06ea33e1ff0a69d39465de320653af2ad3aa2735de00465d38ebda88501ced"
+    },
+    {
+      "path": "src/male_optic_frontend/ongoing_walking_yaw_v1.py",
+      "size_bytes": 661,
+      "sha256": "62696cbe63a00f23bdd37090090d3ce8f3ea8dee26fee12030bfe202d67f791f"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_grating_readout.py",
+      "size_bytes": 5742,
+      "sha256": "0bfef68b124721540393a3781230cbab782345911ec61c8867b52e061f50bcb4"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_image_clamp_repair.py",
+      "size_bytes": 2287,
+      "sha256": "28ab1da9162db351ebd2a27a947597fcdb22c6f42911ba34b6b9766e1d68739f"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_population.py",
+      "size_bytes": 5492,
+      "sha256": "e756130849f3fe84efd616007c227cf99152c820fd4bdabb07e2d000b2106cec"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_prototype.py",
+      "size_bytes": 6444,
+      "sha256": "baf160bd44dcb65844698a35af11fac8903de712fb86d36be2b55b8c01afd046"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_resource_reuse.py",
+      "size_bytes": 5773,
+      "sha256": "7517fa9a71e8e2aee341d2508dfd7e8d96bcc028c7553dc0a8f9c9dafd6e1e11"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_t4.py",
+      "size_bytes": 5686,
+      "sha256": "b14a9bc562788aadd4f919c25912746c9ed3a6619379330fb2db7ac63ba7a64b"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_t4_fixed_image_v1.py",
+      "size_bytes": 3092,
+      "sha256": "8f3ee0a02f981d14d07bbb7c73d21db2936fd7bba21c6d2e722d06b837d06bf6"
+    },
+    {
+      "path": "src/male_optic_frontend/physiological_texture_analysis.py",
+      "size_bytes": 4558,
+      "sha256": "ce48e8bdadeb139a04a14f203d8dbd21b629bf532fb9259896d2bc55632c3da0"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_factorial_fields_v1.py",
+      "size_bytes": 7700,
+      "sha256": "67f3c54c4676879c409be8f5d92f3d93619e75898c3a9e48b110dc611f467ac9"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_factorial_v1.py",
+      "size_bytes": 2986,
+      "sha256": "d401c9db9f32902a88f540f2e76068a32f8db150780c2ca09bcf292162d94681"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "src/male_optic_frontend/pokusaeva_circuit_v1.py",
+      "size_bytes": 2503,
+      "sha256": "bec20d5d70073b31467bf3b50d5bdc1622bc937407025951bf136f55e10ea167"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_analysis.py",
+      "size_bytes": 8884,
+      "sha256": "cba93ac941f9d02161296b6e8050acf80e9645484aa851c126d7edb0638d2171"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_contracts.py",
+      "size_bytes": 5599,
+      "sha256": "552f707c4943fb86ad7b46add41cf502a66834f30b60a4ef209666e94ee106d6"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_pipeline.py",
+      "size_bytes": 34594,
+      "sha256": "eff99ae54fe3292aa4122b2559b25dd20a2b78f183c9283c1b5a9f86ca1cb4d7"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_reporting.py",
+      "size_bytes": 30710,
+      "sha256": "211387503f4e4ea1434800aa78ef8bb5aaeaf22dbbcdae66a01aa55e78d31d54"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_runtime.py",
+      "size_bytes": 2463,
+      "sha256": "e0f20680e5cb3fb9911be1544f2bea0075ad5a2ad4c61c35d696a66b00f12a67"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_stimulus.py",
+      "size_bytes": 2415,
+      "sha256": "64e55d7401c9aa8c04f2fae6b786eb3ee951077cd6cee8dcb36a02eada7cfbaf"
+    },
+    {
+      "path": "src/male_optic_frontend/postfix_trial.py",
+      "size_bytes": 3237,
+      "sha256": "bd20447725b8e0b4b6ebba87df8028248625b39f6bab9f3b431236a2f5d2581e"
+    },
+    {
+      "path": "src/male_optic_frontend/published_circuit_boundary_v1.py",
+      "size_bytes": 1974,
+      "sha256": "e89da7a3e3cca601d2de7798f97f565a80acbd99dc8c3ad235abbaa93a5cb7cf"
+    },
+    {
+      "path": "src/male_optic_frontend/published_flow_probe_v1.py",
+      "size_bytes": 8047,
+      "sha256": "8e83657ab023414490845576142e1f7299abc5b7dd45889fa4b4bbdd8a330d7f"
+    },
+    {
+      "path": "src/male_optic_frontend/published_parallel_t4_v1.py",
+      "size_bytes": 3333,
+      "sha256": "a5f4a98411943924228949c1e8b79b721e2a238b502c2c9be262e9fd06f61b60"
+    },
+    {
+      "path": "src/male_optic_frontend/published_t5_forward.py",
+      "size_bytes": 4808,
+      "sha256": "b211e811f2e7eab674b505e3c751c2c4b81e033ecdfb8dbc27548b9417dbdb99"
+    },
+    {
+      "path": "src/male_optic_frontend/reliability_weighted_yaw_v1.py",
+      "size_bytes": 5517,
+      "sha256": "ec843ec5724a9ea58ee1b488d4e0042eda6d283cfa8008b146a8001c906973c7"
+    },
+    {
+      "path": "src/male_optic_frontend/reporting.py",
+      "size_bytes": 9842,
+      "sha256": "a789eb1d652cb1f6b28b9066b505f23e71f54fa702b075d42086cba0e2dac831"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_input.py",
+      "size_bytes": 3390,
+      "sha256": "10ce14adfce3cb273fda657b8ea0ea1e6ca1b9a8e2682b07832f49e91a760ab5"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v1.py",
+      "size_bytes": 4943,
+      "sha256": "6eeeb762940f96132ee191a8a9730ed1c232af6fd2f8dfc7fd932a51f64ea4e6"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v2.py",
+      "size_bytes": 3894,
+      "sha256": "dadea43d9d90ecf5e3c246dd6590ea0b8cc0050a5263bab5f1a494e072c1e71d"
+    },
+    {
+      "path": "src/male_optic_frontend/sensor_adapter_v1.py",
+      "size_bytes": 8721,
+      "sha256": "c8dce5784f54726ce4491fc11bf3dfd6cd174f81330a08ba687dedb5bfc1d8d9"
+    },
+    {
+      "path": "src/male_optic_frontend/sensor_adapter_v2.py",
+      "size_bytes": 4947,
+      "sha256": "540ac507196a6b93da7dcb772f0130045d43e241280524a60a5391dd61ac6625"
+    },
+    {
+      "path": "src/male_optic_frontend/sequential_repairs_v1.py",
+      "size_bytes": 7267,
+      "sha256": "09c0e546ecbcba1958cdb2bcae6357e27b665a8395f70456e6b1ed68c82f8b85"
+    },
+    {
+      "path": "src/male_optic_frontend/small_turn_decision_v1.py",
+      "size_bytes": 747,
+      "sha256": "5afd0ca79757645c167094e62a4aa956c69b1fac47ef1afcb19ddd2a5f3419a4"
+    },
+    {
+      "path": "src/male_optic_frontend/small_turn_round_v1.py",
+      "size_bytes": 7090,
+      "sha256": "53a2685211ad57e600b18ba24e6a06894536ddb19d56488fc655bab71a35ddc5"
+    },
+    {
+      "path": "src/male_optic_frontend/spatial_direction_field_v1.py",
+      "size_bytes": 3974,
+      "sha256": "7c1ff96ebf81847bdc63eec4e32660a0b74ffa118154556ac8b6614a03c15135"
+    },
+    {
+      "path": "src/male_optic_frontend/spatiotemporal_study.py",
+      "size_bytes": 6043,
+      "sha256": "1e1809ef8302f1ba0bd9f23c29af48ee1c8fb4152f0d42ef83fb98fe1e5d89b5"
+    },
+    {
+      "path": "src/male_optic_frontend/stimulus.py",
+      "size_bytes": 8559,
+      "sha256": "89beded1c0633b13f587836c5554c4814cc99822c0cd0dac647b5585204af685"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/t4_horizontal_integration_v1.py",
+      "size_bytes": 3086,
+      "sha256": "480bb28c4cf97f9fa1f5e79117532931fbeb4e7f9f3278160f2d147257008350"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_active_sensitivity.py",
+      "size_bytes": 5009,
+      "sha256": "171700ed6fbb7b0e06fc00b4ab94407e4807284f911e5fa99277f13374492e04"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_compensation_challenge.py",
+      "size_bytes": 6060,
+      "sha256": "be92b224c0ac80721476c3556e8821d70cd9cb50c164c24232f01a13d99e817e"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_evidence_audit.py",
+      "size_bytes": 11015,
+      "sha256": "256fe489557b459241c4dbb97bf95b1c2563349767a26de784a56d6eed882dad"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_heldout.py",
+      "size_bytes": 3318,
+      "sha256": "ee66b76eabacd5959a5788568d5fe9e0a982a6b237d4e42163f4a0cb8ed752d0"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_image_native_transfer.py",
+      "size_bytes": 2942,
+      "sha256": "a852a440c70c96c9607b7acf92540d671dc0a7102d93118b4351276a36a1cb07"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_matched_grating_observation.py",
+      "size_bytes": 5288,
+      "sha256": "9bff06787ef9fec534557486325530051879a7eae74182ce11743e1c456bdfef"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_mixed_parameter_sensitivity.py",
+      "size_bytes": 5566,
+      "sha256": "7c9e5ec4e2151789c99848ca255af7bdf52e94284ad752541f0c683bb9107829"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_moving_bar_transfer.py",
+      "size_bytes": 3348,
+      "sha256": "3374753642daa7bd680c632250c3b3e0cd9e1c733a22bfeae383ef2910767c6d"
+    },
+    {
+      "path": "src/male_optic_frontend/t5_reference_validation.py",
+      "size_bytes": 2403,
+      "sha256": "f6b4babe7895e71259fd2414add5fe34b59e0b958cf148985817880d134794f2"
+    },
+    {
+      "path": "src/male_optic_frontend/t5b_receptive_field.py",
+      "size_bytes": 4856,
+      "sha256": "1e7a6a3c72063060e5ebafeb7fb5e6af71d56a1cc469bd800a42a6b6c6ccd38f"
+    },
+    {
+      "path": "src/male_optic_frontend/t5b_receptive_field_v3.py",
+      "size_bytes": 4950,
+      "sha256": "a99050babd7a2a61bd94fce0791ec3428954f633a811e306fb4f2f18ca5b1a11"
+    },
+    {
+      "path": "src/male_optic_frontend/validation_hardware_v1.py",
+      "size_bytes": 2860,
+      "sha256": "54d909306541267c91721fa915ce20849d22a9a7291dee02a764ac3d0890cccd"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "src/male_optic_frontend/weak_direction.py",
+      "size_bytes": 5151,
+      "sha256": "019b30ea2a1569ac36ecbfd9fa0600d5dab4b7d466df2c7e8d07a22f0fdce436"
+    },
+    {
+      "path": "src/male_optic_frontend/wiring_controls.py",
+      "size_bytes": 9253,
+      "sha256": "2c681a9bd39dd589addd8a10daecd98a97ceb7d49ba04a8c0ae297aa15eabac2"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "src/male_optic_frontend/anatomical_batch_solver_v1.cpp",
+      "size_bytes": 2492,
+      "sha256": "8f5a9aaee49b7e56547190191f81732aa70da517d53d4cda034046414178a1ca"
+    },
+    {
+      "path": "src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "size_bytes": 1583,
+      "sha256": "d3bc2a05220c9906c5801d03347b6e7e6e10baaf738458244ac566ca9193f577"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_frontend_v2.cpp",
+      "size_bytes": 2823,
+      "sha256": "530c51be3a3de8a4caf3cd782019f89557c858408d9ebc0c5560f1c87a3bedd8"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_frontend_v3.cpp",
+      "size_bytes": 2930,
+      "sha256": "75814ef3a1ee7fc83f02f9ae66898581d3904f054fd2485b52b7677f9f05521b"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_neural_v3.cpp",
+      "size_bytes": 2385,
+      "sha256": "1873c4bc53c662b50623b11a024fc3471487121cc684928c6bfd58263eaf0f64"
+    },
+    {
+      "path": "src/male_optic_frontend/deployment_neural_v4.cpp",
+      "size_bytes": 2204,
+      "sha256": "a741da4b4a7905694055d7a9cfd3c92ead4079d204f02066dab90b2c9279349e"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_core_v1.cpp",
+      "size_bytes": 3242,
+      "sha256": "b82dd104ffb75d1d5c1e1fc8d06461de8f244124e51b4c302e5c3de5b4d6cf9e"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_observer_v1.cpp",
+      "size_bytes": 3368,
+      "sha256": "1d8b992b937ea9cf64ac428ea9d95f47ead8f3286ff32f48297afaab5c828254"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_factorial_core_v1.cpp",
+      "size_bytes": 2688,
+      "sha256": "35289436afbac47d89fcbe04ca313f1f5a28e1b850ba7d4bb5a2dfb7e9f8d130"
+    },
+    {
+      "path": "src/male_optic_frontend/sensor_projection_v2.cpp",
+      "size_bytes": 1248,
+      "sha256": "1d5bedd556b0efb0782a0fe839904219f19ca7d13b51c243f62e461e9ee62dce"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_batch_solver_v1.cpp",
+      "size_bytes": 2485,
+      "sha256": "cc0ef0885db4c77ae19d13e135fa8d09090aace1ac908934a46fb35f0e0c580b"
+    },
+    {
+      "path": "scripts/check_physiology_factorial_backend_v1.py",
+      "size_bytes": 2476,
+      "sha256": "339ffcf3e455c7a0788530e1094c983c9ec285f77f970dd98195723a538f81d2"
+    },
+    {
+      "path": "scripts/check_physiology_factorial_stress_v1.py",
+      "size_bytes": 1984,
+      "sha256": "0280da68750fe59bec2e5c0409715486b8cd307463c4b30ae1fc511e257f6106"
+    },
+    {
+      "path": "tests/test_physiology_factorial_fields_v1.py",
+      "size_bytes": 1937,
+      "sha256": "ebd2eb46d223f7b85064cb74aeff89f290f194bf8b6bcbba29368e04bf041f96"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/kernel_200.mat",
+      "size_bytes": 14080,
+      "sha256": "380b631e904c6cde2e4da4646bc0f3ef943d76f8ca98330fceb584d354de06f5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/kernel_300.mat",
+      "size_bytes": 14080,
+      "sha256": "acae991885386dca7117c42949674f906d367af7c3f6506ab15e5c3ac9952bbc"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/conversion_review.json",
+      "size_bytes": 1064,
+      "sha256": "7325375f818b01355a682d53a0e5c6ec3f2f2f18cf426eacab7afc753f8034cd"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/methods/packed.so",
+      "size_bytes": 20496,
+      "sha256": "c63b16af9de52510309ed4079de7f1e5f8b26aab3ad3ac03390940042532fa44"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/synthetic_backend_review.json",
+      "size_bytes": 1618,
+      "sha256": "8cc105d16c5e13e359b7d222e8b93004707b19656d6676ac7c9baaf1389b5eff"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/synthetic_stress_review.json",
+      "size_bytes": 532,
+      "sha256": "ad4424304ad9a9a0d2f44096d382e27fcedc2839d20e50ef3719804f2670d6fb"
+    },
+    {
+      "path": "results/t4_horizontal_integration_pilot_v1/completion_v1/artifact_index.json",
+      "size_bytes": 55419,
+      "sha256": "20c74718887b53a9e0b9fc267093435c1fde2a9cb69411ec478c0952f8ad457a"
+    },
+    {
+      "path": "scripts/t4_horizontal_integration_pilot_v1.py",
+      "size_bytes": 23124,
+      "sha256": "8b2cff14787a4bd8ada1c95e909e0f69af4558e107507c44c628396a297d6208"
+    },
+    {
+      "path": "configs/t4_horizontal_integration_pilot_v1.json",
+      "size_bytes": 553,
+      "sha256": "0a0e065258438217e1becb2e6c948dd89c5a4566a31fc45d5c97656dc44dc6d8"
+    },
+    {
+      "path": "docs/T4_HORIZONTAL_INTEGRATION_PILOT_PROTOCOL_V1.md",
+      "size_bytes": 7589,
+      "sha256": "f7dc09636b50263702d69811215036042cd7dc2547d89c248e2517696e50991f"
+    },
+    {
+      "path": "tests/test_t4_horizontal_integration_v1.py",
+      "size_bytes": 2063,
+      "sha256": "c871ef5b4e9bbdee653fcd5375353c819d1c5fa884648e311d95c1331923be72"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/completion_v1/artifact_index.json",
+      "size_bytes": 53362,
+      "sha256": "6c77796b573541dd3ce05a009f53728a11aa61426741b33d6fb7af3fc860c9eb"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/completion_v1/artifact_index.json",
+      "size_bytes": 13053,
+      "sha256": "74a5de11b0b8e55f86f71e76d781a4e00280b112b40dcc11496d2e2acbce2f4b"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/converted_filters.mat",
+      "size_bytes": 14080,
+      "sha256": "8953b11d7c30027d6b14d2f040b3efbcbd0888bb0bb37aaf22b5353c5901e74b"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/SetModelParameters.m",
+      "size_bytes": 4406,
+      "sha256": "aa4a14c766aa36356bbdfdc6e470a41494c8959b1108270e7699103e3665329b"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/before_execution.json",
+      "size_bytes": 45279,
+      "sha256": "1fd285ffd8c31dceccc3129c0a8eac86fab5f7e42e6b5608051500222b00d919"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/comparisons.json",
+      "size_bytes": 7171,
+      "sha256": "81531aca6745eed6745f4b1aa5f2b5d89c5a8de0e4efd69b1d2f20cb871e513f"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/panel_targets.json",
+      "size_bytes": 4666,
+      "sha256": "f42992e5fd57dc2b1a999e5323c0408e20e7198812402c0334ade2c60b4c1b16"
+    },
+    {
+      "path": "scripts/hs_temporal_components_v1.py",
+      "size_bytes": 19852,
+      "sha256": "6c2ecabcf2d2c135575c5cda87e3d7d60daee7e88d75c6163f6da542cf81e913"
+    },
+    {
+      "path": "scripts/hs_upstream_temporal_v1.py",
+      "size_bytes": 20262,
+      "sha256": "a4fdcb028bbe70873c4739cb7047f1a26fe338accb36d476d4694a9bfd1f3cc6"
+    },
+    {
+      "path": "scripts/hs_temporal_refinement_v1.py",
+      "size_bytes": 16496,
+      "sha256": "e88033004b36e6cc9ebb6c87ebef3d094ec3bd9438823f250808c209ac01c3eb"
+    },
+    {
+      "path": "scripts/hs_gain_transfer_v1.py",
+      "size_bytes": 19412,
+      "sha256": "f509e2318e98e6dc61f9625cce615a5b2c465aa2b929a5351f082f2766527b44"
+    },
+    {
+      "path": "scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "scripts/final_openloop_milestone_v1.py",
+      "size_bytes": 17273,
+      "sha256": "c7b746955315588de94e59cfddd77b2e0549628277897c50b5a9d95c889bf464"
+    },
+    {
+      "path": "configs/hs_temporal_components_v1.json",
+      "size_bytes": 550,
+      "sha256": "4ed5b3c36a8cb1872fc899ec9aaafd1175ea77827befe80be73abf1892d27203"
+    },
+    {
+      "path": "docs/HS_TEMPORAL_COMPONENTS_PROTOCOL_V1.md",
+      "size_bytes": 5699,
+      "sha256": "da1c2984db4a837559541d4a5e8f3dafa129e28b09275de952b1a4e22092dd8a"
+    },
+    {
+      "path": "tests/test_hs_temporal_components_v1.py",
+      "size_bytes": 2912,
+      "sha256": "ea1eac5d631c91ae0fb7dcacb10f927fa58189ac794917f144697bad3c617240"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/final_openloop_milestone_v1/methods/circuit.so",
+      "size_bytes": 24592,
+      "sha256": "e09085e5ed9bcc1f6277504f9e67e99eab4da651f3765e7e798cb27f09181d13"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1_r2/calibrated_model.json",
+      "size_bytes": 635,
+      "sha256": "c033c1b33d2ddc5e8e945b39762ab1cd4a73419846f084b1bf8b4cef7be8dde1"
+    },
+    {
+      "path": "results/hs_gain_transfer_v1_r2/targets.json",
+      "size_bytes": 5574,
+      "sha256": "3a3ada62e69123a041d0b54a5ebf3adab0a4d9c5ee98fcad86ea65f57d35454f"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/upstream_parameters.json",
+      "size_bytes": 600,
+      "sha256": "d5972458b721b842c590081fe349b352c28ef296ee83fc278775dbed5df5f17d"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/panel_targets.json",
+      "size_bytes": 4374,
+      "sha256": "c13400bcd46260bae36a5152e6cadd49c3931417b930fe385063b5e6982f80dd"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/comparisons.json",
+      "size_bytes": 3586,
+      "sha256": "d88a385b6d6425764a7cbafa3f595a99c2bf635d3d759c666efcf8cd59a81901"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/decision.json",
+      "size_bytes": 535,
+      "sha256": "1a6a2abdc205a074f997d8ac61dc8ba30b853bcd117883632bfdf14226a008dc"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/numerical_checks.json",
+      "size_bytes": 4691,
+      "sha256": "b20a575911878ffdc87bee72755ba9b941d68c6107c5499fec1a0ef6b496ad71"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/plans.json",
+      "size_bytes": 2933,
+      "sha256": "17f56ef4f6eed99bb1e14d6be933f69daf50d5bb5b5b82e55d41476fdfd38ac6"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/completion_v1/artifact_index.json",
+      "size_bytes": 53216,
+      "sha256": "ad2d3bb5f754a5d16f58747773974a9753348e034bbbcf3e2d0709eac2f23d14"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/plans.json",
+      "size_bytes": 2933,
+      "sha256": "17f56ef4f6eed99bb1e14d6be933f69daf50d5bb5b5b82e55d41476fdfd38ac6"
+    },
+    {
+      "path": "results/raw_local_calibration_repair_v1/model.json",
+      "size_bytes": 2802,
+      "sha256": "8d2e9a7f091043a9b5618d5c421f36b3494169614a85f11df20a85c273584b1b"
+    },
+    {
+      "path": "results/raw_local_calibration_repair_v1/cutoff.json",
+      "size_bytes": 15327,
+      "sha256": "d2a40a9cc5e2de05d0720a974f9233e8031bc8728a7546572bb32c4862a6311b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph.json",
+      "size_bytes": 1916,
+      "sha256": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz",
+      "size_bytes": 64837,
+      "sha256": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz",
+      "size_bytes": 716856,
+      "sha256": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d0_primary/receipt.json",
+      "size_bytes": 458,
+      "sha256": "44de96bcc7cb68c073c8a6bf4cdd29349bab6e00d6b9b645ee3046316d5112e7"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d0_primary/summary.json",
+      "size_bytes": 1093,
+      "sha256": "e1a4779abf4047eec9ec8d9bad60bdecc48200da15c53630465c8f74e1f5a059"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d0_primary/observations.npz",
+      "size_bytes": 207957,
+      "sha256": "0a9313d7336cf6f43dbacb36c5b08c14ccf2be2a4b62f78f98023c3508efa683"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d180_primary/receipt.json",
+      "size_bytes": 462,
+      "sha256": "48dc645414c61608e84ddc9f28f9c22761e82d6eb3c0cd3014a42fb9b28785da"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d180_primary/summary.json",
+      "size_bytes": 1204,
+      "sha256": "d72af06641a0ab0c58c8302f034b72c875a0f702bf7143e5f02ac3a4aa86506d"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d180_primary/observations.npz",
+      "size_bytes": 207704,
+      "sha256": "1666fbd827b9cf9aaa41e7f577505149d5585950fdc032d0e123707a06d0e512"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d0_primary/receipt.json",
+      "size_bytes": 453,
+      "sha256": "1445a67de5b6d85afa3a65a1922f118182c97cc811de984c358a6ffa962cafe7"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d0_primary/summary.json",
+      "size_bytes": 992,
+      "sha256": "0638f3d379f87abb2586ca03c7d8db54cb4c4b42d4af3abc59c4d3d1125c40ae"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d0_primary/observations.npz",
+      "size_bytes": 209162,
+      "sha256": "ef84143956e2632b08fe8d1fc57b2d11229d9d54928db4a735179e0640ff857f"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d180_primary/receipt.json",
+      "size_bytes": 458,
+      "sha256": "6469b0d510dbeedbfaf23d93e61cee55331889113a476b1851477ccc146bd71c"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d180_primary/summary.json",
+      "size_bytes": 1201,
+      "sha256": "ae1238bfb549e538b03c40372ff862404b16eb9ee6e377fceff961ebe385fef0"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d180_primary/observations.npz",
+      "size_bytes": 209038,
+      "sha256": "e45878058dd8b5e688086849f712e967d6b6e79872e9605794ca760cf4963b2d"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d0_primary/receipt.json",
+      "size_bytes": 457,
+      "sha256": "4b15f2b933f8a86c3fc301220854dbcd74cd5dd720684d79a59a75ce6c4b59ab"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d0_primary/summary.json",
+      "size_bytes": 994,
+      "sha256": "04b856f7a8dc0e82351a43fddd19a43328068a1be93aa0452023f008631eefb5"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d0_primary/observations.npz",
+      "size_bytes": 416569,
+      "sha256": "afa965a42e529f2b908cda8d76305ae0ba8112be2f93512a63e4722020f4874c"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d180_primary/receipt.json",
+      "size_bytes": 462,
+      "sha256": "15d8141e3faec916d971a1c012bb6a63d66eb20f586d3c882aacb97c91a5c3c0"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d180_primary/summary.json",
+      "size_bytes": 1199,
+      "sha256": "4b6c8beb417f095fa1307e8860bb429e1d2e21da18437ed135a578c7038b0d9b"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d180_primary/observations.npz",
+      "size_bytes": 208865,
+      "sha256": "befe6d713d3db70f27132df9da78df1e757b86574a01cc854e5f7e93d4b928eb"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d0_primary/receipt.json",
+      "size_bytes": 456,
+      "sha256": "44035bd9f3e1d5df700124e39271256bbd6ffb3ec1eb316dd7a5bd4afa76b6b3"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d0_primary/summary.json",
+      "size_bytes": 1098,
+      "sha256": "bf1e24edd8e265cfbf74f0c9c9db94afa449d775048229ad0036e11794f78a69"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d0_primary/observations.npz",
+      "size_bytes": 208042,
+      "sha256": "769a2affe7ad5aef7073c63c96dc3a2ebf726dba5670833dd3275d3a6e504fe0"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d180_primary/receipt.json",
+      "size_bytes": 460,
+      "sha256": "c40d5540549bc64a9d00c33b6697ee10cba5353dcaa729ed7502cd21310b968e"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d180_primary/summary.json",
+      "size_bytes": 1202,
+      "sha256": "90554684012bb7c8ba965aa4b0c7ef123dee436e9b169e905ed265048d9187fa"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d180_primary/observations.npz",
+      "size_bytes": 207902,
+      "sha256": "fdea48615ad30f0fe988a33242dbcef3ce973ddc70e7672d5ebfdb15944caf31"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.1_d0_primary/receipt.json",
+      "size_bytes": 456,
+      "sha256": "e99363b8ef6043efcde00eb70d29d0763edd418b4c494bfbd787573504ee5b4e"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.1_d0_primary/summary.json",
+      "size_bytes": 1198,
+      "sha256": "499905089ed263bddb320364ef23b1459286f7bc53a2f4a8bde8d7f1eda7c509"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.1_d0_primary/observations.npz",
+      "size_bytes": 209558,
+      "sha256": "4b5842d905e0229e877d53e1e9ba0da3151f9d8efae4ad6fd4a5f0d4b890041c"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.1_d180_primary/receipt.json",
+      "size_bytes": 460,
+      "sha256": "510f07f318802e4465732f8363cdb16b6db1b7d66b127eb1a2d7d85370d8b30a"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.1_d180_primary/summary.json",
+      "size_bytes": 1203,
+      "sha256": "8c1b3a48288f5752716643f39ee7bdf057fbca4d3400800f08453e4996503adc"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.1_d180_primary/observations.npz",
+      "size_bytes": 209457,
+      "sha256": "d7a3912ffdecc6adc478d539b3b2a70e85333a7378ac1be9b38edcd2f127ce10"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.25_d0_primary/receipt.json",
+      "size_bytes": 458,
+      "sha256": "b70f59723db5a4a625e64997a6b277c37149befb11dfa01cbfa026306f67bb6d"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.25_d0_primary/summary.json",
+      "size_bytes": 1193,
+      "sha256": "b1d735748663f0d08bef37399f8e47d649a95f151905eceb8375fb5ebff33cc0"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.25_d0_primary/observations.npz",
+      "size_bytes": 209224,
+      "sha256": "b229b8326d42d1ce3d611ee3518e9a1daad2209db3bc74d17150c753ec8293a0"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.25_d180_primary/receipt.json",
+      "size_bytes": 462,
+      "sha256": "0f564ab3b3786bf6fd96e06b147cba498f0a59fc133381603d9487f7eea8b682"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.25_d180_primary/summary.json",
+      "size_bytes": 1203,
+      "sha256": "77de2efb2eca5a9f01d2679cf38ab02ee4c61f75fde11aae769bbc106529caa3"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.25_d180_primary/observations.npz",
+      "size_bytes": 209030,
+      "sha256": "52a2b656ae73ab404b57feb47c187c400745336ec44e5805c1924cf6bfe80afc"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d0_primary/receipt.json",
+      "size_bytes": 456,
+      "sha256": "4c4493b5444f8b71d0349f167f53082437814279873f966c5a1fc8a54e1943fc"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d0_primary/summary.json",
+      "size_bytes": 1193,
+      "sha256": "dd6075c8eaab8e7ed2c625c300820b4e5f493369df2bde75be8a8a29685c2e16"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d0_primary/observations.npz",
+      "size_bytes": 209219,
+      "sha256": "ff9076558379bea63e6676c311da73fcad17a5f67a808475533bac16a69a4ea4"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d180_primary/receipt.json",
+      "size_bytes": 460,
+      "sha256": "a94b444c8b6b7e29cf2fb1f1b31f3d31399a5e364489a789c463b2901e6c8052"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d180_primary/summary.json",
+      "size_bytes": 1200,
+      "sha256": "5ce5332c0b0db93f69546c466fc04551f176665d146fafeca3a35e98fb4dce19"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d180_primary/observations.npz",
+      "size_bytes": 209081,
+      "sha256": "f97aa7d7003f1375fc4d84be498882e8968967f316e339419c08d54ecdecd90e"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.75_d0_primary/receipt.json",
+      "size_bytes": 458,
+      "sha256": "2ea81568076a8b806a54675c0107eb25a562f653dabaa8ea49423d906045d4c4"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.75_d0_primary/summary.json",
+      "size_bytes": 1199,
+      "sha256": "9bf3ce6701f9b607393b2bfb3f99fca5b80e5ff46d1ed379b27b6298f9d34a76"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.75_d0_primary/observations.npz",
+      "size_bytes": 209187,
+      "sha256": "f6bacbcd3d58eba1b279dd479718e8cfab6be4ed0d2e5d8492312c696b3f4c80"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.75_d180_primary/receipt.json",
+      "size_bytes": 462,
+      "sha256": "3a92fb15e3c3eef7251d5de2bf1fe3f3120f99a09b746a3e56b70c116179ecb9"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.75_d180_primary/summary.json",
+      "size_bytes": 1203,
+      "sha256": "fef0fded565565cdb07cf0885f2e013c4b1046d0364c91ef14c3b12fe6b9e7e3"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.75_d180_primary/observations.npz",
+      "size_bytes": 209089,
+      "sha256": "a7f955b9cf4477d4cdf316502dcda839cd6e30f56ad6ac73bc4400e7a855786b"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d0_fine/receipt.json",
+      "size_bytes": 451,
+      "sha256": "9a401a876c7cfe71c8188510bde5a128be88af737df6fe27e53c64fb37478fcc"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d0_fine/summary.json",
+      "size_bytes": 991,
+      "sha256": "5df2c100cff9cf4dd2e6013ae71f3e70053f4f13bfab9b80bb561b65cefc91c9"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x0.5_d0_fine/observations.npz",
+      "size_bytes": 207914,
+      "sha256": "5f398eff3161b6dcaebeb58ebbf02ec60f7ee7997c99ad6a248b196d56f72071"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d0_fine/receipt.json",
+      "size_bytes": 447,
+      "sha256": "9ff8614900a287e55da430b28ca4234974970241f701a2ab2f49cf5f44bc4528"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d0_fine/summary.json",
+      "size_bytes": 989,
+      "sha256": "6198205f688c3edf0b1f16c8aa5b8836b04ded5e084613f718699e4202bf0498"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x1_d0_fine/observations.npz",
+      "size_bytes": 209199,
+      "sha256": "a9740d4854eb3c70c15df0c023666edfc8a944818587a0f6fd9d952e4b6a9bdc"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d0_fine/receipt.json",
+      "size_bytes": 451,
+      "sha256": "474be64fb6a369e8b9dddacf468fa8bae61bd4b998e815e9417abd8b43fe95d3"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d0_fine/summary.json",
+      "size_bytes": 989,
+      "sha256": "de2e5e178ad2ebfea31a16c248a80f36e61765c0976892cdd5464a96ede7765f"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x2.5_d0_fine/observations.npz",
+      "size_bytes": 208960,
+      "sha256": "ecc5ba6d208641dd476b4dfb0e5d716a8c8c81662eab9ada4f0d54ac9098b8bd"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d0_fine/receipt.json",
+      "size_bytes": 449,
+      "sha256": "4de33414101f5534c2c6197385f75cc5b73d477dfda8e4b97fbf7e8058720a28"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d0_fine/summary.json",
+      "size_bytes": 990,
+      "sha256": "1d4accd3d0bf6634ee96b777e8a3f60e2d9b8d3a770687e56fb6654615ecb8a5"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/frequency_x15_d0_fine/observations.npz",
+      "size_bytes": 208008,
+      "sha256": "c43350291002b7128dbf27c2be7bce441ce8c35e2fa89226da3e0980763d51a7"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d0_fine/receipt.json",
+      "size_bytes": 450,
+      "sha256": "d343bb28cf184cfaf68f05d0570988bd8d57fe6a90b9575765d4a976b6d7bfc0"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d0_fine/summary.json",
+      "size_bytes": 1191,
+      "sha256": "668784a69a4dc387e324b14e5431e63a5aaec2f97425e4643e231b6296616c30"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d0_fine/observations.npz",
+      "size_bytes": 209215,
+      "sha256": "a6b9e05d8eee4ab1c572b1e038b405fa30894339e7cb897dc36828c92a9d8241"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d180_fine/receipt.json",
+      "size_bytes": 454,
+      "sha256": "a1c311ab307de08783eb29b8124ff996f1708fa22e73908444a9803e8d4f0cc2"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d180_fine/summary.json",
+      "size_bytes": 1196,
+      "sha256": "28a435619f33bb2671b928d2869879f7bbb6ffaa94b5001d93e5801f85e390a3"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/cases/contrast_x0.5_d180_fine/observations.npz",
+      "size_bytes": 209112,
+      "sha256": "6362535adafb604347a5265346b6c0b224ab472b887e54dac68ad906fe41cc6e"
+    },
+    {
+      "path": "results/hs_temporal_refinement_v1/cases/middle_hz0.5/summary.json",
+      "size_bytes": 1160,
+      "sha256": "98856095dbd9741506cac6510bcd564654697a4c8bc7e31283c02cdb9046d680"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/sources/Borst_Fig1.py",
+      "size_bytes": 9081,
+      "sha256": "4b66d4bda78c680acfcc0bf7ddcef750dc951e98e871b0cb45fce9a7fc595d41"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/sources/Medulla_Library.py",
+      "size_bytes": 11914,
+      "sha256": "393ee589661e8bcdf3e2ae182acb813704db4af055ea0e051985733557a9eefe"
+    },
+    {
+      "path": "results/hs_upstream_temporal_v1/sources/acquisition.json",
+      "size_bytes": 1108,
+      "sha256": "2502f2fcb8795bf475140d6dbc9aa00c9363fe631ce1f239842572698dff6c86"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d0_primary/receipt.json",
+      "size_bytes": 462,
+      "sha256": "58ef9c1cd6526239c708f1c441988d02104089c9db248ffc8e8d400cba49cbda"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d0_primary/summary.json",
+      "size_bytes": 1597,
+      "sha256": "1214706b95fce7ce549775940ae970fcea42731789192ede435e59ef141e3e5b"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d0_primary/observations.npz",
+      "size_bytes": 207924,
+      "sha256": "a5407131ce361d47b07dc84a52a0eed3228b3b89d8dafcc3b91d7d710465912b"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d180_primary/receipt.json",
+      "size_bytes": 466,
+      "sha256": "eee755de399ee8bcd1c237cf26952168aa7b4e270fbab9a77cc19c41403d69e1"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d180_primary/summary.json",
+      "size_bytes": 1410,
+      "sha256": "4f93e345d12b005d671fd6b41d4ae5e68ddf50ce47f44cf87fff31f6d47be101"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d180_primary/observations.npz",
+      "size_bytes": 207787,
+      "sha256": "f9d3c8bddcced536fb4d84841346845d3f1d8d69d75a44376483da0366de0748"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d0_primary/receipt.json",
+      "size_bytes": 458,
+      "sha256": "02bab19ef3ff06fc65b0390cd15573c6c5cc2acc5856b7cb359f16a58eeabcf5"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d0_primary/summary.json",
+      "size_bytes": 1399,
+      "sha256": "12fa6ae44d1b3415bbfd7ebc31942ea6d66c10d21cd11a0cbc34e9cba1641d7d"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d0_primary/observations.npz",
+      "size_bytes": 209135,
+      "sha256": "6693c53405e1503c39685e5fe8c98bfbdbd146c479c2e653e2c677b1ad73c709"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d180_primary/receipt.json",
+      "size_bytes": 462,
+      "sha256": "904d28d3dd69b28f8c065016faff8e416416d1b06e231bb18776c87136672459"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d180_primary/summary.json",
+      "size_bytes": 1406,
+      "sha256": "4b8bbae2a650348e0fa31a23e7de710da1dce7090e410a7f2df92fdcfcd7cf21"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d180_primary/observations.npz",
+      "size_bytes": 209006,
+      "sha256": "c4c339573dbac06bb6ec4fb65be7c9f6b40a33ea485ac740a163943a9be860a7"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x2.5_d0_primary/receipt.json",
+      "size_bytes": 462,
+      "sha256": "7fadc93eb40b23f08b04aa248c19b46e17b149ef6e35ff63f231891f46ac2d60"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x2.5_d0_primary/summary.json",
+      "size_bytes": 1404,
+      "sha256": "73bd890920bd30c8a482a1bd74214df45c8e85b846d43eb3a2fa9b118d9c5c42"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x2.5_d0_primary/observations.npz",
+      "size_bytes": 416721,
+      "sha256": "629b020fe87e2c241a8d85cd54e4e384b2f94864879181f08868f5f981d1f90e"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x2.5_d180_primary/receipt.json",
+      "size_bytes": 466,
+      "sha256": "de077790c0106114d855ab84bd9c612f6c8d280540055f1b512ca662c04b7dac"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x2.5_d180_primary/summary.json",
+      "size_bytes": 1404,
+      "sha256": "b3cc408171a189e5566b51bfbc52bcc2b8e462215db313640649bf8e44be42a1"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x2.5_d180_primary/observations.npz",
+      "size_bytes": 208879,
+      "sha256": "94c6a7e320a571695fe98cab77e6c48e200c510d6e1d78f6a10b025a0f5d5737"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d0_primary/receipt.json",
+      "size_bytes": 460,
+      "sha256": "690814c87fc3403f37a9ee74c3967021ed13ed28ad4c1b5b4b27994fdb04adc8"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d0_primary/summary.json",
+      "size_bytes": 1402,
+      "sha256": "d1c79c2a78fff8e8343690991bd9feb15076e6c4780acda528b83c519be1bd77"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d0_primary/observations.npz",
+      "size_bytes": 207455,
+      "sha256": "586657bfa09268bdc209bfca98717677ba32a4fb13620daf0a587caea0052622"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d180_primary/receipt.json",
+      "size_bytes": 464,
+      "sha256": "43a0bfe51bce23ca8edf877ff0efea13ce9a687e682ed8e48340cbea286aa325"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d180_primary/summary.json",
+      "size_bytes": 1405,
+      "sha256": "b18fef289136893dfb837dd7cb1b0541dd6e30f7e0a29783f886ad7eff192fbf"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d180_primary/observations.npz",
+      "size_bytes": 207324,
+      "sha256": "4b13900ccec4683aa9e1dd6dee430a99a626fe2d48cd6bca45b2aa77a32727f7"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d0_primary/receipt.json",
+      "size_bytes": 460,
+      "sha256": "b13798147c863b31b390310bcfcb0ced6eccc0044fc1b9cf7a0d49aa36ddf4bf"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d0_primary/summary.json",
+      "size_bytes": 1399,
+      "sha256": "d4fc5c06466e2301a8faf8df7ba0e85d326c9248155df0baeb16a569fcc4f3c6"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d0_primary/observations.npz",
+      "size_bytes": 209162,
+      "sha256": "23fa95ff3fbb9d16d04509b2af75b1e755c57e0a367ecc416c7a30512a5608bf"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d180_primary/receipt.json",
+      "size_bytes": 464,
+      "sha256": "c49ceb9dd53e1ec5b908b497ca3ab4b8bd896efecbba37bcc0d8194a713e75c6"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d180_primary/summary.json",
+      "size_bytes": 1406,
+      "sha256": "f5ed7056b7b4de68294a69ac1e74dd7dbf6c9d3b0bd5b65d422c3283116ecc63"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d180_primary/observations.npz",
+      "size_bytes": 208996,
+      "sha256": "56a2e6b978ec203b14d008b0165fd221a0f6523309870042f6aa1ea19d2625d9"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d0_fine/receipt.json",
+      "size_bytes": 456,
+      "sha256": "aef92f0e08f1acd423a75a7c1deff865eeb123d5b67f83a4d24ce1b287627ba3"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d0_fine/summary.json",
+      "size_bytes": 1396,
+      "sha256": "6197dc2cb9bc78f08a12b2d5ca354012506fa04552bf793084520a2263ff71b3"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x0.5_d0_fine/observations.npz",
+      "size_bytes": 207926,
+      "sha256": "151a346d0d3cd60e9b1513c7880345f7a124ba9f61186e743db9843e3a41b848"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d0_fine/receipt.json",
+      "size_bytes": 452,
+      "sha256": "7058037c5e073698aba12505cee28158b5f9179041d217baa4b17b8100fe7ee5"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d0_fine/summary.json",
+      "size_bytes": 1390,
+      "sha256": "d177628c5020e5d960b90d6049e01c7771e7dc7654be625605dfaf9e8a276ad6"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x1_d0_fine/observations.npz",
+      "size_bytes": 209124,
+      "sha256": "b56b0a23d8246da24d6240fd53200c4827cd5a03e63fe49fabb989547f8aaffb"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d0_fine/receipt.json",
+      "size_bytes": 454,
+      "sha256": "d0165831821b9a4c3de6012d0ba4dd60f4130ff509b0040644cefd7a78b8376f"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d0_fine/summary.json",
+      "size_bytes": 1393,
+      "sha256": "1cf5e92f3e4a211885799d0a28c2aacc08e5a425b51f76b7f670030cf0b3a7a1"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/frequency_x15_d0_fine/observations.npz",
+      "size_bytes": 207395,
+      "sha256": "3898a2d8f9b91b8cc49a3ce071a6bffc8ce14595d8e82e6616058244f8ef46ca"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d180_fine/receipt.json",
+      "size_bytes": 458,
+      "sha256": "3112af5af7f0d2477b61e5ded8575c50d885b420a40b94c32d3f3be0dae476ed"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d180_fine/summary.json",
+      "size_bytes": 1399,
+      "sha256": "8121b648c27f514afb1a3ce7d2e0cd60f7cb0f74c264b42fe13a7ea9b563d7ff"
+    },
+    {
+      "path": "results/hs_temporal_components_v1/cases/contrast_x0.5_d180_fine/observations.npz",
+      "size_bytes": 208915,
+      "sha256": "7dfa26325cde7759032546ed860ab4abcfdda679e44236b75ee5f95d4df8f4a6"
+    },
+    {
+      "path": "results/t4_horizontal_integration_pilot_v1/plans.json",
+      "size_bytes": 2001,
+      "sha256": "cbdc0b32fd682a84501e924e5d75cca980cb258db6af69b0ecb90238b39f1e8c"
+    },
+    {
+      "path": "results/t4_horizontal_integration_pilot_v1/feasibility.json",
+      "size_bytes": 694,
+      "sha256": "39a22d9773912dadb26e2296b639dac99af08555baede0accb6c510c91c29a12"
+    },
+    {
+      "path": "scripts/physiological_branch_validation_v1.py",
+      "size_bytes": 19262,
+      "sha256": "69634259c632c29a08a74b8497ea6807665f40d485ea637cae50c70b5b988a53"
+    },
+    {
+      "path": "scripts/physiological_branch_oracle_v1.m",
+      "size_bytes": 1550,
+      "sha256": "e2c92ceebbc0f813de8c353918ec8522a46942a88a84bf50b55b188a8d2072ae"
+    },
+    {
+      "path": "scripts/physiological_branch_octave_compat_v1/nanmean.m",
+      "size_bytes": 209,
+      "sha256": "19d87b96beb321b47a1341e3a6aacd31e18dcd6345d531055037595e1ee88a72"
+    },
+    {
+      "path": "tests/test_published_parallel_t4_v1.py",
+      "size_bytes": 1489,
+      "sha256": "d8f0394c2ea94a96b056ab3352ed395bdeca1e262c60ba7a3b014349b43532c9"
+    },
+    {
+      "path": "configs/physiological_branch_validation_v1.json",
+      "size_bytes": 658,
+      "sha256": "ca7ef6555270c2ca875627dcaa80e40a8cfc9a8445abaf7d954382c3dc0b3991"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_BRANCH_VALIDATION_PROTOCOL_V1.md",
+      "size_bytes": 5716,
+      "sha256": "784ca7b4d9d8817c0cc3345e11186ecd373910ef60eb690e1084af1ab0de8691"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/GenerateMeasuredFilterMovingBarMi4CT1SilencingFigures.m",
+      "size_bytes": 2875,
+      "sha256": "3e84af4ed2d1130644f1667720bd50fef79f433088cf345d8ac91a1a354b39c5"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/GenerateMeasuredFilterMovingBarTimingFigures.m",
+      "size_bytes": 12849,
+      "sha256": "cc13020be5ae1ff4f3f323b91b793ac9a96706f85fdf14309d3d56136af8fa81"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/SetConfiguration.m",
+      "size_bytes": 878,
+      "sha256": "4fa3885e64fad7d9ff285b999be4617b97e4d228dce34fb3620986cd585979c6"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/analyses/ThreeInputModelMovingBarResponses.m",
+      "size_bytes": 1855,
+      "sha256": "f480da85f5fc312380325b367be98bbd7a850e00d9e4721aad22ca8800b7804f"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/filterData_200ms_deconv_20220206.mat",
+      "size_bytes": 27168,
+      "sha256": "171a0ff885525d0dd3de4a9ea2f05d49c13a8437416d74a3a385a9ed05053f5f"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/filterData_250ms_deconv_20220206.mat",
+      "size_bytes": 27168,
+      "sha256": "9b2651a7f55c06723397362725549cb6664c4d71159e9999157cc1e637e65005"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/filterData_300ms_deconv_20220206.mat",
+      "size_bytes": 27168,
+      "sha256": "16960b96843c6e3acdca872deba03a8e02439b6239d9edb112a1804880167dfb"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/models/ComputeSynapticModelResponseWithMeasuredFilters.m",
+      "size_bytes": 4239,
+      "sha256": "985711690a3b9361254411918a0ab5183fdb05407e31d41d71c93b3b5982188a"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/stimuli/MovingBars.m",
+      "size_bytes": 502,
+      "sha256": "757d5d3b1d4cfc4ed614483dc9d1c3a0976d879f71db1a6eb3f6f661bb92b44f"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/ComputePhotoreceptorResponsesWithIndependentFilters.m",
+      "size_bytes": 745,
+      "sha256": "30648f850b56d941ab5969a9aa5e529359d65e4ab7f348b1e6b25628838b130e"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/LoadAndUpsampleMeasuredTemporalFilters.m",
+      "size_bytes": 3228,
+      "sha256": "a928a44b361b60699f1720818abed9f4ea4cc1e2d8ec13eb3708d71a1b50cc9a"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/MakeModelFilters.m",
+      "size_bytes": 2836,
+      "sha256": "a122ba0cd80bb984cd970b8ef5faec866e52a368e57fc22f75fdd0c6021d4453"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/CircuitModel/utils/getLaguerrePolys.m",
+      "size_bytes": 951,
+      "sha256": "b44d489aee55bdee96c0d6b984c32ee8385274523d39a299f73423a6a814a7fd"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/README.md",
+      "size_bytes": 836,
+      "sha256": "392619aecd2acc471b730779c8f222f93b28a8eef2bfbd164b9ae65c1025e152"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/acquisition.json",
+      "size_bytes": 5010,
+      "sha256": "0037fe8d14eff01210e757db9753732e2bc8769beec9960723bf63fe63a2df62"
+    },
+    {
+      "path": "results/physiological_branch_validation_v1/sources/acquisition_addendum.json",
+      "size_bytes": 300,
+      "sha256": "263f074674495bfde552d6e2e7f3af7723d943baca3da15a4ba0c4e8cdee705c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/models.json",
+      "size_bytes": 19179,
+      "sha256": "f2659e3087d4629e6d0cdd66e7cd65d089e9c1f0832b7b32471f2248631445b9"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/plans.json",
+      "size_bytes": 1355,
+      "sha256": "48457ce4fe7dac94242b8de973eabfd909504e15aa9968c34b4528481ac9dd5e"
+    }
+  ],
+  "free_bytes": 161737097216,
+  "estimated_transient_input_bank_bytes": 920844192,
+  "estimated_final_output_bytes": 268435456,
+  "fit_parameters": 0
+}

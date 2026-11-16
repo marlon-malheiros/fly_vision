@@ -1,0 +1,592 @@
+{
+  "status": "AUDIT_COMPLETE",
+  "entries": [
+    {
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 13,
+      "exact_original_trace_matches": 13,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220523/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 16,
+      "exact_original_trace_matches": 16,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220524/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 24,
+      "exact_original_trace_matches": 24,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t10_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 24,
+      "exact_original_trace_matches": 24,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220602/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 22,
+      "exact_original_trace_matches": 22,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/GC7f R77F05LexA/220617/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 28,
+      "exact_original_trace_matches": 28,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231114/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 21,
+      "exact_original_trace_matches": 21,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/231230/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240119/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 30,
+      "exact_original_trace_matches": 30,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 18,
+      "exact_original_trace_matches": 18,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240205/2/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 30,
+      "exact_original_trace_matches": 30,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240212/2/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 28,
+      "exact_original_trace_matches": 28,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240214/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 29,
+      "exact_original_trace_matches": 29,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240221/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 29,
+      "exact_original_trace_matches": 29,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD GC6f UASFLP mCherry/240222/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 25,
+      "exact_original_trace_matches": 25,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "DNp15/R11E07AD R77F05DBD mCherry GC7f/230128/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/210517/1/t4_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 9,
+      "exact_original_trace_matches": 9,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/210525/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 11,
+      "exact_original_trace_matches": 11,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/210822/1/t5_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 28,
+      "exact_original_trace_matches": 28,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/210826/1/t12_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 20,
+      "exact_original_trace_matches": 20,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/210826/1/t1_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 36,
+      "exact_original_trace_matches": 36,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/221020/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 26,
+      "exact_original_trace_matches": 26,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/221020/1/t7_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 39,
+      "exact_original_trace_matches": 39,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/230109/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 21,
+      "exact_original_trace_matches": 21,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f 20xUAS6xmCherry/230109/1/t3_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f R39E01LexA,LexAop-mCherry/210405/1/t2_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "H2/R23C12AD R32A11DBD sytGCaMP7f R39E01LexA,LexAop-mCherry/210406/2/t2_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 16,
+      "exact_original_trace_matches": 16,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/20xUASjGCaMP7f VT058487Gal4_UAS-CD4-tdTomato/201102/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 38,
+      "exact_original_trace_matches": 38,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/20xUASjGCaMP7f VT058487Gal4_UAS-CD4-tdTomato/201103/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 40,
+      "exact_original_trace_matches": 40,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/20xUASjGCaMP7f VT058487Gal4_UAS-CD4-tdTomato/201114/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 39,
+      "exact_original_trace_matches": 39,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/20xUASjGCaMP7f VT058487Gal4_UAS-CD4-tdTomato/201126/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 35,
+      "exact_original_trace_matches": 35,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/210413/1/t4_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 12,
+      "exact_original_trace_matches": 12,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/210413/2/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 24,
+      "exact_original_trace_matches": 24,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220823/1/t1_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 31,
+      "exact_original_trace_matches": 31,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220823/1/t2_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 30,
+      "exact_original_trace_matches": 30,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220823/2/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220823/2/t8_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220825/1/t11_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 29,
+      "exact_original_trace_matches": 29,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220825/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 27,
+      "exact_original_trace_matches": 27,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220825/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 18,
+      "exact_original_trace_matches": 18,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220826/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 28,
+      "exact_original_trace_matches": 28,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/220826/1/t4_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 30,
+      "exact_original_trace_matches": 30,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/230412/1/t1_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 18,
+      "exact_original_trace_matches": 18,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry/230412/1/t8_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R39E01LexA,LexAopmCherry VT058487Gal4 sytGC7f/210408/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 30,
+      "exact_original_trace_matches": 30,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "HS/R39E01LexA,LexAopmCherry VT058487Gal4 sytGC7f/210411/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 24,
+      "exact_original_trace_matches": 24,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230606/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230607/1/t17_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 17,
+      "exact_original_trace_matches": 17,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230607/1/t6_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230608/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 38,
+      "exact_original_trace_matches": 38,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230608/1/t9_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 21,
+      "exact_original_trace_matches": 21,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230610/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 31,
+      "exact_original_trace_matches": 31,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230719/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 20,
+      "exact_original_trace_matches": 20,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230720/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 25,
+      "exact_original_trace_matches": 25,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230720/2/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 24,
+      "exact_original_trace_matches": 24,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/230916/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/231226/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/231227/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/231228/1/t11_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/231228/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/231230/1/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/240115/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 30,
+      "exact_original_trace_matches": 30,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/240120/1/t1_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/240128/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 28,
+      "exact_original_trace_matches": 28,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/240207/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 30,
+      "exact_original_trace_matches": 30,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/240207/2/t2_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/240522/1/t11_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC6f UASFLP mCherry/240522/1/t3_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC7f sytGC7f/210325/1/t4_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 38,
+      "exact_original_trace_matches": 38,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC7f tdTomato/201119/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 39,
+      "exact_original_trace_matches": 39,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD GC7f tdTomato/201124/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 22,
+      "exact_original_trace_matches": 22,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/210817/2/t7_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 40,
+      "exact_original_trace_matches": 40,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/210822/1/t3_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 36,
+      "exact_original_trace_matches": 36,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/220704/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 34,
+      "exact_original_trace_matches": 34,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/220708/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 26,
+      "exact_original_trace_matches": 26,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/221029/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 14,
+      "exact_original_trace_matches": 14,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/221030/1/t1_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 27,
+      "exact_original_trace_matches": 27,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/221030/1/t8_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 32,
+      "exact_original_trace_matches": 32,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/221221/1/t1_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 31,
+      "exact_original_trace_matches": 31,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/210819/1/t5_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 40,
+      "exact_original_trace_matches": 40,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f 20xUASmCherry/210828/1/t2_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 16,
+      "exact_original_trace_matches": 16,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f/210330/2/t3_corr_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 40,
+      "exact_original_trace_matches": 40,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    },
+    {
+      "source": "bIPS/R25F07AD VT014724DBD sytGC7f/210401/1/t2_concat_responses_OF.mat",
+      "checked_nonempty_trial_roi_units": 40,
+      "exact_original_trace_matches": 40,
+      "matched_source_excluded_units": 0,
+      "unresolved": []
+    }
+  ],
+  "checked_nonempty_units": 2343,
+  "exact_source_matches": 2343,
+  "matched_excluded_source_units": 0,
+  "initial_slot_audit_did_not_account_for_trial_compaction": true,
+  "explanation": "F_All repetitions may compact accepted trials before NaN padding; original chronological trial index is not the F_All slot. Exact source trace matching is required.",
+  "preprocessing_changed": false
+}

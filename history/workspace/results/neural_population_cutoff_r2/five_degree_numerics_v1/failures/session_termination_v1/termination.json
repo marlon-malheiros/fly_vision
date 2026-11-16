@@ -1,0 +1,9 @@
+{
+  "return_code": 143,
+  "signal": "SIGTERM",
+  "cause": "Not established by saved evidence",
+  "valid_cases_preserved": 35,
+  "incomplete_directories": 6,
+  "retry": "Identical frozen recipe; reuse verified complete cases and archive incomplete cases",
+  "criteria_changed": false
+}

@@ -1,0 +1,115 @@
+{
+  "models": [
+    {
+      "output": "delivered_drive",
+      "gain": 59.90204962101771,
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 58.7339280011072,
+          "zero_mse": 67.38932527113072,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.12843869908475614,
+          "blind_skill": -1.5733811067614676,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 4,
+          "mse": 78.26630827659615,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022616,
+          "zero_skill": 0.09917558955212402,
+          "blind_skill": -2.113955625843109,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 5,
+          "mse": 55.66099026087254,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.058342497727636555,
+          "blind_skill": -1.362323062861908,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        }
+      ],
+      "zero_skill": 0.09710603173918475,
+      "blind_skill": -1.6938218595430103,
+      "rmse_mv": 8.013763712899948,
+      "bootstrap_joint_lower": -1.9451557083633513,
+      "waveform_pass": false,
+      "inhibition_pass": false,
+      "restricted_component_pass": false
+    },
+    {
+      "output": "signed_branch",
+      "gain": 0.20107758937006184,
+      "cells": [
+        {
+          "cell": 3,
+          "mse": 44.84205010097646,
+          "zero_mse": 67.38932527113072,
+          "blind_mse": 22.823641568979383,
+          "zero_skill": 0.3345822959265242,
+          "blind_skill": -0.9647193444328912,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 4,
+          "mse": 69.10771008633822,
+          "zero_mse": 86.88297893446665,
+          "blind_mse": 25.134047392022616,
+          "zero_skill": 0.20458862099486497,
+          "blind_skill": -1.7495655199676499,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        },
+        {
+          "cell": 5,
+          "mse": 44.706788148277475,
+          "zero_mse": 59.10959146670001,
+          "blind_mse": 23.56197216880249,
+          "zero_skill": 0.24366271126296823,
+          "blind_skill": -0.8974128238497807,
+          "inhibition_bins": 0,
+          "observed_inhibition_mean": null,
+          "predicted_inhibition_mean": null,
+          "confirmed_inhibition": false,
+          "inhibition_reproduced": false
+        }
+      ],
+      "zero_skill": 0.25646668459985034,
+      "blind_skill": -1.218362696764442,
+      "rmse_mv": 7.272242852921239,
+      "bootstrap_joint_lower": -1.504489281654311,
+      "waveform_pass": false,
+      "inhibition_pass": false,
+      "restricted_component_pass": false
+    }
+  ],
+  "all_canonical_axes_unchanged": true,
+  "maximum_scored_bin_change_mv": 0.03830891331104169,
+  "scored_repetitions_changed": 3,
+  "maximum_localizer_bin_change_mv": 0.034569597069889824,
+  "new_biological_test": false,
+  "model_forecasts_reused_unchanged": true,
+  "primary_V1_results_preserved": true
+}

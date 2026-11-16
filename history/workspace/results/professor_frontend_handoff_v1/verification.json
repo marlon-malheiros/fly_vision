@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-13T13:51:30.527476+00:00",
+  "original_study_integrity": {
+    "status": "PASS",
+    "study_index_sha256": "25d1390b8d96eb573d2f191df6faab95e52b4bd4402e8296abe9c2da7ef51c6a",
+    "entries_verified": 337,
+    "entry_bytes_verified": 2803993570,
+    "external_or_registration_dependencies_verified": 23,
+    "prior_study_numerical_checks_rerun": false,
+    "predecessor_integrity_verification": "Read the preserved final_checks.json; not rerun for this report."
+  },
+  "document_checks": {
+    "status": "PASS",
+    "local_links_checked": 53,
+    "code_fences_balanced": true,
+    "source_group_rows": 96,
+    "cardinal_rows": 16,
+    "sampling_rows": 12,
+    "source_individual_rows": 81474,
+    "wide_field_rows": 40,
+    "table_values": "Generated directly from sealed JSON; presentation rounding only."
+  },
+  "archive_crc_and_content_hashes": true,
+  "extracted_demo_exit": 0,
+  "extracted_demo_bitwise_equal": true,
+  "archive_files_including_manifest": 173,
+  "archive_bytes": 6623245,
+  "archive_sha256": "ab47f71290ce73650ff9a22dd2cba20268489207bff9d890e59a9c09aba0c6e7",
+  "new_scientific_benchmark_experiments": 0,
+  "biological_validation": false,
+  "legacy_workspace_modified": false
+}

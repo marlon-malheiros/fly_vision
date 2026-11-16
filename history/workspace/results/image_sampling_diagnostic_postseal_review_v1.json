@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "date": "2026-10-24",
+  "entries": 1270,
+  "bytes": 24108939879,
+  "verified_after_sealer_exit": true,
+  "index": "results/image_sampling_diagnostic_v1/completion_v1/artifact_index.json",
+  "index_sha256": "43066229a61f964e7c0dc2c470d9bd6d7c8652eaa67d9e83c7bf440aed72b016",
+  "live_reporting_excluded": true,
+  "stability_gate_met": false,
+  "biological_validation": false
+}

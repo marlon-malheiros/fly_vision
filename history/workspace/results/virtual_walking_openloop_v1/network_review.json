@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "legacy_full_trial": "corridor__compound_16.5_pos",
+  "maximum_legacy_wide_state_error": 0.0,
+  "maximum_legacy_all_state_error": 9.311384649435261e-10,
+  "maximum_final_state_error": 0.0,
+  "solver_only_half_step_maximum_wide_state_difference": 9.579256947856558e-06,
+  "exact_array_replay": true,
+  "graph_and_parameters_equal_to_original_loader": true,
+  "biological_validation": false
+}

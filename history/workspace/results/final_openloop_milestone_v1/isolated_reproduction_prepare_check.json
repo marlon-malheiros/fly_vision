@@ -1,0 +1,16 @@
+{
+  "utc": "2026-10-29T20:27:38.723787+00:00",
+  "fresh_output_root": "<TEMP>/final-openloop-reproduction-check-20261029/results/final_openloop_milestone_v1",
+  "copied_scientific_source": true,
+  "parent_data_read_only_use": true,
+  "old_final_output_not_linked": true,
+  "worlds_identical": true,
+  "compiled_binaries_identical": {
+    "circuit.so": true,
+    "strict.so": true,
+    "renderer.so": true,
+    "legacy.so": true
+  },
+  "scientific_images_not_generated": true,
+  "passed": true
+}

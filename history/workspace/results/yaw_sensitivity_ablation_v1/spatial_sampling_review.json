@@ -1,0 +1,20 @@
+{
+  "status": "DIAGNOSTIC_COMPLETE",
+  "created_utc": "2026-10-19T13:45:55.027987+00:00",
+  "summary": [
+    {
+      "pitch_deg": 1.0,
+      "frames": 80,
+      "mean_rms_luminance_error": 0.0205470833880472,
+      "maximum_luminance_error": 0.5255458950996399
+    },
+    {
+      "pitch_deg": 0.5,
+      "frames": 80,
+      "mean_rms_luminance_error": 0.010989781680931487,
+      "maximum_luminance_error": 0.4556095004081726
+    }
+  ],
+  "neural_inputs_changed": false,
+  "limits": "checkpoint_luminance_sampling_only_not_full_frontend_or_decoder_spatial_convergence_not_measured_fly_optics"
+}

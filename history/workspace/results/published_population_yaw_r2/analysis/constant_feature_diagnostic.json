@@ -1,0 +1,9 @@
+{
+  "training_samples": 9744,
+  "features": 1632,
+  "exact_constant_features": 16,
+  "constant_features_changed_in_calibration": 0,
+  "max_abs_standardized_calibration": 14.964058994375845,
+  "scale_floor_features": 16,
+  "max_abs_standardized_nonconstant": 14.964058994375845
+}

@@ -1,0 +1,48 @@
+{
+  "frozen_utc": "2026-10-24T22:56:25.622886+00:00",
+  "train_rooms": [
+    "f00",
+    "f01",
+    "f02",
+    "f03"
+  ],
+  "calibration_rooms": [
+    "f04",
+    "f05",
+    "f06",
+    "f07"
+  ],
+  "held_out_rooms": [
+    "f08",
+    "f09",
+    "f10",
+    "f11",
+    "f12",
+    "f13",
+    "f14",
+    "f15"
+  ],
+  "held_out_arrays_opened": false,
+  "files": [
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/readouts/all_candidates.json",
+      "size_bytes": 51106,
+      "sha256": "5e931cf9f9091b0307ede04dbf9d18d0d84f26e4d43252e2f0ea1e28f2e1c698"
+    },
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/readouts/calibration_predictions.csv",
+      "size_bytes": 80099,
+      "sha256": "14739267ab04593e89f42829fc06dc8a1524c5448580ecae73612b34737651dd"
+    },
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/readouts/selected_models.json",
+      "size_bytes": 12777,
+      "sha256": "e12b44c1b81c8c59cfd13cce1cb5f3a405a76ab211ebac6a52c88c65eb4f3e2c"
+    }
+  ],
+  "analysis_implementation": {
+    "path": "scripts/analyze_continuous_yaw_mechanisms_v1.py",
+    "size_bytes": 20384,
+    "sha256": "d5343a707073870749009f963e3576752822a2a79bb4a9ad89a68a71dfb9cfba"
+  }
+}

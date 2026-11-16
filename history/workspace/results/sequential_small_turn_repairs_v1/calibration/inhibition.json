@@ -1,0 +1,86 @@
+{
+  "utc": "2026-10-26T23:58:02.421074+00:00",
+  "parameter": "B_U_ipsi",
+  "original_weight": -0.7,
+  "fitted_weight": -0.7435437360654289,
+  "target_median_DI": 0.2186533984961635,
+  "minimum_loss": 4.3234734692112026e-21,
+  "grid_minimum_loss": 6.354137238570061e-08,
+  "source_is_calcium_DI": true,
+  "ROI_animal_ids_unavailable": true,
+  "walking_yaw_labels_used": false,
+  "heldout_checks_are_not_fitted_but_previously_published": true,
+  "physiological_validation": false,
+  "fixed_weights": {
+    "HS_F_ipsi": 1.0,
+    "HS_B_ipsi": -0.2,
+    "HS_B_contra": 0.2,
+    "H2_B_ipsi": 0.8,
+    "H2_F_ipsi": -0.3,
+    "H2_F_contra": 0.3,
+    "B_HS_ipsi": 0.9,
+    "B_H2_contra": 0.0,
+    "B_U_ipsi": -0.7,
+    "U_HS_ipsi": 0.5,
+    "U_H2_contra": 0.0,
+    "U_B_contra": -0.5,
+    "D_HS_ipsi": 0.8,
+    "D_H2_contra": 0.3,
+    "D_U_ipsi": -0.2,
+    "D_B_contra": -0.5
+  },
+  "calibrated_weights": {
+    "HS_F_ipsi": 1.0,
+    "HS_B_ipsi": -0.2,
+    "HS_B_contra": 0.2,
+    "H2_B_ipsi": 0.8,
+    "H2_F_ipsi": -0.3,
+    "H2_F_contra": 0.3,
+    "B_HS_ipsi": 0.9,
+    "B_H2_contra": 0.0,
+    "B_U_ipsi": -0.7435437360654289,
+    "U_HS_ipsi": 0.5,
+    "U_H2_contra": 0.0,
+    "U_B_contra": -0.5,
+    "D_HS_ipsi": 0.8,
+    "D_H2_contra": 0.3,
+    "D_U_ipsi": -0.2,
+    "D_B_contra": -0.5
+  },
+  "checks": [
+    {
+      "name": "control_bips_fit",
+      "n_ROI": 22,
+      "observed_median": 0.2186533984961635,
+      "prediction": 0.21865339843041037,
+      "prediction_error_from_median": -6.575312516687859e-11,
+      "observed_range": [
+        -1.0,
+        0.801039315991629
+      ]
+    },
+    {
+      "name": "disrupted_bips_not_fitted",
+      "n_ROI": 16,
+      "observed_median": -0.0836166813495063,
+      "prediction": -0.16666666666666666,
+      "prediction_error_from_median": -0.08304998531716036,
+      "observed_range": [
+        -0.388036270199248,
+        0.377482305583838
+      ]
+    },
+    {
+      "name": "DNp15_not_fitted",
+      "n_ROI": 7,
+      "observed_median": -0.689795391031718,
+      "prediction": -0.8577928999224477,
+      "prediction_error_from_median": -0.16799750889072962,
+      "observed_range": [
+        -0.903084551934128,
+        -0.213101528000494
+      ]
+    }
+  ],
+  "nonlinear_conductance_or_voltage_parameters_identified": false
+}

@@ -1,0 +1,261 @@
+{
+  "utc": "2026-10-27T19:01:00.034831+00:00",
+  "new_room_images_not_generated": true,
+  "files": [
+    {
+      "path": "configs/agreement_yaw_v1.json",
+      "size_bytes": 665,
+      "sha256": "c7b29cad29bfd37a17dcbe336d7e3554aaca1cb1de8887db0b10bc8cbb7a997b"
+    },
+    {
+      "path": "scripts/agreement_yaw_v1.py",
+      "size_bytes": 6669,
+      "sha256": "e726a3078c84932fc886020f8c01113d31d47335fd3a818cb22da8e4cc4cf2a0"
+    },
+    {
+      "path": "docs/AGREEMENT_YAW_PROTOCOL_V1.md",
+      "size_bytes": 4572,
+      "sha256": "e6462c88029fd3272ce4527629b6c2c00398ee79ca84547d28d2d4b71df1ff4e"
+    },
+    {
+      "path": "src/male_optic_frontend/agreement_yaw_v1.py",
+      "size_bytes": 2154,
+      "sha256": "1443faa1c491c3703efbc58d28bc9e433ee7cb1e2c08e8c20eea40b39a50eddf"
+    },
+    {
+      "path": "tests/test_agreement_yaw_v1.py",
+      "size_bytes": 1272,
+      "sha256": "3318a602ab980ca917feb0a0dc9181ec3ab5acdef7d9a18d8af0bf201b2300d1"
+    },
+    {
+      "path": "scripts/neural_change_readout_v1.py",
+      "size_bytes": 18697,
+      "sha256": "9384522a9f3763886f7ff85e80b3eeec9716c0b94aa71400d02410b0b2252074"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_change_readout_v1.py",
+      "size_bytes": 1815,
+      "sha256": "00a6419717ea0853f711e66108fdec10d5196da322443109cc70d7b40caa5d50"
+    },
+    {
+      "path": "scripts/run_agreement_yaw_v1.py",
+      "size_bytes": 16526,
+      "sha256": "e4f61c98226a774812777bfbfd2a15107c5982bcbed1f608f02d039b05053407"
+    },
+    {
+      "path": "scripts/review_agreement_yaw_v1.py",
+      "size_bytes": 11054,
+      "sha256": "44ed15658094640e235dc70c7e64525ee87ef8364fa8cee34d6dc1c1629ae73e"
+    },
+    {
+      "path": "src/male_optic_frontend/hybrid_yaw_monitor_v1.py",
+      "size_bytes": 1838,
+      "sha256": "1111d88500a26cbfdcceb387389b9dbf1ab27cc6bad9c21f95471f20c5df5cde"
+    },
+    {
+      "path": "tests/test_hybrid_yaw_monitor_v1.py",
+      "size_bytes": 1448,
+      "sha256": "494b9cabf6b08eb1ee6e9b7470332bd4bfe897d71d21afd658b26a1167f2e433"
+    },
+    {
+      "path": "configs/agreement_yaw_model_v1.json",
+      "size_bytes": 6077,
+      "sha256": "459a8f7075891e6edc78c9e134381ef8a0a45542a4ae316bd3a6503b7efecd59"
+    },
+    {
+      "path": "scripts/monitor_hybrid_yaw_v1.py",
+      "size_bytes": 2286,
+      "sha256": "139a54703bdfb93dc548b3380e82532bf4578f7f97fa4cbac2f1bb6f1ea530ce"
+    },
+    {
+      "path": "results/agreement_yaw_v1/simulation_config.json",
+      "size_bytes": 1066,
+      "sha256": "9957ed89155c10921db102553c676107522f7e242bf9be90dc9931d3e31d7b85"
+    },
+    {
+      "path": "results/agreement_yaw_v1/simulation_inputs.json",
+      "size_bytes": 13336,
+      "sha256": "e7a6858a9d6164e9c5e3c4d39884b888f4fae7e65afaa236514197f86be82b21"
+    },
+    {
+      "path": "results/agreement_yaw_v1/selection.json",
+      "size_bytes": 207,
+      "sha256": "f8738edb3a7c8f949339b68f19897e3572f800e291e9c25d49e82055b031b1dd"
+    },
+    {
+      "path": "results/agreement_yaw_v1/development_review.json",
+      "size_bytes": 377,
+      "sha256": "b00e4dbe209e82a5a981a4d639a666d01228cf64dad33ee5e7e6f6435bae878d"
+    },
+    {
+      "path": "results/agreement_yaw_v1/numerical_review.json",
+      "size_bytes": 2526,
+      "sha256": "fb6538f88d2197f16b1253f31bdc03374a72a900932fde17d4e4b86613b3d21a"
+    },
+    {
+      "path": "results/agreement_yaw_v1/parity_review.json",
+      "size_bytes": 326,
+      "sha256": "3efe511adff2eeeb661c7e94de72feb0362b6feb82bb688279903fe7067a5c5c"
+    },
+    {
+      "path": "results/agreement_yaw_v1/scenes.json",
+      "size_bytes": 12202,
+      "sha256": "4ae09098c2736e3928df0bcf54ecdd29fb02ff0ed8822168b48c9b62c314ea24"
+    },
+    {
+      "path": "results/agreement_yaw_v1/plans.json",
+      "size_bytes": 59763,
+      "sha256": "0b86d3db57f883dce7dbdda7fffbc5c901b7505577ff33d4c6d4cd7c07c1ffd6"
+    },
+    {
+      "path": "results/agreement_yaw_v1/seed_audit.json",
+      "size_bytes": 1786,
+      "sha256": "a0edfc21302b7052d66bfc12b79f881b5dd1f8d6142e8dd8d1fac49fa9ade228"
+    },
+    {
+      "path": "results/agreement_yaw_v1/methods/renderer.so",
+      "size_bytes": 11736,
+      "sha256": "2fc169c9b7e6e8359da448e985ae1f8e2543ce81774a1d74aaa11c671e4dab62"
+    },
+    {
+      "path": "results/agreement_yaw_v1/methods/neural.so",
+      "size_bytes": 16464,
+      "sha256": "569115f620bd921f884bd65f126f352a0f936cd334c18bc3cd7b16d1e1acfc94"
+    },
+    {
+      "path": "results/agreement_yaw_v1/methods/neural_strict.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c00_A.json",
+      "size_bytes": 6658,
+      "sha256": "52d48922b10072574c1f70cff20e54391b1d40c3f751bc7b4ac41f154ae2e62f"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c01_A.json",
+      "size_bytes": 10185,
+      "sha256": "d3ffb1df3e839d939fafc9a3341fc68a2062faebd366f6cd6643e3cc1d837f39"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c02_A.json",
+      "size_bytes": 6661,
+      "sha256": "73226314100f629fe0c9d5603c5e9aeb5c804f73d4547a908c21a1e7a17e495d"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c03_A.json",
+      "size_bytes": 10156,
+      "sha256": "502414c83cfbf8dca2b10fcc290d024490c3f484f749b68814fa9a5b9cfb89a7"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c04_A.json",
+      "size_bytes": 6641,
+      "sha256": "a79d96b6100720dc357373219b127b55f6b42dae29c528df62a51e3cc4ef9a35"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c05_A.json",
+      "size_bytes": 10170,
+      "sha256": "44baa2edf86144ea91e09419cdbc1a66bff56fedd3e3f6487e68917ccd63bf6f"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c06_A.json",
+      "size_bytes": 6652,
+      "sha256": "419abc45f5906ca02a38f03d2ec61ba37a1bff635f704743ca4c00566fe8ad34"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c07_A.json",
+      "size_bytes": 10157,
+      "sha256": "022f327b34d1a314e72fd1331528a1d1c1ee938850925e3ce8c31083a0cc1493"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c08_A.json",
+      "size_bytes": 6670,
+      "sha256": "62810d54020d1606ee65701739e0889245f0d5f1600e9c27fca71fdd23d0f494"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c09_A.json",
+      "size_bytes": 10167,
+      "sha256": "5c7079e7a8927d659c0891696fd57a3ad053d88b2ab31be088186b3a89b1bd86"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c10_A.json",
+      "size_bytes": 6666,
+      "sha256": "8ee90c59c3d26d1b67aad7b2a3fdc924bc6137b2444f7d61493db817c1694652"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c11_A.json",
+      "size_bytes": 10170,
+      "sha256": "3f0815d0698cd9f39f2426afd0baa30d24881e4c0a0bc0ee7723b195e0113c3c"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c12_A.json",
+      "size_bytes": 6668,
+      "sha256": "30369a70d3545f9d0cd97dd10f7063b02b8ad18cb357220c0e4f39d492d0271b"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c13_A.json",
+      "size_bytes": 10142,
+      "sha256": "9d372f535e71ad5ccaad0fd47466135006c825d99eab58f81d8a5ff77db99852"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c14_A.json",
+      "size_bytes": 6651,
+      "sha256": "ee50c059477511d1f64c46c1f88b588c061a5240ef31793556c0fe4cb8bcd4e5"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c15_A.json",
+      "size_bytes": 10172,
+      "sha256": "7f149f106a8b9964bd5517c0097af2507c5fe0cc5d2211f07b65074b2588dbde"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c16_A.json",
+      "size_bytes": 6651,
+      "sha256": "dc85839f3c79667cc578232e3c8a685fd9f98246356a0c91a7de02c69b6dcc8e"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c17_A.json",
+      "size_bytes": 10148,
+      "sha256": "dece73532e6109dd5de43bb385a7c69cb5a60ea3694dba5550048eb1acc390da"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c18_A.json",
+      "size_bytes": 6650,
+      "sha256": "a1edeae17415b85177c96698d835b7fbe590be28498d9b6c9dadd7d5192e1f9a"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c19_A.json",
+      "size_bytes": 10164,
+      "sha256": "7c50e20646ae8f2c4a8e848e51b8db829cd198cdb85bbe835961d499b2cb3ff9"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c20_A.json",
+      "size_bytes": 6638,
+      "sha256": "2264a4946b85cbbc053021ba063b8414fcbe245c415830b7d9a528d00134bff5"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c21_A.json",
+      "size_bytes": 10160,
+      "sha256": "3f01b2763c11eae2207d2af31f36a7fea427a686a3c7302d6cc376611ee700da"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c22_A.json",
+      "size_bytes": 6657,
+      "sha256": "5e90bc6e21cabca06c2f421d19a52997ad45b4c48a48e1578cd48d1b974374b4"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/c23_A.json",
+      "size_bytes": 10155,
+      "sha256": "563098e7fe2d3d1e2d39490939a872fcfc5a53b218032ea285d96da819fa50d9"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/w00_A.json",
+      "size_bytes": 6658,
+      "sha256": "157a5f6e1a42a0cbf7382394c9ded1b5adf104dd591462c3ebdfb67557c1a53e"
+    },
+    {
+      "path": "results/agreement_yaw_v1/worlds/w01_A.json",
+      "size_bytes": 10160,
+      "sha256": "03210397e31cac96d0496c7979f5ea229551a8c1cd0a937d8c1abe9b1c502278"
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "utc": "2026-10-30T17:20:23.773041+00:00",
+  "files": [
+    {
+      "path": "results/hs_voltage_benchmark_v1/analysis_complete.json",
+      "size_bytes": 236,
+      "sha256": "2cfa9be8c1dd5813296a51b2a785f55cf2c36a218dfbe7bf99470d27fa6bd8c2"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/auxiliary_parser_failure.json",
+      "size_bytes": 231,
+      "sha256": "1934149d5d358664f0079648b809acc0466d7859110f72dc22b1d9cbdf34c799"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/before_model_scoring.json",
+      "size_bytes": 676,
+      "sha256": "205e9d1140c39c96429d00ed054477f912614913e3d7cbf656c902db52f28205"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/before_values_and_model.json",
+      "size_bytes": 7337,
+      "sha256": "0d2f5d5a3018f47af3fd0b8c62fbb1f44f251a0dda89ad91539e03270abb51d9"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p0_primary/observations.npz",
+      "size_bytes": 855270,
+      "sha256": "e43ac77d2aa0088384b2d75ec727fcd37fdd715389ba485d36343de54e62810e"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p0_primary/receipt.json",
+      "size_bytes": 589,
+      "sha256": "5c207b9f3d040301e311e04e6a92bbe6ebd48c87d764b62c857b4cf2f63ff4a7"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p0_solver/observations.npz",
+      "size_bytes": 855137,
+      "sha256": "07656d4a3383ef1797e2364b432a398bfbdbe06f4537054520b87ad2a49ed06a"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p0_solver/receipt.json",
+      "size_bytes": 586,
+      "sha256": "846f0b85ac0d1ab108c2d72a740c753fef0dfa470bf60b5b90614f53aeff4133"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p0_temporal/observations.npz",
+      "size_bytes": 855194,
+      "sha256": "c8b406731763ad4aaf8cc8c5f42698866ca48fceccd985940161f53c9a4d3523"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p0_temporal/receipt.json",
+      "size_bytes": 592,
+      "sha256": "2d6ab50618d268cac17e5624233ba26bc99bb1e2cb359c802e86f4269596871b"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p1_primary/observations.npz",
+      "size_bytes": 854818,
+      "sha256": "7be537249a951be6ce617de32827b5f2486cd42fde036dc063d86aca3d45b760"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p1_primary/receipt.json",
+      "size_bytes": 589,
+      "sha256": "63d3c05ac8178f5f0f78b441fc9df399b38fd39bd960ea16b3885cf5b35ac5b8"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p2_primary/observations.npz",
+      "size_bytes": 855248,
+      "sha256": "dd6da691a8022c0592b57bd9fd3349c6ae1eeca7bba952cb44c3d38133aeebcc"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p2_primary/receipt.json",
+      "size_bytes": 589,
+      "sha256": "fef27249b1d5860f4de93f0bd7114d0fd87d3487ba1cdc07f7340832ea139d4a"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p3_primary/observations.npz",
+      "size_bytes": 854919,
+      "sha256": "697b2030ba064582ceae14bc2a7f252a08b616799c5ad44d9c7accb15cddb45f"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d0_p3_primary/receipt.json",
+      "size_bytes": 589,
+      "sha256": "198494504fdd6eecbae1279edcef9033a5c88a488e59cc56869d7a265accb976"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p0_primary/observations.npz",
+      "size_bytes": 854987,
+      "sha256": "b740f848d722ec705b2c96682e817cd0038fd0a21e162585a18e7cf1488cb0da"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p0_primary/receipt.json",
+      "size_bytes": 595,
+      "sha256": "801866e35b7effdfdaa3bfc09773075e9ec7a059851052b2d984cce6f81e7b62"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p0_solver/observations.npz",
+      "size_bytes": 855122,
+      "sha256": "347e5c1f882427e7b8fc76e42916f024882db5d32cb926e8a6bf6ebcff22a98f"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p0_solver/receipt.json",
+      "size_bytes": 592,
+      "sha256": "181a0a06f612ef36f6c63af1511ebe29c966a728cab66bf6d29458e454fbf691"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p0_temporal/observations.npz",
+      "size_bytes": 854797,
+      "sha256": "97621955299aab1c5cea5bd15b2caf58c8b004407e069c2f685b6dd9cafb60f0"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p0_temporal/receipt.json",
+      "size_bytes": 598,
+      "sha256": "8881cef8b9ec28755b407da0757a84754efc0e3381c98b288efc228560397750"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p1_primary/observations.npz",
+      "size_bytes": 854674,
+      "sha256": "487a23b1dc8810c0f235ddfb6fc69e60feb253093ead1ce1bb60ad1d77fcc290"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p1_primary/receipt.json",
+      "size_bytes": 595,
+      "sha256": "e0d6894a84581d911aab8ce56f2fb3cc26b9427d0eae57c52a728ffea0cd5ea5"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p2_primary/observations.npz",
+      "size_bytes": 854986,
+      "sha256": "72cd2b7fa2c101ec68f6fd5b553c8f6851d01ac9893e329e2e05e39c55925bf7"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p2_primary/receipt.json",
+      "size_bytes": 595,
+      "sha256": "1a29728b8358e523f327ac7369b58196adc51285d7f3bed01eea4d4d211d5315"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p3_primary/observations.npz",
+      "size_bytes": 854400,
+      "sha256": "2b45322ec8ce69ca7c404a536197256afe620567382c1e1a7c1aee98b860ba1a"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/figure90_d180_p3_primary/receipt.json",
+      "size_bytes": 595,
+      "sha256": "fdf0a526202e52a7901e09e7611103fe105799c61cd0cb2ae674cda1e77ebac1"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p0_primary/observations.npz",
+      "size_bytes": 854998,
+      "sha256": "41b640e8169c4cfeff5543e7d4527e2378da7e7721ec375473650570838d1c71"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p0_primary/receipt.json",
+      "size_bytes": 592,
+      "sha256": "9f87fe65a958851cb6724bad127ea454c526ee6a620bf9fbde83ab403ac9d1f8"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p0_solver/observations.npz",
+      "size_bytes": 855087,
+      "sha256": "7130b619ea17337aa77473422aab4be7e8502a09322bd023b5bbcfbd433c0e77"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p0_solver/receipt.json",
+      "size_bytes": 589,
+      "sha256": "7d1112ccede9ea841a8133c20c6a6c8d9999cda322b487090a12b866310528c1"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p0_temporal/observations.npz",
+      "size_bytes": 855089,
+      "sha256": "2d07bd5f21960c8dba141a4943eaa5ade13885bde06d124246b6434a6031ea85"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p0_temporal/receipt.json",
+      "size_bytes": 595,
+      "sha256": "1459af3c7d7bca74edbb9fca90bda1e502b7052c95f6b87f397a82c8a25d65c9"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p1_primary/observations.npz",
+      "size_bytes": 854804,
+      "sha256": "43f36c5dbdfefca0e698f7284dfb5f881b2118dfcc5f6fae1da16245685790ed"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p1_primary/receipt.json",
+      "size_bytes": 592,
+      "sha256": "3bc1974d8d999d1584f3413ad6660608451e7e460f87c3659489830e702e4213"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p2_primary/observations.npz",
+      "size_bytes": 855178,
+      "sha256": "50dc4922a1f3481aba52dfe2cd300957274fe78bf444f7506ab03a6d17faf5b0"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p2_primary/receipt.json",
+      "size_bytes": 592,
+      "sha256": "48801cb4839346ab9498cb5c650a6cd1a33eda132305a6bac6597d4ee11a6ecf"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p3_primary/observations.npz",
+      "size_bytes": 854768,
+      "sha256": "940278ffb4183d12169de77b7927d104eba1c812a323a25334c337fec5d4be97"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d0_p3_primary/receipt.json",
+      "size_bytes": 592,
+      "sha256": "71732752dea0691eae9a697af6a2208f292900c1bc021c6b2a1b4d2b9327729a"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p0_primary/observations.npz",
+      "size_bytes": 854700,
+      "sha256": "94c23c03a4926240df9fcb0265bea76520c9cd3eb93232f73f0a4e1efb3795bd"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p0_primary/receipt.json",
+      "size_bytes": 598,
+      "sha256": "90f87657149e80912d3d6f43c9731d20dee22ef5dc63f834648ea81c0a97a1bd"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p0_solver/observations.npz",
+      "size_bytes": 854717,
+      "sha256": "5f92a92870e3f4a039fda9c26b390522455c93ebd7971ae8edff8b54c96a84c6"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p0_solver/receipt.json",
+      "size_bytes": 595,
+      "sha256": "70cf5ae1ffdaf6bf3a8861e27ebbefa853c1d27479e4a8b0d843fee664418311"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p0_temporal/observations.npz",
+      "size_bytes": 854584,
+      "sha256": "581994c8997b250a6fdf6dc5d470abca7d3d4f60f85faa1ab6bb7a6729a7c3a9"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p0_temporal/receipt.json",
+      "size_bytes": 601,
+      "sha256": "4fcaad31d77ea843c1e2d9e659957b65cf9b1b7de7630149fce950fda3a82b9d"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p1_primary/observations.npz",
+      "size_bytes": 854447,
+      "sha256": "14f2e75ec67747fe12ecbe72b853f8e8d6fb1c051b1bb252d91808cd3958e4fb"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p1_primary/receipt.json",
+      "size_bytes": 598,
+      "sha256": "a7e30c4e33b19427b36e7e5d0d039ef8f7fc5c09972794a5de9790a56737a7d5"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p2_primary/observations.npz",
+      "size_bytes": 854847,
+      "sha256": "e8f677ce48ebd18f5d8c3a4ac3af67de4ed13d5cd4111b101cbbe6e191febf15"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p2_primary/receipt.json",
+      "size_bytes": 598,
+      "sha256": "98c4ba64d528be648a62253668cf7290bef89424fc664765154bc37f1a3bbfbf"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p3_primary/observations.npz",
+      "size_bytes": 854122,
+      "sha256": "4eff06454643f723c9fe60ecf03eb4739568e6fdde27d020898cc8446ade3148"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/cases/methods85_d180_p3_primary/receipt.json",
+      "size_bytes": 598,
+      "sha256": "340032ad4eacf223408c4959e0f0c31ed6d3c5a0e20e3e7d4cbaafa7a20d32e4"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/PROJECT_PROGRESS_REPORT_2026-10-30.md",
+      "size_bytes": 420220,
+      "sha256": "3a6edd9239fbc5d7191031443c792207d74caa494d9365829c31588d882ac517"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/completion.json",
+      "size_bytes": 692,
+      "sha256": "9a00a30b877a052d06e06492226f05fd25f93389377629fa02b28cbed7d443d3"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/docs/HS_VOLTAGE_BENCHMARK_PROTOCOL_V1.md",
+      "size_bytes": 5590,
+      "sha256": "72b02d61aa919ecf1d56fcdad53dc826bbfee8ae447cf0ad43c6ebe71bd2c7d9"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/docs/HS_VOLTAGE_BENCHMARK_PROTOCOL_V2.md",
+      "size_bytes": 5645,
+      "sha256": "3f237de4c5bafb1f981f48f33dd56af044b38e78947e0ea7882a0c48fd434e87"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/docs/HS_VOLTAGE_BENCHMARK_REPORT_V1.md",
+      "size_bytes": 7883,
+      "sha256": "853643de6f5c82bbabda0dc9c411a2026211982c1316cd7c2c22f6a496dc76cf"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/docs/YAW_FAILURE_AND_HS_BENCHMARK_PROTOCOL_V1.md",
+      "size_bytes": 4744,
+      "sha256": "061728ac20314f45f4481fe86ffffb4941fa4632d920855e28fc574d1fb0893d"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/docs/YAW_FALSE_ALARM_LOCALIZATION_REPORT_V1.md",
+      "size_bytes": 8644,
+      "sha256": "dc670d4c682680ad990e2fab765e9feda8d26119c434c3e7503d6e926d4cb0fe"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/docs/YAW_HS_FOLLOWUP_PROFESSOR_BRIEF_V1.md",
+      "size_bytes": 2242,
+      "sha256": "d9d9ebd96bead28f1ccaab3a894f81c4994c0ad663a92168a52886207696fef2"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/docs/YAW_HS_FOLLOWUP_REPRODUCIBILITY_V1.md",
+      "size_bytes": 3901,
+      "sha256": "0fd9d25ea2686dcef9dc2bcb6b97b2db960c3535d0e2f13f02e393f17c5d69b7"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/requirements-final-openloop-v1.txt",
+      "size_bytes": 60,
+      "sha256": "3db358865fdc3eff38b370e3db6b95e6676c71aacd3b29fc794226543010955a"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/requirements-yaw-hs-followup-v1.txt",
+      "size_bytes": 54,
+      "sha256": "ee0b86536b110c8f33ae5d1d56adec279f619012768dc5f4a2b0007194a9b5a6"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/acquire_hs_voltage_sources_v1.py",
+      "size_bytes": 4005,
+      "sha256": "a9ae9ed6afba8ee05169f280b2984555e608ff48da86de42465e376e6fe96742"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/analyze_yaw_false_alarm_localization_v1.py",
+      "size_bytes": 7851,
+      "sha256": "0c9e4b4fb819ca8a60f97b539dcad7ee73c56a2896d656acc1f92d889c7c0b21"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/hs_voltage_benchmark_v1.py",
+      "size_bytes": 10531,
+      "sha256": "8b0124a3f33c97967b48878a1a0924abe078eb13fa233f6250263df87fad2638"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/localize_yaw_false_alarms_v1.py",
+      "size_bytes": 8986,
+      "sha256": "dfdc7f8040ef55c991506f9ffd94c47a33bce98ee20a6628b9296908d3842e4e"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/report_yaw_hs_followup_v1.py",
+      "size_bytes": 27404,
+      "sha256": "000d1d8df3087004330424b3585baf07cbaf6b86d9601a72caeb30dfc84ba915"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/review_yaw_hs_additional_v1.py",
+      "size_bytes": 3553,
+      "sha256": "b9b334bb320ceaee1bdf16c838804e231ec32b4d8b00af3600f0da349b4d1f5d"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/review_yaw_hs_followup_v1.py",
+      "size_bytes": 8961,
+      "sha256": "ab4ee79ee52ef7de8d8eeb68d1cb335ed33006c829ce7923332bb09e0b5cacc9"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/yaw_retinal_clamp_control_v1.py",
+      "size_bytes": 4892,
+      "sha256": "5596ae352d7873a198880c5e44e24450ef999de2bdafc9de8d018d133b2f7dac"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/completion_v1/sources/scripts/yaw_scene_counterfactual_v1.py",
+      "size_bytes": 7129,
+      "sha256": "cf65c0a35e5ec01952ee7c44267fd5321bae850f73b0169f8308208ad52c2127"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/environment.json",
+      "size_bytes": 273,
+      "sha256": "7054990e0edb67c96657d3b3f6125cef1ad3add5700c5cf49917f2f5b2a937b5"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/figures/hs_recording_comparison.pdf",
+      "size_bytes": 20506,
+      "sha256": "1c6aef9ccf6c995e0bcc917c0b12324a2d9e9c8cb642b49db384782b03e21392"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/figures/hs_recording_comparison.png",
+      "size_bytes": 90564,
+      "sha256": "968b9b28419dec76dd829f191c29837df86803f1d49e99a341134bd8b05db00b"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/independent_review.json",
+      "size_bytes": 920,
+      "sha256": "d758d4f750a48c9ca5d94a3ba9bd16afd6ab1eb4fd7385c0a4fc06dd9c335953"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/model_ratios.csv",
+      "size_bytes": 3413,
+      "sha256": "f78318118ed32d3ca5116194c2fd595fc3eb0eda5d528ef259f2920c1f3e55ad"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/model_responses.csv",
+      "size_bytes": 96847,
+      "sha256": "e2b7333382ac9d3cf67ba150b19909b5a427da2ffefc1bf069942ee3ab346b74"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/numerical_sensitivity.csv",
+      "size_bytes": 1210,
+      "sha256": "309f06fa9e82b8854acc4ce6039f20e3fd6ee28c02a8884cedb382e1376b05e2"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/plans.json",
+      "size_bytes": 3243,
+      "sha256": "ebecac679e2996225ceb0d67dca35aee98321df2e8d98c568511235b2dd93420"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/preparation/initial_direction_target_draft.md",
+      "size_bytes": 5590,
+      "sha256": "72b02d61aa919ecf1d56fcdad53dc826bbfee8ae447cf0ad43c6ebe71bd2c7d9"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/preparation/target_choice_before_values.json",
+      "size_bytes": 595,
+      "sha256": "308a0d264c5dc5a9bdb89a6a0e8dd7deb0b75bb7b4f3c6869a9864c598bb973a"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/recording_rows.csv",
+      "size_bytes": 1037,
+      "sha256": "0311949a906b5e25af69af71aa0b72ad26c217068e61abb5373ef46518595691"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/report_review.json",
+      "size_bytes": 379,
+      "sha256": "78a354c1398313e4d262b54f7294302a59313ac9f5549e84f9703486714558a7"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/simulations_complete.json",
+      "size_bytes": 118,
+      "sha256": "c1f2f44888577191b32c6e72933a9e498b41c9847ce67cd06055b6808f212739"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/solver_input_identity_review.json",
+      "size_bytes": 573,
+      "sha256": "0bcd89dca44d26a622c3c5f54a0915cf51390d6659b6a573797e14de6b289f49"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/source_metadata_audit.json",
+      "size_bytes": 1095,
+      "sha256": "22b942bdbb9cdcca3f0bbdecdfa5c32a6c56440a530df0a9617b5d1143cb8db3"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/source_workbook_bytes.npz",
+      "size_bytes": 11020724,
+      "sha256": "55528390ff73fa90261e4bb1df7f6f4370000625f11428d168072374efb349d2"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/README.md",
+      "size_bytes": 762,
+      "sha256": "988b4268a48bc959a55d5dbbdf90ad5622ff28bda08e30b09d7b21429b5333dc"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/acquisition_1793378671532356603.json",
+      "size_bytes": 1138,
+      "sha256": "a2a0911cd08d0a1fd68bcdd3db2506971d8a8cb01652bba24d128d10b1e5e2b0"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/acquisition_1793378684121304959.json",
+      "size_bytes": 1513,
+      "sha256": "713f5a43d22a358340c84d4843db6c01fc7497f243b805289a3ad71764637b2b"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/acquisition_1793378734011693468.json",
+      "size_bytes": 4857,
+      "sha256": "e1c6783fbf7f9a949c5ff057298436fadfef4a83248e0389996d2308321fda6a"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/article.html",
+      "size_bytes": 639411,
+      "sha256": "0aaa83de57703c11b9110752658e0e9bd02c4224c2dbd5e7433cf816a1d6f1c1"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/author_tree.json",
+      "size_bytes": 78762,
+      "sha256": "20fb650b8cc9301149bd776c59f6d31cab6ba842903b81e037ccd365e2fb3204"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/deform_plot_uniform_sampling.m",
+      "size_bytes": 7497,
+      "sha256": "c5eb8e33f21967a2fff475ec402357a4b81c8602678fdf8a8a57b684c285a949"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/grating_stimuli_one_recording.m",
+      "size_bytes": 7503,
+      "sha256": "3771229f4fab9ca3fec0c98a733826e6e68a08ef95edab17eaab960fb742460d"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/make_group_plots.m",
+      "size_bytes": 10168,
+      "sha256": "2a7c35eaa809ff5df7e0fb5fdcde044386ebab2294428f157d517946f813fa35"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/save_grating_stimuli_raw_data_folder.m",
+      "size_bytes": 6802,
+      "sha256": "f7856735441c92d6048603f7ba22c6558d6126cdbde10c127030c196db0d4183"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/source.zip",
+      "size_bytes": 156151246,
+      "sha256": "9483c77dfe49b04d794b7cb17e0521c4acef937990cf41d26d252fafd4c71e38"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/spherical_deformation.m",
+      "size_bytes": 1406,
+      "sha256": "2f848e8146585abdc541b7f2d4543cca75a8741fa207d453569537c14f1cc49c"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/supplement.pdf",
+      "size_bytes": 19854029,
+      "sha256": "849a923dbbd3457bfd530fdbeff02c15829972bac72d0e791fc1e42d08a7b09f"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/sources/supplement.txt",
+      "size_bytes": 20700,
+      "sha256": "17ce55775741f62822b842c1438c0f22d63a785b10ecd1d4174a2f263880475b"
+    },
+    {
+      "path": "results/hs_voltage_benchmark_v1/target.json",
+      "size_bytes": 420,
+      "sha256": "4045792a5f130b66c10309c4e34a88ddaa5006fa307f5bb956334ddb00203dce"
+    }
+  ],
+  "scope": "Immutable evidence, archived sources and dated progress snapshot; live progress/AGENTS and post-exit receipts excluded"
+}

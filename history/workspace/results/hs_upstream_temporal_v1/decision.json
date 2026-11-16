@@ -1,0 +1,22 @@
+{
+  "development_improvement": true,
+  "guards": {
+    "numerical": true,
+    "frequency_rmse": true,
+    "contrast_rmse": true,
+    "contrast_violations": true,
+    "PD50_PD75_inside": true,
+    "zero_clipping": true
+  },
+  "numerical_passes": 14,
+  "numerical_total": 14,
+  "conditional_panel_compatibility": {
+    "contrast": false,
+    "frequency": false
+  },
+  "biological_validation": false,
+  "walking_advancement": false,
+  "parameters_fitted": 0,
+  "data_already_inspected": true,
+  "old_graph_and_detector_preserved": true
+}

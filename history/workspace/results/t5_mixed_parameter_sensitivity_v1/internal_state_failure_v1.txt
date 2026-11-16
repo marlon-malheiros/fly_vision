@@ -1,0 +1,6 @@
+Initial optional internal-state DOP853 audit exited 1 on baseline/bar_00.
+rtol=atol=1e-12, adaptive dense output, no maximum-step cap.
+Maximum errors by state [h_e,g_e,h_i,g_i]:
+[1.80351169e-08, 7.23005372e-10, 3.98658537e-13, 1.42509615e-12].
+Declared state tolerance 1e-8 was exceeded. Full waveform matrix-exponential review remains PASS.
+A V2 wrapper caps integration steps at 1 ms with unchanged state tolerance; original method and source retained.

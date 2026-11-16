@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T18:11:39.150421+00:00",
+  "visual_review": "PNG visually inspected: readable axes/legend, all four frozen methods, endpoint and rolling false alarms, unchanged 80/80/10/10 reference lines; coincident curves remain disclosed by full count tables",
+  "PDF_check": "Export exists and has a PDF header; visual inspection was of the PNG",
+  "files": [
+    {
+      "path": "results/neural_change_readout_v1/figures/readout_comparison.png",
+      "size_bytes": 165318,
+      "sha256": "3c338836a631426721a2aa119cd77f36e9f35e9456da5c8acd33709c10bdf15b"
+    },
+    {
+      "path": "results/neural_change_readout_v1/figures/readout_comparison.pdf",
+      "size_bytes": 24732,
+      "sha256": "4637dcd2908c246d19413f5aa3537fde89498be96da7a5a9ce8790a3d464af39"
+    }
+  ]
+}

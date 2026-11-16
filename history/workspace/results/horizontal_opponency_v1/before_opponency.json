@@ -1,0 +1,164 @@
+{
+  "utc": "2026-10-28T02:35:03.716128+00:00",
+  "files": [
+    {
+      "path": "scripts/horizontal_opponency_v1.py",
+      "size_bytes": 12473,
+      "sha256": "1781fd6e474625227a25e9d6d23b1a0182d1323c8fc37af69dff04842cb876c1"
+    },
+    {
+      "path": "configs/horizontal_opponency_v1.json",
+      "size_bytes": 872,
+      "sha256": "fbe8649f8779b38540df679a0c5f6338daa7f56a3e0911de1dc0caf9899e581d"
+    },
+    {
+      "path": "docs/HORIZONTAL_OPPONENCY_PROTOCOL_V1.md",
+      "size_bytes": 7059,
+      "sha256": "9081d2b4281baef1a764e78507a073593fceacb2bfd7722c37b7c15d84e49f26"
+    },
+    {
+      "path": "scripts/review_horizontal_opponency_v1.py",
+      "size_bytes": 13752,
+      "sha256": "23c5ffda36ff0e86b93793a09d74175ec5a783ffc82dfe30c57e626ddc5e2b62"
+    },
+    {
+      "path": "scripts/analyze_horizontal_opponency_v1.py",
+      "size_bytes": 10755,
+      "sha256": "3c697813ed3462bd715cd299c55c2e5d692d35fa1b1614f55aed384fc6fbd5d8"
+    },
+    {
+      "path": "src/male_optic_frontend/horizontal_opponency_v1.py",
+      "size_bytes": 1852,
+      "sha256": "7fb26af03c783e070ca4aac9e86df14b5b0977ca3b0f05205d901aeec7ddaecf"
+    },
+    {
+      "path": "tests/test_horizontal_opponency_v1.py",
+      "size_bytes": 1105,
+      "sha256": "4674f025812b2a9f7f25c4635884e1a8c0746ba4c8af37fbccdd06a16a0e6293"
+    },
+    {
+      "path": "scripts/biological_failure_localization_v1.py",
+      "size_bytes": 24931,
+      "sha256": "8fbfa1dcbbd55f4b021779981182815affb96f3d33835ba9a91a69a2edb2eb40"
+    },
+    {
+      "path": "scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "scripts/review_biological_failure_localization_v1.py",
+      "size_bytes": 21399,
+      "sha256": "4d3517186f0743291bb5ff04fb60ec54d2e808ab9d6ee336725211d05d355df9"
+    },
+    {
+      "path": "scripts/review_biological_selectivity_v1.py",
+      "size_bytes": 9076,
+      "sha256": "a3f5ba2f9f1cc277e286d21457a818bdd0c4c54188d0c84d326b2070d207f9c7"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/biological_failure_localization_v1.py",
+      "size_bytes": 3234,
+      "sha256": "b45099a951ae67db4bf3989bd47b175e8e1a795ff9d4a8a5cf3dbbe013e0b197"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/plans.json",
+      "size_bytes": 1087,
+      "sha256": "42b05ffbc751dcaf6747583e6a0889baa366de6d49fc79c81a47d9a014d2e36b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/observations.json",
+      "size_bytes": 112459,
+      "sha256": "8248f3312b33e74c9b9e3b49cf92da63145517d53692cf88828d84e7bff69e9a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/parent_inputs.json",
+      "size_bytes": 87017,
+      "sha256": "2ea20c0f6700dcd577a694e0da6b3b943c910adac0644a013e394a63e3f3d14f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/preflight_review_r2.json",
+      "size_bytes": 311,
+      "sha256": "b98bf3f58bc3b2feca072079fc1a05a8d405ef3c2e35150b0cfbce0802958c12"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/preflight_tests.log",
+      "size_bytes": 109,
+      "sha256": "ca1e7ae300307663bcbc3678cc7cdc6421518f09e032bece4185d7eab5ab0e75"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/methods/neural.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/methods/reference.so",
+      "size_bytes": 16472,
+      "sha256": "3c1b94aaca0725acd9a379defda525166b9edd300776393d24444ee27567bd23"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/chemical_weights.npz",
+      "size_bytes": 672702,
+      "sha256": "173590663c83e2377dcf547047a461d9ef416d7dbde6a3c93639993ec6e8c63e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/gap_weights.npz",
+      "size_bytes": 1042,
+      "sha256": "8dbe77c9f81a583e2aeea53601d170da73b51502f24bb30dde0878730d95df29"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/graph.json",
+      "size_bytes": 231,
+      "sha256": "49b7bcd031a0c05b02c871e3cfccef4a234d405b4117a69d9b93eded0ffd81cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/graph_arrays.npz",
+      "size_bytes": 64772,
+      "sha256": "1f59dedc65c4eb8d2f7884dc4df17284611f185ef05299a42a130ca3d44fde66"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_counts.npz",
+      "size_bytes": 615858,
+      "sha256": "5caf9b5103d38447cc9bfeb91290f5fb2e2d7f8025ad9d54f3a73192c97b68f7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz",
+      "size_bytes": 716856,
+      "sha256": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph.json",
+      "size_bytes": 1916,
+      "sha256": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz",
+      "size_bytes": 64837,
+      "sha256": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54"
+    }
+  ],
+  "new_neural_responses_computed": false,
+  "known_recordings_are_development_data": true,
+  "no_neural_fitting": true,
+  "all_candidates_retained": true
+}

@@ -1,0 +1,30 @@
+{
+  "utc": "2026-11-05T01:44:12.328021+00:00",
+  "reason": "V1 JSON serialization of numpy.bool_ failed after all10 screens, before finalist nomination",
+  "frozen_scientific_code_unchanged": true,
+  "source_or_threshold_changes": false,
+  "new_simulations_repeated": 0,
+  "partial_original_path": "results/physiological_factorial_search_v1/screen_scores.json",
+  "partial_original_sha256": "5579a3400d9648a51c24d51b8a06fbce941c724de309aa100f3be1b9a56ae53e",
+  "preserved": {
+    "path": "results/physiological_factorial_search_v1/failures_v1/screen_scores_partial.json",
+    "size_bytes": 1302,
+    "sha256": "5579a3400d9648a51c24d51b8a06fbce941c724de309aa100f3be1b9a56ae53e"
+  },
+  "existing_numerical_checks": {
+    "path": "results/physiological_factorial_search_v1/screen_numerical_checks.json",
+    "size_bytes": 50833,
+    "sha256": "a7973fd750e3bc111b1c2af47fe4a68faf3d94fe26736a558b0ad7304e0c4277"
+  },
+  "existing_failure": {
+    "path": "results/physiological_factorial_search_v1/execution_failure_v1.json",
+    "size_bytes": 2195,
+    "sha256": "14ae19542fb1f89989756e2aa517eb5922d3a64f8284141684eb261e79ed6aa4"
+  },
+  "continuation_source": {
+    "path": "scripts/continue_physiological_factorial_search_r2.py",
+    "size_bytes": 4275,
+    "sha256": "a144b401889679654523da583f621d84c2a909d0201011f40622c97e662c349c"
+  },
+  "native_scalar_test_passed": true
+}

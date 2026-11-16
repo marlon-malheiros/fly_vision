@@ -1,0 +1,308 @@
+{
+  "plans": [
+    {
+      "row": 1,
+      "case": "c26c087d3230f3217dd3",
+      "edge": 0.0,
+      "relOrt": 0.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/c26c087d3230f3217dd3/retinal_keyframes.npz",
+          "sha256": "2d10333d95685ff4bbda76af1a7557b60a3cdc8d1e5766c97f37580e1d689b42",
+          "bytes": 5488
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/c26c087d3230f3217dd3/source.npz",
+          "sha256": "0b41d73c07e9743df76704f5ee77a618e35cc8fbafa72d0914f567e24fd08009",
+          "bytes": 595982
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "case": "f7754aefcfc43fbc7177",
+      "edge": 0.0,
+      "relOrt": 1.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/f7754aefcfc43fbc7177/retinal_keyframes.npz",
+          "sha256": "6437a0c57dfd34e6c5cc10e9406e3b0d950889e59c318cfda624ecb759bb3c42",
+          "bytes": 5533
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/f7754aefcfc43fbc7177/source.npz",
+          "sha256": "d2c3c80134d6ce1e99c482a74b25f31672e6e573e679949288b9eecf1438ab4b",
+          "bytes": 647088
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "case": "815c4c89e58c3d2fc4a6",
+      "edge": 0.0,
+      "relOrt": 2.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/815c4c89e58c3d2fc4a6/retinal_keyframes.npz",
+          "sha256": "928d89c4b16a8f59af0551b75967bf69ad1ce1f2d384b118c1e3a4e7702ea592",
+          "bytes": 5154
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/815c4c89e58c3d2fc4a6/source.npz",
+          "sha256": "8c507a05cc01e56b3b3d1cc872663aec4b1bcbf4add25b59286fcaca19f7bf19",
+          "bytes": 491068
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "case": "5e2cee4fe2bf106aa94f",
+      "edge": 0.0,
+      "relOrt": 3.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/5e2cee4fe2bf106aa94f/retinal_keyframes.npz",
+          "sha256": "e9454600b2dc0236cf7ffa9ffea62860a5be2359a483c507c298c2faf46ab9b0",
+          "bytes": 5546
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/5e2cee4fe2bf106aa94f/source.npz",
+          "sha256": "1fe2079f3b922b4f99fbed9ff2e035c5000b1b332bbc1776a6564e47fe8ae97b",
+          "bytes": 640221
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "case": "56080e4cbfcdfc12b760",
+      "edge": 0.0,
+      "relOrt": 4.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/56080e4cbfcdfc12b760/retinal_keyframes.npz",
+          "sha256": "44d8bac3b3d833ffa56d4442c917473d19986a0be971b2483e3c5f5b309d3f1d",
+          "bytes": 5315
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/56080e4cbfcdfc12b760/source.npz",
+          "sha256": "9eab29869f1f03a35e8e71c6a8c39108d94ffae7227754a7c4f486a9ab4fcffe",
+          "bytes": 496317
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "case": "f21cd2073e806ef16df4",
+      "edge": 0.0,
+      "relOrt": 5.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/f21cd2073e806ef16df4/retinal_keyframes.npz",
+          "sha256": "c673b6dd92eab61ed666e0b428867e43f8647f7813be02bda01606ed9866ef32",
+          "bytes": 5310
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/f21cd2073e806ef16df4/source.npz",
+          "sha256": "2682fafee33b1c102c4f80ca63a3a5fc43d573352c877e99a2e9817da4659aff",
+          "bytes": 665573
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "case": "895a480af9dd8b60af72",
+      "edge": 0.0,
+      "relOrt": 6.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/895a480af9dd8b60af72/retinal_keyframes.npz",
+          "sha256": "7fc5c09794edd20aca848ebed4e90cd68a547d5c088ac9a48a68f0fc1a9bd8ef",
+          "bytes": 5080
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/895a480af9dd8b60af72/source.npz",
+          "sha256": "4c1b9613b7b6fe436e5af7a35c298ca98a59090771a24ef76495f1aaadaf0387",
+          "bytes": 498650
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "case": "1a120a3399ac6c300180",
+      "edge": 0.0,
+      "relOrt": 7.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/1a120a3399ac6c300180/retinal_keyframes.npz",
+          "sha256": "30d810bed950efcae947fba88fa3c00cf7203bf5717dc26b5de2b42724e6203a",
+          "bytes": 5314
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/1a120a3399ac6c300180/source.npz",
+          "sha256": "4a39b8803f82a3548f220d94f4801bdcbca796c2ee1cd05dbbc16f06a8801d80",
+          "bytes": 673000
+        }
+      ]
+    },
+    {
+      "row": 49,
+      "case": "44a44a3712db99eb72db",
+      "edge": 1.0,
+      "relOrt": 0.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/44a44a3712db99eb72db/retinal_keyframes.npz",
+          "sha256": "e1fa7d87e91fe55cbfe0bea42aeaa098495043f13e3602d22c05f79ae782013a",
+          "bytes": 5508
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/44a44a3712db99eb72db/source.npz",
+          "sha256": "1a9550de940ab59ab0b88af3e582984f6df089889db06e3dd7b10bfb1320b3f6",
+          "bytes": 809812
+        }
+      ]
+    },
+    {
+      "row": 55,
+      "case": "71513b7c0a9c98093ee9",
+      "edge": 1.0,
+      "relOrt": 1.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/71513b7c0a9c98093ee9/retinal_keyframes.npz",
+          "sha256": "97980c75de64cdc1be257949f45ce723cc2438ef41078ca7fde7d612c1bbbe0e",
+          "bytes": 5552
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/71513b7c0a9c98093ee9/source.npz",
+          "sha256": "5d4c7bcb3c335f7a792a26bac1b44a8f139efed0d350e847b496b4d3a5616c6d",
+          "bytes": 962179
+        }
+      ]
+    },
+    {
+      "row": 61,
+      "case": "560e63c5a750675b5b75",
+      "edge": 1.0,
+      "relOrt": 2.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/560e63c5a750675b5b75/retinal_keyframes.npz",
+          "sha256": "8331f49aaeebd8a121cf8adf3707476a9193569bcd1cf0fbf0707b9434e8d5d8",
+          "bytes": 5193
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/560e63c5a750675b5b75/source.npz",
+          "sha256": "c30d6aff1590214d33434ed72d9e7f7af12a2203eef78056710836481f9b2592",
+          "bytes": 710359
+        }
+      ]
+    },
+    {
+      "row": 67,
+      "case": "cfa7df31186780a163fc",
+      "edge": 1.0,
+      "relOrt": 3.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/cfa7df31186780a163fc/retinal_keyframes.npz",
+          "sha256": "470306d92ac40bcb03ff051258e6dfd22b9d03a48591e272af84e42325b4c39c",
+          "bytes": 5566
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/cfa7df31186780a163fc/source.npz",
+          "sha256": "c2dd21d9c1cbe8f24b9230c637b71fd7631e7081817bb608aaf65e588acf4737",
+          "bytes": 818207
+        }
+      ]
+    },
+    {
+      "row": 73,
+      "case": "10fee65d62c2d2dea5c4",
+      "edge": 1.0,
+      "relOrt": 4.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/10fee65d62c2d2dea5c4/retinal_keyframes.npz",
+          "sha256": "9156fb527ef42b7f789c5c47657d356bda6a5f8bbf3a1dec8e50ab51fde8e487",
+          "bytes": 5339
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/10fee65d62c2d2dea5c4/source.npz",
+          "sha256": "920fe54bd763db8c594958f569337b7976885d74d65555721fedc01f8ab37007",
+          "bytes": 461144
+        }
+      ]
+    },
+    {
+      "row": 79,
+      "case": "6a6b31fb88f34d8ac366",
+      "edge": 1.0,
+      "relOrt": 5.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/6a6b31fb88f34d8ac366/retinal_keyframes.npz",
+          "sha256": "9691352d36005e43366e03f3d69f538006aae9d2c59c950b146d77f57435f9a0",
+          "bytes": 5352
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/6a6b31fb88f34d8ac366/source.npz",
+          "sha256": "48ab1e52b9c7ce04ec7371dd2db6ba14c7a3f4f3cb7ade6c9621afd86b590c85",
+          "bytes": 708106
+        }
+      ]
+    },
+    {
+      "row": 85,
+      "case": "d0cfe151916c73265a44",
+      "edge": 1.0,
+      "relOrt": 6.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/d0cfe151916c73265a44/retinal_keyframes.npz",
+          "sha256": "e493902253de8e133d1a415725345c6ed94256a0e98198d2f2d6246af99a65bb",
+          "bytes": 5124
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/d0cfe151916c73265a44/source.npz",
+          "sha256": "bf6e2ec96c973613d4e17cb018235f12498003a306265ac67ccc62c13c798896",
+          "bytes": 572816
+        }
+      ]
+    },
+    {
+      "row": 91,
+      "case": "eff56dff0c6c8beebfe6",
+      "edge": 1.0,
+      "relOrt": 7.0,
+      "inputs": [
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/eff56dff0c6c8beebfe6/retinal_keyframes.npz",
+          "sha256": "dc137beb3fb2893ea3575d7af990316a503173c144455ac029c8998d0e62ff27",
+          "bytes": 5354
+        },
+        {
+          "path": "results/h2_frozen_model_benchmark_v1/cases/eff56dff0c6c8beebfe6/source.npz",
+          "sha256": "43613ee4dc7dad0227dea6927802a8f02c6c155ec153b3a19e3c79dd2b32ea7d",
+          "bytes": 831816
+        }
+      ]
+    }
+  ],
+  "left_t4_cells": 3424,
+  "source_hashes": {
+    "scripts/h2_t4_admission_v1.py": "f0e331861d8779142bca7c28c2ffefbe33079100947de334abcfe16514ffe9b4",
+    "docs/H2_T4_RECORDING_COMPARISON_PROTOCOL_V1.md": "469e4bb97dc39c1ead17fb3ec319df9cb7128644766b4c10f5d18277d7c758f8",
+    "results/h2_trial_metadata_v1/metadata/conditions.json": "715b4a0cbdbc14e8c96532ed1666f4297bb2edffea66611c94b43418bcc176e3",
+    "results/h2_frozen_model_benchmark_v1/condition_manifest.json": "29020ac10d89ea7acfafa5e4608503beb8fdd8f6cafe2d352a5300b157d810bc",
+    "results/physiological_population_v1/source_inventory.json": "53c6e63a6f1c919c5eaf4b9bd128669c3dc3424a9be4ae456eee4c077e29a281",
+    "results/fixed_neighbor_motion_v1/config.json": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12",
+    "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54",
+    "src/male_optic_frontend/physiological_prototype.py": "baf160bd44dcb65844698a35af11fac8903de712fb86d36be2b55b8c01afd046",
+    "src/male_optic_frontend/visual_coordinates.py": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+  },
+  "recorded_responses_previously_inspected": true,
+  "new_neural_predictions_not_computed": true,
+  "stimulus": "saved approximate H2 benchmark frames; not exact display replay",
+  "free_bytes": 139957116928
+}

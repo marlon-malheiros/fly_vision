@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "rows": 1344,
+  "shared_numeric_elements": 22848,
+  "method": "Independent fixed-slot property decoder; every object/property record checked before use",
+  "global_and_local_join_checks": true,
+  "raw_sha256": "12d67bf1fd73d0fe1389e0168311f17c7b26b69fddaaaf4f3e411fc1a7ba0f26",
+  "biological_validation": false
+}

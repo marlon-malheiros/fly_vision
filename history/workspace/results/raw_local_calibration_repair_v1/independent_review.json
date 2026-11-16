@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "utc": "2026-11-02T04:42:01.085891+00:00",
+  "seconds": 0.5448709969932679,
+  "negative_calibration_episodes": 160,
+  "test_episodes": 384,
+  "score_values_compared": 99008,
+  "maximum_score_error": 1.7763568394002505e-15,
+  "rank_39_of_40_independently_verified": true,
+  "cutoff": 1.1329958232706985,
+  "pretest_numerical_comparisons": 81,
+  "pretest_numerical_passed": 81,
+  "development_gates_passed": 6,
+  "test_prefix_comparisons": 288,
+  "replay_cases": 4,
+  "paired_operating_point_checks": 12,
+  "observation_cpu_seconds": 4818.502577999999,
+  "peak_worker_rss_bytes": 263184384,
+  "model_weights_unchanged": true,
+  "physiological_validation": false
+}

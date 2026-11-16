@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "R_reference_rows": 624,
+  "R_original_output_rounding_preserved": true,
+  "max_angle_error_deg": 1.1368683772161603e-13,
+  "max_inverse_pixel_error": 1.7763568394002505e-14,
+  "max_point_error_inch": 2.6645352591003757e-15,
+  "author_to_model_azimuth": "reflect y, based on Fig_1.R left/right mapping and frozen negative-left body chart",
+  "missing_pose_not_imputed": true,
+  "neural_responses_inspected": false
+}

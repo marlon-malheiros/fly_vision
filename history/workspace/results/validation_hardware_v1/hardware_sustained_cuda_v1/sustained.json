@@ -1,0 +1,30 @@
+{
+  "status": "SUSTAINED_REPLAY_NUMERICAL_GATE_PASS",
+  "completed_utc": "2026-10-21T14:22:42.912623+00:00",
+  "cycles": 1500,
+  "virtual_seconds": 600.0,
+  "paired_updates": 60000,
+  "median_ms": 8.850891499605495,
+  "p95_ms": 9.560169155156473,
+  "p99_ms": 10.32602017236059,
+  "maximum_ms": 20.856466013356112,
+  "missed_10ms": 1096,
+  "all_deadlines_met": false,
+  "elapsed_wall_s": 538.8296591310063,
+  "maximum_rate_error": 8.673617379884035e-19,
+  "maximum_final_state_error": 3.469446951953614e-18,
+  "peak_host_rss_first_bytes": 323538944,
+  "peak_host_rss_last_bytes": 323801088,
+  "model_device_buffer_bytes": 5015261,
+  "cached_graph_shapes": 1,
+  "load_average": [
+    5.25634765625,
+    5.22900390625,
+    4.8642578125
+  ],
+  "platform": "Linux-7.2.11-200.fc44.x86_64-x86_64-with-glibc2.43",
+  "scope": "unpaced_repeated_0.4s_episodes_reset_between_clips_concurrent_study_workers; not_continuous_walking_or_camera_acquisition",
+  "acquisition_projection_rendering_excluded": true,
+  "physical_camera_tested": false,
+  "hard_real_time_guarantee": false
+}

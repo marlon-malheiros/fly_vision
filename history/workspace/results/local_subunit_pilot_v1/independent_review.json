@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "utc": "2026-11-02T03:30:59.886990+00:00",
+  "verified_co_located_pairs": 2911,
+  "independent_floor": 0.001942867617651177,
+  "maximum_feature_error": 3.319566843629218e-14,
+  "maximum_literal_score_error": 1.504352198367087e-14,
+  "literal_feature_values_compared": 78540,
+  "literal_replay_keys": [
+    "w00_v16.5_y+0",
+    "w00_v16.5_y-2",
+    "w00_v16.5_y+2"
+  ],
+  "replay_cpu_seconds": 16.55068,
+  "aggregate_observation_and_review_replay_cpu_seconds": 2086.62753,
+  "score_comparisons": 32640,
+  "maximum_score_error": 1.7763568394002505e-15,
+  "checked_group_gates": 6,
+  "seconds": 19.873403780016815,
+  "total_cpu_seconds": 19.502186000000002,
+  "peak_rss_bytes": 254083072,
+  "detector_refitted": false,
+  "physiological_validation": false,
+  "numerical_convergence_established": false
+}

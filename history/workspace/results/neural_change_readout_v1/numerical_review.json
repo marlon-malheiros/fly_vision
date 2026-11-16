@@ -1,0 +1,732 @@
+{
+  "utc": "2026-10-27T17:51:38.662386+00:00",
+  "checks": [
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "absolute",
+      "primary": 2.7664077508810925,
+      "finer": 2.780854951355058,
+      "error_deg_s": 0.014447200473965527,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "change",
+      "primary": -0.8763229928435607,
+      "finer": -0.8467346164530194,
+      "error_deg_s": 0.02958837639054135,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "legacy",
+      "primary": 0.622238312831296,
+      "finer": 0.6553350204629276,
+      "error_deg_s": 0.03309670763163153,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "absolute",
+      "primary": 1.6515177165037427,
+      "finer": 1.6814154318921042,
+      "error_deg_s": 0.0298977153883615,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "change",
+      "primary": -2.1155060527711047,
+      "finer": -2.2050186301856294,
+      "error_deg_s": 0.08951257741452467,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "legacy",
+      "primary": 3.0655851996181633,
+      "finer": 3.256111886297433,
+      "error_deg_s": 0.19052668667926964,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "absolute",
+      "primary": 2.721262026199717,
+      "finer": 2.7260077896507466,
+      "error_deg_s": 0.0047457634510297275,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "change",
+      "primary": -0.9421954574500153,
+      "finer": -0.8949065813237338,
+      "error_deg_s": 0.04728887612628152,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "legacy",
+      "primary": 0.6128273816250387,
+      "finer": 0.6371621162102695,
+      "error_deg_s": 0.024334734585230833,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "absolute",
+      "primary": 3.056040638700351,
+      "finer": 3.072288634286256,
+      "error_deg_s": 0.01624799558590473,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "change",
+      "primary": -0.2730133559812906,
+      "finer": -0.16337283832316504,
+      "error_deg_s": 0.10964051765812557,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "legacy",
+      "primary": 1.412307149671377,
+      "finer": 1.4433527555608576,
+      "error_deg_s": 0.031045605889480576,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "absolute",
+      "primary": 2.7664077508810925,
+      "finer": 3.091521322479561,
+      "error_deg_s": 0.32511357159846854,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "change",
+      "primary": -0.8763229928435607,
+      "finer": -0.7979059699832983,
+      "error_deg_s": 0.07841702286026242,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "legacy",
+      "primary": 0.622238312831296,
+      "finer": -0.7082710182246363,
+      "error_deg_s": 1.3305093310559324,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "absolute",
+      "primary": 1.6515177165037427,
+      "finer": 1.755350195670342,
+      "error_deg_s": 0.10383247916659921,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "change",
+      "primary": -2.1155060527711047,
+      "finer": -1.7538868160681909,
+      "error_deg_s": 0.36161923670291385,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "legacy",
+      "primary": 3.0655851996181633,
+      "finer": 1.34606127859045,
+      "error_deg_s": 1.7195239210277133,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "absolute",
+      "primary": 2.721262026199717,
+      "finer": 3.1043812486439495,
+      "error_deg_s": 0.3831192224442326,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "change",
+      "primary": -0.9421954574500153,
+      "finer": -0.7493075109279386,
+      "error_deg_s": 0.19288794652207675,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "legacy",
+      "primary": 0.6128273816250387,
+      "finer": -0.5524423234593914,
+      "error_deg_s": 1.16526970508443,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "absolute",
+      "primary": 3.056040638700351,
+      "finer": 3.293068977593487,
+      "error_deg_s": 0.2370283388931358,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "change",
+      "primary": -0.2730133559812906,
+      "finer": -0.21321747201756125,
+      "error_deg_s": 0.05979588396372937,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "legacy",
+      "primary": 1.412307149671377,
+      "finer": 0.5563420435707431,
+      "error_deg_s": 0.8559651061006339,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "absolute",
+      "primary": 1.4877237566510444,
+      "finer": 1.4992807762270592,
+      "error_deg_s": 0.011557019576014849,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "change",
+      "primary": -2.8022837986140363,
+      "finer": -2.7720183269822414,
+      "error_deg_s": 0.030265471631794938,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "legacy",
+      "primary": -0.589116421237403,
+      "finer": -0.5703433916480777,
+      "error_deg_s": 0.018773029589325363,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "absolute",
+      "primary": 1.3766846454063593,
+      "finer": 1.401879665510901,
+      "error_deg_s": 0.025195020104541666,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "change",
+      "primary": -3.857582390664679,
+      "finer": -3.9735037384382155,
+      "error_deg_s": 0.11592134777353635,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "legacy",
+      "primary": 2.5233240248700426,
+      "finer": 2.689732352959464,
+      "error_deg_s": 0.16640832808942152,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "absolute",
+      "primary": 1.638277412918924,
+      "finer": 1.6406578230581987,
+      "error_deg_s": 0.0023804101392748134,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "change",
+      "primary": -2.7195895935644847,
+      "finer": -2.6687144236342153,
+      "error_deg_s": 0.050875169930269415,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "legacy",
+      "primary": -0.4905236414752594,
+      "finer": -0.4764577021770453,
+      "error_deg_s": 0.014065939298214092,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "absolute",
+      "primary": 1.833754936730659,
+      "finer": 1.8499874445345479,
+      "error_deg_s": 0.016232507803888963,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "change",
+      "primary": -2.2646138407000325,
+      "finer": -2.155609551293505,
+      "error_deg_s": 0.10900428940652729,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "legacy",
+      "primary": 0.513377939038283,
+      "finer": 0.537675346542767,
+      "error_deg_s": 0.02429740750448406,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "absolute",
+      "primary": 1.4877237566510444,
+      "finer": 1.8234172524571846,
+      "error_deg_s": 0.33569349580614016,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "change",
+      "primary": -2.8022837986140363,
+      "finer": -2.7070473535180657,
+      "error_deg_s": 0.09523644509597062,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "legacy",
+      "primary": -0.589116421237403,
+      "finer": -1.9116386544970418,
+      "error_deg_s": 1.322522233259639,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "absolute",
+      "primary": 1.3766846454063593,
+      "finer": 1.4710459178258033,
+      "error_deg_s": 0.09436127241944403,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "change",
+      "primary": -3.857582390664679,
+      "finer": -3.554159814692813,
+      "error_deg_s": 0.30342257597186606,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "legacy",
+      "primary": 2.5233240248700426,
+      "finer": 0.7770900078001766,
+      "error_deg_s": 1.746234017069866,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "absolute",
+      "primary": 1.638277412918924,
+      "finer": 2.0226228302808433,
+      "error_deg_s": 0.3843454173619194,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "change",
+      "primary": -2.7195895935644847,
+      "finer": -2.5215871658118294,
+      "error_deg_s": 0.1980024277526553,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "legacy",
+      "primary": -0.4905236414752594,
+      "finer": -1.6578084027869608,
+      "error_deg_s": 1.1672847613117014,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "absolute",
+      "primary": 1.833754936730659,
+      "finer": 2.07080692398983,
+      "error_deg_s": 0.2370519872591712,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "change",
+      "primary": -2.2646138407000325,
+      "finer": -2.2050604371322047,
+      "error_deg_s": 0.05955340356782779,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "legacy",
+      "primary": 0.513377939038283,
+      "finer": -0.3456682292917721,
+      "error_deg_s": 0.8590461683300551,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "absolute",
+      "primary": 4.02635272526253,
+      "finer": 4.068199988967372,
+      "error_deg_s": 0.04184726370484171,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "change",
+      "primary": 1.0341496873982596,
+      "finer": 1.107369434274687,
+      "error_deg_s": 0.0732197468764273,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "hs",
+      "mode": "legacy",
+      "primary": 1.7865058712473312,
+      "finer": 1.8401215189267963,
+      "error_deg_s": 0.05361564767946514,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "absolute",
+      "primary": 1.8916345025307524,
+      "finer": 1.9292572879466057,
+      "error_deg_s": 0.03762278541585329,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "change",
+      "primary": -0.6149809935562314,
+      "finer": -0.6531115656863861,
+      "error_deg_s": 0.038130572130154694,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "h2",
+      "mode": "legacy",
+      "primary": 3.6331697944310277,
+      "finer": 3.828396711819923,
+      "error_deg_s": 0.19522691738889542,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "absolute",
+      "primary": 3.7872602691201034,
+      "finer": 3.816312175283312,
+      "error_deg_s": 0.029051906163208407,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "change",
+      "primary": 0.8155683028297027,
+      "finer": 0.9097124898640783,
+      "error_deg_s": 0.09414418703437555,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "bips",
+      "mode": "legacy",
+      "primary": 1.6901935262063725,
+      "finer": 1.7319631531095154,
+      "error_deg_s": 0.0417696269031429,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "absolute",
+      "primary": 4.257581025553195,
+      "finer": 4.299852674200102,
+      "error_deg_s": 0.042271648646907245,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "change",
+      "primary": 1.6848401331482616,
+      "finer": 1.8364044439835947,
+      "error_deg_s": 0.15156431083533306,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "role": "dnp15",
+      "mode": "legacy",
+      "primary": 2.2965918304385737,
+      "finer": 2.3414915176990405,
+      "error_deg_s": 0.04489968726046678,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "absolute",
+      "primary": 4.02635272526253,
+      "finer": 4.349389935361957,
+      "error_deg_s": 0.323037210099427,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "change",
+      "primary": 1.0341496873982596,
+      "finer": 1.1153544506088362,
+      "error_deg_s": 0.08120476321057657,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "hs",
+      "mode": "legacy",
+      "primary": 1.7865058712473312,
+      "finer": 0.4404058260837144,
+      "error_deg_s": 1.3461000451636167,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "absolute",
+      "primary": 1.8916345025307524,
+      "finer": 2.005496894882025,
+      "error_deg_s": 0.11386239235127249,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "change",
+      "primary": -0.6149809935562314,
+      "finer": -0.1874935257855661,
+      "error_deg_s": 0.42748746777066526,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "h2",
+      "mode": "legacy",
+      "primary": 3.6331697944310277,
+      "finer": 1.923432342201087,
+      "error_deg_s": 1.7097374522299407,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "absolute",
+      "primary": 3.7872602691201034,
+      "finer": 4.177180502414836,
+      "error_deg_s": 0.38992023329473247,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "change",
+      "primary": 0.8155683028297027,
+      "finer": 1.0302398778563684,
+      "error_deg_s": 0.21467157502666567,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "bips",
+      "mode": "legacy",
+      "primary": 1.6901935262063725,
+      "finer": 0.5206753197833105,
+      "error_deg_s": 1.169518206423062,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "absolute",
+      "primary": 4.257581025553195,
+      "finer": 4.502727569246863,
+      "error_deg_s": 0.24514654369366795,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "change",
+      "primary": 1.6848401331482616,
+      "finer": 1.7571877338108233,
+      "error_deg_s": 0.07234760066256163,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "role": "dnp15",
+      "mode": "legacy",
+      "primary": 2.2965918304385737,
+      "finer": 1.4391421216430234,
+      "error_deg_s": 0.8574497087955504,
+      "passed": false
+    }
+  ],
+  "failures": 25,
+  "inherited_solver": {
+    "path": "results/ongoing_walking_yaw_v1/numerical_review.json",
+    "size_bytes": 28041,
+    "sha256": "79c0d736f5ce5c2ae7bff6890fab05ca5df4f4308d4b83d9c984fc85dc64949d"
+  },
+  "scope": "Three known conditions; combined temporal control; no uniform error bound"
+}

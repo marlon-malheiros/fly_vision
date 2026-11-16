@@ -1,0 +1,29 @@
+{
+  "passed": false,
+  "template_checks": [
+    {
+      "position": 0,
+      "dwell_ms": 20,
+      "max_error_mv": 0.009434209468139415,
+      "passed": false
+    },
+    {
+      "position": 0,
+      "dwell_ms": 160,
+      "max_error_mv": 0.010044493091868223,
+      "passed": false
+    },
+    {
+      "position": 2,
+      "dwell_ms": 20,
+      "max_error_mv": 0.00983635853900472,
+      "passed": false
+    },
+    {
+      "position": 2,
+      "dwell_ms": 160,
+      "max_error_mv": 0.010628747150590812,
+      "passed": false
+    }
+  ]
+}

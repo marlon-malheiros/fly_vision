@@ -1,0 +1,8 @@
+{
+  "selected_confirmation": 1,
+  "passing_candidates": [
+    1
+  ],
+  "rule": "Smallest confirmation passing every per-set/speed/magnitude endpoint and rolling gate",
+  "fresh_images_not_generated": true
+}

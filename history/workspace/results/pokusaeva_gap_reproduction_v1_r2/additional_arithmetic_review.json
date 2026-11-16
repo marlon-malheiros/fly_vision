@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-26T23:13:25.239140+00:00",
+  "retrospective_diagnostic": true,
+  "independent_fit_checks": 120,
+  "maximum_coefficient_error": 0.0,
+  "maximum_cutoff_error": 0.0,
+  "signed_difference_gain": 2.0,
+  "signed_difference_scaling_error": 4.440892098500626e-16,
+  "signed_opponent_mapping_ranks": {
+    "original": 2,
+    "gap_0.0": 2,
+    "gap_0.3": 2,
+    "gap_0.5": 2
+  },
+  "primary_decision_changes": [
+    {
+      "key": "t01_A_v5.5_y+5",
+      "yaw": 5.0,
+      "speed": 5.5,
+      "coupled_score": 2.03479120887562,
+      "coupled_cutoff": 1.98838107796314,
+      "uncoupled_score": 1.9393178042373365,
+      "uncoupled_cutoff": 2.080935626391971,
+      "coupled_decision": 1,
+      "uncoupled_decision": 0
+    },
+    {
+      "key": "t08_A_v5.5_y+5",
+      "yaw": 5.0,
+      "speed": 5.5,
+      "coupled_score": 2.1096003725682086,
+      "coupled_cutoff": 1.98838107796314,
+      "uncoupled_score": 1.9658776206217692,
+      "uncoupled_cutoff": 2.080935626391971,
+      "coupled_decision": 1,
+      "uncoupled_decision": 0
+    },
+    {
+      "key": "t22_A_v5.5_y+0",
+      "yaw": 0.0,
+      "speed": 5.5,
+      "coupled_score": -1.9874967500300074,
+      "coupled_cutoff": 1.98838107796314,
+      "uncoupled_score": -2.090591388126328,
+      "uncoupled_cutoff": 2.080935626391971,
+      "coupled_decision": 0,
+      "uncoupled_decision": -1
+    }
+  ],
+  "interpretation": "At the primary interface, coupling preserves both input dimensions and scales all bilateral differences by two. This includes yaw and scene offsets. Ridge decoding need not give identical decisions because regularization depends on feature coordinates.",
+  "physiological_validation": false
+}

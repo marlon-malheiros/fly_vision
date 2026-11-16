@@ -1,0 +1,37 @@
+{
+  "checked_date": "2026-10-24",
+  "scope": "Three cited primary sources checked for the existing synthesis; no systematic literature review or new experiment",
+  "sources": [
+    {
+      "title": "A competitive disinhibitory network for robust optic flow processing in Drosophila",
+      "authors": "Erginkaya et al.",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s41593-025-01948-9",
+      "locations": ["Abstract", "Figure 5 and accompanying Results", "Methods: circuit manipulations", "Methods: electron microscopy datasets"],
+      "supports": [
+        "Recurrent inhibition and lateral disinhibition contribute to rotation-versus-translation processing.",
+        "DNp15 GABA-A manipulation is less specific than removing bIPS outputs.",
+        "The attempted bIPS-TNT/DNp15 recording encountered trans-repression and unstable expression.",
+        "Chemical EM reconstructions do not supply gap-junction constraints."
+      ]
+    },
+    {
+      "title": "Bilateral interactions of optic-flow sensitive neurons coordinate course control in flies",
+      "authors": "Pokusaeva et al.",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/s41467-024-53173-w",
+      "locations": ["Abstract", "Introduction"],
+      "supports": ["Bilateral electrical interactions and chemical connections in the HS-H2 system contribute to course control."]
+    },
+    {
+      "title": "A faithful internal representation of walking movements in the Drosophila visual system",
+      "authors": "Fujiwara et al.",
+      "year": 2017,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27798632/",
+      "doi": "10.1038/nn.4435",
+      "locations": ["Abstract"],
+      "supports": ["HS activity contains nonvisual walking-related information as well as visual signals."]
+    }
+  ],
+  "model_predictions_are_biological_validation": false
+}

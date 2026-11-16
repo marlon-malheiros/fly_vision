@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/t4t5_sampling_diagnostic_r3/completion_v1/artifact_index.json",
+    "size_bytes": 9956,
+    "sha256": "b60f73136e9f7222635c850407fc227704e900f1ac18de95c8eb76bb0809a8fb"
+  },
+  "files": 46,
+  "bytes": 882402,
+  "independent_process_after_sealer_exit": true,
+  "prior_retained_files_unchanged": true
+}

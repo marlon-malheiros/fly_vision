@@ -1,0 +1,7552 @@
+[
+  {
+    "body_id": "10066",
+    "type": "LPi21",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.9058369711660629,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "10308",
+    "type": "LPi12",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.9031212676393519,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "10436",
+    "type": "LPi12",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.9049396893455588,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "10452",
+    "type": "LPi4b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.8807498947661835,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "10503",
+    "type": "LPi4b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.8938721269733875,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "10893",
+    "type": "LPi2b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.9003612599359349,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "11041",
+    "type": "LPi21",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.89557369173438,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "11709",
+    "type": "LPi12",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.8947695999508539,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "11983",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7283986835058209,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "13310",
+    "type": "LPi12",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.8972224077179517,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "14592",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8062084530260846,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "15757",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8332466032994469,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "15968",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8507151612302177,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "17973",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.850210088033673,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "18847",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7867236904929713,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "19397",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8610384375903652,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "19719",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8424887355435089,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20089",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8407097542145053,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20218",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8371677332059415,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20552",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8317773232087731,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20570",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8512489013449196,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20586",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7970069819082052,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20759",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8315458820938476,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20855",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8697252677532132,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "20939",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8134751195515763,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "21281",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8298376390720587,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "21604",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8223825417162755,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "21871",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8177851903912723,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "22037",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8088884690187584,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "22147",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7927098436740917,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "22208",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7923948673911001,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "22213",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8224564391375616,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "22846",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8228939824951562,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "23402",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8590106863919575,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "23713",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8537987272299173,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "23736",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.803172375293899,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "23980",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8092376062097179,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "24276",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8217969996940842,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "24286",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8183632417942379,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "24670",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8220916087509457,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "25042",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8342998570060389,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "25208",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7960827566628051,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "25222",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8248877391014338,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "25379",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8434966427905104,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "25405",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7794154179278264,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "25846",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8243303080995952,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "26031",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8473974796916398,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "26143",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8116343325488249,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "26629",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8423319732253249,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "26669",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7706091394539569,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27190",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.831313703239542,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27290",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8395929113827656,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27327",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8323509719506468,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27358",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8483786038258139,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27365",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7852998758908136,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27556",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8142668416089952,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27570",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7716560308633693,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27836",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7887608594230741,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27851",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8149158638734183,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "27943",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7643972426436538,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28078",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.830213776660688,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28098",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8548473562188094,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28104",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8173858166628114,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28108",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8214288873042459,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28157",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8296290532240185,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28202",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8300942338716475,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28214",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7796075342705864,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28306",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8409156779538696,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28320",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8146049335450681,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28409",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8536788065585266,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28576",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8392015816262319,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28595",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.801367819436902,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28807",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8426307290550332,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28809",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8010020339693472,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "28851",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.844952526306833,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "29100",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8328618972901008,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "29345",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8143897247624319,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "29489",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7974337957263056,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "29572",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8062329499764708,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "29705",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.860972696358382,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "29922",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7630355271409902,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "29953",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8242109900927057,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30103",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8388691797234551,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30166",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8121067304558195,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30306",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7859125393290128,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30433",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8398222949512951,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30468",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8118074057475619,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30642",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8209279170680777,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30901",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8092924108500135,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "30922",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8435839121800981,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31127",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8701261149953599,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31159",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6902742887357999,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31217",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8364763129061262,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31266",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8383336140886203,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31402",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8630826455006524,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31433",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.809740079068946,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31460",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8367800653089742,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31469",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7797069685396578,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31579",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8359008458195666,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31628",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7755307709971279,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31640",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8092783748459056,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31707",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8313599227119541,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31792",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8124724200162418,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31862",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8255363371530599,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31886",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8259310029486249,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31899",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8257305790204428,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31949",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8434693306109994,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "31951",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7990165749299096,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32027",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8036696219191228,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32205",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.823584649899144,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32296",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8158855456081041,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32298",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7788035815117499,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32460",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8080958325513651,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32506",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7902026070447821,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32536",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7981152320017623,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32553",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8363685037206205,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32579",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8300409498968159,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32607",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8206288100379265,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32650",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8227815384413119,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32656",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7886901021849032,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32794",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8272673389100939,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32831",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7782265832236374,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32874",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8433214644471506,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "32882",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8154759589026436,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33104",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7404846616094285,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33128",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8564959802086881,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33131",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.82812882946831,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33239",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8435040147463615,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33273",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8330881032534405,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33362",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8671829654566259,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33491",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8043695117704537,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33525",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8474802867602498,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33615",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8130403890351754,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33873",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7916479894783476,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33874",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8655364208174278,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33884",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8270658621038562,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "33947",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8228201136909119,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34090",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7588986237699156,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34177",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8196959739988487,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34555",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8049575634192805,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34622",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8657489557018587,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34638",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7904455534878738,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34679",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7896978570990313,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34925",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8665096310222711,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34958",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8249760696783046,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "34971",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7964276937967257,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35145",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8229675296659374,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35204",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8095011379443232,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35367",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8327914937388365,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35384",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.811315762354095,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35418",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7953942250406976,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35525",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8281824853863461,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35555",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.822071098361977,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35801",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7936336305269256,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35911",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8064087877166369,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "35949",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8213620543176742,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36010",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8012091277173993,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36046",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8138757131696813,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36206",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8091686867812324,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36231",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.812198087964659,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36300",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8583024866190285,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36357",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8230097667196067,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36381",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8169052454943724,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36434",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8187851605108367,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36438",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.862493360329217,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36526",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8485643465218154,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36698",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6975893593473615,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36778",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8109424861468775,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36877",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8200155257608576,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36910",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8336725267746312,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36912",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7854219186367847,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36933",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7426489807876517,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "36940",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8180420452707082,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37231",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8301722075208419,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37273",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8108839175322318,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37617",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7766886216598836,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37685",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.757781043971249,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37754",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8360652824519829,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37810",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8101074257273989,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37831",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8391951889837497,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37849",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8650838879854689,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "37967",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8054895862726578,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38044",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7244272339753022,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38100",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7295326934862381,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38140",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7880101038283803,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38265",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8015744270059942,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38365",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8506695116535749,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38386",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8563159761433368,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38693",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7568772660240878,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38937",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7744637734034261,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "38960",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8133808534390273,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39045",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7705693877574632,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39128",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8221204512915762,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39147",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8341733940962567,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39185",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8548509422176525,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39245",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8497043770528173,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39271",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8011856077566429,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39286",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7145125258257711,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39393",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7791199280992641,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39421",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7980875819518627,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39577",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8532398912729773,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39740",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7878480579966742,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39784",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7445722857832858,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39801",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.815540592938719,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39804",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7793010964439505,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "39985",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8508052921922952,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40030",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7294318815202103,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40092",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8159973853391044,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40134",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8370277451931657,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40197",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8047409416195295,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40406",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8004778924280583,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40416",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8477859249549791,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40553",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8215715660121131,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40626",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8095154287537693,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40651",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8378631780567487,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40663",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7867101633592065,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40676",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8149546073494266,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40887",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8071266922052149,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40902",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.703081718814895,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "40943",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8366562963960139,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41122",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7673946052305539,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41237",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7830203731718172,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41358",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7909625170836264,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41392",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8187064997757583,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41514",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8235933788336977,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41538",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8134633102622636,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41575",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7914657763184322,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41587",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.804078365734627,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41625",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8253720399644857,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "41785",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8016893533601382,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42007",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6657086059259594,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42025",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7897357318938664,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42139",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8463724004487571,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42146",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8288757051840779,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42247",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.800959359327331,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42474",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8518082539893124,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42545",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7386262594577716,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42635",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.848386712727469,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42647",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7940050995429211,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42839",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8123613098689114,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42924",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8178838482006643,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "42967",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7485415979262653,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "43114",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7850417770153761,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "43119",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8306427104125318,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "43437",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8206496614997303,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "43762",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8224580782994302,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "43944",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8528973531307812,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "43947",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8420849704923311,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44037",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8075712820287682,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44052",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8315184778147306,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44180",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6913719368116059,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44297",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8319156976641927,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44331",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7878418628864039,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44404",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8531952069290392,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44482",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8285046208662733,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44609",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8024737332994809,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44610",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8306390690175816,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44615",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8162580466424808,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "44726",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8278800998916095,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45230",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8473625965167265,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45344",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8229912035137229,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45372",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7178011343140968,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45454",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8425155372508699,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45531",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7429250210298618,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45593",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8687671989552003,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45692",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7722220229197133,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45792",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8218213218339776,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45825",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7852952814517696,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45889",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6925958780735949,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "45974",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7791921586379112,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46111",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7870364422985067,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46124",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7881560764680448,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46305",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.73582565393107,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46343",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6961876317016553,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46533",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7530434492268088,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46720",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8060639429686647,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46916",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8373236686863326,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46988",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7438788885792118,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "46989",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8598940657975329,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47083",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7897976278667164,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47180",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8387774317811014,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47189",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7719181422768427,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47217",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.789986120489597,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47276",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.743758932810524,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47305",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8279660087655867,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47306",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8473540716130814,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47437",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8219803072231413,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47486",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.838396189265914,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47497",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.808838132732671,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47541",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7672380422182157,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47741",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8645889968381905,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47891",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7454825320202884,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47931",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8556930807015432,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47935",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7362506280626692,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "47976",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8358660299375527,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "48224",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8372723004468801,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "48323",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7907003053994143,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "48371",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8460463290611424,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "48451",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7839482445604234,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "48725",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8269193416094395,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "48882",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8432988414928477,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49047",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.768186948812199,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49079",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8089324247747377,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49109",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8731856629403933,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49135",
+    "type": "LPi2c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8003090497985897,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49183",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8486343978517563,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49211",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.799420630270243,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49298",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6958613179438705,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49387",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8177467794209267,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49581",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6289787671998075,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49772",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8343439020752949,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "49993",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.733833490876326,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50020",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.758501544352768,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50124",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7714349290867958,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50231",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8615690512979691,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50281",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7956189623326155,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50322",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7583151907803988,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50479",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8318515771428479,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50550",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7864008283903305,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "50648",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7187484098646435,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51101",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8120375876258863,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51251",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8006725519569419,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51282",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.864036583840966,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51289",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8182962503404723,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51414",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7920793291527527,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51455",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6949734336620589,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51604",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6999857748473985,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51670",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8467220798835724,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "51785",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7995956555367418,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52004",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8519680721307649,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52026",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7940720298854095,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52028",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.803986446932467,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52116",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.5697159018339867,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52202",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8255240530990519,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52216",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7635281372461755,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52292",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7765359125635074,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52321",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8593639921496307,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52684",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8719609009090112,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52700",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8569071473895431,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52829",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8108877501570823,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52836",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7887238639375507,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "52879",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8687529667126567,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53013",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.799934749110669,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53058",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7283462194050527,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53102",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7231260133786497,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53189",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.80825942423204,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53328",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7721123680016875,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53497",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.739072842252602,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53549",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.862732481937249,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53880",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8484709922813146,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "53933",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8437337484294612,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54102",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7387756800169442,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54159",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.779931071282595,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54232",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8635077519838966,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54243",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8756478700362396,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54294",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8164803979185394,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54343",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7781497720055953,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54400",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8020205668535325,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54751",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6867888063791894,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54785",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8173164003031731,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54890",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8434339154671625,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54961",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8084141904847085,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "54992",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8668991297343419,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "55182",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8392174665205749,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "55419",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8151965593976517,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "55424",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8430663740443014,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "55535",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7421753459386237,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "55572",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8035489918930216,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "55922",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8678916742517804,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56064",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8254912229740657,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56189",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8197086702584123,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56215",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8025743984462193,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56378",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8195425740887317,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56412",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8424448194928934,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56415",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8625321857570079,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56822",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8363884512694648,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56823",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7797536999501918,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56934",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8180830945120404,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56971",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8404388908236274,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "56982",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8618375593550134,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "57469",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8509908237146766,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "57513",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8445254041710278,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "57719",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8597286347303974,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "57793",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7888879937005436,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "57969",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7743821762133818,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "58007",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8090749821908314,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "58150",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8446958901652084,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "58287",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8318325051049218,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "58374",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7795918963229621,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "58625",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8579918568788563,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "58963",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8128587311369588,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59076",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8264141273046598,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59125",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.817863063190937,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59223",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7766972835545496,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59264",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8315370505675611,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59293",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8314225058810266,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59388",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7552268983610161,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59446",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8318521755446515,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59450",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8651758942538613,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59467",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8560123381038457,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59470",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7136227993076836,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59533",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7742920563425958,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59541",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8267474435664701,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59657",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8313388797776766,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59680",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7696898988115503,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59736",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8337331416870492,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59798",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.800694109442336,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "59952",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6468105951766231,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60020",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.809793484392579,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60053",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7861711389930067,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60125",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7589708438450582,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60467",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8339472068982091,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60479",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8696736791883324,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60607",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8561859732072498,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60622",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7585625555270353,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "60663",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8082050674199732,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "61012",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7318644301890668,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "61287",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8687822666603109,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "61375",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8229810465262613,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "61532",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7555470095597698,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "61643",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7438788885792118,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "61814",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7954086160983996,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "61972",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8641939142872179,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62149",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8064115391489731,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62263",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8251849420902215,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62420",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8458927042726814,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62713",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8487563447685053,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62777",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7725460211115507,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62816",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8573639701150024,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62819",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8082652028987911,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "62922",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8423968043145171,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "63028",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8250245867608162,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "63177",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8334723594761028,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "63403",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.837447056061031,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "63406",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7589243361867364,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "63540",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7797790752270638,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "63729",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8271067290625082,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "64269",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8528567675831078,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "64311",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7932871856521547,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "64374",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8450155147602121,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "64553",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7425500352800012,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "64593",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8389699321270456,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "64813",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7695078893898151,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "64836",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.837415186814093,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "65074",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8306800566365085,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "65261",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8112759991208853,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "65647",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8320138416720563,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "66187",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8563393974288536,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "66281",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6553927713665252,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "66450",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7656414666163309,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "66698",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8153729326686358,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "66795",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7592922389481602,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "67099",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7321780905499307,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "67503",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8373339426224121,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "67852",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8408716273361968,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68007",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8113476878173981,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68143",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6395799309636715,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68168",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8155966385202282,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68383",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7705948987122857,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68550",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8161073576816487,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68600",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8143879439380343,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68666",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7876744258893809,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "68988",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8660936517952184,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69050",
+    "type": "LPi3c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8093128860895511,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69180",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8274480344477478,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69283",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8591185743242533,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69295",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7940996003383028,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69553",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7149024004592308,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69682",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7955940945731471,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69752",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7593663871480659,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69801",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8325811543834463,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69805",
+    "type": "LPi43",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7634243610581273,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69883",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.674170877467899,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "69903",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.865159048790318,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70301",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8349402293366738,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70422",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7936115023681377,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70434",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8159825558873667,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70525",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8377181878317845,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70602",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8212828907928749,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70751",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7762043194419108,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70753",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7564425133911543,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "70773",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8093047614426475,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "71023",
+    "type": "LPi2d",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8616112946010341,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "71032",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8769863417245216,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "71332",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.772598500318223,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "71370",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.648296941114639,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "71663",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8351297173864879,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "71717",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8068273337010157,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "71758",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7820279069138956,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "72231",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7726171371496517,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "72332",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8127161745114622,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "72441",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8403949956806379,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "72551",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8772613672230649,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "72620",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8535180513750694,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "73104",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7363641955273935,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "73236",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8340292864131607,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "73369",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8040171549649003,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "73404",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8416946078617695,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "73683",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8361459872724334,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "73917",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7942861358163558,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "74197",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8719013999069579,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "74507",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8221442925586806,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75434",
+    "type": "LPi3c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7174325467239349,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75494",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8128996391735591,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75543",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7733877131961048,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75600",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7231129481152472,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75645",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7851010012923036,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75704",
+    "type": "LPi_unclear",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.84101275455398,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75733",
+    "type": "LPi_unclear",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8498717369021479,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75801",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8321696385741758,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "75816",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7950033365911484,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "76124",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8342959104797885,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "76224",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.823631332161366,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "76545",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7643485062372333,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "76911",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7747273618293111,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "77290",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8358769630481827,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "78056",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.841788208431804,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "78152",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7629416112215979,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "78348",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8069873761023054,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "78509",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7951728981315824,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "78794",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7897809439603719,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "78904",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8397797838786015,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "79098",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8223699174982458,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "79129",
+    "type": "LPi_unclear",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8621716083402494,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "80232",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8782575183790663,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "80447",
+    "type": "LPi3b",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8066748443700169,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "80903",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7937402073643025,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "81003",
+    "type": "LPi4a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8222989351326129,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "81279",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7648635943675959,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "81474",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7889805539573272,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "81546",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6773503076383626,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "81575",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7621723136958267,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "81797",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8559677787148234,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "82056",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8009244111071402,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "82101",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8356973286576443,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "82170",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8545298422259043,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "83231",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6878092433821195,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "83400",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8480178079813014,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "83452",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8654828457418796,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "83781",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.884396610338137,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "84061",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6007357158470755,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "84316",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7926443084599666,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "84543",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7776372180692269,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "84646",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7193587892045918,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "85132",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7688278617085768,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "85191",
+    "type": "LPi3c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7525801727390424,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "85634",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8114990110609794,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "85791",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8392090875134274,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "86143",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7954583395521356,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "86246",
+    "type": "LPi3c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7914362945888127,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "86444",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8150374445580849,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "87076",
+    "type": "LPi3c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8039464579744753,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "87602",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7593860303879779,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "87730",
+    "type": "LPi3c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8188133486387246,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "87843",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8516344144234255,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "88009",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6907061216442487,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "89161",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7752333737458896,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "89214",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8251772333075573,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "89935",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.765533914960956,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "90117",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8650407209303412,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "90515",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8494061458350608,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "90560",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8166477252312012,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "91545",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8128330898019626,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "92036",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8681850156456793,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "93029",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.5131161610009962,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "93753",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7958070739389297,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "94734",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8700091335969109,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "94872",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8012893331275281,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "94958",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8516358704442034,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "95711",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8729077382433048,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "97253",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8452666891288769,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "97277",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8128814649407358,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "97461",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8411596479741539,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "97495",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8008715467436182,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "97496",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8675482298212569,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "98223",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.801615713946148,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "98678",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7694439111811676,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "99035",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7754108555413675,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "99678",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8493083325724633,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "99696",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7344993293859584,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "99951",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8617312315882522,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "100596",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7857339920489785,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "100651",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8678384425784966,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "101443",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8624633090661846,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "101704",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7428083979018247,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "103203",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8345993935474209,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "103362",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8342257586019964,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "103429",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8299074932132428,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "105188",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8540807017795716,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "105511",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8132500035080423,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "105955",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7608080223022093,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "106619",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8377181878317845,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "106753",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8349090905652549,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "107243",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7510272281370978,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "107636",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7489855521098785,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "108311",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8197212610853201,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "109054",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7951166449718322,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "110031",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8359678680734717,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "111628",
+    "type": "LPi_unclear",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8613368230518369,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "111784",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6940400162110721,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "111925",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8322294200786489,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "112263",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.820494110953639,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "112781",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8531213474133159,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "113534",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7814929990965557,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "113946",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8132610729266384,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "114072",
+    "type": "LPi14",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8451663153801735,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "115048",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6918822624449397,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "116007",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7920798528582811,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "116324",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8289148768672979,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "117112",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8787767421949253,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "117963",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7719083885279765,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "118533",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8155544383742523,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "120364",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8557381853162833,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "120531",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8036254963040675,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "120708",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8128329433382417,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "121554",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7257632077579349,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "122049",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8448284439727367,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "122664",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8649372920482038,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "124607",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7763345835746991,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "124678",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8431080889133715,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "124864",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7439402550101204,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "124933",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.816380909919274,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "125070",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7538899410181146,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "125307",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.766824480292385,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "125878",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7397790003832391,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "126482",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8527096389677442,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "127928",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7697221531244184,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "128796",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7483810384570736,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "129013",
+    "type": "LPi3412",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6505451003227583,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "129662",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8277922478350332,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "129848",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8264084896325654,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "130241",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8698882826708236,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "130263",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8061430640616724,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "130741",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8623586442612051,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "130998",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8471805946342024,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "131987",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7869033485933801,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "132692",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8242009625276414,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "133099",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7902864564970987,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "133169",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8376001143926629,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "133243",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.851227126449153,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "133867",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8187056949112541,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "134066",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8206772778510695,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "134214",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8513013128027803,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "135686",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.6885341868294058,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "137887",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7430807512471167,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "138600",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8374461602476063,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "140145",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8552935684526686,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "140404",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8530675737300567,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "141497",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8506131758572973,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "143209",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7771877989618988,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "143994",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8287482302443321,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "144462",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.858552141864193,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "147360",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8139854190108463,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "147793",
+    "type": "LPi2e",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8397969611775188,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "148010",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8672945624743322,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "148688",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8555719687621481,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "148993",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8635046184972057,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "150018",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8068684932504312,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "151088",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8183025162130961,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "153143",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7734673705905124,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "154328",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.817028257308383,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "154520",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8519018147015937,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "155084",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8303514326318043,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "156226",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7349801523679365,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "156627",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8091682446557712,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "156845",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.805176240226093,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "157002",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8693879955098818,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "157580",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7734878191580711,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "157615",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7597111767508108,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "158435",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7707882315289181,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "159306",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8071000296659904,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "161734",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8614887245476421,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "162118",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7569335279805749,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "166823",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7450487584813715,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "167436",
+    "type": "LPi3c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.836704371878385,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "168482",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8302429855143952,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "168644",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8464795563173114,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "169599",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7772281623300885,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "171856",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8494338955130649,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "172096",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7962464267974482,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "177386",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8458301697035063,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "178439",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7272267911351459,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "179937",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "unclear",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7520774254711088,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "236518",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8403206781842734,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "512067",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8166680428845167,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "513821",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.816903591810606,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "513822",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7895331752375582,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "513962",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8257887109247154,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "514928",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8160295736916643,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "514932",
+    "type": "LPi3c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.77335616967541,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "514955",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.839335198832814,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "516040",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8596085841814678,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "517578",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8173557290275776,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "518002",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8259061178888378,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "518240",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8195945518180857,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "518449",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7951145939239006,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "518470",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8520018759458848,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "518841",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7343419336524514,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "519080",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7836253081355592,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "519816",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8081107504624527,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "523599",
+    "type": "LPi2b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "gaba",
+    "consensus_nt": "gaba",
+    "confidence": 0.9003488063574204,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "524319",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7763946847734668,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "524697",
+    "type": "LPi43",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7912665544877282,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "524746",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8181211120650934,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "525153",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7954268725608846,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "525728",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8435993513946509,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "527036",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8415622966127932,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "527190",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8533801033334623,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "527447",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7919137646007847,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "527629",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8521631394783538,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "528973",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8336141893296833,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "529327",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8316586805959989,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "531145",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8239109831588609,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "531146",
+    "type": "LPi3c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8012543921785193,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "531164",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8183475535094911,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "531892",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7353774075978102,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "532031",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8120304044915576,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "532306",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8121630042527395,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "534113",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8458710512177416,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "534125",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8310433432177944,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "534639",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7936639794353597,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "534876",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8379880713684481,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "534877",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7639889908676901,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "535435",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8453482880515163,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "535774",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8612582433679927,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "536539",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7857744796862958,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "536668",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8176701803528058,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "538064",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8671893543992883,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "539148",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8432817587325804,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "539348",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8581007840387905,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "539405",
+    "type": "LPi14",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7303581757882781,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "539684",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7873127395041698,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "541583",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8581819796050288,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "542049",
+    "type": "LPi3c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7406053474329705,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "542361",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7290411421022854,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "543061",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8413133399825163,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "543208",
+    "type": "LPi4a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8124158653517057,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "543363",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8670824172419241,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "543441",
+    "type": "LPi3b",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8527853982145343,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "544366",
+    "type": "LPi3c",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8233081259565065,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "545131",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8505216758554183,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "547594",
+    "type": "LPi3412",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7874920076873609,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "549212",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.810433888253633,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "552701",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.867493704317966,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "554916",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7704004355925551,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "555169",
+    "type": "LPi3a",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8537901624317228,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "557131",
+    "type": "LPi34",
+    "soma_side": "R",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8225053289810694,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "557743",
+    "type": "LPi2c",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8095896306474748,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "558351",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7561124499113656,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "560070",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8596575184499449,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "575253",
+    "type": "LPi2e",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.7583642164149034,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "580620",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.854883911378935,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "581059",
+    "type": "LPi2d",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8639094884099112,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "581265",
+    "type": "LPi34",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8345474004211006,
+    "selected_in_current_graph": false
+  },
+  {
+    "body_id": "926116",
+    "type": "LPi3a",
+    "soma_side": "L",
+    "root_side": "nan",
+    "predicted_nt": "glutamate",
+    "consensus_nt": "glutamate",
+    "confidence": 0.8773189000057596,
+    "selected_in_current_graph": false
+  }
+]

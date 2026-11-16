@@ -1,0 +1,1298 @@
+[
+  {
+    "rule": "target_midpoint",
+    "method": "lk",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        0.7916666666666666,
+        0.8958333333333334,
+        0.08333333333333333
+      ],
+      [
+        0.9583333333333334,
+        1.0,
+        0.4166666666666667
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.11999366228595004,
+      0.44899444005154004
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.08333333333333333
+      ],
+      [
+        1.0,
+        1.0,
+        0.4166666666666667
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.11999366228595004,
+      0.44899444005154004
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        0.7291666666666666,
+        0.8958333333333334,
+        0.16666666666666666
+      ],
+      [
+        0.9166666666666666,
+        1.0,
+        0.5416666666666666
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.1797219032729775,
+      0.5329368316186824
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.16666666666666666
+      ],
+      [
+        1.0,
+        1.0,
+        0.5416666666666666
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.1797219032729775,
+      0.5329368316186824
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        0.7083333333333334,
+        0.875,
+        0.20833333333333334
+      ],
+      [
+        0.8958333333333334,
+        1.0,
+        0.625
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.24467602609811764,
+      0.6116533413477124
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.20833333333333334
+      ],
+      [
+        1.0,
+        1.0,
+        0.625
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.24467602609811764,
+      0.6116533413477124
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        0.9375,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk_median",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk_median",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk_median",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk_median",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk_median",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "lk_median",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace_median",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace_median",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace_median",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace_median",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace_median",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "target_midpoint",
+    "method": "subspace_median",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        0.5,
+        0.8958333333333334,
+        0.0
+      ],
+      [
+        0.6041666666666666,
+        1.0,
+        0.25
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.04344334080123444,
+      0.31003881270500067
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.25
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.04344334080123444,
+      0.31003881270500067
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        0.0,
+        0.8958333333333334,
+        0.0
+      ],
+      [
+        0.10416666666666667,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        0.7916666666666666,
+        1.0,
+        0.0
+      ],
+      [
+        0.9583333333333334,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        0.020833333333333332,
+        0.875,
+        0.0
+      ],
+      [
+        0.16666666666666666,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        0.7708333333333334,
+        1.0,
+        0.0
+      ],
+      [
+        0.9375,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.125
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.0073934561655057685,
+      0.20241806478655938
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk_median",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.25
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.04344334080123444,
+      0.31003881270500067
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk_median",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.25
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.04344334080123444,
+      0.31003881270500067
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk_median",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.25
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.04344334080123444,
+      0.31003881270500067
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk_median",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.25
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.04344334080123444,
+      0.31003881270500067
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk_median",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.20833333333333334
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.023158815297043306,
+      0.25848802193210685
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "lk_median",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.20833333333333334
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      0.023158815297043306,
+      0.25848802193210685
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace_median",
+    "speed": 5.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace_median",
+    "speed": 5.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace_median",
+    "speed": 11.0,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace_median",
+    "speed": 11.0,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace_median",
+    "speed": 16.5,
+    "magnitude": 2.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  },
+  {
+    "rule": "original_calibration_maximum",
+    "method": "subspace_median",
+    "speed": 16.5,
+    "magnitude": 5.0,
+    "room_bootstrap_CI95": [
+      [
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        1.0,
+        0.0
+      ]
+    ],
+    "metrics": [
+      "detection",
+      "raw_sign",
+      "false_positive"
+    ],
+    "false_positive_Wilson_CI95": [
+      1.3877787807814457e-17,
+      0.13797620467498017
+    ]
+  }
+]

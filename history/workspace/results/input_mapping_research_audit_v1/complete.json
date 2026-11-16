@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "cases": 8,
+  "targets": 13579,
+  "frontend_frames_replayed": 3208,
+  "independent_source_values_checked": 21835032,
+  "fault_fixtures_rejected": 5,
+  "maximum_source_replay_error": 0.0,
+  "maximum_independent_sampling_error": 5.551115123125783e-17,
+  "maximum_measure_prediction_error": 4.568929869858129e-13,
+  "coding_mismatch_found": false,
+  "correction_justified": false,
+  "neural_simulations": 0,
+  "new_test_rooms": 0,
+  "biological_validation": false,
+  "false_alarm_causes_uniquely_identified": false,
+  "decision": "Close tested implementation-error branch; no arbitrary balancing and no new sweep without distinct evidence"
+}

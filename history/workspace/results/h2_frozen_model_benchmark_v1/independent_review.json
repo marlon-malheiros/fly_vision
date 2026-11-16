@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "case_receipt_files_verified": 4419,
+  "observed_conditions": 1248,
+  "positions": 39,
+  "max_observation_error": 3.2526065174565133e-19,
+  "max_phase_error_rad": 1.1102230246251565e-16,
+  "bootstrap_draws": 10000,
+  "all_bootstrap_repeat_and_baseline_rates_checked": true,
+  "max_bootstrap_rate_error": 1.4210854715202004e-14,
+  "numerical_gate": "PASS",
+  "physiological_validation": false
+}

@@ -1,0 +1,29 @@
+# Camera clock and result freshness contract — V6
+
+Declared 2026-10-22 before V6 implementation outcomes. The previous V5 turn completed numerical work splitting, a full matched scheduled comparison, independent reviews, a CPU package and a verified 353-entry seal. That was progress. V5 still misses deadlines; preserve all original sources, models, criteria, reports, artifacts and failed timing outcomes.
+
+## Scope and fixed decisions
+
+Implement a separately versioned wrapper around the unchanged V5 camera pipeline. It does not change camera/front-end/source clocks, equations, gains, graph, 1-ms solver, 70-sample readout, decoder parameters or returned numerical values. No motor control is included. Retain strict one-thread defaults and explicit optional four-thread activation.
+
+Require an explicit affine camera-to-host mapping with positive rational rate, integer anchors, bounded uncertainty, finite camera validity interval, exposure-midpoint timestamp semantics, provenance and measured-versus-synthetic status. Use conservative integer floor/ceiling bounds, including negative offsets from an anchor; never convert absolute nanoseconds to float or infer physical synchronization. Mapping bounds and calibration labels are supplied assertions, not independently measured proof. Both eyes must use the declared common camera clock.
+
+Every input supplies a host-clock timestamp at which both complete raw images became available. Check this timestamp against the injected/default monotonic host clock and mapped camera exposure midpoints. Require both exposure midpoints to be definitely in the past and source timestamps inside the mapping's validity interval. Check a nondecreasing availability stream; the original adapter continues to enforce exposure skew, cadence, acquisition mode and frame ordering.
+
+Freeze two engineering bounds of 5,000,000 ns each: maximum frame response after availability and maximum image age after the earliest possible binocular exposure midpoint. These are one-frontend-period software freshness criteria, not new biological parameters or improvements to the V5 timing gate. Admission and completion must satisfy both bounds, including uncertainty. Equality passes, matching the earlier greater-than deadline definition. Record all rejected data/faults; rejection never turns a previous missed-deadline benchmark into a pass.
+
+Any admission, pipeline, clock or completion fault invalidates prior wrapper results and requires an explicit model/adapter reset. Preserve the underlying failed state for diagnosis until reset; expose no cached last-valid prediction after a fault. Give successful results immutable metadata, copied read-only numerical rates, source bounds, an expiry time and reset generation. Supply a consumer freshness check using the same host clock. Expired, foreign or pre-reset result objects fail that check. A check certifies freshness only at its observation time: later OS preemption or consumer misuse remains outside this software guarantee.
+
+The frozen runtime retains an episode decision after its original emission at 1.4 s. The wrapper must emit that decision once, at the first observation, and subsequently return no new decision. It must not label a stored episode classification as a new instantaneous prediction. Reset clears wrapper emission tracking. Continuous published neural rates retain their original 100-Hz cadence; intermediate held-input states remain unpublished.
+
+Serialize wrapper step/reset/consumer-check operations, keep recording memory bounded, and expose bounded status/fault metadata. Do not add camera drivers, silently resynchronize source clocks, estimate unknown walking speed or use automatic resets to conceal lost history.
+
+## Validation frozen before outcomes
+
+Use independent exact-fraction checks for affine clock bounds, including anchors above 2^53, positive/negative offsets, nonunit rational rates, uncertainty, validity endpoints and invalid types. Exercise admission/completion deadline boundaries, oldest-eye uncertainty, future timestamps, delayed availability, host rollback, mapping expiry, pipeline failure, nonfinite rates, explicit reset and consumer expiry/foreign generations using deterministic injected clocks. Check persistent rejection until reset and one-time episode emissions. These are behavioral tests, not merely mirrors of code branches.
+
+For all three existing full raw binocular fixtures, execute strict and explicit four-thread V5 pipelines through the wrapper under declared synthetic clock traces. Preserve every published rate, full final state, wrapper timing/event record and original decision; require the unchanged 1e-10 numerical tolerance and exact matched-kernel equivalence where applicable. Synthetic clocks test logic and do not establish execution speed. Use fixed adversarial traces and save failures without changing policy to obtain a pass.
+
+Replay the complete saved V5 matched scheduled timestamps independently through an arithmetic policy oracle, retaining every frame. Report availability-only deadline failures, image-age/response failures under the new policy, and resets that a latched wrapper would require. This is retrospective software fault analysis, not a new performance measurement or a substitute for the original V5 zero-miss gate.
+
+Export a new standalone source/model archive and run it independently with project imports cleared. Review numerical arrays, fault records, archive contents and predecessor seals independently. Add a concise technical report and an undergraduate explanation of what we did, what we want and why. Append dated progress, preserve failures, save progress copies before sealing, exclude active sealer logs/live progress/AGENTS/bytecode, and verify the index again after process exit. Physical clock calibration, real camera capture, physiological agreement and broad-goal completion remain unproven.

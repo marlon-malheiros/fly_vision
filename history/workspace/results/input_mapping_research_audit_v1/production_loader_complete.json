@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "cases": 8,
+  "assembly_calls": 3216,
+  "nonzero_source_vectors": 900,
+  "maximum_assembly_error": 0.0,
+  "neural_ode_steps": 0,
+  "source_order_error_found": false
+}

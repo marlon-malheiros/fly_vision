@@ -1,0 +1,1547 @@
+{
+  "date_utc": "2026-11-01T15:34:52.209708+00:00",
+  "scope": "read-only metadata audit; two duplicate-candidate files SHA256 checked; no data removed or rewritten",
+  "allocated_bytes_du": {
+    ".": 327467913216,
+    "results": 320476360704,
+    "data": 6939328512,
+    ".git": 32866304
+  },
+  "filesystem": {
+    "total_bytes": 509315383296,
+    "available_to_user_bytes": 214245376
+  },
+  "results_unique_regular_files": 104584,
+  "results_file_symlinks": 0,
+  "results_by_extension": {
+    ".npz": {
+      "files": 62498,
+      "allocated_bytes": 236398706688
+    },
+    ".npy": {
+      "files": 798,
+      "allocated_bytes": 72776077312
+    },
+    ".zlib": {
+      "files": 411,
+      "allocated_bytes": 9874235392
+    },
+    ".csv": {
+      "files": 509,
+      "allocated_bytes": 393711616
+    },
+    ".zip": {
+      "files": 16,
+      "allocated_bytes": 384716800
+    },
+    ".json": {
+      "files": 36620,
+      "allocated_bytes": 380821504
+    },
+    ".mp4": {
+      "files": 3,
+      "allocated_bytes": 64307200
+    },
+    ".png": {
+      "files": 267,
+      "allocated_bytes": 61267968
+    },
+    ".pdf": {
+      "files": 207,
+      "allocated_bytes": 47415296
+    },
+    ".md": {
+      "files": 306,
+      "allocated_bytes": 18456576
+    },
+    "(no extension)": {
+      "files": 35,
+      "allocated_bytes": 12075008
+    },
+    ".dat": {
+      "files": 68,
+      "allocated_bytes": 10821632
+    },
+    ".py": {
+      "files": 823,
+      "allocated_bytes": 8417280
+    },
+    ".gz": {
+      "files": 1,
+      "allocated_bytes": 7827456
+    },
+    ".swc": {
+      "files": 56,
+      "allocated_bytes": 6881280
+    },
+    ".jpg": {
+      "files": 3,
+      "allocated_bytes": 3932160
+    },
+    ".html": {
+      "files": 5,
+      "allocated_bytes": 3493888
+    },
+    ".log": {
+      "files": 644,
+      "allocated_bytes": 3153920
+    },
+    ".so": {
+      "files": 126,
+      "allocated_bytes": 2592768
+    },
+    ".bundle": {
+      "files": 2,
+      "allocated_bytes": 2498560
+    },
+    ".m": {
+      "files": 183,
+      "allocated_bytes": 2482176
+    },
+    ".hoc": {
+      "files": 555,
+      "allocated_bytes": 2273280
+    },
+    ".mat": {
+      "files": 28,
+      "allocated_bytes": 2260992
+    },
+    ".bin": {
+      "files": 3,
+      "allocated_bytes": 2191360
+    },
+    ".jsonl": {
+      "files": 44,
+      "allocated_bytes": 1417216
+    },
+    ".pyc": {
+      "files": 85,
+      "allocated_bytes": 1228800
+    },
+    ".txt": {
+      "files": 117,
+      "allocated_bytes": 966656
+    },
+    ".xlsx": {
+      "files": 35,
+      "allocated_bytes": 569344
+    },
+    ".Rmd": {
+      "files": 12,
+      "allocated_bytes": 442368
+    },
+    ".xml": {
+      "files": 34,
+      "allocated_bytes": 409600
+    },
+    ".ipynb": {
+      "files": 4,
+      "allocated_bytes": 258048
+    },
+    ".cpp": {
+      "files": 56,
+      "allocated_bytes": 229376
+    },
+    ".exit_code": {
+      "files": 15,
+      "allocated_bytes": 61440
+    },
+    ".svg": {
+      "files": 1,
+      "allocated_bytes": 57344
+    },
+    ".ptx": {
+      "files": 5,
+      "allocated_bytes": 45056
+    },
+    ".R": {
+      "files": 4,
+      "allocated_bytes": 40960
+    },
+    ".yaml": {
+      "files": 3,
+      "allocated_bytes": 12288
+    },
+    ".diff": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    ".partial": {
+      "files": 1,
+      "allocated_bytes": 0
+    }
+  },
+  "results_top_filenames": {
+    "retina.npz": {
+      "files": 3518,
+      "allocated_bytes": 151377698816
+    },
+    "retina.npy": {
+      "files": 747,
+      "allocated_bytes": 72010027008
+    },
+    "source.npz": {
+      "files": 6982,
+      "allocated_bytes": 32835973120
+    },
+    "retina_xor.zlib": {
+      "files": 403,
+      "allocated_bytes": 9444876288
+    },
+    "observations.npz": {
+      "files": 7136,
+      "allocated_bytes": 4148342784
+    },
+    "reference.npz": {
+      "files": 1191,
+      "allocated_bytes": 4091023360
+    },
+    "network.npz": {
+      "files": 6519,
+      "allocated_bytes": 1458647040
+    },
+    "source_voltage_mv.npy": {
+      "files": 46,
+      "allocated_bytes": 765923328
+    },
+    "local_audit.npz": {
+      "files": 2005,
+      "allocated_bytes": 507248640
+    },
+    "local_channels.npz": {
+      "files": 509,
+      "allocated_bytes": 467382272
+    },
+    "dense_retina_xor.zlib": {
+      "files": 8,
+      "allocated_bytes": 429359104
+    },
+    "postfix_horizontal_trajectories.npz": {
+      "files": 1,
+      "allocated_bytes": 346202112
+    },
+    "stream.npz": {
+      "files": 506,
+      "allocated_bytes": 305541120
+    },
+    "corridor__yaw_pos__fine.npz": {
+      "files": 2,
+      "allocated_bytes": 299204608
+    },
+    "corridor__compound_16.5_pos__fine.npz": {
+      "files": 2,
+      "allocated_bytes": 299061248
+    },
+    "corridor__forward_16.5__fine.npz": {
+      "files": 2,
+      "allocated_bytes": 297656320
+    },
+    "downstream.npz": {
+      "files": 7,
+      "allocated_bytes": 259297280
+    },
+    "readout.npz": {
+      "files": 506,
+      "allocated_bytes": 243994624
+    },
+    "corridor__compound_16.5_pos__fine__R.npz": {
+      "files": 1,
+      "allocated_bytes": 180563968
+    },
+    "corridor__compound_16.5_pos__fine__L.npz": {
+      "files": 1,
+      "allocated_bytes": 180539392
+    }
+  },
+  "results_by_study": {
+    "continuous_yaw_mechanisms_v1": {
+      "files": 2719,
+      "allocated_bytes": 56494170112
+    },
+    "geometry_grounded_small_yaw_v2": {
+      "files": 3851,
+      "allocated_bytes": 34386845696
+    },
+    "ongoing_walking_yaw_v1": {
+      "files": 2563,
+      "allocated_bytes": 24884580352
+    },
+    "image_sampling_diagnostic_v1": {
+      "files": 1219,
+      "allocated_bytes": 23998046208
+    },
+    "sequential_small_turn_repairs_v1": {
+      "files": 5248,
+      "allocated_bytes": 23199997952
+    },
+    "small_yaw_image_reference_v3": {
+      "files": 1403,
+      "allocated_bytes": 22931578880
+    },
+    "neural_change_readout_v1": {
+      "files": 2900,
+      "allocated_bytes": 22818779136
+    },
+    "small_turn_target_decision_v4": {
+      "files": 1213,
+      "allocated_bytes": 19259154432
+    },
+    "causal_short_window_yaw_v1": {
+      "files": 3021,
+      "allocated_bytes": 16313819136
+    },
+    "virtual_walking_openloop_v1": {
+      "files": 247,
+      "allocated_bytes": 14270476288
+    },
+    "reliability_weighted_yaw_v1": {
+      "files": 2506,
+      "allocated_bytes": 11972653056
+    },
+    "agreement_yaw_v1": {
+      "files": 3932,
+      "allocated_bytes": 11166576640
+    },
+    "yaw_sensitivity_ablation_v1": {
+      "files": 1335,
+      "allocated_bytes": 5916024832
+    },
+    "validation_hardware_v1": {
+      "files": 12291,
+      "allocated_bytes": 5452464128
+    },
+    "fixed_neighbor_motion_v1": {
+      "files": 302,
+      "allocated_bytes": 2801881088
+    },
+    "dense_image_hybrid_r3": {
+      "files": 11043,
+      "allocated_bytes": 2709884928
+    },
+    "physiological_population_v1": {
+      "files": 3690,
+      "allocated_bytes": 2618355712
+    },
+    "anatomical_strengthening_v1": {
+      "files": 949,
+      "allocated_bytes": 1771442176
+    },
+    "final_openloop_milestone_v1": {
+      "files": 7951,
+      "allocated_bytes": 1420115968
+    },
+    "h2_frozen_model_benchmark_v1": {
+      "files": 6133,
+      "allocated_bytes": 1417666560
+    },
+    "neural_population_readout_v1": {
+      "files": 4287,
+      "allocated_bytes": 1269923840
+    },
+    "postfix_initialization_study_v2": {
+      "files": 46,
+      "allocated_bytes": 1162895360
+    },
+    "biological_selectivity_benchmark_v1": {
+      "files": 894,
+      "allocated_bytes": 1070616576
+    },
+    "flyvis_checkpoint_comparison_v1": {
+      "files": 200,
+      "allocated_bytes": 927887360
+    },
+    "panorama_aperture_study_v1": {
+      "files": 70,
+      "allocated_bytes": 874389504
+    },
+    "postfix_horizontal_execution_v2": {
+      "files": 28,
+      "allocated_bytes": 722370560
+    },
+    "spatiotemporal_factorial_v1": {
+      "files": 126,
+      "allocated_bytes": 602521600
+    },
+    "native_cardinal_study_v1": {
+      "files": 110,
+      "allocated_bytes": 546791424
+    },
+    "physiological_downstream_initialization_v1": {
+      "files": 23,
+      "allocated_bytes": 500572160
+    },
+    "h2_dorsal_diagnostic_v1": {
+      "files": 2665,
+      "allocated_bytes": 488652800
+    },
+    "native_cardinal_original_extent15_v1": {
+      "files": 110,
+      "allocated_bytes": 430395392
+    },
+    "geometry_grounded_small_yaw_v1": {
+      "files": 344,
+      "allocated_bytes": 426840064
+    },
+    "small_turn_reproduction_image_v3": {
+      "files": 55,
+      "allocated_bytes": 426283008
+    },
+    "t5b_receptive_field_v3": {
+      "files": 65,
+      "allocated_bytes": 410140672
+    },
+    "t5_active_sensitivity_v1": {
+      "files": 126,
+      "allocated_bytes": 389009408
+    },
+    "neural_model_options_r2": {
+      "files": 270,
+      "allocated_bytes": 276676608
+    },
+    "yaw_false_alarm_localization_v1": {
+      "files": 135,
+      "allocated_bytes": 272711680
+    },
+    "continuous_readout_repair_v1": {
+      "files": 2619,
+      "allocated_bytes": 271028224
+    },
+    "spatiotemporal_timestep_v1": {
+      "files": 32,
+      "allocated_bytes": 264228864
+    },
+    "physiological_prototype_v2": {
+      "files": 1406,
+      "allocated_bytes": 241573888
+    },
+    "small_turn_reproduction_neural_v1": {
+      "files": 71,
+      "allocated_bytes": 239972352
+    },
+    "small_turn_reproduction_target_v4": {
+      "files": 38,
+      "allocated_bytes": 213811200
+    },
+    "hs_voltage_benchmark_v1": {
+      "files": 105,
+      "allocated_bytes": 209395712
+    },
+    "physiological_image_clamp_repair_v1": {
+      "files": 1143,
+      "allocated_bytes": 204681216
+    },
+    "t5b_receptive_field_v2": {
+      "files": 36,
+      "allocated_bytes": 192516096
+    },
+    "physiological_prototype_v1": {
+      "files": 3044,
+      "allocated_bytes": 192454656
+    },
+    "t5b_phase_prediction_v1": {
+      "files": 46,
+      "allocated_bytes": 151580672
+    },
+    "small_turn_round_v1": {
+      "files": 1665,
+      "allocated_bytes": 131620864
+    },
+    "source_path_attribution_v1": {
+      "files": 1631,
+      "allocated_bytes": 112201728
+    },
+    "image_sampling_reproduction_smoke_v1": {
+      "files": 9,
+      "allocated_bytes": 108888064
+    },
+    "continuous_yaw_reproduction_smoke_v1": {
+      "files": 43,
+      "allocated_bytes": 108318720
+    },
+    "horizontal_opponency_v1": {
+      "files": 438,
+      "allocated_bytes": 104050688
+    },
+    "physiological_texture_replication_v1": {
+      "files": 416,
+      "allocated_bytes": 86827008
+    },
+    "physiological_prototype_interface_v1": {
+      "files": 5,
+      "allocated_bytes": 82132992
+    },
+    "source_path_attribution_reproduction_v1": {
+      "files": 30,
+      "allocated_bytes": 77062144
+    },
+    "matched_edge_grating_v1": {
+      "files": 34,
+      "allocated_bytes": 76898304
+    },
+    "published_population_yaw_r2": {
+      "files": 693,
+      "allocated_bytes": 75907072
+    },
+    "biological_failure_localization_v1": {
+      "files": 494,
+      "allocated_bytes": 75722752
+    },
+    "biological_family_dissection_v1": {
+      "files": 419,
+      "allocated_bytes": 73912320
+    },
+    "neural_population_cutoff_r2": {
+      "files": 271,
+      "allocated_bytes": 65380352
+    },
+    "input_mapping_research_audit_v1": {
+      "files": 51,
+      "allocated_bytes": 51326976
+    },
+    "t5_mixed_parameter_sensitivity_v1": {
+      "files": 122,
+      "allocated_bytes": 47398912
+    },
+    "t5_compensation_challenge_v1": {
+      "files": 36,
+      "allocated_bytes": 34361344
+    },
+    "physiological_population_analysis_v1": {
+      "files": 5,
+      "allocated_bytes": 33828864
+    },
+    "published_circuit_comparison_v1": {
+      "files": 500,
+      "allocated_bytes": 30486528
+    },
+    "published_circuit_reproduction_v1_r2": {
+      "files": 497,
+      "allocated_bytes": 29999104
+    },
+    "pokusaeva_gap_reproduction_v1_r2": {
+      "files": 96,
+      "allocated_bytes": 29392896
+    },
+    "postfix_initialization_study_v1": {
+      "files": 10,
+      "allocated_bytes": 27451392
+    },
+    "frontend_smoke_v2": {
+      "files": 13,
+      "allocated_bytes": 25423872
+    },
+    "weak_direction_passive_v1": {
+      "files": 32,
+      "allocated_bytes": 16945152
+    },
+    "t5_image_native_transfer_v1": {
+      "files": 618,
+      "allocated_bytes": 15548416
+    },
+    "frontend_smoke_v1": {
+      "files": 10,
+      "allocated_bytes": 11657216
+    },
+    "published_circuit_reproduction_v1": {
+      "files": 83,
+      "allocated_bytes": 10878976
+    },
+    "wiring_controls_v1": {
+      "files": 6,
+      "allocated_bytes": 9437184
+    },
+    "t5_moving_bar_transfer_v1": {
+      "files": 1301,
+      "allocated_bytes": 9326592
+    },
+    "h2_trial_metadata_v1": {
+      "files": 66,
+      "allocated_bytes": 9175040
+    },
+    "physiological_prototype_full_flash_v1": {
+      "files": 124,
+      "allocated_bytes": 8810496
+    },
+    "physiology_integration_source_gate_v1": {
+      "files": 15,
+      "allocated_bytes": 7593984
+    },
+    "professor_frontend_handoff_v1": {
+      "files": 8,
+      "allocated_bytes": 6791168
+    },
+    "second_opinion_opponency_audit_v1": {
+      "files": 23,
+      "allocated_bytes": 6279168
+    },
+    "published_population_direction_repair_r3": {
+      "files": 59,
+      "allocated_bytes": 6098944
+    },
+    "physiological_t4_startup_order_v1": {
+      "files": 35,
+      "allocated_bytes": 4554752
+    },
+    "continuous_readout_repair_r2": {
+      "files": 33,
+      "allocated_bytes": 4259840
+    },
+    "published_t5_reproduction_v1": {
+      "files": 341,
+      "allocated_bytes": 4190208
+    },
+    "input_mapping_reproduction_prepare_smoke_v1": {
+      "files": 6,
+      "allocated_bytes": 4145152
+    },
+    "opponency_gain_calibration_v1": {
+      "files": 267,
+      "allocated_bytes": 4022272
+    },
+    "h2_dorsal_diagnostic_reproduction_v1": {
+      "files": 18,
+      "allocated_bytes": 3604480
+    },
+    "postfix_geometry_audit_v1": {
+      "files": 30,
+      "allocated_bytes": 2797568
+    },
+    "published_t4_author_execution_v1": {
+      "files": 50,
+      "allocated_bytes": 2785280
+    },
+    "weak_direction_causal_v2": {
+      "files": 130,
+      "allocated_bytes": 2539520
+    },
+    "flyvis_t5_canonical_v1": {
+      "files": 22,
+      "allocated_bytes": 2510848
+    },
+    "t5_reference_error_investigation_v1": {
+      "files": 26,
+      "allocated_bytes": 2486272
+    },
+    "postfix_registration_v3": {
+      "files": 4,
+      "allocated_bytes": 2363392
+    },
+    "postfix_registration_v4": {
+      "files": 4,
+      "allocated_bytes": 2363392
+    },
+    "postfix_registration_v5": {
+      "files": 4,
+      "allocated_bytes": 2363392
+    },
+    "h2_frozen_model_benchmark_reproduction_smoke_v1": {
+      "files": 19,
+      "allocated_bytes": 2301952
+    },
+    "postfix_registration_v6": {
+      "files": 4,
+      "allocated_bytes": 2293760
+    },
+    "postfix_registration_v7": {
+      "files": 4,
+      "allocated_bytes": 2293760
+    },
+    "physiological_grating_readout_comparison_v1": {
+      "files": 35,
+      "allocated_bytes": 2031616
+    },
+    "publication_package_v1": {
+      "files": 75,
+      "allocated_bytes": 1998848
+    },
+    "weak_direction_current_analysis_v1": {
+      "files": 40,
+      "allocated_bytes": 1933312
+    },
+    "t5_matched_grating_observation_v1": {
+      "files": 36,
+      "allocated_bytes": 1929216
+    },
+    "t5_minimal_heldout_v1": {
+      "files": 6,
+      "allocated_bytes": 1863680
+    },
+    "physiological_execution_artifact_index_v1.json": {
+      "files": 1,
+      "allocated_bytes": 1822720
+    },
+    "bilateral_energy_pilot_v1": {
+      "files": 31,
+      "allocated_bytes": 1581056
+    },
+    "physiology_backup_source_audit_v1": {
+      "files": 6,
+      "allocated_bytes": 1470464
+    },
+    "weak_direction_causal_v1": {
+      "files": 79,
+      "allocated_bytes": 1372160
+    },
+    "publication_package_v1.zip": {
+      "files": 1,
+      "allocated_bytes": 1196032
+    },
+    "weak_direction_saved_analysis_v1": {
+      "files": 10,
+      "allocated_bytes": 1191936
+    },
+    "flyvis_checkpoint_comparison_figures_v1": {
+      "files": 10,
+      "allocated_bytes": 991232
+    },
+    "weak_direction_dc_clamp_v1": {
+      "files": 34,
+      "allocated_bytes": 978944
+    },
+    "flyvis_moving_edge_positive_control_v1": {
+      "files": 31,
+      "allocated_bytes": 970752
+    },
+    "final_openloop_release_review_r2": {
+      "files": 15,
+      "allocated_bytes": 946176
+    },
+    "yaw_bips_evidence_synthesis_v1": {
+      "files": 22,
+      "allocated_bytes": 827392
+    },
+    "published_population_yaw_v1": {
+      "files": 72,
+      "allocated_bytes": 782336
+    },
+    "spatiotemporal_factorial_figures_v1": {
+      "files": 9,
+      "allocated_bytes": 757760
+    },
+    "physiological_execution_figures_v1": {
+      "files": 5,
+      "allocated_bytes": 753664
+    },
+    "postfix_completion_v1": {
+      "files": 33,
+      "allocated_bytes": 540672
+    },
+    "weak_direction_timestep_v1": {
+      "files": 32,
+      "allocated_bytes": 487424
+    },
+    "weak_direction_figures_v1": {
+      "files": 4,
+      "allocated_bytes": 442368
+    },
+    "matched_edge_grating_figures_v1": {
+      "files": 4,
+      "allocated_bytes": 360448
+    },
+    "t5b_bounded_repair_figures_v1": {
+      "files": 6,
+      "allocated_bytes": 360448
+    },
+    "published_t5_solver_audit_v1": {
+      "files": 30,
+      "allocated_bytes": 339968
+    },
+    "small_turn_acceptance_review_v1": {
+      "files": 5,
+      "allocated_bytes": 335872
+    },
+    "postfix_testing_v1": {
+      "files": 47,
+      "allocated_bytes": 307200
+    },
+    "flyvis_t5_benchmark_v8": {
+      "files": 12,
+      "allocated_bytes": 262144
+    },
+    "physiological_population_review_v1": {
+      "files": 20,
+      "allocated_bytes": 258048
+    },
+    "yaw_bips_evidence_synthesis_reproduction_v1": {
+      "files": 9,
+      "allocated_bytes": 237568
+    },
+    "postfix_completion_v2": {
+      "files": 28,
+      "allocated_bytes": 196608
+    },
+    "flyvis_t5_benchmark_v7": {
+      "files": 12,
+      "allocated_bytes": 192512
+    },
+    "weak_direction_final_audit_v1": {
+      "files": 4,
+      "allocated_bytes": 188416
+    },
+    "published_population_yaw_setup_failure_r2": {
+      "files": 19,
+      "allocated_bytes": 188416
+    },
+    "neural_model_options_v1": {
+      "files": 14,
+      "allocated_bytes": 180224
+    },
+    "postfix_edge_validation_v1": {
+      "files": 4,
+      "allocated_bytes": 159744
+    },
+    "pokusaeva_gap_reproduction_v1": {
+      "files": 15,
+      "allocated_bytes": 159744
+    },
+    "neural_model_options_setup_failure_v1": {
+      "files": 12,
+      "allocated_bytes": 151552
+    },
+    "gruntman_t5_direction_invariant_v0": {
+      "files": 3,
+      "allocated_bytes": 131072
+    },
+    "postfix_completion_v3": {
+      "files": 19,
+      "allocated_bytes": 126976
+    },
+    "t5_evidence_audit_v1": {
+      "files": 11,
+      "allocated_bytes": 110592
+    },
+    "t5_cohort_audit_v1": {
+      "files": 3,
+      "allocated_bytes": 86016
+    },
+    "postfix_horizontal_execution_v1": {
+      "files": 3,
+      "allocated_bytes": 81920
+    },
+    "flyvis_t5_benchmark_v6": {
+      "files": 6,
+      "allocated_bytes": 77824
+    },
+    "flyvis_t5_canonical_v1_recovery_r1": {
+      "files": 6,
+      "allocated_bytes": 69632
+    },
+    "flyvis_t5_benchmark_v4": {
+      "files": 5,
+      "allocated_bytes": 65536
+    },
+    "flyvis_checkpoint_acquisition_v1": {
+      "files": 9,
+      "allocated_bytes": 65536
+    },
+    "flyvis_checkpoint_comparison_review_v1": {
+      "files": 10,
+      "allocated_bytes": 65536
+    },
+    "physiological_execution_postprocess_v1": {
+      "files": 11,
+      "allocated_bytes": 61440
+    },
+    "postfix_initialization_review_v1": {
+      "files": 8,
+      "allocated_bytes": 53248
+    },
+    "flyvis_minimal_neural_v1": {
+      "files": 3,
+      "allocated_bytes": 49152
+    },
+    "native_cardinal_review_v1": {
+      "files": 7,
+      "allocated_bytes": 45056
+    },
+    "matched_edge_grating_review_v1": {
+      "files": 5,
+      "allocated_bytes": 40960
+    },
+    "flyvis_feasibility_v1": {
+      "files": 7,
+      "allocated_bytes": 36864
+    },
+    "flyvis_t5_benchmark_v5": {
+      "files": 5,
+      "allocated_bytes": 36864
+    },
+    "weak_direction_review_v1": {
+      "files": 9,
+      "allocated_bytes": 36864
+    },
+    "continuous_yaw_core_v1.log": {
+      "files": 1,
+      "allocated_bytes": 28672
+    },
+    "flyvis_t5_benchmark_v1": {
+      "files": 3,
+      "allocated_bytes": 28672
+    },
+    "continuous_yaw_fresh_v1.log": {
+      "files": 1,
+      "allocated_bytes": 24576
+    },
+    "professor_report_v2": {
+      "files": 3,
+      "allocated_bytes": 24576
+    },
+    "flyvis_malecns_compatibility_gate_v1": {
+      "files": 1,
+      "allocated_bytes": 20480
+    },
+    "flyvis_t5_benchmark_v2": {
+      "files": 2,
+      "allocated_bytes": 20480
+    },
+    "flyvis_t5_benchmark_v3": {
+      "files": 2,
+      "allocated_bytes": 20480
+    },
+    "postfix_review_v1": {
+      "files": 2,
+      "allocated_bytes": 20480
+    },
+    "publication_package_review_v1": {
+      "files": 5,
+      "allocated_bytes": 20480
+    },
+    "t5b_receptive_field_review_v3": {
+      "files": 5,
+      "allocated_bytes": 20480
+    },
+    "spatiotemporal_factorial_review_v1": {
+      "files": 4,
+      "allocated_bytes": 16384
+    },
+    "t5b_receptive_field_v1": {
+      "files": 5,
+      "allocated_bytes": 16384
+    },
+    "second_opinion_feedback_review_v1": {
+      "files": 2,
+      "allocated_bytes": 16384
+    },
+    "image_sampling_diagnostic_main_v1.log": {
+      "files": 1,
+      "allocated_bytes": 12288
+    },
+    "frontend_recovery_r0": {
+      "files": 1,
+      "allocated_bytes": 12288
+    },
+    "postfix_initialization_implementation_v1": {
+      "files": 3,
+      "allocated_bytes": 12288
+    },
+    "postfix_initialization_implementation_v2": {
+      "files": 3,
+      "allocated_bytes": 12288
+    },
+    "native_cardinal_implementation_v1": {
+      "files": 3,
+      "allocated_bytes": 12288
+    },
+    "aperture_implementation_v1": {
+      "files": 3,
+      "allocated_bytes": 12288
+    },
+    "small_turn_report_links_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 8192
+    },
+    "spatiotemporal_timestep_review_v1": {
+      "files": 2,
+      "allocated_bytes": 8192
+    },
+    "t5b_receptive_field_review_v1": {
+      "files": 2,
+      "allocated_bytes": 8192
+    },
+    ".gitkeep": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "physiological_execution_completion_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "yaw_bips_evidence_synthesis_execution_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "yaw_bips_evidence_synthesis_figure_execution_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "yaw_bips_evidence_synthesis_figure_execution_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "yaw_bips_evidence_synthesis_reproduction_execution_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "yaw_bips_evidence_synthesis_report_review_execution_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "yaw_bips_evidence_synthesis_sealing_execution_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "yaw_bips_evidence_synthesis_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_prepare_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_preflight_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_reproduction_smoke_prepare_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_reproduction_smoke_preflight_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_reproduction_smoke_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_decoder_explanation_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_footprint_execution_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_analysis_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_figures_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_report_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_sealing_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "image_sampling_diagnostic_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_prepare_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_main_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_analysis_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_reproduction_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_reproduction_main_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_reproduction_freeze_v1_r2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_reproduction_main_v1_r2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_reproduction_analysis_v1_r2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_reproduction_review_v1_r2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_completion_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "second_opinion_feedback_operating_points_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_prepare_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_preflight_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_analysis_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_remaining_batches_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_physiology_audit_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_analysis_pipeline_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_reproduction_preflight_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_reproduction_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_reproduction_analysis_freeze_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_core_analysis_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_refine_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_probes_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_normalization_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_review_recovery_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_solver_half_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_control_analysis_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_readout_fit_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_held_out_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_independent_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_independent_review_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_stimulus_search_followup_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_figures_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_stimulus_history_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_figures_layout_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_completion_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_postseal_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "continuous_yaw_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_prepare_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_run_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_loader_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_h2_resource_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_h2_resource_r2_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_prepare_smoke_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_completion_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_postseal_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "input_mapping_research_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_trial_metadata_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_trial_metadata_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_execution_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_continuation_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_numerical_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_analysis_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_independent_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_bootstrap_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_plots_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_report_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_reproduction_smoke_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_plots_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_report_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_report_r2_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_report_r3_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_report_final_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_completion_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_completion_review_final_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_completion_review_v2.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_frozen_model_benchmark_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_dorsal_diagnostic_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_dorsal_diagnostic_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "geometry_grounded_small_yaw_v2_preparation.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_yaw_image_reference_v3_preparation.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_target_decision_v4_preparation.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_implementation_environment_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_primary_literature_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_sealing_receipt_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_postseal_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "small_turn_acceptance_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "source_path_attribution_seal_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "source_path_attribution_postseal_review_v1.log": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "source_path_attribution_postseal_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "pokusaeva_gap_reproduction_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "sequential_small_turn_repairs_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "reliability_weighted_yaw_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "causal_short_window_yaw_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "ongoing_walking_yaw_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "neural_change_readout_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "agreement_yaw_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "biological_selectivity_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "biological_failure_localization_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "biological_family_dissection_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "biological_family_dissection_original_baseline_review_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "second_opinion_opponency_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "horizontal_opponency_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "horizontal_opponency_original_baseline_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "opponency_gain_calibration_postseal_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "final_openloop_milestone_planning_v1.json": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "weak_tuning_cause_feasibility_v1": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "t5b_phase_prediction_review_v1": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_trial_metadata_reproduction_smoke_v1": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "h2_dorsal_diagnostic_preparation_failure_v1": {
+      "files": 1,
+      "allocated_bytes": 4096
+    },
+    "published_circuit_figures_v1.log": {
+      "files": 1,
+      "allocated_bytes": 0
+    },
+    "published_circuit_reproduction_prepare_v1.log": {
+      "files": 1,
+      "allocated_bytes": 0
+    },
+    "published_circuit_reproduction_prepare_v1_r2.log": {
+      "files": 1,
+      "allocated_bytes": 0
+    },
+    "published_circuit_reproduction_figures_v1_r2.log": {
+      "files": 1,
+      "allocated_bytes": 0
+    },
+    "continuous_yaw_reproduction_prepare_v1.log": {
+      "files": 1,
+      "allocated_bytes": 0
+    },
+    "input_mapping_research_plot_v1.log": {
+      "files": 1,
+      "allocated_bytes": 0
+    },
+    "input_mapping_research_plot_v2.log": {
+      "files": 1,
+      "allocated_bytes": 0
+    }
+  },
+  "duplicate_example": {
+    "files": [
+      {
+        "path": "results/small_yaw_image_reference_v3/controls/s07_v16.5_y-2_spatial/retina.npz",
+        "sha256": "4386567e00510abcdbac42b565fde46eb7876454a306f6c186a2087422fd7b1d",
+        "size_bytes": 212102485,
+        "inode": 3311086
+      },
+      {
+        "path": "results/small_turn_reproduction_image_v3/controls/s07_v16.5_y-2_spatial/retina.npz",
+        "sha256": "4386567e00510abcdbac42b565fde46eb7876454a306f6c186a2087422fd7b1d",
+        "size_bytes": 212102485,
+        "inode": 3316728
+      }
+    ],
+    "byte_identical": true,
+    "distinct_inodes": true
+  },
+  "latest_pilot_sealed_artifact_bytes": 1504168,
+  "scientific_outcomes_reanalysed": false,
+  "full_duplicate_search_performed": false
+}

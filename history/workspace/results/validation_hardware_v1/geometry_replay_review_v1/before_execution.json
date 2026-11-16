@@ -1,0 +1,65 @@
+{
+  "created_utc": "2026-10-21T20:40:07.669334+00:00",
+  "source": {
+    "path": "scripts/check_validation_geometry_replay_v1.py",
+    "size_bytes": 11873,
+    "sha256": "53f5ee0b151801ba139280d2244f10b7720d97121788bbcc1aeba452109c0fe6"
+  },
+  "cases": [
+    [
+      "s01",
+      16.5,
+      2.0
+    ],
+    [
+      "s12",
+      5.5,
+      -2.0
+    ]
+  ],
+  "profiles": {
+    "legacy": {
+      "pixel_deg": 1.0,
+      "frontend_dt": 0.005,
+      "input_dt": 0.01,
+      "solver_dt": 0.001
+    },
+    "spatial_half": {
+      "pixel_deg": 0.5,
+      "frontend_dt": 0.005,
+      "input_dt": 0.01,
+      "solver_dt": 0.001
+    },
+    "spatial_quarter": {
+      "pixel_deg": 0.25,
+      "frontend_dt": 0.005,
+      "input_dt": 0.01,
+      "solver_dt": 0.001
+    },
+    "quarter_fine_time": {
+      "pixel_deg": 0.25,
+      "frontend_dt": 0.0025,
+      "input_dt": 0.005,
+      "solver_dt": 0.0005
+    }
+  },
+  "full_source_regeneration": true,
+  "all_four_copies_reintegrated_with_original_python_equations": true,
+  "retinal_points": "17x17 evenly spaced grid including retinal edges",
+  "retinal_times_s": [
+    0.0,
+    0.5,
+    1.0,
+    1.5,
+    2.0
+  ],
+  "tolerances": {
+    "retinal_absolute": 1e-07,
+    "neural_absolute": 1e-10,
+    "finite_difference_angular_flow_rad_s": 1e-06
+  },
+  "finite_difference_dt_s": 1e-06,
+  "post_score_diagnostic": true,
+  "scientific_criteria_changed": false,
+  "scope": "Selected replay, not all-trial solver convergence"
+}

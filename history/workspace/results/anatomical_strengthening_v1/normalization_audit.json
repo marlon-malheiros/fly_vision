@@ -1,0 +1,83 @@
+{
+  "status": "EXACT_OLD_BLOCK_SCALING_VERIFIED",
+  "created_utc": "2026-10-19T14:16:46.701165+00:00",
+  "identity": "W_expanded_old_old=diag(old_count_sum/new_count_sum)*W_original",
+  "maximum_identity_error": 1.1102230246251565e-16,
+  "key_cells": [
+    {
+      "body_id": "11919",
+      "role": "bips",
+      "side": "L",
+      "original_incoming_synapses": 459,
+      "expanded_incoming_synapses": 734,
+      "new_family_incoming_synapses": 275,
+      "original_input_fraction": 0.6253405994550408,
+      "renormalized_back_after_ablation": false
+    },
+    {
+      "body_id": "12072",
+      "role": "bips",
+      "side": "R",
+      "original_incoming_synapses": 391,
+      "expanded_incoming_synapses": 736,
+      "new_family_incoming_synapses": 345,
+      "original_input_fraction": 0.53125,
+      "renormalized_back_after_ablation": false
+    },
+    {
+      "body_id": "11215",
+      "role": "dnp15",
+      "side": "R",
+      "original_incoming_synapses": 721,
+      "expanded_incoming_synapses": 921,
+      "new_family_incoming_synapses": 200,
+      "original_input_fraction": 0.7828447339847991,
+      "renormalized_back_after_ablation": false
+    },
+    {
+      "body_id": "12069",
+      "role": "dnp15",
+      "side": "L",
+      "original_incoming_synapses": 563,
+      "expanded_incoming_synapses": 691,
+      "new_family_incoming_synapses": 128,
+      "original_input_fraction": 0.8147612156295224,
+      "renormalized_back_after_ablation": false
+    }
+  ],
+  "summary": [
+    {
+      "role": "t4t5",
+      "minimum_fraction": 1.0,
+      "mean_fraction": 1.0,
+      "maximum_fraction": 1.0
+    },
+    {
+      "role": "hs",
+      "minimum_fraction": 0.9098398169336385,
+      "mean_fraction": 0.9766906723563993,
+      "maximum_fraction": 0.9998609952738393
+    },
+    {
+      "role": "h2",
+      "minimum_fraction": 0.9877582846003898,
+      "mean_fraction": 0.9891324228514742,
+      "maximum_fraction": 0.9905065611025584
+    },
+    {
+      "role": "bips",
+      "minimum_fraction": 0.53125,
+      "mean_fraction": 0.5782952997275204,
+      "maximum_fraction": 0.6253405994550408
+    },
+    {
+      "role": "dnp15",
+      "minimum_fraction": 0.7828447339847991,
+      "mean_fraction": 0.7988029748071608,
+      "maximum_fraction": 0.8147612156295224
+    }
+  ],
+  "all_counts_retained": true,
+  "normalization_fixed_within_each_expanded_lesion": true,
+  "interpretation": "dual_new_family_clamp_removes_transmitted_new_activity_but_retains_input_dilution; compare_with_original_to_separate_these_effects"
+}

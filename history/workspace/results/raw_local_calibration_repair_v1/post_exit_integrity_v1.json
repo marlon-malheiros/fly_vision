@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/raw_local_calibration_repair_v1/completion_v1/artifact_index.json",
+    "size_bytes": 370529,
+    "sha256": "6f3188605ae922fa79a2918347aea060a85b3255dfc197d178d0ce8acc37cbeb"
+  },
+  "indexed_files": 1747,
+  "indexed_bytes": 31929968,
+  "total_artifact_bytes": 32300907,
+  "independent_small_turn_qualification": true,
+  "physiological_validation": false
+}

@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T13:35:40.082962+00:00",
+  "trajectories_reviewed": 312,
+  "independent_geometry_and_phase_schedules_checked": 52,
+  "maximum_voltage_error_mv": 2.1316282072803006e-12,
+  "maximum_internal_state_error": 4.5297099404706387e-13,
+  "maximum_arithmetic_error_mv": 3.552713678800501e-15,
+  "candidate_gate_decisions_and_pair_classes_reviewed": true,
+  "sampling_stability_reviewed": true,
+  "controls_reviewed": true,
+  "biological_validation": false
+}

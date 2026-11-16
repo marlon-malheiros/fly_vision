@@ -1,0 +1,18 @@
+{
+  "component_qualified": true,
+  "scientific": {
+    "selected_model": "adapted54",
+    "qualified_control_test_animals": 2,
+    "coverage_guard": true,
+    "pooled_skill_positive": true,
+    "each_qualified_skill_positive": true,
+    "beats_lowpass_baseline": true,
+    "no_post_test_refitting": true,
+    "full_circuit_biological_validation": false,
+    "numerical_review_pending": true
+  },
+  "numerical_checks_passed": true,
+  "full_circuit_validated": false,
+  "biological_impossibility_proven": false,
+  "all_six_reserved_animals_now_used": true
+}

@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T10:21:56.787199+00:00",
+  "PNG_visual_review": "Both PNGs inspected for readable axes, thresholds, counts, shared pre-event curves and clearly labelled scene SD; neural traces show responses after yaw without implying biological units",
+  "PDF_check": "Matching PDF headers and exports verified; PNGs were visually inspected",
+  "files": [
+    {
+      "path": "results/ongoing_walking_yaw_v1/figures/primary_comparison.png",
+      "size_bytes": 78702,
+      "sha256": "a0c7bf9c827591d6c62dc6f39544ea99ff487dca176f6571b8728870c0aa1e61"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/figures/primary_comparison.pdf",
+      "size_bytes": 20029,
+      "sha256": "a57027faa349449610495e15a806491d5b654edbe55d7ec54e8bdf87ec111b75"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/figures/neural_timecourses.png",
+      "size_bytes": 218298,
+      "sha256": "62b4faf5f579d9627d50520f54b21c9b948e3541bff77a499643a49c211ab3e0"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/figures/neural_timecourses.pdf",
+      "size_bytes": 45282,
+      "sha256": "80518850f5017e967fb66416a16205d47b54b8423f25263a4f07ef53af80b616"
+    }
+  ]
+}

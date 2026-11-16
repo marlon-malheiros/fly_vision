@@ -1,0 +1,31 @@
+{
+  "status": "COMPLETE",
+  "utc": "2026-10-27T18:15:42.356639+00:00",
+  "source_report_checkpoint": "9ec93633b6cf894c63bf2a3471f671bc428d9b30",
+  "conclusion": {
+    "primary": "change_dnp15",
+    "endpoint_pass": false,
+    "primary_finite_case_sampling_pass": true,
+    "endpoint_by_method": {
+      "absolute_bips": false,
+      "absolute_dnp15": false,
+      "absolute_h2": false,
+      "absolute_hs": false,
+      "change_bips": false,
+      "change_dnp15": false,
+      "change_h2": false,
+      "change_hs": false,
+      "engineering_reference": false,
+      "legacy_bips": false,
+      "legacy_dnp15": false,
+      "legacy_h2": false,
+      "legacy_hs": false
+    },
+    "primary_rolling_pass": false,
+    "circuit_changed": false,
+    "physiological_validation": false
+  },
+  "report": "docs/NEURAL_CHANGE_READOUT_REPORT_V1.md",
+  "live_AGENTS_and_progress_excluded": true,
+  "physiological_validation": false
+}

@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "version": "recorded_R3",
+  "native_flash_trials": 820,
+  "flash_conditions": 164,
+  "registration_grid_cases": 765,
+  "motion_conditions": 24,
+  "max_native_bin_error_mv": 5.684341886080802e-14,
+  "max_fit_grid_error": 1.4210854715202004e-14,
+  "max_readout_reference_error_mv": 4.263256414560601e-14,
+  "metric_bootstrap_max_error": 7.105427357601002e-15,
+  "scalar_pixel_evaluations": 36080,
+  "prior_files_unchanged": 466,
+  "split_and_candidate_selection_verified": true,
+  "full_biological_validation": false
+}

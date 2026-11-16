@@ -1,0 +1,52 @@
+{
+  "created_utc": "2026-10-21T12:17:14.862655+00:00",
+  "files": [
+    {
+      "path": "scripts/resume_validation_hardware_storage_v2.py",
+      "size_bytes": 3762,
+      "sha256": "288a1596d487b4355262f8b603b65def8b2e220b0b16e98ead9aed2991cfa0a6"
+    },
+    {
+      "path": "src/male_optic_frontend/lossless_storage_v2.py",
+      "size_bytes": 817,
+      "sha256": "7067bc1a2d5065d6b684a126141fe2528b73878c034234503e9beca8a7b68cc8"
+    },
+    {
+      "path": "tests/test_lossless_storage_v2.py",
+      "size_bytes": 1302,
+      "sha256": "a9aac7f4552c922c6a781acf450a584ba2fb1f56fec5b7850fbb2cbd6bdb661d"
+    },
+    {
+      "path": "docs/VALIDATION_HARDWARE_STORAGE_AMENDMENT_V2.md",
+      "size_bytes": 1935,
+      "sha256": "e287a653e6f52c467f2a53a9bb4354958c93f368501279b8af3eca46c8c532ff"
+    },
+    {
+      "path": "results/validation_hardware_v1/preflight/lossless_storage_v2_tests.log",
+      "size_bytes": 98,
+      "sha256": "e0ad24c248c70513f4a2f78b6f272caa7dce4ff4b8b824ea6992c7a7bec4c77a"
+    },
+    {
+      "path": "results/validation_hardware_v1/prospective_manifest.json",
+      "size_bytes": 6771,
+      "sha256": "c91b0fbf0daeaca87d57cc91455446604085c476ea68959e2cd1d9b76e353595"
+    },
+    {
+      "path": "results/validation_hardware_v1/storage_continuation_v2/orphans.json",
+      "size_bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "results/validation_hardware_v1/storage_preflight_v1/report.json",
+      "size_bytes": 726,
+      "sha256": "fdbc5bcff37176c1ae578ddb0c275b2545ffdb799dc2a2d50f031fb2d6a1af20"
+    }
+  ],
+  "previous_completed_receipts": 639,
+  "resource_overrides": {
+    "minimum_free_disk_bytes": 1500000000
+  },
+  "scientific_conditions_changed": false,
+  "output_array_values_changed": false,
+  "compression": "ZIP_LZMA"
+}

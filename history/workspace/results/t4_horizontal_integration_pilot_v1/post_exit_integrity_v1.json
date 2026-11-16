@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/t4_horizontal_integration_pilot_v1/completion_v1/artifact_index.json",
+    "size_bytes": 55419,
+    "sha256": "20c74718887b53a9e0b9fc267093435c1fde2a9cb69411ec478c0952f8ad457a"
+  },
+  "indexed_files": 228,
+  "bytes_before_audit": 4528677,
+  "dependencies_unchanged": true
+}

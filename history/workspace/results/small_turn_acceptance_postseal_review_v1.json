@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "entries": 10,
+  "bytes": 3916809,
+  "index": {
+    "path": "results/small_turn_acceptance_review_v1/completion_v1/artifact_index.json",
+    "size_bytes": 2239,
+    "sha256": "1ef033677e5d55b74f9d15bb4835eda4260a152df3220e7bcf57efb3a8d48811"
+  },
+  "all_entries_rehashed_after_sealer_exit": true,
+  "biological_validation": false
+}

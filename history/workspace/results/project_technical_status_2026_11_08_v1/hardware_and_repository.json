@@ -1,0 +1,102 @@
+{
+  "date_local": "2026-11-08",
+  "timezone": "America/Belem",
+  "observations": [
+    {
+      "command": [
+        "lscpu"
+      ],
+      "exit_code": 0,
+      "stdout": "Architecture:                            x86_64\nCPU op-mode(s):                          32-bit, 64-bit\nAddress sizes:                           39 bits physical, 48 bits virtual\nByte Order:                              Little Endian\nCPU(s):                                  12\nOn-line CPU(s) list:                     0-11\nVendor ID:                               GenuineIntel\nModel name:                              12th Gen Intel(R) Core(TM) i5-12450H\nCPU family:                              6\nModel:                                   154\nThread(s) per core:                      2\nCore(s) per socket:                      8\nSocket(s):                               1\nStepping:                                3\nCPU(s) scaling MHz:                      64%\nCPU max MHz:                             4400.0000\nCPU min MHz:                             400.0000\nBogoMIPS:                                4992.00\nFlags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb ssbd ibrs ibpb stibp ibrs_enhanced tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt clwb intel_pt sha_ni xsaveopt xsavec xgetbv1 xsaves split_lock_detect user_shstk avx_vnni dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp hwp_pkg_req hfi vnmi umip pku ospke waitpkg gfni vaes vpclmulqdq rdpid movdiri movdir64b fsrm md_clear serialize arch_lbr ibt flush_l1d arch_capabilities\nVirtualization:                          VT-x\nL1d cache:                               320 KiB (8 instances)\nL1i cache:                               384 KiB (8 instances)\nL2 cache:                                7 MiB (5 instances)\nL3 cache:                                12 MiB (1 instance)\nNUMA node(s):                            1\nNUMA node0 CPU(s):                       0-11\nVulnerability Gather data sampling:      Not affected\nVulnerability Ghostwrite:                Not affected\nVulnerability Indirect target selection: Not affected\nVulnerability Itlb multihit:             Not affected\nVulnerability L1tf:                      Not affected\nVulnerability Mds:                       Not affected\nVulnerability Meltdown:                  Not affected\nVulnerability Mmio stale data:           Not affected\nVulnerability Old microcode:             Not affected\nVulnerability Reg file data sampling:    Mitigation; Clear Register File\nVulnerability Retbleed:                  Not affected\nVulnerability Spec rstack overflow:      Not affected\nVulnerability Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:                Mitigation; Enhanced / Automatic IBRS; IBPB conditional; PBRSB-eIBRS SW sequence; BHI BHI_DIS_S\nVulnerability Srbds:                     Not affected\nVulnerability Tsa:                       Not affected\nVulnerability Tsx async abort:           Not affected\nVulnerability Vmscape:                   Mitigation; IBPB before exit to userspace\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "free",
+        "-h"
+      ],
+      "exit_code": 0,
+      "stdout": "               total        used        free      shared  buff/cache   available\nMem:            15Gi        10Gi       1.4Gi       889Mi       4.5Gi       4.7Gi\nSwap:           15Gi       5.6Gi       9.7Gi\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "df",
+        "-h",
+        ".",
+        "/tmp"
+      ],
+      "exit_code": 0,
+      "stdout": "Filesystem                                             Size  Used Avail Use% Mounted on\n/dev/mapper/luks-0b6a13ca-c00d-4c77-8471-592d0cb33463  475G  326G  147G  69% <WORKSPACE>\ntmpfs                                                  7.7G  1.3G  6.4G  17% /tmp\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "uname",
+        "-r"
+      ],
+      "exit_code": 0,
+      "stdout": "7.2.15-200.fc44.x86_64\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "cat",
+        "/etc/os-release"
+      ],
+      "exit_code": 0,
+      "stdout": "NAME=\"Fedora Linux\"\nVERSION=\"44 (KDE Plasma Desktop Edition)\"\nRELEASE_TYPE=stable\nID=fedora\nVERSION_ID=44\nVERSION_CODENAME=\"\"\nPRETTY_NAME=\"Fedora Linux 44 (KDE Plasma Desktop Edition)\"\nANSI_COLOR=\"0;38;2;60;110;180\"\nLOGO=fedora-logo-icon\nCPE_NAME=\"cpe:/o:fedoraproject:fedora:44\"\nDEFAULT_HOSTNAME=\"fedora\"\nHOME_URL=\"https://fedoraproject.org/\"\nDOCUMENTATION_URL=\"https://docs.fedoraproject.org/en-US/fedora/f44/\"\nSUPPORT_URL=\"https://ask.fedoraproject.org/\"\nBUG_REPORT_URL=\"https://bugzilla.redhat.com/\"\nREDHAT_BUGZILLA_PRODUCT=\"Fedora\"\nREDHAT_BUGZILLA_PRODUCT_VERSION=44\nREDHAT_SUPPORT_PRODUCT=\"Fedora\"\nREDHAT_SUPPORT_PRODUCT_VERSION=44\nSUPPORT_END=2027-05-19\nVARIANT=\"KDE Plasma Desktop Edition\"\nVARIANT_ID=kde\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "lspci"
+      ],
+      "exit_code": 0,
+      "stdout": "00:00.0 Host bridge: Intel Corporation 12th Gen Core Processor Host Bridge/DRAM Registers (rev 02)\n00:01.0 PCI bridge: Intel Corporation 12th Gen Core Processor PCI Express x16 Controller #1 (rev 02)\n00:02.0 VGA compatible controller: Intel Corporation Alder Lake-P GT1 [UHD Graphics] (rev 0c)\n00:04.0 Signal processing controller: Intel Corporation Alder Lake Innovation Platform Framework Processor Participant (rev 02)\n00:06.0 PCI bridge: Intel Corporation 12th Gen Core Processor PCI Express x4 Controller #0 (rev 02)\n00:06.2 PCI bridge: Intel Corporation 12th Gen Core Processor PCI Express x4 Controller #2 (rev 02)\n00:0a.0 Signal processing controller: Intel Corporation Platform Monitoring Technology (rev 01)\n00:14.0 USB controller: Intel Corporation Alder Lake PCH USB 3.2 xHCI Host Controller (rev 01)\n00:14.2 RAM memory: Intel Corporation Alder Lake PCH Shared SRAM (rev 01)\n00:15.0 Serial bus controller: Intel Corporation Alder Lake PCH Serial IO I2C Controller #0 (rev 01)\n00:16.0 Communication controller: Intel Corporation Alder Lake PCH HECI Controller (rev 01)\n00:19.0 Serial bus controller: Intel Corporation Alder Lake-P Serial IO I2C Controller #0 (rev 01)\n00:1c.0 PCI bridge: Intel Corporation Alder Lake PCI Express x4 Root Port #5 (rev 01)\n00:1c.5 PCI bridge: Intel Corporation Alder Lake-P PCH PCIe Root Port #6 (rev 01)\n00:1f.0 ISA bridge: Intel Corporation Alder Lake PCH eSPI Controller (rev 01)\n00:1f.3 Multimedia audio controller: Intel Corporation Alder Lake PCH-P High Definition Audio Controller (rev 01)\n00:1f.4 SMBus: Intel Corporation Alder Lake PCH-P SMBus Host Controller (rev 01)\n00:1f.5 Serial bus controller: Intel Corporation Alder Lake-P PCH SPI Controller (rev 01)\n01:00.0 VGA compatible controller: NVIDIA Corporation GA107 [GeForce RTX 2050] (rev a1)\n01:00.1 Audio device: NVIDIA Corporation GA107 High Definition Audio Controller (rev a1)\n06:00.0 Non-Volatile memory controller: Solid State Storage Technology Corporation CL4 Series NVMe SSD M.2 (DRAM-less) (rev 03)\n07:00.0 Non-Volatile memory controller: Silicon Motion, Inc. SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers (rev 03)\n08:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller (rev 15)\n09:00.0 Network controller: Realtek Semiconductor Co., Ltd. RTL8852BE PCIe 802.11ax Wireless Network Controller\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "nvidia-smi",
+        "--query-gpu=name,memory.total,driver_version",
+        "--format=csv,noheader"
+      ],
+      "exit_code": 9,
+      "stdout": "NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running.\n\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "du",
+        "-sx",
+        "--block-size=1",
+        "."
+      ],
+      "exit_code": 0,
+      "stdout": "166355066880\t.\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "git",
+        "rev-parse",
+        "HEAD"
+      ],
+      "exit_code": 0,
+      "stdout": "b8e686648b21b63e9f7845b3718bfb63b1d4647a\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "git",
+        "status",
+        "--short"
+      ],
+      "exit_code": 0,
+      "stdout": "?? configs/measured_continuing_camera_v9.json\n?? data/\n?? docs/MEASURED_CONTINUING_CAMERA_PROTOCOL_V9.md\n?? results/\n?? scripts/check_measured_pilot_v9.py\n?? scripts/host_clock_probe_v9.py\n?? scripts/measured_continuing_camera_v9.py\n?? scripts/project_technical_status_audit_20261108_v1.py\n?? scripts/review_measured_continuation_v9.py\n?? tests/test_host_clock_probe_v9.py\n",
+      "stderr": ""
+    }
+  ],
+  "hardware_snapshot_not_historical_benchmark": true
+}

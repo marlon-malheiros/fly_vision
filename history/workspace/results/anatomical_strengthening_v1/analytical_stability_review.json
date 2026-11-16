@@ -1,0 +1,19 @@
+{
+  "status": "ANALYTICAL_BOUNDS_VERIFIED",
+  "created_utc": "2026-10-19T14:20:20.824693+00:00",
+  "graph_copies": 27,
+  "step_bounds": 54,
+  "minimum_contraction_margin_per_s": 6.321033408744076,
+  "maximum_RK4_linearized_amplification_bound": 0.9968444744399287,
+  "derivation": [
+    "abs(tanh_prime)<=1; active presynaptic gates are 0 or 1",
+    "mu_infinity(J)<=(-1+chemical_gain*norm_infinity(W_active))/tau",
+    "Gershgorin disk: abs(lambda+1/tau)<=chemical_gain*norm_infinity(W_active)/tau",
+    "abs(RK4(dt*lambda))<=exp(-margin*dt)+zmax^5*exp(zmax)/120"
+  ],
+  "zero_drive_zero_state_is_unique_stable_equilibrium": true,
+  "intrinsic_trial_noise_present": false,
+  "nonlinear_step_convergence_claimed": false,
+  "biophysical_time_constants_validated": false,
+  "primary_results_or_criteria_changed": false
+}

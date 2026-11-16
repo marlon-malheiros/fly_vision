@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "numerical_comparisons_recomputed": 12,
+  "numerical_max_difference_from_saved": 0.0,
+  "solver_checks_recomputed": 4,
+  "inhibition": [
+    {
+      "cell": 3,
+      "qualifying_mask_bins": 0
+    },
+    {
+      "cell": 4,
+      "qualifying_mask_bins": 0
+    },
+    {
+      "cell": 5,
+      "qualifying_mask_bins": 0
+    }
+  ],
+  "frozen_thresholds_unchanged": true,
+  "V1_R2_failures_preserved": true,
+  "prior": {
+    "index": {
+      "path": "results/t4_cable_matched_v1/completion_v1/artifact_index.json",
+      "bytes": 91885,
+      "sha256": "7194beca13cdae151061ae864f70a33a27ad1f7614caae2e818070dec2fa62d7"
+    },
+    "files": 466,
+    "unchanged": true
+  },
+  "additional_moving_files_unopened": 3,
+  "C2C3_flies_unscored": 4,
+  "full_biological_validation": false
+}

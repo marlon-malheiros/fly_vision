@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "indexed_files": 18,
+  "indexed_bytes": 4957793,
+  "index_sha256": "3e009c7662d41c4f31b2391ad510bcb846ea798043369dc0799da14735c12c16",
+  "retired_paths_confirmed_absent": 2823,
+  "downstream_paths_confirmed_present": 5646,
+  "representatives_confirmed_present": 122,
+  "available_bytes": 162619408384,
+  "original_full_movie_availability_pass": false,
+  "scope": "New retirement-archive integrity and intentional-deletion/retention checks only; no claim that the full original input archive is available."
+}

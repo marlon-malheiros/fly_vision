@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "split_room_counts": {
+    "train": 4,
+    "calibration": 16,
+    "held_out": 24
+  },
+  "feature_checks": [
+    {
+      "features": 5120,
+      "maximum_error": 1.7763568394002505e-15
+    },
+    {
+      "features": 6144,
+      "maximum_error": 3.552713678800501e-15
+    }
+  ],
+  "readouts": 48,
+  "maximum_coefficient_discrepancy": 1.5283954866513293e-14,
+  "maximum_cutoff_discrepancy": 2.3092638912203256e-14,
+  "predictions": 5760,
+  "maximum_score_discrepancy": 3.552713678800501e-15,
+  "curves": 96,
+  "thresholds": 48,
+  "paired_effects": 48,
+  "bootstrap_draws": 10000,
+  "maximum_bootstrap_discrepancy": 0.0,
+  "frozen_dependencies_unchanged": true,
+  "neural_parameter_fits": 0,
+  "biological_validation": false
+}

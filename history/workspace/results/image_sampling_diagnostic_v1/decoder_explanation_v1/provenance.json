@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-24",
+  "interpretation": "Post-protocol explanatory calculation, not a new criterion or fit",
+  "formula": "delta_score = (bL/scaleL)*delta_L + (bR/scaleR)*delta_R",
+  "bound": "abs(delta_score) <= (abs(bL/scaleL)+abs(bR/scaleR))*max(abs(delta_L),abs(delta_R))",
+  "categorical_stability_sufficient_condition": "Bound strictly smaller than distance from reference score to nearest +/- cutoff",
+  "caution": "A sufficient bound can be loose; small feature changes do not necessarily change a decision. Activity units are uncalibrated model units.",
+  "source": "results/yaw_sensitivity_ablation_v1/decoders.json",
+  "source_sha256": "54e66326e4cefd854b7acdd15e4d5af47f4a9816f0cec111290fbf53d859ed9f",
+  "script_sha256": "aa6f4cc09ba44687ad4afc43cafe5e922db89e16dfdbe3bfde459c9b07fd8a06",
+  "model_or_decoder_changed": false,
+  "primary_gate_changed": false
+}

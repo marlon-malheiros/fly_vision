@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "key": "w00_v16.5_y+0",
+      "retinal_frames": 361,
+      "all_shared_arrays_exact": true
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "retinal_frames": 251,
+      "all_shared_arrays_exact": true
+    }
+  ],
+  "codec_lossless": true,
+  "simulation_prefix_unchanged": true
+}

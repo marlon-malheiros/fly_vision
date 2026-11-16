@@ -1,0 +1,178 @@
+{
+  "status": "COMPLETE",
+  "utc": "2026-10-28T01:34:23.118057+00:00",
+  "conclusion": {
+    "status": "COMPLETED_RETROSPECTIVE_DISSECTION",
+    "decision": "heterogeneous_sign_dependence",
+    "positive_seed_side_cases": {
+      "expanded_intact": 4,
+      "expanded_ulptcrn_silent": 3,
+      "expanded_h2rn_silent": 2,
+      "expanded_new_silent": 0
+    },
+    "bips_indices": {
+      "expanded_intact": [
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_intact",
+          "translation": 0.0073493926820395045,
+          "yaw": 0.0037075153673671217,
+          "magnitude": 0.32937574396015945
+        },
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_intact",
+          "translation": 0.0051144296002957074,
+          "yaw": -0.004238869208279041,
+          "magnitude": 0.09360979585234529
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_intact",
+          "translation": 0.00761673637252168,
+          "yaw": 0.003873594474877116,
+          "magnitude": 0.32576450124514417
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_intact",
+          "translation": 0.005726286607295206,
+          "yaw": -0.0038731407899020706,
+          "magnitude": 0.19304753718270679
+        }
+      ],
+      "expanded_ulptcrn_silent": [
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_ulptcrn_silent",
+          "translation": 0.008066363135909478,
+          "yaw": 0.0050709822123357505,
+          "magnitude": 0.2280050378651136
+        },
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_ulptcrn_silent",
+          "translation": 0.006326128523875613,
+          "yaw": -0.006612277032669621,
+          "magnitude": -0.02211621111607929
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_ulptcrn_silent",
+          "translation": 0.008336258220531849,
+          "yaw": 0.00525845475858882,
+          "magnitude": 0.22639709030047553
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_ulptcrn_silent",
+          "translation": 0.007202567537019377,
+          "yaw": -0.006073699872524011,
+          "magnitude": 0.08502899419485191
+        }
+      ],
+      "expanded_h2rn_silent": [
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_h2rn_silent",
+          "translation": 0.005930651004547825,
+          "yaw": 0.005527749982019384,
+          "magnitude": 0.03516206345028118
+        },
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_h2rn_silent",
+          "translation": 0.00421413398168884,
+          "yaw": -0.005101820609370699,
+          "magnitude": -0.09528670615609978
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_h2rn_silent",
+          "translation": 0.006291076254869162,
+          "yaw": 0.005890380000514464,
+          "magnitude": 0.03289395339556459
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_h2rn_silent",
+          "translation": 0.004515099388251635,
+          "yaw": -0.005039329703883673,
+          "magnitude": -0.05486778022807837
+        }
+      ],
+      "expanded_new_silent": [
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_new_silent",
+          "translation": 0.006569703197204098,
+          "yaw": 0.007070717825577482,
+          "magnitude": -0.03673014399897284
+        },
+        {
+          "seed": 202610279100,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_new_silent",
+          "translation": 0.00531466995690995,
+          "yaw": -0.007799983955495652,
+          "magnitude": -0.18950664006731877
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "L",
+          "variant": "expanded_new_silent",
+          "translation": 0.006947621401979858,
+          "yaw": 0.00747704717808241,
+          "magnitude": -0.03670280347614516
+        },
+        {
+          "seed": 202610279101,
+          "role": "bips",
+          "side": "R",
+          "variant": "expanded_new_silent",
+          "translation": 0.005817159918760306,
+          "yaw": -0.007632040100122039,
+          "magnitude": -0.13494335565042423
+        }
+      ]
+    },
+    "H_conditional_index_effect_larger_than_U_in_cases": 4,
+    "conditional_cases": 4,
+    "new_independent_validation": false,
+    "biological_necessity_demonstrated": false,
+    "new_small_yaw_test": false,
+    "replacement_model_selected": false
+  },
+  "git_checkpoint": "c3e7813031509aff2c40199a09f2d769ff2bdad0",
+  "preserved_execution_failures": 2,
+  "biological_validation_established": false,
+  "live_AGENTS_and_progress_excluded": true
+}

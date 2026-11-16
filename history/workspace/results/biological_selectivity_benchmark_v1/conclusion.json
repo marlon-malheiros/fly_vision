@@ -1,0 +1,26 @@
+{
+  "utc": "2026-10-27T21:02:36.481232+00:00",
+  "status": "CONDITIONAL_PROPERTY_NOT_SUPPORTED",
+  "primary_decisions": [
+    {
+      "cohort": "bIPS|sytGC7f|axon|native",
+      "prerequisites": true,
+      "observed_expected_sign_supported": true,
+      "primary_model_in_measured_interval": false,
+      "expected_model_sign_all_profiles": false,
+      "supported": false
+    },
+    {
+      "cohort": "DNp15|GC6f|dendrite|WT",
+      "prerequisites": true,
+      "observed_expected_sign_supported": false,
+      "primary_model_in_measured_interval": false,
+      "expected_model_sign_all_profiles": true,
+      "supported": false
+    }
+  ],
+  "exact_stimulus_validation": false,
+  "fresh_animal_validation": false,
+  "walking_small_turn_validation": false,
+  "hybrid_rule_biologically_validated": false
+}

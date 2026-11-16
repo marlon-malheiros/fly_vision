@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "window_comparisons": 2072,
+  "summary_rows": 168,
+  "maximum_arithmetic_error": 2.9103830456733704e-11,
+  "independent_filtered_prediction_and_closed_form_projection": true
+}

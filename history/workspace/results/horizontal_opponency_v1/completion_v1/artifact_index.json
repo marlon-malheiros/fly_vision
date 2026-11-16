@@ -1,0 +1,2191 @@
+{
+  "files": [
+    {
+      "path": "results/horizontal_opponency_v1/aggregation_review.json",
+      "size_bytes": 145,
+      "sha256": "cd8dfc2c9d75ac68a6724765c8fcdebbc363f11ba47291dd184c65aa68d8ec68"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/analysis_review.json",
+      "size_bytes": 180,
+      "sha256": "4eefbeecfb0c81a721e164af254cb521015120278e69134f6919ed69c36778bf"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/before_opponency.json",
+      "size_bytes": 6144,
+      "sha256": "a3e0a13f14eec329267759ab410fad21acba24ded441cabe0c409997dc6627ab"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/before_reused_test_scoring.json",
+      "size_bytes": 593,
+      "sha256": "b507debaa3bbc84c6a7a4926ee9b8a966ac0c9390b8d7cbfd88f2fd0b5de83a9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/before_supplementary_review.json",
+      "size_bytes": 366,
+      "sha256": "04d3fe8f65dc2a8a1bb2d6a93050b4fe953c7dde76064cf937971832a1bfa3a6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/bilateral_asymmetry.csv",
+      "size_bytes": 14980,
+      "sha256": "bf2366faa461cf16284462cd36d55a42972d3242d638447b5095dceadf1998ec"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/expanded_intact/network.npz",
+      "size_bytes": 2162304,
+      "sha256": "eddaf4542b53937dbe1e2e5c843cfaebfce80faf655d54c71c82debbd172d9b9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/expanded_intact/receipt.json",
+      "size_bytes": 769,
+      "sha256": "c54d70b2aa6fb0205a627a6f47ad1080013cb93cd4d1689aa739f9223a3aa4aa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/functional_opponent/network.npz",
+      "size_bytes": 2183879,
+      "sha256": "9db8aaf9414dc9e94049107f9216b03d06e325c9c364cafaa19c7c34a835df51"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/functional_opponent/receipt.json",
+      "size_bytes": 997,
+      "sha256": "2f32eef514ec7652d7c72db6b5f163a99ea893f5d53afd4617703e4d3aacaa01"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/lpi_intact/network.npz",
+      "size_bytes": 2526920,
+      "sha256": "55d8b9f689402a76728046cb0aba87e83153a5d9c1e344f93baff9999baf745c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/lpi_intact/receipt.json",
+      "size_bytes": 971,
+      "sha256": "2b6d0ae00c9b31ec048ac3aebc89a52b1e33a01b52c83c045e547fdf1895ba19"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/lpi_silent/network.npz",
+      "size_bytes": 2334342,
+      "sha256": "3bd59bd37dd180ce6fd7291162093dadc538d04869004669bec03efd40ee12f3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_left/lpi_silent/receipt.json",
+      "size_bytes": 971,
+      "sha256": "b12cbbbdc72f02e4ec780545e83c873a997cfc961acf4b17cb803ac5db8829fd"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/expanded_intact/network.npz",
+      "size_bytes": 2162829,
+      "sha256": "ea8ef2d82db654876d27a2fad183f0fb0564307678f07d748eaa68ca45853782"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/expanded_intact/receipt.json",
+      "size_bytes": 772,
+      "sha256": "365ea82130c7b102bddbf8c955c80b97ec4dcd2f1b2888535a9d1d499485e8a7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/functional_opponent/network.npz",
+      "size_bytes": 2183104,
+      "sha256": "d787b2ce8574e0334513077d780514f7cc9f97d936e51cd03a73194b8d85a340"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/functional_opponent/receipt.json",
+      "size_bytes": 1003,
+      "sha256": "52850e4c5caec829a8b108e31d7d3d9e0003dbd80a6067889b204ae22b8d033f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/lpi_intact/network.npz",
+      "size_bytes": 2525836,
+      "sha256": "ee790dc00e5dbe224b61679bafaac1daaf2e5bc11cdb507217c73d62e98a5b47"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/lpi_intact/receipt.json",
+      "size_bytes": 976,
+      "sha256": "13dade798ef74b487b796ad34b791d0ea1dedc78738f025c0f261b731e32cdc3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/lpi_silent/network.npz",
+      "size_bytes": 2337275,
+      "sha256": "f67b42213effb34434b5e7a088d5ab25792e5e7f3eb458b7f225554b891bea95"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_right/lpi_silent/receipt.json",
+      "size_bytes": 976,
+      "sha256": "7ed5781fb9a368f7e9204f5bb77849143b51d32a72abbf3ef2154373762e3090"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/expanded_intact/network.npz",
+      "size_bytes": 2143867,
+      "sha256": "16772ad7827dd006d406215c7b789439333e7069c1260d6aaf8fc152d257a848"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/expanded_intact/receipt.json",
+      "size_bytes": 790,
+      "sha256": "f0b0e0bc82cf76c230904b5e5f983be6859008bfe2a8eeaab98d65a6cc59f934"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/functional_opponent/network.npz",
+      "size_bytes": 2167334,
+      "sha256": "16d9ccebc4234f6cebaf4e0f07f3ad351609af4bed3e792b1d4c2255735505df"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/functional_opponent/receipt.json",
+      "size_bytes": 1033,
+      "sha256": "1e2917688c0d0381ceb77c5e79e68db40ba6c3daa00414e7f26959b341bac664"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/lpi_intact/network.npz",
+      "size_bytes": 2505562,
+      "sha256": "ea13713a8a072307b47deff4d9ed696bd7d93eb246a4b9e59bc7c15cccb61a93"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/lpi_intact/receipt.json",
+      "size_bytes": 1006,
+      "sha256": "e3bf42d78b134644d1b8e034e497150597401c18b8c4169beef2ed3188f12a88"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/lpi_silent/network.npz",
+      "size_bytes": 2314794,
+      "sha256": "b6f794bb090595d1fe3f34b2a430ac3c954d97840fb03cf0e7f040edc7a4fd7a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_translation/lpi_silent/receipt.json",
+      "size_bytes": 1006,
+      "sha256": "4b7b342fb5058d219194aa31d1242e23231db25f2369875d60e2a775f69f3992"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/expanded_intact/network.npz",
+      "size_bytes": 2145109,
+      "sha256": "f15d7faf7f0e971084403e21733373211171c6749d1f66b6f8848d300c2d88ec"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/expanded_intact/receipt.json",
+      "size_bytes": 766,
+      "sha256": "a287714bff4c49458a5e5f44cea71730484f13cbe30f7803abf241a3dc555fdd"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/functional_opponent/network.npz",
+      "size_bytes": 2168693,
+      "sha256": "12824567917306dd262675c5a748c1f1df87de71530c6b525cf322cb4e5eafbc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/functional_opponent/receipt.json",
+      "size_bytes": 993,
+      "sha256": "07654b44254440c374a30fd2c1afe87fea3dfa1bf7ab09b8b8e5bd09c80ce187"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/lpi_intact/network.npz",
+      "size_bytes": 2508925,
+      "sha256": "668465da4f6ef7f170b84271a6042b1f22baf083b00adaeb260f3e9b161ad38d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/lpi_intact/receipt.json",
+      "size_bytes": 966,
+      "sha256": "2a27ecd209135bad8467e6ae770dcef539338ed134357ff3e48ea46bf73a5e33"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/lpi_silent/network.npz",
+      "size_bytes": 2315899,
+      "sha256": "086aba2ef44b0e2a7c4bcad20b4628f421a70c560b25ecb016daaf379a8b06c3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279100_yaw/lpi_silent/receipt.json",
+      "size_bytes": 966,
+      "sha256": "49d4628c37e1008a051057504735f7f92669a1707ad1635639ebf67baa588df4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/expanded_intact/network.npz",
+      "size_bytes": 2162041,
+      "sha256": "909d6ad023c54f0cd091f3e7309f16eceea406bc70e6aa2a400d6a947a875e20"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/expanded_intact/receipt.json",
+      "size_bytes": 769,
+      "sha256": "f80a67f91422259fbe6d235c64425db6e44e51bac90cba7c903752a4ec307eed"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/functional_opponent/network.npz",
+      "size_bytes": 2184399,
+      "sha256": "f1974a6ff62f3883aa918b0333e46f2a8484780416fb116be55bfaa79aca8e25"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/functional_opponent/receipt.json",
+      "size_bytes": 997,
+      "sha256": "3d2f071a3db1fe509dc696a27a0f555571457e909a74795600630e0b21444a5a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/lpi_intact/network.npz",
+      "size_bytes": 2526451,
+      "sha256": "336e505f204aab60a9e2a03f044278e0acba4b64d0cfecdbbfe9bfd670cae00c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/lpi_intact/receipt.json",
+      "size_bytes": 971,
+      "sha256": "d2bc57bd5642cb9efe05dbc61891ebbc8a68d7aed1e435cbbf91092869b08e0d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/lpi_silent/network.npz",
+      "size_bytes": 2334029,
+      "sha256": "0628869ebf9941585d8161e7242ea6fd5a6f94504ef8815cf5fe3a03b7d9dc4d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_left/lpi_silent/receipt.json",
+      "size_bytes": 971,
+      "sha256": "3b913272c8f95b0681f0f9e7240130e414eba699e2a6990755e6e727479219b6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/expanded_intact/network.npz",
+      "size_bytes": 2162978,
+      "sha256": "663b48d74a6d418d23d56b530ebd657d5119a4a4afe54b4539db8a913260f1e9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/expanded_intact/receipt.json",
+      "size_bytes": 772,
+      "sha256": "53aa958cdc0f2015bb4c24e339c7dc6a720919b5890874841e3cf9604532513b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/functional_opponent/network.npz",
+      "size_bytes": 2182056,
+      "sha256": "51fc42b979712e13b07b031eca91001f96901a3f3c47377dff6bb2f912e8f3b8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/functional_opponent/receipt.json",
+      "size_bytes": 1003,
+      "sha256": "0b95f001397f3ade5286d75b0c7b11122ed480af8068525ac2a953e07c8bcd54"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/lpi_intact/network.npz",
+      "size_bytes": 2526181,
+      "sha256": "1d5ad535a4de4b04a1bb3f652c293c4c59627efe63857c3fd1f6ae9af1a4ed9c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/lpi_intact/receipt.json",
+      "size_bytes": 976,
+      "sha256": "a8668109c12dc907915da90f6a1b701e383564b78c120c81e7f913e1d489e6d2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/lpi_silent/network.npz",
+      "size_bytes": 2336994,
+      "sha256": "204b8c418c6e30e39c35bb6b28666afa097fea299158d36b8ca9fed14686a9e4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_right/lpi_silent/receipt.json",
+      "size_bytes": 974,
+      "sha256": "d8ccef414e818d65d579655a06534506b225673cca063db68222df9c081fccad"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/expanded_intact/network.npz",
+      "size_bytes": 2143482,
+      "sha256": "2a147a34e39f45dfb843575dd4320b7edb0ad3e14b5fc95ec5841a10e5519b86"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/expanded_intact/receipt.json",
+      "size_bytes": 790,
+      "sha256": "7ded5b53868c0eb9aee4df971dbff6fe71b89b10608d914139582cb2fff8c576"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/functional_opponent/network.npz",
+      "size_bytes": 2168491,
+      "sha256": "70bee550336872e8923260e64328246ee08ac4a4226d04002e1ac47b6a94f34b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/functional_opponent/receipt.json",
+      "size_bytes": 1033,
+      "sha256": "e2ef42ff2c5e72b6107c556140e580ff86d14d7cf4b3f21e5196799f5da57b47"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/lpi_intact/network.npz",
+      "size_bytes": 2504827,
+      "sha256": "0271af6fcb0f2813b84a6785602348604fdbc009fe077fc14edb670c616a6c9f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/lpi_intact/receipt.json",
+      "size_bytes": 1005,
+      "sha256": "7dd51e165b7403944b3b479f8344aed575d10a3b5832f6bcdad0f35afb4f7eaa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/lpi_silent/network.npz",
+      "size_bytes": 2314021,
+      "sha256": "f16a0ccc7e3bfaad8f44851ff511ff0f57daf740e02bfe2baa849d0495a9d72e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_translation/lpi_silent/receipt.json",
+      "size_bytes": 1005,
+      "sha256": "b32b0bd555307d274c84b03a4fe82ed50ebe5ba0911b00648ec3d7c71a357094"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/expanded_intact/intervention.json",
+      "size_bytes": 294,
+      "sha256": "70f6f882fd4853dbd289953159f5a90725b829db82321af3895ed84da9d31f3b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/expanded_intact/network.npz",
+      "size_bytes": 2144167,
+      "sha256": "6fb7612bdcf1dceb090f72dcc36d2ae87b95305076a291e65fb2d0e567aca49c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/expanded_intact/receipt.json",
+      "size_bytes": 766,
+      "sha256": "6f6a4a91970ce5fd15e50d0c68b9ba9ccdd860878fd23020c0c9283020472653"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/functional_opponent/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/functional_opponent/network.npz",
+      "size_bytes": 2168462,
+      "sha256": "ae9fcd9974d7aee9b495f7041af161a82ae9db53900444f3512512a75c95249a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/functional_opponent/receipt.json",
+      "size_bytes": 993,
+      "sha256": "a4ca750efb5db7a4521db10b96f6930723f8162eadf2022d17acc2ee7b13ec60"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/lpi_intact/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/lpi_intact/network.npz",
+      "size_bytes": 2507836,
+      "sha256": "0dbe753b0ac06e7e961f47939ca92f7ebe5e01f1b0c945d5fdd4da71702b5bd2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/lpi_intact/receipt.json",
+      "size_bytes": 966,
+      "sha256": "517e487ece9203537d74f77c9a4a1f36e31870295f2e150877e91c3a49cdfd4c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/lpi_silent/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/lpi_silent/network.npz",
+      "size_bytes": 2315237,
+      "sha256": "913562b888ccc0964e83b98d2e6cf5c1847d94b54bd0a4e79fb02c55aba70eb4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/cases/aligned_100_202610279101_yaw/lpi_silent/receipt.json",
+      "size_bytes": 966,
+      "sha256": "4831060fb4bf10eddfac0a0354a9a5588153236cf459cadf46576680e22dfef1"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/PROJECT_PROGRESS_REPORT_2026-10-27.md",
+      "size_bytes": 394154,
+      "sha256": "7147bb41f967b0ddff08d730a63fa16dd1e7b0e06d049fea50b1adb91c31c547"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/completion.json",
+      "size_bytes": 6270,
+      "sha256": "cb5f29d124d2b706cbbca9f5aa008ba8186aa4abc57aca7aca70fe9658f091ff"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/environment.json",
+      "size_bytes": 243,
+      "sha256": "f3ca8399f3132a994bc0f4b925ec6c5c0f439dfecf2b3c8373c046298bc09d26"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/configs/horizontal_opponency_v1.json",
+      "size_bytes": 872,
+      "sha256": "fbe8649f8779b38540df679a0c5f6338daa7f56a3e0911de1dc0caf9899e581d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/docs/HORIZONTAL_OPPONENCY_PROTOCOL_V1.md",
+      "size_bytes": 7059,
+      "sha256": "9081d2b4281baef1a764e78507a073593fceacb2bfd7722c37b7c15d84e49f26"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/docs/HORIZONTAL_OPPONENCY_REPORT_V1.md",
+      "size_bytes": 16711,
+      "sha256": "0beab4896329de1975a776b4b94604c143322ae8656a894c60314f2a693492f3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/analyze_horizontal_opponency_v1.py",
+      "size_bytes": 10755,
+      "sha256": "3c697813ed3462bd715cd299c55c2e5d692d35fa1b1614f55aed384fc6fbd5d8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/biological_failure_localization_v1.py",
+      "size_bytes": 24931,
+      "sha256": "8fbfa1dcbbd55f4b021779981182815affb96f3d33835ba9a91a69a2edb2eb40"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/finish_horizontal_opponency_v1.py",
+      "size_bytes": 6317,
+      "sha256": "88f943693f674cf300ce54e9ea5dacc7f058ba530e96abc8a15cd93d6b094847"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/horizontal_opponency_v1.py",
+      "size_bytes": 12473,
+      "sha256": "1781fd6e474625227a25e9d6d23b1a0182d1323c8fc37af69dff04842cb876c1"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/review_biological_failure_localization_v1.py",
+      "size_bytes": 21399,
+      "sha256": "4d3517186f0743291bb5ff04fb60ec54d2e808ab9d6ee336725211d05d355df9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/review_biological_selectivity_v1.py",
+      "size_bytes": 9076,
+      "sha256": "a3f5ba2f9f1cc277e286d21457a818bdd0c4c54188d0c84d326b2070d207f9c7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/scripts/review_horizontal_opponency_v1.py",
+      "size_bytes": 13752,
+      "sha256": "23c5ffda36ff0e86b93793a09d74175ec5a783ffc82dfe30c57e626ddc5e2b62"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/src/male_optic_frontend/biological_failure_localization_v1.py",
+      "size_bytes": 3234,
+      "sha256": "b45099a951ae67db4bf3989bd47b175e8e1a795ff9d4a8a5cf3dbbe013e0b197"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/src/male_optic_frontend/horizontal_opponency_v1.py",
+      "size_bytes": 1852,
+      "sha256": "7fb26af03c783e070ca4aac9e86df14b5b0977ca3b0f05205d901aeec7ddaecf"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/completion_v1/sources/tests/test_horizontal_opponency_v1.py",
+      "size_bytes": 1105,
+      "sha256": "4674f025812b2a9f7f25c4635884e1a8c0746ba4c8af37fbccdd06a16a0e6293"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/decision.json",
+      "size_bytes": 5491,
+      "sha256": "075cf0060e5544fa66b469c05d94b27a7e5a668eb5794cfd50e555016a5abce4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/execution_complete.json",
+      "size_bytes": 108,
+      "sha256": "44f1bf0afdd9df85639ffa5c730e083db8cf2946df5f700e182226f52e05c14d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/failure_report_rounding_r2.json",
+      "size_bytes": 264,
+      "sha256": "3a361b1cd3defea249748ca6e82f2831147bdd00f21c12df3cb0ce64c4a236ce"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/failure_report_rounding_v1.json",
+      "size_bytes": 267,
+      "sha256": "1f2adef8c59afdbd5239170959351672484380d9ba71c52e81961996e9aa12bf"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figure_generation.json",
+      "size_bytes": 1280,
+      "sha256": "bc646f0e01329fa4991afd48fab7b8f2d989923a6c8fa22c0e696bcef2ec4b9f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figures/neural_timecourses.pdf",
+      "size_bytes": 84626,
+      "sha256": "1b0b90850975264099838e8328d526200b14076ded83e4cdda1c1de3045171db"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figures/neural_timecourses.png",
+      "size_bytes": 466933,
+      "sha256": "aac8f1fcc5490efb806f64121911c99090a23f42fab9a5b420be43a20d7c842c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figures/unwanted_response_ratios.pdf",
+      "size_bytes": 20854,
+      "sha256": "27b2bdfb77aa7e6d39b625c9677c4b2ff6fd553895f7c75e0d0c870a4b4c8810"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figures/unwanted_response_ratios.png",
+      "size_bytes": 206248,
+      "sha256": "80099b90123e6c2d0e1c2d36c7bcd17b5bb3c4ca1106515c42bcdc29557cd33e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figures/waveform_statistics.pdf",
+      "size_bytes": 23371,
+      "sha256": "6a1046b57bf9b7b12d5a0c550ecdd10084dcfc85afbdf9787ed00d9f675ddde8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figures/waveform_statistics.png",
+      "size_bytes": 146248,
+      "sha256": "8b0888e7b3acedd694a48d89951c3274f14ff90ad38ac3d6f110b443e89d83b0"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/figures_review.json",
+      "size_bytes": 1387,
+      "sha256": "62352baf903b4b606d075b0f09febfb7f13c4e9d15809146d0438eaa5f12b883"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/functional_pool_definitions.json",
+      "size_bytes": 4765,
+      "sha256": "226ad004d8719cd7bffccad4bd66f2037c6bba6e014f97eb2323810272b4d1e2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/git_freeze.json",
+      "size_bytes": 294,
+      "sha256": "a1e71de26cc5f826d9094494dde7f3df3c0adc700b729f395fe170dbbbd50be8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graph_build.json",
+      "size_bytes": 283,
+      "sha256": "ed7ad30376aff0b1e32532c250f254f46c2fc597d1cf839b7c3a59867ee33c7e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/chemical_weights.npz",
+      "size_bytes": 672702,
+      "sha256": "173590663c83e2377dcf547047a461d9ef416d7dbde6a3c93639993ec6e8c63e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/gap_weights.npz",
+      "size_bytes": 1042,
+      "sha256": "8dbe77c9f81a583e2aeea53601d170da73b51502f24bb30dde0878730d95df29"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/graph.json",
+      "size_bytes": 231,
+      "sha256": "49b7bcd031a0c05b02c871e3cfccef4a234d405b4117a69d9b93eded0ffd81cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/functional/graph_arrays.npz",
+      "size_bytes": 64772,
+      "sha256": "1f59dedc65c4eb8d2f7884dc4df17284611f185ef05299a42a130ca3d44fde66"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_counts.npz",
+      "size_bytes": 615858,
+      "sha256": "5caf9b5103d38447cc9bfeb91290f5fb2e2d7f8025ad9d54f3a73192c97b68f7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/chemical_weights.npz",
+      "size_bytes": 716856,
+      "sha256": "cb95273956ba314012ddf00a943717925d0d95824cb7706ac2a7811984c159fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "12b110027c141cc093810250dcc1ca6060e6b4b799f161a8e5493b677da22385"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph.json",
+      "size_bytes": 1916,
+      "sha256": "d24b95921ea16b826877f7a048a89899201f25a065f99309a0364b2ed10bd9c8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/graphs/lpi/graph_arrays.npz",
+      "size_bytes": 64837,
+      "sha256": "531d3f48100f958291d26b50d4eceb296768d9546e2f144ca61ef04da23b5c54"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/included_lpi_edges.csv",
+      "size_bytes": 582981,
+      "sha256": "ed62c5bf657d4fd4241c225f977d34ade27f070e45da93f4a4d53b114b330262"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/literature_sources.json",
+      "size_bytes": 1011,
+      "sha256": "330b32614e4f1b370750f313fc3561cb5e0a929fdf641387528df53b95b5e4c4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_quality.json",
+      "size_bytes": 45145,
+      "sha256": "7219b8579fa3ed326657262651774afbdb7237e367c0d3268879a7d97d61c8ab"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_review.json",
+      "size_bytes": 457,
+      "sha256": "1b9cbb52f115ac9a965c2929a9e3df34598db644b5fa236db0bfa04b832a3bdc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/004285258d5c01fe78ee.npz",
+      "size_bytes": 945,
+      "sha256": "e31859dad722776e1ed053ecb1124f0b0012a026f84031d8a16123694a38969c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/00b506b03ed64d4dcaf7.npz",
+      "size_bytes": 956,
+      "sha256": "171eaf6508eed0da37696ae32d88382aabf5b7a6bf4c0927a5fe157fd9f2bd07"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/03a68fb2ef901694d661.npz",
+      "size_bytes": 835,
+      "sha256": "561261302a04b9376ff0613adadfb02e050a098bddd6a47e8ca931bc8fdecfa2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/03d59c4824c02dffff22.npz",
+      "size_bytes": 741,
+      "sha256": "c341b0bebae18af5fada7d3467cfa7474c49fbf2102aff10a17fb899ef54542d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/06d4c1b0643cb5e02800.npz",
+      "size_bytes": 886,
+      "sha256": "b31c85e58ec93ee608c7f2ddd8b6b32cf5a265a1f07149957f2adf9acb1db16c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/07e5b772c8592408fc10.npz",
+      "size_bytes": 865,
+      "sha256": "ddd4953cdcc7f6f24be05d44986f99ab305375645ae59d7c1e9a1651b20e8564"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/081ddc23322df3cfd43c.npz",
+      "size_bytes": 771,
+      "sha256": "668c621ef58e33f55bf2582d9daecf77b8155172b9415f6b379184159457ad71"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0852de13dcbb9981c104.npz",
+      "size_bytes": 883,
+      "sha256": "042c96f81034e541a0ac0be04ac54bf765ed1f55adc8fffdd7122421d3b96036"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0c5e7367bed6eeaa1286.npz",
+      "size_bytes": 803,
+      "sha256": "cc9fd922a2db21c14682ad6427722787e30343cae3b0a407df92afea66eaa4e8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0cfc0fd5789f6c0cbbfc.npz",
+      "size_bytes": 884,
+      "sha256": "d4408cf7eebad572767b2640eb451e980636fe5cc1a7310cdaba697a9296d7f7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0d2a41600f5682c233ba.npz",
+      "size_bytes": 834,
+      "sha256": "fb6af9721577723e03136015cff6aa74bcd4aa4dffec4e8e8480af5b8c490af4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0da0a67b3e4da2066219.npz",
+      "size_bytes": 888,
+      "sha256": "cc4ea406af6699cd350a51bd9b8d1828cd715f3777a7f60f9b1423f1104f8c46"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0e0386c510c87e4d784b.npz",
+      "size_bytes": 775,
+      "sha256": "f1663e9445ad0341c6df3cb4949fc941c9bc4e79101b0c435b2a6810d654aef9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0e9a9517812e4eb1db77.npz",
+      "size_bytes": 958,
+      "sha256": "1a3ccb65df5f38ea2e8917119c6643c01735230bcaaca33e21ebe5abd13dfc14"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0ea50a91aa131c0d2289.npz",
+      "size_bytes": 887,
+      "sha256": "43ff88f83edec5fcd08acbb1a9e8d280f015c808f221ff99420948cc28abb503"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0ef903692d7d21168550.npz",
+      "size_bytes": 803,
+      "sha256": "412000bdd1a637797457cd7710481fdbfd4f48a4b2724be3d79fb2f8db4d6db2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/0f8192efbddd0b6ee271.npz",
+      "size_bytes": 887,
+      "sha256": "46b05fe7b71a113b8f9730b7ef4fd8d99976f76d290406621e440665342e7ac3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/10d8491e01777efa57b5.npz",
+      "size_bytes": 887,
+      "sha256": "df7571316dde186a9a0f4ea07d336b1223c84618260b0e4b337ddd817a43bab5"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/12159c817ccccdcd999b.npz",
+      "size_bytes": 946,
+      "sha256": "4a7d8f3f4d67a2233c663017dee1ff7c88c5825e10bfd53a9acfdbeca32b1b41"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/157dcafe0e59fb95c5ff.npz",
+      "size_bytes": 886,
+      "sha256": "0fae6c9ec6cf1873c044feae003b38ecae0d0f931f30447c7f202a013ad05a87"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/1692afcf9cde7523b8b2.npz",
+      "size_bytes": 956,
+      "sha256": "8d0c50b849bbf209363da276e553398e18315f3dbc8484757836a9a8fcc92e66"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/16a33049313e576093bd.npz",
+      "size_bytes": 735,
+      "sha256": "0e645a409846969ed500353da7d70fe9345eec5cdc2b43e69c41387c9312575a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/17003489025aa04798c0.npz",
+      "size_bytes": 934,
+      "sha256": "e0ae6ee13be0cacfc8bd153b42d027f8502ae0fea74a2f81b03e4e0b09b3c7c2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/19114076978de3fe923c.npz",
+      "size_bytes": 884,
+      "sha256": "5b51913c84e2e88f14217ba5c73f3e17043e73efa7236cb753fb5c75087cda22"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/1a293b8d512afca16ec6.npz",
+      "size_bytes": 795,
+      "sha256": "c6495abac945950d8a8cb506aa7611ce4b539a7e3d604aaa5f954882fa28d17d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/1c430958bff40a951079.npz",
+      "size_bytes": 951,
+      "sha256": "6da6a6b20223ed84eb09053f845904713fe843a240f0552be3b54a6475166b55"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/1d03cd90080b1ce87803.npz",
+      "size_bytes": 865,
+      "sha256": "84fcf54967f17bb69987cfa980f088984217e8bb4ac4550636ff847c7f6869a8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/1eee0a820a3ea94f1b00.npz",
+      "size_bytes": 887,
+      "sha256": "b9ecd1c4ce9574f13fe13eb39c80ad7a601322a8ea7ac4a2add74c7a3c2d59e2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/23e29f62d20d973c66ca.npz",
+      "size_bytes": 866,
+      "sha256": "89f8fa3b85edba5fb0fef63cbd7e5e6cc70702e8ffc089ef7876db9f64689f9b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/24da238fe48ed1555ae6.npz",
+      "size_bytes": 957,
+      "sha256": "64058aac1379f2f995a2236568be00c682ff76a5e44b9d2b6df6298111fd574e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2508261e8fa2efba500e.npz",
+      "size_bytes": 888,
+      "sha256": "fbb0f9fb677d4e0f6d739398812513c3a63efe321c4295c27eec6b6d477bdb13"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/257a0fdc6ea7ba8137af.npz",
+      "size_bytes": 885,
+      "sha256": "2e737f2e234ef3757427f37d29d0802e7cbd8dfeaff7d65f05638bc9c5b04600"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/27f7798bc9b49f167daf.npz",
+      "size_bytes": 865,
+      "sha256": "4d2d637eeb6a4740b7d9c920e0d2b677f4e757dba6dfc5ede9083533c0918498"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/292baead618de33bc9fe.npz",
+      "size_bytes": 805,
+      "sha256": "618815fddff9258ed8d69fe9164fb6debd2e47c24b551e1a7652a6bbd3b59d3e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/295fe3292ca31fae6aaf.npz",
+      "size_bytes": 835,
+      "sha256": "fb99388217d50c6d44af5a7b1452e949c7f91d73f3ce433a98943b225720f956"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2999cd8711fcadc322ee.npz",
+      "size_bytes": 736,
+      "sha256": "def71476ae31d183806bb71d68084bf4e65559d810ae1c73956b5d3962c1652b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/29fd59dc3961b867916e.npz",
+      "size_bytes": 866,
+      "sha256": "58b2a3ef5b2e697b9e6fd8eaf63e257d671e7c914cf4675bf0a49bd6613f2933"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2b06b3cad9ac41431667.npz",
+      "size_bytes": 907,
+      "sha256": "d498635797755475903d308f99c3b7d797708479b6b8a2858512014bd0d1c452"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2b227f6e1a72e86b225c.npz",
+      "size_bytes": 865,
+      "sha256": "38905a173f08beace69b625c71af33ad33132c57369f12e2d1443849f1272f92"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2bd27c8310d9ae2b4c80.npz",
+      "size_bytes": 935,
+      "sha256": "e63ee89643a34d8203f548f1f80eff8569bb1d65137db9303a9249505bc86b8e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2c00ea51bfade2164165.npz",
+      "size_bytes": 876,
+      "sha256": "631196e9498f6512e8ebdbf6f6d08d9408c2f1ab82142dbdb5d276cfb2bbd2c2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2c55044f5de5c351774b.npz",
+      "size_bytes": 885,
+      "sha256": "7a8d3788169cc7b53dcf70c487a9610519f11e34a32a311674365e00ab460453"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2dd3cf7911d39ab2c9f2.npz",
+      "size_bytes": 865,
+      "sha256": "00d2d2185eb77581322959041c0f3333367b1a01894254e70d9578af7fb43096"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2ec1de1acb3bcfc97dc2.npz",
+      "size_bytes": 869,
+      "sha256": "12843e53107f8872816a56841382852c6fcb35b77192ec6f1164cf4e3f437579"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/2f32086e30fc55464287.npz",
+      "size_bytes": 956,
+      "sha256": "92f857c5401b15dc32d80078c9c0f2f12f4fcd4aa336c094f9a83cb3b785accc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/31ca28e97d56e60bd9e2.npz",
+      "size_bytes": 935,
+      "sha256": "8dc11f0a8b319ba56444a9667a53cf143458c40b5845347a361f0c164c12448e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/3290bd0e72eae27a1598.npz",
+      "size_bytes": 884,
+      "sha256": "e501d12d7936d3317d80c5811675b0168c0a9fcf335227dad08b00efc31584d9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/34c5712a4be3851cfc5f.npz",
+      "size_bytes": 936,
+      "sha256": "7d28d92d9958467f344a97e9d7cdf2abbd688f1f4c9ab0d4e7e5b1f4c147294b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/34ce09ac122d8b04b36c.npz",
+      "size_bytes": 886,
+      "sha256": "d6918e8f3cfdf313306ab6a6233b5404a1ec111a185dc395135837bb00d0d59d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/3652844a14c7c7d994ca.npz",
+      "size_bytes": 882,
+      "sha256": "e362ce62fad116bbefefa10aa84cda3e23c43c8f1b62ad2273aa339542fb4b3d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/37333ef1f3a00ce0b7fb.npz",
+      "size_bytes": 808,
+      "sha256": "b84d02be335fc6e16809d9a6e32535db2657caf1a8c4faa348ff2e28b48e7cce"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/385d17cc69f36206efb1.npz",
+      "size_bytes": 936,
+      "sha256": "c3e9cc154ce4a7a92590de9d77b3d02fd5b514bde5548102063e9cd0b4bf10fc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/387e2917d0c2230fdc09.npz",
+      "size_bytes": 954,
+      "sha256": "80faa2edb2bd65796c65d3993d53096b815f08fc36680733e345b8bb398912d9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/39c02c0e904dce256a33.npz",
+      "size_bytes": 834,
+      "sha256": "42b41cbe13b47a97f0c970c0013dc19522fb732afd065f64478d0c62bb16aa99"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/3d14516959ba3858ff39.npz",
+      "size_bytes": 934,
+      "sha256": "856f1a5125550bbfe5abe96e1a31af4118f84308b92d3c9ae8ac58584a07e2a6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/3fb36cdb7364adc1d16e.npz",
+      "size_bytes": 888,
+      "sha256": "39859e025e23ddac5bd4754eeadb6990645c385348b4d8744a817d58c1f4214e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/40dcbf2057b27717324c.npz",
+      "size_bytes": 954,
+      "sha256": "a255a471b0494ddb6b98cbec7970d2fafd3066c1af28a3e22b2b0919f9382440"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/4238f64120bb45ca3db9.npz",
+      "size_bytes": 817,
+      "sha256": "a9be54165c05dbbb54a0457329dc2f03c4a1303b5ad41ecb4088c84d4e005799"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/42b1b40a25f913992f7c.npz",
+      "size_bytes": 864,
+      "sha256": "46678916207250656368cc913baba05703e91712186fa065c92ae85cd60972fd"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/44d88c2d9f350258580c.npz",
+      "size_bytes": 934,
+      "sha256": "5d4f09e037a59bb0fe2148b37eeb162363e9b1e154076e31e0fd8479abf1ae71"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/44e33bc8d92313293d29.npz",
+      "size_bytes": 866,
+      "sha256": "d7c237880b36421cf3073394b791d546a0787dcf04f163b2ca45e6d66426e146"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/4776279a8f1ed6142646.npz",
+      "size_bytes": 956,
+      "sha256": "e738170cbf28bd51fc17ac7224184858b800fa17c411d4d0fdc43ad9d4a23869"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/47c70d83677318a06bf8.npz",
+      "size_bytes": 834,
+      "sha256": "7ea99045acf78ecbeb49edb6981c40aa8d32a09084fb443833baaef76cb234ce"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/480194ae84b3554decb9.npz",
+      "size_bytes": 865,
+      "sha256": "dae50b526f2353f3b5fdd6c95a374d01abd02b9e76049e24d5455222e5392b29"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/49d9e91081f7058e49c0.npz",
+      "size_bytes": 705,
+      "sha256": "6605ad4d59eea13f0622af6db2b75f7e7806654db61667169ccc4b632aa40aa2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/4bc97bca40520fef3645.npz",
+      "size_bytes": 887,
+      "sha256": "ec822b582d4611685878d29e82fb1d44aa3ffc231ed9a6f65458b0469e940654"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/4defd08e8e1799eca316.npz",
+      "size_bytes": 874,
+      "sha256": "675589712fbf122c922e2ee3bc901b85d9a2750ff187c9c977c5f324e8f3f1d0"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/4ec52348f1de6d853b88.npz",
+      "size_bytes": 818,
+      "sha256": "81684cb5605087a278a961ef33300aeb17b7bf9f7f2545824d4668d7fd0595f8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/5299dd9f74a8ca5c8e58.npz",
+      "size_bytes": 885,
+      "sha256": "7fa6a0f27c46fdf19300d82655378991046110e2e7c81976a15ec1051adb2bc0"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/52ccd0e22e4f6352b389.npz",
+      "size_bytes": 885,
+      "sha256": "6497ba9eee2c20577e5bac888913e841744508ed4053a656fae3b678f8dfe0c8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/568cfbdb09ab96f0fbbb.npz",
+      "size_bytes": 819,
+      "sha256": "83df4fa9d18f004f5a61deaeddd207fd6be7c05d7b86333f32fc2055c644504a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/5833c1f0d03880f15792.npz",
+      "size_bytes": 887,
+      "sha256": "0e27e83919a2f3591771df86a4d7932cb05d010e5f8108a31e135333eade5ffd"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/58e5b36428269069bb7c.npz",
+      "size_bytes": 887,
+      "sha256": "630eb2b915217f17b5a0b161eecc6860dcbaeac89e6bbcb4758241559cc1d956"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/59bbaa28848ccb8667da.npz",
+      "size_bytes": 887,
+      "sha256": "8c0916497100e4df4dfc38cd73f01d36516b0f871eecbbe0fc31ed357c0190f8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/5be338d0fae5e1cd8061.npz",
+      "size_bytes": 888,
+      "sha256": "aaee16aa188281f5b667148ec769037b94c7106d84b8f1a4459d6ed133f015d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/5c3fe3331c64341c7984.npz",
+      "size_bytes": 862,
+      "sha256": "59cd24ad8c2906e2702ca7764584e9392bc23209d45131836cc41b96ec9b6002"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/5e7c4096faf476568bfc.npz",
+      "size_bytes": 864,
+      "sha256": "8f8efc8d49ba7a1616e012481be0b4115ae982f995e00a257bc26f461fb57e80"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/5f016ab034b5f711e2f6.npz",
+      "size_bytes": 884,
+      "sha256": "2c8cb5ccbb8ddc445a9cc2cc2dbba337319c7db29b7c1f4cf5bedaca4c40599d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/61164eff8736cbcf3a0f.npz",
+      "size_bytes": 956,
+      "sha256": "3779ac05016ef367a3663e5c42afb96c6244c77abb5f744193dd26bd57b997fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6167f79a5f3969985195.npz",
+      "size_bytes": 874,
+      "sha256": "264aeb359371abca0eec361885ba57abaf59100b7eb68abbacae336b692f713b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/62236a16ec4d5b253991.npz",
+      "size_bytes": 773,
+      "sha256": "8ca3091facbe6d52d00e4ecbabb44963b8ee3c18f5bdeadd79776f1341384e15"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/62ef07882e5703c81498.npz",
+      "size_bytes": 886,
+      "sha256": "5602863fc02481bbdd1968ddcf1c96c7d15538f18758c77e2ceba9feb4f69ee4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/630c7304a995fcc22696.npz",
+      "size_bytes": 785,
+      "sha256": "79207fbbeb94733f8d7d226acbcd53eb82110ae2ef6597aa25e474f3668f22df"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6335adda6bf087b27547.npz",
+      "size_bytes": 865,
+      "sha256": "41284aa0a955f8c2eeff7943caf65165a173103898d6419b1ff7e301533d12b8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/634c5114bd36d3ac85c1.npz",
+      "size_bytes": 951,
+      "sha256": "2605e3c01a4a5d873a3f0aac8c6d2f5e22f95f345af521465579d6b6912b0edb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/643dae0db8ec3506f43e.npz",
+      "size_bytes": 883,
+      "sha256": "697aa743b68c8891326a71f9aa732e82c994d8136651da58a99ab82609c08e39"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6464d2c4c70f63da6039.npz",
+      "size_bytes": 887,
+      "sha256": "e6fc4ad641d75c2b1b60a1713b463907ddb94a5072d7f5236154bcbb6a18b47c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/65f0485d73190418dfec.npz",
+      "size_bytes": 886,
+      "sha256": "225866f82329b1f7d2fa2e667fb665a79183e8c0f3dd3a9626f94a7802107f31"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/665cdde8ef0bd870263f.npz",
+      "size_bytes": 886,
+      "sha256": "765a6e0d261df11df252dd7d1af09cd048e33230b9fcbdc72cc08b43d9615799"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/66ded52695dfb7acf424.npz",
+      "size_bytes": 887,
+      "sha256": "a2d1d360ad283f0a791f3bf1b33a687fa4c14369e3e7c3daa263d4eb98d7af32"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/671bc36a26d3090a99c7.npz",
+      "size_bytes": 772,
+      "sha256": "e3be64add148eba66b066068e9e920127adfcdb673cbd6d832ec6a7ebdfd08f4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6739178193e28d352b99.npz",
+      "size_bytes": 888,
+      "sha256": "6e9929657d21e5f3b35599d516e2cd6458ec289841943ae7802ce9224edabff3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/68911f21b61dc7c5cd30.npz",
+      "size_bytes": 834,
+      "sha256": "90305b41ee135a34097eb13459187bb11b2250c7116724faa786e7011b2abf39"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6a4723456f92736b5e5c.npz",
+      "size_bytes": 907,
+      "sha256": "0d035b985d013e617142ae81cf3eb113dfc6406a8e35a288ed944f31af540843"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6a9c1b426119a53c30a8.npz",
+      "size_bytes": 954,
+      "sha256": "036a9622253d61d15bf12b4991fd042fd48e52729788ad39df47dd83419738b9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6b1d11886405a50e88d9.npz",
+      "size_bytes": 819,
+      "sha256": "4c9add804ecc8bf76bcafa618eb25c7f98b05234e1d4ff59b8d9f9700d059096"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6c25333f4c86db286052.npz",
+      "size_bytes": 800,
+      "sha256": "8c0d956d636b666ad7dd66c5decdbffc5632eeb000fc9b584271b0e7a098a15e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6f19c7af9e7c92960141.npz",
+      "size_bytes": 887,
+      "sha256": "525e963dbd1d9151980b6f616c627a6d386cc3efbce859ec559245363e6732c1"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/6f633d7288787689730e.npz",
+      "size_bytes": 883,
+      "sha256": "dd061062163d64afd0590e4ef4e2a834dca85beed564d9e1d9f584d336fb99b6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/70dab70b641b1a47b2e0.npz",
+      "size_bytes": 957,
+      "sha256": "0d1c7a6175f696499c7fa74b27afe30feb3b9203f07312bd32131a8e94322ef6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/71589f8c08a786da4f47.npz",
+      "size_bytes": 886,
+      "sha256": "0932be61e5fd3ea620e381f667ec952535384247732f281080473d2d3abe7eb9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/721c8eec5a4d95bab7cf.npz",
+      "size_bytes": 866,
+      "sha256": "257ce00daed5cd10d4a7065d87c9111e5bbb9906896b263de5bd3273d6c17dea"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/733e89cb1eb62c533cfe.npz",
+      "size_bytes": 957,
+      "sha256": "630e873c1b3b28915e61a76144bbdc2a96d881d5ec9be3c7d7bcb6dadeeba4f6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/73a644b1af80b6c270f7.npz",
+      "size_bytes": 956,
+      "sha256": "b33b149c0ccfb986da93db2087ea891e592ded8298c58d616e6f472abe261bbd"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/73eb580618c05cd18c95.npz",
+      "size_bytes": 957,
+      "sha256": "8957d91d465d679a62b5f6da2fe966cd09aa15f22b8615213d63fc897344c40f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/74024bb90f42cd6b2f29.npz",
+      "size_bytes": 842,
+      "sha256": "f04f2581949d8240ec4823d17cc9a86d64104aeed3ba24b702bea5b32e9761a6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/74382d210be3dfece7c1.npz",
+      "size_bytes": 885,
+      "sha256": "64142b675ad26521e9f779245980a9fed5d5922e3f98739c9365cd6ca7099d6a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/744d6ad2d50e7a9962a6.npz",
+      "size_bytes": 837,
+      "sha256": "13502014089ddcb56c01fb92687eca3be9a5945b935d6bc9160ef53ea434b3e4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/748f2ac880635ff06232.npz",
+      "size_bytes": 737,
+      "sha256": "47a2e77ceeb771eced52346ceebb0d7de034bce65f4c601d4208292925881332"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7511c12999a9f9f11464.npz",
+      "size_bytes": 887,
+      "sha256": "5cbd4e4ecf2483a4f11e563d26f341dc1f0a74a2c599bbf0b057706f758fa32f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7583c3d178bec552a587.npz",
+      "size_bytes": 863,
+      "sha256": "347acbaf778493d841816b5431cf3134390dd68356e98a8693a5a312143113c9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/77ff3df05c6dcc80cd62.npz",
+      "size_bytes": 953,
+      "sha256": "0ac0ef09ba49d2423ddfe5a1650d1ec69e3169c42bdd1baf826f5202dc40ad85"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/785eb18f32a0d6e59bf3.npz",
+      "size_bytes": 886,
+      "sha256": "3122e372c47af1ff6bf0eef9bd3b001d9da9f62791b17fd1f65159665f12ece6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/790d4cf2c2dc184f29e2.npz",
+      "size_bytes": 953,
+      "sha256": "83a5e2183f2920f69993d2825731c56e19e2f6c60c973ad2ed370e82f7c815cf"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7910b1f5d899af6d5ba0.npz",
+      "size_bytes": 888,
+      "sha256": "ca578c3f58fc06314b3e080cabf0eca65f355d2cbefb2fdf6dad1e9452b89a63"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/791938fc3d7a58ee9320.npz",
+      "size_bytes": 886,
+      "sha256": "41a99e0edf83c477fc63b8754af6ca65a1a126e6c80d1a5ec3ee0282cd2b553b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/79efd57c102ac085a708.npz",
+      "size_bytes": 843,
+      "sha256": "fe518a541d7d21ddc19264218b008917939038e06cf140cf069a3aa3faa2727d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7b4b528fc672881d15c2.npz",
+      "size_bytes": 736,
+      "sha256": "a25ebb8464f81415a9db3e9d6805bb0444f2053b747a4e509880b4ad4ebc032f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7cc0922dd3780e1ab37f.npz",
+      "size_bytes": 957,
+      "sha256": "940cccaf3836dd721f17cc02e629c35262d2e495e0c07e5c3777eae5d653f512"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7d6913042536b535a769.npz",
+      "size_bytes": 836,
+      "sha256": "0932edecbf13cf411b8bbd5d7f88657ac089f116fe909eaf0ea1907043e55a04"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7e03ab0685af80948ca3.npz",
+      "size_bytes": 836,
+      "sha256": "726ab647eebc5126743a26cdbb995bca6290844cce555ddb356ba8d37f8b319d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/7e9b08e5596b46c5f18e.npz",
+      "size_bytes": 774,
+      "sha256": "1b5df4843e135d7d63bc2122fe23979f7c6a717593e515e2298194d431835f13"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/81467c9d1a6599b7baae.npz",
+      "size_bytes": 766,
+      "sha256": "84ac48bc2e220047c63ba61c216dee6b494db647785b2617534df2b83a17ba9c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8153e5b345f39b6b3131.npz",
+      "size_bytes": 770,
+      "sha256": "9cbfed83b22170306fd01767f1670b2047d14832bbe67898ed129f674ee85bf4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/81c3526dc1b805981eeb.npz",
+      "size_bytes": 956,
+      "sha256": "37a3d0f43461e87256dfc66eb057e1e3ce273fa5f08dadc5a419b467081a2e07"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/837a8b76e363b883b36d.npz",
+      "size_bytes": 773,
+      "sha256": "c962a3c2356c7c388e3c5eceb10118e329dc56e784d57321341906003a7abd4e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/85e12f7109023293d246.npz",
+      "size_bytes": 889,
+      "sha256": "bea4cb3d529a933fbbd646756bbdb97770932929e7b13ba30b4a1926e18b9226"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/869548a9260a71354ce7.npz",
+      "size_bytes": 888,
+      "sha256": "63892f35cc92f1c5f8a50bcfc332ceb22fec7236b7f87ae98b93142449f5d394"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8814e2fdfbe68483ea69.npz",
+      "size_bytes": 957,
+      "sha256": "65f1e589a17d7d44fb7638e136d07c554abe71aa819f0a50fb50f990bd92fc5d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8840ff2738a8b9368ba3.npz",
+      "size_bytes": 736,
+      "sha256": "583a0305d1c798dde1c4f4c51922006161c676d0e17c90028e12182d224bd758"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8931d53ac62ef5e86f95.npz",
+      "size_bytes": 934,
+      "sha256": "528142e285ff88588623a943c93597776cd818e9378647d653d994f7cc18e6c6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/89c0e7d07c77aa7f0914.npz",
+      "size_bytes": 864,
+      "sha256": "59099f47371b178a3456ba8447a76e766fcd07740108c904ea74e57ad8421039"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8a57fdca46c81e97675b.npz",
+      "size_bytes": 955,
+      "sha256": "a9815663a6a34fec5cfb42ff46b2952f408b4535a751b9f900810cf5872b6cbf"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8cbb0603f65b9d54dac9.npz",
+      "size_bytes": 844,
+      "sha256": "292c9544399e70e820e8184281b167c427f0fc96dcf3450aa8313d9e590782e8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8d3c53364779f933508b.npz",
+      "size_bytes": 888,
+      "sha256": "5dedae0b549e8e4b718598eadf22baa6a55f21db328b7016609d21648d862140"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8da3013b2ecaa80913ef.npz",
+      "size_bytes": 771,
+      "sha256": "b96642e0fe36084180a985a048f2cd7b71e7a5a23e25f4b4b02ccc34e5a58d56"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8dd819423ba670fda604.npz",
+      "size_bytes": 843,
+      "sha256": "18988c363b269a61ebe45d5ecb7d1edbb799a30dd7a7707b56307b5b85ddaf1d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/8e5cf3bdc21332237245.npz",
+      "size_bytes": 907,
+      "sha256": "98724a6c3c4cb76567daf6e2efc9defd444a9473c3ca125a0aa9212bf7fac8f0"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/904b937c919886b73c15.npz",
+      "size_bytes": 885,
+      "sha256": "c52df459d8f0b7499e84f5b5e86096174aad3944523c3e81845a4355c46ba367"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/91778586a5ff3dc9bfea.npz",
+      "size_bytes": 886,
+      "sha256": "1c58d4ae0c728cd41967a7e4f8fc634a347f32d0ebc6b407de70ad6263c03ef5"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/91ea2a43136c1d312d5b.npz",
+      "size_bytes": 834,
+      "sha256": "68cdd7885bc90c9878c518a8ae2ca9d43218c4a77b8d89ce43e2287a4b3eadf4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/946c72e2b20d909a3ce7.npz",
+      "size_bytes": 887,
+      "sha256": "567b76184c64f2453e4e3f9c7582c8f1604c3204ff5cadbcc01cb65e47d3ff23"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/9484b4d3e7c58164ead7.npz",
+      "size_bytes": 884,
+      "sha256": "a7eb7c7e1cd692cfabde651889a0b17cd345f3eeb39093802de8dc43075fdab3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/95d81d9652bb822f5464.npz",
+      "size_bytes": 888,
+      "sha256": "a345656273985f8ff674a65d45149af35dcb87ff19c591dd730c6d64b91d0097"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/96045ba91756dbc9a3f1.npz",
+      "size_bytes": 765,
+      "sha256": "6dd0c74ec2e652003196cbfdf0d3bb1e76e9a66a0c6d8e777e3676da489e5581"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/9744116a8237eb9b1dec.npz",
+      "size_bytes": 954,
+      "sha256": "4e926374d847d9806b40e2e4375a38256d5fbe896f572504d03560726771bf49"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/988eeb2098811e5f5ce7.npz",
+      "size_bytes": 885,
+      "sha256": "81606a68158c8c9094626b72363574bdd972c8f83f93ed2eea8224a674aab37f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/98935114cba61b96f888.npz",
+      "size_bytes": 843,
+      "sha256": "8e75610b44af3d07ee0d22bab93fef6f53c7a5930f10d94c7b0314237ea122ea"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/98ce35827fa49d185e45.npz",
+      "size_bytes": 887,
+      "sha256": "de737fe0f7e2c9b72de89241872fc2f73444ae432d30200d6176f93824e1b9fe"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/99b809875573413d8eb9.npz",
+      "size_bytes": 796,
+      "sha256": "e46c0b2e848ca2c400053921850edc13509a8f9a4df4a895fff4a0e2941859df"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/99cf78897e7b368ecb57.npz",
+      "size_bytes": 906,
+      "sha256": "86d0d27c14329844d48438bf1b6b7b4959ecb0586789827db3572eba8c98721c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/99efc4e744f6a58fb001.npz",
+      "size_bytes": 956,
+      "sha256": "ec1e67f9a928f1a1e8e65dfff7d7041e8cf7c510529c92ab03ab66c3172980c1"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/9c53c55b78ab09b83ea3.npz",
+      "size_bytes": 884,
+      "sha256": "fefee352af732feab91acb307b275caecd54e00cada096d9421c43b3ee803eeb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/9e22e610f77125cf10ee.npz",
+      "size_bytes": 702,
+      "sha256": "32a323162aaa20c1cbb446c4375307e56bd3384c74adf9233646f1baf9c74fb8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a082995d17e9f72cd93b.npz",
+      "size_bytes": 837,
+      "sha256": "8c3487872748692649d49abe93b7b3ceac165e396e8c865a4749a1215ba060e4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a112fa777b2700e82d53.npz",
+      "size_bytes": 784,
+      "sha256": "e393233ad237dcb99042b10bd0b0dc3b19b59b2ec2f056fbcfcf17e195916625"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a2fea506abb05f49fd59.npz",
+      "size_bytes": 874,
+      "sha256": "47c4f229d0aa73fb7e27a589434d66e31a84d6e05a727c15cc0d1447845a39ac"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a30d7c95584873264060.npz",
+      "size_bytes": 864,
+      "sha256": "00f8fed42e27d36b3abe3c028268eb1ec66e1e2f7aaf63fe751fd3fa361b6e82"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a3887d879f61e23ad6da.npz",
+      "size_bytes": 951,
+      "sha256": "c8394b5dc74ddbad968663078e4aef008726cf80fc56b8a969dbd1dfc22e6017"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a590335d5819bd800af1.npz",
+      "size_bytes": 957,
+      "sha256": "487e222b22682a0aa7796e29d38651e7c8ac9a125658886bfecedac222efecee"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a6681847cbeb7b4fd82a.npz",
+      "size_bytes": 886,
+      "sha256": "ae09871da38f6791de9127dabcdda2c9610997c90fc31daaf6be4258f1c99260"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/a746ddcca1c3a2137c09.npz",
+      "size_bytes": 937,
+      "sha256": "18a1c10c875c57be69ed72d1502b7c8ea9f256b17025de5aa39aa5f1a146a0e0"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ab0f2c998199c0ba8b1c.npz",
+      "size_bytes": 776,
+      "sha256": "b792264cd8b09f88b831054c90c31da2f9443389e6f6757d247adcddc080a5b3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/adb7fbe30e305bcf1cec.npz",
+      "size_bytes": 883,
+      "sha256": "16a5fad1356588f2672f52cfb02f471782638f132266477c88fd2e7cc3170cec"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ae829e368470f2e0b3a6.npz",
+      "size_bytes": 707,
+      "sha256": "61bfa2740a04e435f149531b1c3f913fb5b02db6c25c1838737cccfe240070d7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/af51e8c77d870d834d79.npz",
+      "size_bytes": 887,
+      "sha256": "a2333d5a9d2c81bdcb9f004ef9351a0c249617db4aaf347563399b9322c0d77a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/b00f965ed6679e1b25e3.npz",
+      "size_bytes": 887,
+      "sha256": "54dfd1d44526115e5a3c71979c8b76484db90ad5fe6fb808ad1ef2ea751363af"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/b1340007650e73c894e6.npz",
+      "size_bytes": 843,
+      "sha256": "c3502b46a8b507bb2be8a4ad2160b219b562d343f12996d138ff5dcc29b78b7c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/b2004e4e94d2b1f67b2a.npz",
+      "size_bytes": 905,
+      "sha256": "8c7f120c533f5390eb30428f9e640262d41f1d0c66435fcc106793b091ccd84e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/b24af7ae73e66fed2523.npz",
+      "size_bytes": 886,
+      "sha256": "620f9d9ca9a177c72e9844f57263974b0ab2073bd45d343c7fe1d0f7d140fc00"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/b7436a56b18110b55da5.npz",
+      "size_bytes": 907,
+      "sha256": "593b41d0c9e3513c3e75425c63daa384ab01e4f3484d4b4ada3f66f5129c851b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/b77f0dcad6021b774185.npz",
+      "size_bytes": 818,
+      "sha256": "224a03d02215ebde7426bfa287333d7e265550d1ca6b40050c86d5a29591b998"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/b852b370346667fda33e.npz",
+      "size_bytes": 805,
+      "sha256": "a507eb67950199c23c309d57cd2be9e2591155c76a2fbf28b14d56b5a32d2346"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ba7e8d36cd74c761f533.npz",
+      "size_bytes": 887,
+      "sha256": "7308b29dd4d5fcf7d2fe0a291fb0dde4b69852e313ac59700a5fd09d79762e78"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ba8dc58f470ed03f37ce.npz",
+      "size_bytes": 888,
+      "sha256": "eaceafa0cda054d668313486c79d01a3dfd7b3e79a66d4a8c62154abe63301cd"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/c3f3f6751efd0d91137d.npz",
+      "size_bytes": 819,
+      "sha256": "5fb64f0957e1c035f380bdd33bb46f108f9c8f5b58d5aa78b494d9b382e7ed9a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/c59a789e8d6c2c484897.npz",
+      "size_bytes": 905,
+      "sha256": "a620f63ff8b196d1b7208fe5ed66b31463769ac4bdc69279aeabc098cdcd0c7c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/c5c9eba18ae30b2d9256.npz",
+      "size_bytes": 867,
+      "sha256": "da6bec5bd67fbc81dd31da42b930e74f9219ae294c4b98f04361aa07fe090e86"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/c5e67c41753fb7609336.npz",
+      "size_bytes": 887,
+      "sha256": "cc5bad42839dbbae792f7ad589a47f09e6b8b49dd1849fa17945cf70fe21c2ea"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/c858852cbe838593d1cb.npz",
+      "size_bytes": 931,
+      "sha256": "0c5a7fd5074b364f5d71e243cd9839ac9ceff8440ad6e35ec330a52e93272736"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/c9fc12d33760a01958d3.npz",
+      "size_bytes": 817,
+      "sha256": "38593196cb38ea447174d1981c45ff1e27ee29501f7cdd446ae128db3041333c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ca510ab6f0aca53f3e04.npz",
+      "size_bytes": 957,
+      "sha256": "2d27a4759a4d65a625184037fa34ae6f78020b989a5eda08cbbadb96bf919540"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/cb5065c437090bfc163d.npz",
+      "size_bytes": 886,
+      "sha256": "f0abaabbdd3294edf9beaa3054aadf467cce1b981e64fbb27747bf46ecf1dee6"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/cbb3576e458233cda2c9.npz",
+      "size_bytes": 886,
+      "sha256": "bd8c1605f2e2ffa4d73894582703d782eaf2b5504ace120fcea456a2e4d51e74"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/cd0e543f2166c16123c6.npz",
+      "size_bytes": 873,
+      "sha256": "1be229002769cd971feab9a07af3299b70fdb4f8fc92eb20d20ef0c33c0e2b3c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/cf90b0e42e8ad2cc9d23.npz",
+      "size_bytes": 836,
+      "sha256": "fc3be9d83b234d992c6a72d342ae47b45aa510d5f49613e36b479c3213bb51d2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d18330e7f517e58b78d7.npz",
+      "size_bytes": 886,
+      "sha256": "de692a2fb28429b20566ba669f395245bfac8e6e2fa84720a3aab9d94e5f38d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d233a323ca06223613e4.npz",
+      "size_bytes": 864,
+      "sha256": "a0e2ee60794b8c0fc8783fcf1f23f9c2a084cc5283a51bcf8e080e5c90a76b21"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d2bef5bd8136c556b4a6.npz",
+      "size_bytes": 787,
+      "sha256": "4b20c2b92c1d18d4b99abe8586fcac31ba1b5d2867fd7d63a56816e27c72430b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d30a2c75acfde2556d0b.npz",
+      "size_bytes": 864,
+      "sha256": "f698fedb0167d9e38ac2a68b0212d906c4ba8e5d034c482961da38b6f66d467b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d358d00842c042990d85.npz",
+      "size_bytes": 953,
+      "sha256": "fb9596c770b674e41376a5ace79942f832ae9903566b2a59379cbd74816348e8"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d36098dd1d5154afde4d.npz",
+      "size_bytes": 735,
+      "sha256": "e2e952ce59054ed1e0bd906f278a7f4d1010628a27a33e4108ee63def25a41ed"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d3d2a806c225bbeb5837.npz",
+      "size_bytes": 835,
+      "sha256": "7cde29275cba19fde944b422adb9104060dcbec0c635690c080253ced70dcaea"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d59f5e9ac8369be1c0df.npz",
+      "size_bytes": 840,
+      "sha256": "61c3c53b88ff5d88f40dcda588cdebb0a07f47f8b7c32edb8b0be9584dce20ed"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d5f2bcb4de048239c153.npz",
+      "size_bytes": 954,
+      "sha256": "8899514c2554a2e9547dafbc6ac51bb1722c247ab7218cca6ffc435b714aac85"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d689b725bfe92e4a5848.npz",
+      "size_bytes": 887,
+      "sha256": "4c4b18f97cd735bf2a17deed1a272f3ad0a2fd54affe43513ee9e1092112e1f7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d7b0761d749109031e80.npz",
+      "size_bytes": 887,
+      "sha256": "1aa4061a55a1d119687a88552ca131ab6fe90ae819fcfb395a61e07a796d5702"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/d8fde6feefc95333ffcb.npz",
+      "size_bytes": 873,
+      "sha256": "aaa06159d87a628627e620d7e9b22b7f9f6c08a2e6350460181a8678a7cc95b4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/dd6fd341fe42e5258aa3.npz",
+      "size_bytes": 882,
+      "sha256": "9dba0a5cdd21f24701d091277843cf93702a78e4cff6187febbfc7b06c05ee59"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/de66a593f1203ac90e39.npz",
+      "size_bytes": 818,
+      "sha256": "345670b556d1d285e76c6322f7e3276d5c5a3a7e7224c4fc28fb334c53152971"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e00904f836b3b34a3d44.npz",
+      "size_bytes": 958,
+      "sha256": "5536f592e2f2883465f11f85693d1cdcca37a7441ab00a0fd0a699e5078afc7f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e10a6d4d5364985ffdbe.npz",
+      "size_bytes": 885,
+      "sha256": "b884edcb00782700c611de415b854cdbc671ea534c997c60a621353905bfe4d1"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e19074bdb513ab565b96.npz",
+      "size_bytes": 887,
+      "sha256": "39eae409bf2a9384db664385c20f1dc0d717f1e09a70e12feb9a315f812ba5bd"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e2b659806ffecfa25798.npz",
+      "size_bytes": 774,
+      "sha256": "ee323096f2b2d9e5d48113ef142d158df97dfa317f41b308c4f08a05d2b1bfd1"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e342c90252457abfae36.npz",
+      "size_bytes": 953,
+      "sha256": "1f24c9b281bfb4edb385e1b2cdf9060a9fbe55ff78bb1801c2a23213accaf12e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e569bb1c76f0bce988ac.npz",
+      "size_bytes": 956,
+      "sha256": "ea494c9e313e37b26fd6ded9ea13f1f8b01910a2e4b783963f333dc3cf840d32"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e6d3aa22da4502f3f1c7.npz",
+      "size_bytes": 934,
+      "sha256": "b9dd4f9f49c8786d347a27f41734abd83515db3fb89d0f2633ea95c586887138"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e7a1e54c48747030e825.npz",
+      "size_bytes": 737,
+      "sha256": "4edea1ab59d4cab95ebcea87a646260d8e1dc4899f386e6dc99a3414e5d233aa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e841c92aa83057aa49c7.npz",
+      "size_bytes": 886,
+      "sha256": "a32aa37a7dd1a675c73748f5cdf4f034408d8bf5aeb71e17d66ba8a2232f0de2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e8960d5e5bc71c11f637.npz",
+      "size_bytes": 888,
+      "sha256": "82c8f00d29e44c6bd97045de61b0018c508ab50690685beacf6da65756ba1c03"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/e967d686634dd8e922de.npz",
+      "size_bytes": 887,
+      "sha256": "16dea2ede79de793f10ff3ac9d8b18fbb628be3fd878214f7cf943d14c92bed0"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ea650a0c7b39f4346961.npz",
+      "size_bytes": 958,
+      "sha256": "17971ca4eb0a8008e32c8768246ff62ea7f7f5aea991edffba2c3b2b9ca5038a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/eb4f99c85d51303e6e7c.npz",
+      "size_bytes": 886,
+      "sha256": "8760493fad1063f285ea9f7bd247e136a96f80238e701f630b65882ac2a41868"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/eb679dab7c306dd9f67a.npz",
+      "size_bytes": 835,
+      "sha256": "434439f6d63414686cd4efac27683b89535843c5e17cf9c10549421955bb8144"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ec1cb19306ffa3fcbf1e.npz",
+      "size_bytes": 886,
+      "sha256": "979737aadd0b44928f7cefdb89d9c5588c6a6b4d7d4a1018b9046efaf3dab2a3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ee019d12ac1122b63989.npz",
+      "size_bytes": 903,
+      "sha256": "7708dc642e8f4e007a465cfab23ab52414c39a6194105bd939def7c76c337547"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ef092a65e4e4183b1f61.npz",
+      "size_bytes": 771,
+      "sha256": "1a72fb6da712dbbb218fa8e9531852db020cb66ec7b2ebc928bad8992b2b1a1c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/ef7bc6557b49d6c246fa.npz",
+      "size_bytes": 736,
+      "sha256": "bad66c28af908b3b8578658753f65b538f11098fd21e3fc3e751329ef98776f9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/efda8fc143c803da60dd.npz",
+      "size_bytes": 955,
+      "sha256": "10629e206f21e54699ade4aea872a8baff5dc25ac6f602a833361dbd95b54899"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/efdd107e5d4b7bd49c42.npz",
+      "size_bytes": 774,
+      "sha256": "c4ed479d9733dbaa6b369d68bffea91be97b2cb4d1b83b1614c7db7ab87cdf40"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/f19977b26dc0ca0f55d4.npz",
+      "size_bytes": 906,
+      "sha256": "61fad3144653f0f3290a4cc67ccb9d04026bfcffd2f29820f9911fc59333c58b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/f232d2cce060b7e57ef8.npz",
+      "size_bytes": 957,
+      "sha256": "1cdaa6be27655ad109513012d02871c5e5948d88e6b8b67425c0ae170aa9e9d7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/f4322b20424c54209d96.npz",
+      "size_bytes": 955,
+      "sha256": "faae1f486f161b2c1cbee276ae9291ff272e6c1513e82d23792bd020e66a0a48"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/f44e8a415f841fd41173.npz",
+      "size_bytes": 907,
+      "sha256": "653772d9ec4d803d30218dad699eb3adfd21d44f998eb7b6f4edb441c6df6d92"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/f7beb2ccde52666d4e7c.npz",
+      "size_bytes": 707,
+      "sha256": "f81f80eb680000205f3655bd5eba6735af84a0149a9818b5b7364bedc8a7d9b4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/f8028a03ae2cd78e4f37.npz",
+      "size_bytes": 937,
+      "sha256": "61b62dfff0aee4b09f0cb6137ac6bbe672ce25ea898e93d08b4e9cd352c6ef63"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/f806f3e4d727cea8c49a.npz",
+      "size_bytes": 865,
+      "sha256": "205ff21084820791adf063620ee12af824f6324614d79edf20f9ff85de5c3a7f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/fa1a91f1036a091ff50a.npz",
+      "size_bytes": 702,
+      "sha256": "e448652e6f941d933da098206250142e2829906922d79068c90bde9413e550f1"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/fa3a05337f6dc8d83287.npz",
+      "size_bytes": 804,
+      "sha256": "bdbc9dde464556a5becd5c0fcb6287f8b04249b5998c8dca1478f58bc9575b5f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/fa992de0b8da8c00f925.npz",
+      "size_bytes": 775,
+      "sha256": "820dbce532631c08637b323d95a513fc7773fe34339547a28b6344dbdcaacc3f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/fe905bcbf6967c15bee4.npz",
+      "size_bytes": 774,
+      "sha256": "37fbcc4beebc3c51f232b0400e21fad64ce843ebe509e6983868ad886d79084f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/fe9339aa52becd0f1f54.npz",
+      "size_bytes": 886,
+      "sha256": "5d1e4271cf4e915a27e7b34b7edd8e7cdff9da7b62c87c260771d6eedd4bc5a9"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/fe96911e21fd22b0c758.npz",
+      "size_bytes": 837,
+      "sha256": "69f0168f9b8e0a012219d65551cbaf9618edf6273e33f8dab7b0df57f60d0662"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/measurement_units/fec47554fec2bc3442c7.npz",
+      "size_bytes": 865,
+      "sha256": "208187255ba8d205b7b3c9e8ff63d9aeb288a51ee8b2a1c0ec979c4b00e120fa"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/methods/neural.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/methods/reference.so",
+      "size_bytes": 16472,
+      "sha256": "3c1b94aaca0725acd9a379defda525166b9edd300776393d24444ee27567bd23"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/methods/review_horizontal_opponency_report_v1.py",
+      "size_bytes": 3826,
+      "sha256": "dc312d391a1cad865a209cdf4c4fef09909d5941f8ea7292a3621953542503a2"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/neural_epochs.csv",
+      "size_bytes": 87924,
+      "sha256": "44e74143de6512eb79a04850b04cea72f5b68f80ca5b6f36a38a39d2bd2dd0e0"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/neural_review.json",
+      "size_bytes": 4738,
+      "sha256": "e176a218aded31eb619a577c0e1ecdaa1ebda8dabde178a3732d2d6595b5cef3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerical_review.json",
+      "size_bytes": 1580,
+      "sha256": "9596ae70b918a4dc39da2f5c6f1949459f033fe2ac459a919f28028b86b0cdda"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/functional_opponent/half/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/functional_opponent/half/network.npz",
+      "size_bytes": 2168737,
+      "sha256": "94da2df1b759eead32a7cc32e0f270d4ed72446fbfb3db569e248e25eab0b190"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/functional_opponent/half/receipt.json",
+      "size_bytes": 1126,
+      "sha256": "a6c5396b3756e2b706cd66a5b005ea5d82efe240c886a69af4e00ae05a790a21"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/functional_opponent/parity/intervention.json",
+      "size_bytes": 166,
+      "sha256": "355d79f40c1cec3760fc592b5166f1cf6f27f481208fa0ca746999a4d4bbb0cb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/functional_opponent/parity/network.npz",
+      "size_bytes": 2168693,
+      "sha256": "12824567917306dd262675c5a748c1f1df87de71530c6b525cf322cb4e5eafbc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/functional_opponent/parity/receipt.json",
+      "size_bytes": 1131,
+      "sha256": "7b71b3ff78669497399d982f3f5e7e4b32e776431913c589cc4467c6708d972c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_intact/half/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_intact/half/network.npz",
+      "size_bytes": 2508721,
+      "sha256": "24a73209daa7b479fe4add2722e05c4acddfabc6a8fec46bf178848f203b9dcb"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_intact/half/receipt.json",
+      "size_bytes": 1089,
+      "sha256": "1215de9be55207e16eeb1a0957f9552ad42a27318332ad3469dd9eb1eb5283bc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_intact/parity/intervention.json",
+      "size_bytes": 158,
+      "sha256": "4de6ed6c708f92ab212f6c14e36102c6dc602f1f2f8fee8499acff4f09f290d4"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_intact/parity/network.npz",
+      "size_bytes": 2508925,
+      "sha256": "668465da4f6ef7f170b84271a6042b1f22baf083b00adaeb260f3e9b161ad38d"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_intact/parity/receipt.json",
+      "size_bytes": 1095,
+      "sha256": "9bf44feffd76936105daf51b7334aa1ca6e7b00176535b5401be2b14511831af"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_silent/half/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_silent/half/network.npz",
+      "size_bytes": 2315864,
+      "sha256": "4f9b87e760bfd5bea0664906d76d43d2ce18a6b8c19a521d1b65388e6e2e3d97"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_silent/half/receipt.json",
+      "size_bytes": 1090,
+      "sha256": "a0768252ccaa268afedc60bf4ae589880a071833717b70d72059f3c7b76e6e5b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_silent/parity/intervention.json",
+      "size_bytes": 238,
+      "sha256": "a9615a9fe2e1f4fd1b5b8d391881418b27b4ce179d86b1a8f048b5985153a60f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_silent/parity/network.npz",
+      "size_bytes": 2315899,
+      "sha256": "086aba2ef44b0e2a7c4bcad20b4628f421a70c560b25ecb016daaf379a8b06c3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/numerics/lpi_silent/parity/receipt.json",
+      "size_bytes": 1093,
+      "sha256": "51cb0cb2fcebce0720b901a0c2bb70fc82351e58403f7d16f63cd6493f3e00fc"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/observation_candidates.json",
+      "size_bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/observation_models.json",
+      "size_bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/observations.json",
+      "size_bytes": 112459,
+      "sha256": "8248f3312b33e74c9b9e3b49cf92da63145517d53692cf88828d84e7bff69e9a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/observed_epoch_rows.csv",
+      "size_bytes": 387166,
+      "sha256": "183840617323c73004331cf8a5bb92f3e59797f74c3a4f00ba302d16f18cb287"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/observed_fly_indices.json",
+      "size_bytes": 616277,
+      "sha256": "655438a0d260f9601561c4bddabe529ab5230d6633025c88b9343d4adc7d457a"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/omitted_lpi_edges.csv",
+      "size_bytes": 4950772,
+      "sha256": "7bac45eeda00082c6f2110d1b44970876747ae2246d7f12e287ac74800ec8554"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/original_baseline_review.json",
+      "size_bytes": 346,
+      "sha256": "f74ffc7a06e5f27c8b16f26751f4a3ec16304ea736fb8ce66312799c98373092"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/parent_inputs.json",
+      "size_bytes": 87017,
+      "sha256": "2ea20c0f6700dcd577a694e0da6b3b943c910adac0644a013e394a63e3f3d14f"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/parity/intervention.json",
+      "size_bytes": 163,
+      "sha256": "35c7e7770a8c8f88552290c2899006ed1e6cef196c8274e2f705068a84369546"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/parity/network.npz",
+      "size_bytes": 2160557,
+      "sha256": "7fb4a674d72706cc1c07235fe65f429f9312467ba4b93057233d4ed732ed889e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/parity/receipt.json",
+      "size_bytes": 1000,
+      "sha256": "023f9b9a3e2a04baa441a0d6d686e9aeb2d00f5fb1f05336c7634eafd4663f19"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/parity_review.json",
+      "size_bytes": 106,
+      "sha256": "b22ca0259181a8d15fd69f6317bb103ff7b690d28358df0ed36dfc4be4aaf7f3"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/plans.json",
+      "size_bytes": 1087,
+      "sha256": "42b05ffbc751dcaf6747583e6a0889baa366de6d49fc79c81a47d9a014d2e36b"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/predicted_epoch_rows.csv",
+      "size_bytes": 613074,
+      "sha256": "cfa37933f49f9d4fd8cf1fa3615510edc195d9dbd87d8708bbd4d250aeace33c"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/predicted_fly_indices.json",
+      "size_bytes": 899072,
+      "sha256": "45aaf07e90d7be38ea81434719c4f6e1c9c7c964e83509e946e5ad4b3d0a4e93"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/preflight_count_bug_source_v0.py",
+      "size_bytes": 13701,
+      "sha256": "61a27b086207cbf2c1659a3f4f2dd1396c90ddabbdf4470b6db61c6022dcc0b7"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/preflight_review.json",
+      "size_bytes": 304,
+      "sha256": "017219292f1cf6b6884437beea3b51aa527683792a236bb2fc60fe0b91a5668e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/preflight_review_r2.json",
+      "size_bytes": 311,
+      "sha256": "b98bf3f58bc3b2feca072079fc1a05a8d405ef3c2e35150b0cfbce0802958c12"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/preflight_tests.log",
+      "size_bytes": 109,
+      "sha256": "ca1e7ae300307663bcbc3678cc7cdc6421518f09e032bece4185d7eab5ab0e75"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/primary_motion_waveforms.csv",
+      "size_bytes": 57965,
+      "sha256": "432c37ee1f4b06ee0f428794c54933df4654de58f35ff54f3d02431799b1011e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/primary_waveform_summary.json",
+      "size_bytes": 43576,
+      "sha256": "5c6503e0fe2449893860b4b572eaee488aab3ed9ba2b43fe141cc9d83977f520"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/report_draft_rounding_v0.md",
+      "size_bytes": 16495,
+      "sha256": "a327107baba433670ee72001c4d87e50ce6114d65a4dc1df9c7b93c4ab381a94"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/report_review.json",
+      "size_bytes": 545,
+      "sha256": "b447959cec714a38a74e7aebff500cb7df85ff2f59073403b3394874ed903e35"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/scoring_complete.json",
+      "size_bytes": 249,
+      "sha256": "dc773ce567a9c7024038e8e6b1e409c29e15de3877179df43a01abd16625a5be"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/selectivity_summary.json",
+      "size_bytes": 270259,
+      "sha256": "6d0fa428a9014ae4ee28a29e47efcc0b78ac8b93bbfc523af61ee4d49a57d449"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/supplementary_review.json",
+      "size_bytes": 131,
+      "sha256": "204752c81e31e7bce3b7b1993bf13ff6f341acfd0fae1e129093576a60fa6273"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/transfer_summary.json",
+      "size_bytes": 103681,
+      "sha256": "6e6f2f47d26497fec464638cd9aa63ac5a2953f9307a89b188fb86776cbeff2e"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/unwanted_response_ratios.csv",
+      "size_bytes": 15054,
+      "sha256": "d37dd3deb8734e3892316c0be0c33a72f01436f4d8b8d62166f594408d4c1ace"
+    },
+    {
+      "path": "results/horizontal_opponency_v1/waveform_metrics.csv",
+      "size_bytes": 199798,
+      "sha256": "f92495273cbbf596e74876510d5fc47134e07183bfa0431ec132fb6b95f12812"
+    }
+  ],
+  "count": 437,
+  "total_bytes": 102611955
+}

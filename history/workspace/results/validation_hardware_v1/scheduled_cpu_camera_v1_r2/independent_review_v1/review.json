@@ -1,0 +1,3108 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-22T11:08:16.414573+00:00",
+  "source": {
+    "path": "scripts/review_scheduled_cpu_camera_v1.py",
+    "size_bytes": 9158,
+    "sha256": "50b98ea705bfbc3c1bea99a1536f839c5a69f763d78d3e77dc39cacc6aa3b9c0"
+  },
+  "run_complete": true,
+  "episodes": 300,
+  "chunks": 30,
+  "frame_pairs": 120300,
+  "noninitial_neural_updates": 60000,
+  "maximum_rate_error": 1.734723475976807e-18,
+  "maximum_full_final_state_error": 8.131516293641283e-20,
+  "maximum_episode_score_arithmetic_error": 1.7763568394002505e-14,
+  "timing": {
+    "frame_processing": {
+      "count": 120300,
+      "median_ms": 3.4380645,
+      "p95_ms": 5.908114149999992,
+      "p99_ms": 7.177053319999999,
+      "maximum_ms": 24.447178,
+      "mean_ms": 3.0997520951288444,
+      "budget_ms": 5.0,
+      "missed_deadlines": 13296
+    },
+    "frame_response": {
+      "count": 120300,
+      "median_ms": 4.0957885,
+      "p95_ms": 6.338656699999998,
+      "p99_ms": 12.589034779999993,
+      "maximum_ms": 78.591341,
+      "mean_ms": 3.516541310739817,
+      "budget_ms": 5.0,
+      "missed_deadlines": 16510
+    },
+    "start_lateness": {
+      "count": 120300,
+      "median_ms": 0.098338,
+      "p95_ms": 1.3507961999999991,
+      "p99_ms": 7.598229289999985,
+      "maximum_ms": 73.60449,
+      "mean_ms": 0.41678921561097254,
+      "budget_ms": null,
+      "missed_deadlines": null
+    },
+    "paired_processing": {
+      "count": 60000,
+      "median_ms": 5.789616,
+      "p95_ms": 8.5504461,
+      "p99_ms": 10.282316450000003,
+      "maximum_ms": 27.9863,
+      "mean_ms": 6.206955277283333,
+      "budget_ms": 10.0,
+      "missed_deadlines": 743
+    },
+    "paired_response": {
+      "count": 60000,
+      "median_ms": 9.4689535,
+      "p95_ms": 11.76566715,
+      "p99_ms": 18.748357920000036,
+      "maximum_ms": 83.591341,
+      "mean_ms": 9.99408949075,
+      "budget_ms": 10.0,
+      "missed_deadlines": 15071
+    },
+    "first_frame_response": {
+      "count": 300,
+      "median_ms": 1.5838255,
+      "p95_ms": 4.464802100000001,
+      "p99_ms": 6.404121859999995,
+      "maximum_ms": 18.366437,
+      "mean_ms": 2.06492818,
+      "budget_ms": 5.0,
+      "missed_deadlines": 9
+    },
+    "reset": {
+      "count": 300,
+      "median_ms": 0.1127935,
+      "p95_ms": 0.1900347,
+      "p99_ms": 0.2553005799999999,
+      "maximum_ms": 0.345617,
+      "mean_ms": 0.12501646666666666,
+      "budget_ms": null,
+      "missed_deadlines": null
+    }
+  },
+  "maximum_implied_later_frames_available_at_start": 14,
+  "longest_frame_deadline_miss_streak": 155,
+  "frames_with_logger_observed_active": 10,
+  "frame_misses_while_logger_observed_active": 0,
+  "startup_peak_rss_bytes": 357232640,
+  "last_recorded_peak_rss_bytes": 361426944,
+  "maximum_recorded_peak_rss_bytes": 361426944,
+  "episode_case_counts": {
+    "s01_v16.5_y+0": 100,
+    "s01_v16.5_y+20": 100,
+    "s01_v16.5_y-20": 100
+  },
+  "episodes_review": [
+    {
+      "episode": 0,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 31,
+      "paired_response_deadline_misses": 28,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 7.882902
+    },
+    {
+      "episode": 1,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 49,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.861752
+    },
+    {
+      "episode": 2,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 43,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.198322
+    },
+    {
+      "episode": 3,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 116,
+      "paired_response_deadline_misses": 84,
+      "processing_pair_misses": 7,
+      "maximum_start_lateness_ms": 25.522543
+    },
+    {
+      "episode": 4,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 21,
+      "paired_response_deadline_misses": 21,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.765264
+    },
+    {
+      "episode": 5,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 24,
+      "paired_response_deadline_misses": 24,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.649737
+    },
+    {
+      "episode": 6,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 18,
+      "paired_response_deadline_misses": 18,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.225843
+    },
+    {
+      "episode": 7,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 30,
+      "paired_response_deadline_misses": 28,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.876399
+    },
+    {
+      "episode": 8,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 23,
+      "paired_response_deadline_misses": 23,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 0.641606
+    },
+    {
+      "episode": 9,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 54,
+      "paired_response_deadline_misses": 47,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 13.763546
+    },
+    {
+      "episode": 10,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 60,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.366968
+    },
+    {
+      "episode": 11,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 59,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.293818
+    },
+    {
+      "episode": 12,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 66,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 11.016336
+    },
+    {
+      "episode": 13,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 63,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.615661
+    },
+    {
+      "episode": 14,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 52,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.984103
+    },
+    {
+      "episode": 15,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 56,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 4.993061
+    },
+    {
+      "episode": 16,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 59,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.231332
+    },
+    {
+      "episode": 17,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 48,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.770847
+    },
+    {
+      "episode": 18,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 23,
+      "paired_response_deadline_misses": 23,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.74019
+    },
+    {
+      "episode": 19,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 65,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 4.853
+    },
+    {
+      "episode": 20,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 3.438874
+    },
+    {
+      "episode": 21,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 67,
+      "paired_response_deadline_misses": 58,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 20.53975
+    },
+    {
+      "episode": 22,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.811373
+    },
+    {
+      "episode": 23,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 75,
+      "paired_response_deadline_misses": 75,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.867426
+    },
+    {
+      "episode": 24,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 68,
+      "paired_response_deadline_misses": 67,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.723156
+    },
+    {
+      "episode": 25,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 63,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.847245
+    },
+    {
+      "episode": 26,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 56,
+      "paired_response_deadline_misses": 55,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.87205
+    },
+    {
+      "episode": 27,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 39,
+      "paired_response_deadline_misses": 39,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.157783
+    },
+    {
+      "episode": 28,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 46,
+      "paired_response_deadline_misses": 45,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.735048
+    },
+    {
+      "episode": 29,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 71,
+      "paired_response_deadline_misses": 59,
+      "processing_pair_misses": 8,
+      "maximum_start_lateness_ms": 5.326083
+    },
+    {
+      "episode": 30,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 59,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 4.312718
+    },
+    {
+      "episode": 31,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.073983
+    },
+    {
+      "episode": 32,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 23,
+      "paired_response_deadline_misses": 23,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.078432
+    },
+    {
+      "episode": 33,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 53,
+      "paired_response_deadline_misses": 49,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 8.948208
+    },
+    {
+      "episode": 34,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 57,
+      "paired_response_deadline_misses": 57,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.320604
+    },
+    {
+      "episode": 35,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 62,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.423371
+    },
+    {
+      "episode": 36,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 69,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.206929
+    },
+    {
+      "episode": 37,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 64,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.120651
+    },
+    {
+      "episode": 38,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 36,
+      "paired_response_deadline_misses": 32,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 13.072448
+    },
+    {
+      "episode": 39,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 60,
+      "paired_response_deadline_misses": 53,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 5.442078
+    },
+    {
+      "episode": 40,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 209,
+      "paired_response_deadline_misses": 139,
+      "processing_pair_misses": 39,
+      "maximum_start_lateness_ms": 31.167494
+    },
+    {
+      "episode": 41,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 115,
+      "paired_response_deadline_misses": 100,
+      "processing_pair_misses": 6,
+      "maximum_start_lateness_ms": 15.601507
+    },
+    {
+      "episode": 42,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 40,
+      "paired_response_deadline_misses": 36,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 10.035518
+    },
+    {
+      "episode": 43,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 81,
+      "paired_response_deadline_misses": 79,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.319902
+    },
+    {
+      "episode": 44,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 61,
+      "paired_response_deadline_misses": 58,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 5.066803
+    },
+    {
+      "episode": 45,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 83,
+      "paired_response_deadline_misses": 77,
+      "processing_pair_misses": 8,
+      "maximum_start_lateness_ms": 5.418131
+    },
+    {
+      "episode": 46,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 54,
+      "paired_response_deadline_misses": 52,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.794644
+    },
+    {
+      "episode": 47,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 41,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.605499
+    },
+    {
+      "episode": 48,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 50,
+      "paired_response_deadline_misses": 40,
+      "processing_pair_misses": 6,
+      "maximum_start_lateness_ms": 14.458481
+    },
+    {
+      "episode": 49,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 60,
+      "paired_response_deadline_misses": 56,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 6.177905
+    },
+    {
+      "episode": 50,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 66,
+      "paired_response_deadline_misses": 55,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 24.561406
+    },
+    {
+      "episode": 51,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 58,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.647774
+    },
+    {
+      "episode": 52,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 35,
+      "paired_response_deadline_misses": 33,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.41018
+    },
+    {
+      "episode": 53,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 16,
+      "paired_response_deadline_misses": 16,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.763724
+    },
+    {
+      "episode": 54,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 16.567324
+    },
+    {
+      "episode": 55,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 81,
+      "paired_response_deadline_misses": 64,
+      "processing_pair_misses": 10,
+      "maximum_start_lateness_ms": 11.722345
+    },
+    {
+      "episode": 56,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 35,
+      "paired_response_deadline_misses": 35,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.455969
+    },
+    {
+      "episode": 57,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 37,
+      "paired_response_deadline_misses": 37,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.329782
+    },
+    {
+      "episode": 58,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 32,
+      "paired_response_deadline_misses": 31,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.841683
+    },
+    {
+      "episode": 59,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 71,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.849331
+    },
+    {
+      "episode": 60,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 36,
+      "paired_response_deadline_misses": 33,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.969778
+    },
+    {
+      "episode": 61,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 33,
+      "paired_response_deadline_misses": 33,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.222383
+    },
+    {
+      "episode": 62,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.363497
+    },
+    {
+      "episode": 63,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 71,
+      "paired_response_deadline_misses": 69,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.103845
+    },
+    {
+      "episode": 64,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 35,
+      "paired_response_deadline_misses": 31,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 4.397341
+    },
+    {
+      "episode": 65,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 45,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.029104
+    },
+    {
+      "episode": 66,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 61,
+      "paired_response_deadline_misses": 57,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 5.050189
+    },
+    {
+      "episode": 67,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 66,
+      "paired_response_deadline_misses": 66,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.43602
+    },
+    {
+      "episode": 68,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 49,
+      "processing_pair_misses": 7,
+      "maximum_start_lateness_ms": 22.553231
+    },
+    {
+      "episode": 69,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 44,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.128276
+    },
+    {
+      "episode": 70,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 109,
+      "paired_response_deadline_misses": 89,
+      "processing_pair_misses": 11,
+      "maximum_start_lateness_ms": 7.758304
+    },
+    {
+      "episode": 71,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 93,
+      "paired_response_deadline_misses": 77,
+      "processing_pair_misses": 8,
+      "maximum_start_lateness_ms": 12.753779
+    },
+    {
+      "episode": 72,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 60,
+      "paired_response_deadline_misses": 55,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 9.11376
+    },
+    {
+      "episode": 73,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 25,
+      "paired_response_deadline_misses": 25,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.876338
+    },
+    {
+      "episode": 74,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 65,
+      "paired_response_deadline_misses": 57,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 11.705822
+    },
+    {
+      "episode": 75,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 47,
+      "paired_response_deadline_misses": 47,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.708515
+    },
+    {
+      "episode": 76,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 38,
+      "paired_response_deadline_misses": 38,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.65744
+    },
+    {
+      "episode": 77,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 44,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.729889
+    },
+    {
+      "episode": 78,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 56,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 3.575929
+    },
+    {
+      "episode": 79,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 66,
+      "paired_response_deadline_misses": 65,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.954382
+    },
+    {
+      "episode": 80,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 41,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 2.718917
+    },
+    {
+      "episode": 81,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 40,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.685219
+    },
+    {
+      "episode": 82,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 28,
+      "paired_response_deadline_misses": 28,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.102505
+    },
+    {
+      "episode": 83,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 48,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.172647
+    },
+    {
+      "episode": 84,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 44,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 5.877067
+    },
+    {
+      "episode": 85,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 88,
+      "paired_response_deadline_misses": 80,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 14.132967
+    },
+    {
+      "episode": 86,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 77,
+      "paired_response_deadline_misses": 73,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 4.080232
+    },
+    {
+      "episode": 87,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 57,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 3.861601
+    },
+    {
+      "episode": 88,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 26,
+      "paired_response_deadline_misses": 25,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.661647
+    },
+    {
+      "episode": 89,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 58,
+      "paired_response_deadline_misses": 52,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 8.748414
+    },
+    {
+      "episode": 90,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 30,
+      "paired_response_deadline_misses": 30,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.319513
+    },
+    {
+      "episode": 91,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 26,
+      "paired_response_deadline_misses": 26,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.686066
+    },
+    {
+      "episode": 92,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 68,
+      "paired_response_deadline_misses": 66,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.243953
+    },
+    {
+      "episode": 93,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 41,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.591319
+    },
+    {
+      "episode": 94,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 62,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.544485
+    },
+    {
+      "episode": 95,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 67,
+      "paired_response_deadline_misses": 67,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.746102
+    },
+    {
+      "episode": 96,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 46,
+      "paired_response_deadline_misses": 46,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.000006
+    },
+    {
+      "episode": 97,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 34,
+      "paired_response_deadline_misses": 34,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.532341
+    },
+    {
+      "episode": 98,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 28,
+      "paired_response_deadline_misses": 28,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.378782
+    },
+    {
+      "episode": 99,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 54,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 6.862891
+    },
+    {
+      "episode": 100,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 128,
+      "paired_response_deadline_misses": 99,
+      "processing_pair_misses": 19,
+      "maximum_start_lateness_ms": 9.153493
+    },
+    {
+      "episode": 101,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 114,
+      "paired_response_deadline_misses": 75,
+      "processing_pair_misses": 24,
+      "maximum_start_lateness_ms": 24.637876
+    },
+    {
+      "episode": 102,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 55,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.427978
+    },
+    {
+      "episode": 103,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 53,
+      "paired_response_deadline_misses": 53,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.914365
+    },
+    {
+      "episode": 104,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 4.738456
+    },
+    {
+      "episode": 105,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 82,
+      "paired_response_deadline_misses": 76,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 13.298798
+    },
+    {
+      "episode": 106,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 39,
+      "paired_response_deadline_misses": 39,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.637025
+    },
+    {
+      "episode": 107,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 68,
+      "paired_response_deadline_misses": 61,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 18.489993
+    },
+    {
+      "episode": 108,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 35,
+      "paired_response_deadline_misses": 34,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.65213
+    },
+    {
+      "episode": 109,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 40,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.752686
+    },
+    {
+      "episode": 110,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 39,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.586328
+    },
+    {
+      "episode": 111,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.18812
+    },
+    {
+      "episode": 112,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 43,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.596118
+    },
+    {
+      "episode": 113,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 83,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 9,
+      "maximum_start_lateness_ms": 19.66901
+    },
+    {
+      "episode": 114,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 44,
+      "paired_response_deadline_misses": 44,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.311178
+    },
+    {
+      "episode": 115,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 54,
+      "paired_response_deadline_misses": 53,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.698889
+    },
+    {
+      "episode": 116,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 26,
+      "paired_response_deadline_misses": 26,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.673844
+    },
+    {
+      "episode": 117,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 60,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.088596
+    },
+    {
+      "episode": 118,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 45,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.599964
+    },
+    {
+      "episode": 119,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.911083
+    },
+    {
+      "episode": 120,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 32,
+      "paired_response_deadline_misses": 31,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.594105
+    },
+    {
+      "episode": 121,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 57,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.796532
+    },
+    {
+      "episode": 122,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 38,
+      "paired_response_deadline_misses": 36,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.310251
+    },
+    {
+      "episode": 123,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 2.49147
+    },
+    {
+      "episode": 124,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 50,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 21.349475
+    },
+    {
+      "episode": 125,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 71,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 5.421383
+    },
+    {
+      "episode": 126,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 36,
+      "paired_response_deadline_misses": 36,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.352438
+    },
+    {
+      "episode": 127,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 44,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.15642
+    },
+    {
+      "episode": 128,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 36,
+      "paired_response_deadline_misses": 29,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 18.612068
+    },
+    {
+      "episode": 129,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 44,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.729863
+    },
+    {
+      "episode": 130,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 113,
+      "paired_response_deadline_misses": 102,
+      "processing_pair_misses": 7,
+      "maximum_start_lateness_ms": 7.744242
+    },
+    {
+      "episode": 131,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 112,
+      "paired_response_deadline_misses": 87,
+      "processing_pair_misses": 14,
+      "maximum_start_lateness_ms": 7.874049
+    },
+    {
+      "episode": 132,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 50,
+      "paired_response_deadline_misses": 49,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.690327
+    },
+    {
+      "episode": 133,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 38,
+      "paired_response_deadline_misses": 37,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.116977
+    },
+    {
+      "episode": 134,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 33,
+      "paired_response_deadline_misses": 30,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.054621
+    },
+    {
+      "episode": 135,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 37,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 10.706212
+    },
+    {
+      "episode": 136,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 36,
+      "paired_response_deadline_misses": 35,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.387527
+    },
+    {
+      "episode": 137,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 54,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.688591
+    },
+    {
+      "episode": 138,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 46,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.872903
+    },
+    {
+      "episode": 139,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 51,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.233715
+    },
+    {
+      "episode": 140,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 36,
+      "paired_response_deadline_misses": 35,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.575791
+    },
+    {
+      "episode": 141,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 54,
+      "paired_response_deadline_misses": 48,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 16.524153
+    },
+    {
+      "episode": 142,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 57,
+      "paired_response_deadline_misses": 53,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 4.585606
+    },
+    {
+      "episode": 143,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 55,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.556617
+    },
+    {
+      "episode": 144,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 39,
+      "paired_response_deadline_misses": 39,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.111431
+    },
+    {
+      "episode": 145,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 52,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.450077
+    },
+    {
+      "episode": 146,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 65,
+      "paired_response_deadline_misses": 62,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 5.130277
+    },
+    {
+      "episode": 147,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 60,
+      "paired_response_deadline_misses": 59,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 2.876301
+    },
+    {
+      "episode": 148,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 39,
+      "paired_response_deadline_misses": 37,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.950486
+    },
+    {
+      "episode": 149,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 2.855123
+    },
+    {
+      "episode": 150,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 44,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.533433
+    },
+    {
+      "episode": 151,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 48,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.997733
+    },
+    {
+      "episode": 152,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.491144
+    },
+    {
+      "episode": 153,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 7.022745
+    },
+    {
+      "episode": 154,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 62,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.861767
+    },
+    {
+      "episode": 155,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 62,
+      "paired_response_deadline_misses": 61,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.166187
+    },
+    {
+      "episode": 156,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 51,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.29037
+    },
+    {
+      "episode": 157,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 41,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.902543
+    },
+    {
+      "episode": 158,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 30,
+      "paired_response_deadline_misses": 21,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 19.200776
+    },
+    {
+      "episode": 159,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.335409
+    },
+    {
+      "episode": 160,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 52,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.199201
+    },
+    {
+      "episode": 161,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 67,
+      "paired_response_deadline_misses": 65,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.248543
+    },
+    {
+      "episode": 162,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 54,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 2.975415
+    },
+    {
+      "episode": 163,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 57,
+      "paired_response_deadline_misses": 54,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 6.935229
+    },
+    {
+      "episode": 164,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 56,
+      "paired_response_deadline_misses": 56,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.555198
+    },
+    {
+      "episode": 165,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 62,
+      "paired_response_deadline_misses": 48,
+      "processing_pair_misses": 6,
+      "maximum_start_lateness_ms": 18.933112
+    },
+    {
+      "episode": 166,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 46,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.959023
+    },
+    {
+      "episode": 167,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 64,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.332262
+    },
+    {
+      "episode": 168,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 30,
+      "paired_response_deadline_misses": 30,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.348366
+    },
+    {
+      "episode": 169,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 46,
+      "paired_response_deadline_misses": 46,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.039443
+    },
+    {
+      "episode": 170,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 62,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 4.099811
+    },
+    {
+      "episode": 171,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 35,
+      "paired_response_deadline_misses": 35,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.321194
+    },
+    {
+      "episode": 172,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 43,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.284028
+    },
+    {
+      "episode": 173,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 41,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.02192
+    },
+    {
+      "episode": 174,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 33,
+      "paired_response_deadline_misses": 33,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.690783
+    },
+    {
+      "episode": 175,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 25,
+      "paired_response_deadline_misses": 24,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.650107
+    },
+    {
+      "episode": 176,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 70,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 21.302138
+    },
+    {
+      "episode": 177,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 47,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 3.024012
+    },
+    {
+      "episode": 178,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 30,
+      "paired_response_deadline_misses": 30,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.483335
+    },
+    {
+      "episode": 179,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 40,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.739324
+    },
+    {
+      "episode": 180,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 46,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 4.295001
+    },
+    {
+      "episode": 181,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 45,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.330888
+    },
+    {
+      "episode": 182,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 52,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.449477
+    },
+    {
+      "episode": 183,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 46,
+      "paired_response_deadline_misses": 46,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 2.830018
+    },
+    {
+      "episode": 184,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 57,
+      "paired_response_deadline_misses": 55,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.907246
+    },
+    {
+      "episode": 185,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 58,
+      "paired_response_deadline_misses": 57,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.997211
+    },
+    {
+      "episode": 186,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 44,
+      "paired_response_deadline_misses": 44,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.522099
+    },
+    {
+      "episode": 187,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 81,
+      "paired_response_deadline_misses": 78,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 2.699545
+    },
+    {
+      "episode": 188,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 89,
+      "paired_response_deadline_misses": 88,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.076956
+    },
+    {
+      "episode": 189,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 72,
+      "paired_response_deadline_misses": 70,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 4.444454
+    },
+    {
+      "episode": 190,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 118,
+      "paired_response_deadline_misses": 94,
+      "processing_pair_misses": 12,
+      "maximum_start_lateness_ms": 12.472681
+    },
+    {
+      "episode": 191,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 185,
+      "paired_response_deadline_misses": 139,
+      "processing_pair_misses": 21,
+      "maximum_start_lateness_ms": 18.736507
+    },
+    {
+      "episode": 192,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 37,
+      "paired_response_deadline_misses": 37,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.253397
+    },
+    {
+      "episode": 193,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 88,
+      "paired_response_deadline_misses": 77,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 18.223876
+    },
+    {
+      "episode": 194,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 54,
+      "paired_response_deadline_misses": 48,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 9.773655
+    },
+    {
+      "episode": 195,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 89,
+      "paired_response_deadline_misses": 79,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 16.767142
+    },
+    {
+      "episode": 196,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 58,
+      "paired_response_deadline_misses": 58,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.524859
+    },
+    {
+      "episode": 197,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 85,
+      "paired_response_deadline_misses": 80,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 4.516947
+    },
+    {
+      "episode": 198,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 88,
+      "paired_response_deadline_misses": 74,
+      "processing_pair_misses": 7,
+      "maximum_start_lateness_ms": 15.016535
+    },
+    {
+      "episode": 199,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 44,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 7.131366
+    },
+    {
+      "episode": 200,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 85,
+      "paired_response_deadline_misses": 77,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 7.452304
+    },
+    {
+      "episode": 201,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 41,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.370544
+    },
+    {
+      "episode": 202,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 56,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 4.067933
+    },
+    {
+      "episode": 203,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.620358
+    },
+    {
+      "episode": 204,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 24,
+      "paired_response_deadline_misses": 24,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.008139
+    },
+    {
+      "episode": 205,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 35,
+      "paired_response_deadline_misses": 35,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.091559
+    },
+    {
+      "episode": 206,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 40,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.262625
+    },
+    {
+      "episode": 207,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 43,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.253519
+    },
+    {
+      "episode": 208,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 63,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.984927
+    },
+    {
+      "episode": 209,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 31,
+      "paired_response_deadline_misses": 31,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.314322
+    },
+    {
+      "episode": 210,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.946263
+    },
+    {
+      "episode": 211,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 35,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 18.343693
+    },
+    {
+      "episode": 212,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 77,
+      "paired_response_deadline_misses": 66,
+      "processing_pair_misses": 6,
+      "maximum_start_lateness_ms": 10.735622
+    },
+    {
+      "episode": 213,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 36,
+      "paired_response_deadline_misses": 34,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.943957
+    },
+    {
+      "episode": 214,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 74,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 5.656017
+    },
+    {
+      "episode": 215,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 49,
+      "paired_response_deadline_misses": 48,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.083174
+    },
+    {
+      "episode": 216,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 69,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.360974
+    },
+    {
+      "episode": 217,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 26,
+      "paired_response_deadline_misses": 26,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.021661
+    },
+    {
+      "episode": 218,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 63,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.310998
+    },
+    {
+      "episode": 219,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 42,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.500495
+    },
+    {
+      "episode": 220,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 68,
+      "paired_response_deadline_misses": 67,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.56148
+    },
+    {
+      "episode": 221,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 183,
+      "paired_response_deadline_misses": 123,
+      "processing_pair_misses": 28,
+      "maximum_start_lateness_ms": 30.381706
+    },
+    {
+      "episode": 222,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 53,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.444897
+    },
+    {
+      "episode": 223,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 38,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 4.129936
+    },
+    {
+      "episode": 224,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 62,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.271774
+    },
+    {
+      "episode": 225,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 44,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.389345
+    },
+    {
+      "episode": 226,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 68,
+      "paired_response_deadline_misses": 67,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.605209
+    },
+    {
+      "episode": 227,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 38,
+      "paired_response_deadline_misses": 32,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 14.675345
+    },
+    {
+      "episode": 228,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 80,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 6,
+      "maximum_start_lateness_ms": 23.540289
+    },
+    {
+      "episode": 229,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 41,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.56226
+    },
+    {
+      "episode": 230,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 50,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.460463
+    },
+    {
+      "episode": 231,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 43,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.603211
+    },
+    {
+      "episode": 232,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 58,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.612718
+    },
+    {
+      "episode": 233,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 37,
+      "paired_response_deadline_misses": 35,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 4.229586
+    },
+    {
+      "episode": 234,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 61,
+      "paired_response_deadline_misses": 59,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.364467
+    },
+    {
+      "episode": 235,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 54,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.279976
+    },
+    {
+      "episode": 236,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 77,
+      "paired_response_deadline_misses": 67,
+      "processing_pair_misses": 6,
+      "maximum_start_lateness_ms": 7.141235
+    },
+    {
+      "episode": 237,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 25,
+      "paired_response_deadline_misses": 25,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.199912
+    },
+    {
+      "episode": 238,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 11,
+      "paired_response_deadline_misses": 11,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.905984
+    },
+    {
+      "episode": 239,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 30,
+      "paired_response_deadline_misses": 30,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.16348
+    },
+    {
+      "episode": 240,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 8,
+      "paired_response_deadline_misses": 8,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 0.88246
+    },
+    {
+      "episode": 241,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 21,
+      "paired_response_deadline_misses": 18,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 7.780984
+    },
+    {
+      "episode": 242,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 5,
+      "paired_response_deadline_misses": 5,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.44787
+    },
+    {
+      "episode": 243,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 16,
+      "paired_response_deadline_misses": 16,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.38019
+    },
+    {
+      "episode": 244,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 4,
+      "paired_response_deadline_misses": 4,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 0.837572
+    },
+    {
+      "episode": 245,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 26,
+      "paired_response_deadline_misses": 17,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 20.927717
+    },
+    {
+      "episode": 246,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 15,
+      "paired_response_deadline_misses": 14,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.228424
+    },
+    {
+      "episode": 247,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 16,
+      "paired_response_deadline_misses": 16,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.811893
+    },
+    {
+      "episode": 248,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 20,
+      "paired_response_deadline_misses": 20,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 1.7877
+    },
+    {
+      "episode": 249,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 11,
+      "paired_response_deadline_misses": 9,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.637779
+    },
+    {
+      "episode": 250,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 13,
+      "paired_response_deadline_misses": 12,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.574171
+    },
+    {
+      "episode": 251,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 168,
+      "paired_response_deadline_misses": 91,
+      "processing_pair_misses": 26,
+      "maximum_start_lateness_ms": 19.154629
+    },
+    {
+      "episode": 252,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 33,
+      "paired_response_deadline_misses": 27,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 8.068108
+    },
+    {
+      "episode": 253,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 13,
+      "paired_response_deadline_misses": 12,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 2.921377
+    },
+    {
+      "episode": 254,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 17,
+      "paired_response_deadline_misses": 14,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.454809
+    },
+    {
+      "episode": 255,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 66,
+      "paired_response_deadline_misses": 59,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 10.184091
+    },
+    {
+      "episode": 256,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 107,
+      "paired_response_deadline_misses": 90,
+      "processing_pair_misses": 9,
+      "maximum_start_lateness_ms": 27.072152
+    },
+    {
+      "episode": 257,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 50,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.119392
+    },
+    {
+      "episode": 258,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 63,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.933227
+    },
+    {
+      "episode": 259,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.239153
+    },
+    {
+      "episode": 260,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 57,
+      "paired_response_deadline_misses": 53,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.860894
+    },
+    {
+      "episode": 261,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 11.262589
+    },
+    {
+      "episode": 262,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 73,
+      "paired_response_deadline_misses": 63,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 19.668489
+    },
+    {
+      "episode": 263,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 64,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 26.928811
+    },
+    {
+      "episode": 264,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 68,
+      "paired_response_deadline_misses": 67,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.479917
+    },
+    {
+      "episode": 265,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 50,
+      "paired_response_deadline_misses": 39,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 8.91163
+    },
+    {
+      "episode": 266,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 55,
+      "paired_response_deadline_misses": 54,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.676989
+    },
+    {
+      "episode": 267,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 52,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 7,
+      "maximum_start_lateness_ms": 6.496494
+    },
+    {
+      "episode": 268,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 71,
+      "paired_response_deadline_misses": 62,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 12.590152
+    },
+    {
+      "episode": 269,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 40,
+      "paired_response_deadline_misses": 39,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.55874
+    },
+    {
+      "episode": 270,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 46,
+      "paired_response_deadline_misses": 43,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 4.547709
+    },
+    {
+      "episode": 271,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 40,
+      "paired_response_deadline_misses": 37,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 5.430486
+    },
+    {
+      "episode": 272,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 50,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.164414
+    },
+    {
+      "episode": 273,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 41,
+      "paired_response_deadline_misses": 39,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 4.712208
+    },
+    {
+      "episode": 274,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 73,
+      "paired_response_deadline_misses": 69,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 10.035124
+    },
+    {
+      "episode": 275,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 58,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 6.025381
+    },
+    {
+      "episode": 276,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 63,
+      "paired_response_deadline_misses": 51,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 20.709249
+    },
+    {
+      "episode": 277,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 72,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 11,
+      "maximum_start_lateness_ms": 27.837666
+    },
+    {
+      "episode": 278,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 62,
+      "paired_response_deadline_misses": 61,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.643815
+    },
+    {
+      "episode": 279,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 51,
+      "paired_response_deadline_misses": 50,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.220774
+    },
+    {
+      "episode": 280,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 82,
+      "paired_response_deadline_misses": 76,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 8.809783
+    },
+    {
+      "episode": 281,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 186,
+      "paired_response_deadline_misses": 123,
+      "processing_pair_misses": 35,
+      "maximum_start_lateness_ms": 47.379047
+    },
+    {
+      "episode": 282,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 100,
+      "paired_response_deadline_misses": 68,
+      "processing_pair_misses": 19,
+      "maximum_start_lateness_ms": 13.583224
+    },
+    {
+      "episode": 283,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 34,
+      "paired_response_deadline_misses": 31,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 5.251184
+    },
+    {
+      "episode": 284,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 57,
+      "paired_response_deadline_misses": 53,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 5.000579
+    },
+    {
+      "episode": 285,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 51,
+      "paired_response_deadline_misses": 45,
+      "processing_pair_misses": 3,
+      "maximum_start_lateness_ms": 7.800462
+    },
+    {
+      "episode": 286,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 62,
+      "paired_response_deadline_misses": 60,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 3.97058
+    },
+    {
+      "episode": 287,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 69,
+      "paired_response_deadline_misses": 63,
+      "processing_pair_misses": 5,
+      "maximum_start_lateness_ms": 12.536845
+    },
+    {
+      "episode": 288,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 78,
+      "paired_response_deadline_misses": 73,
+      "processing_pair_misses": 4,
+      "maximum_start_lateness_ms": 4.569866
+    },
+    {
+      "episode": 289,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 21,
+      "paired_response_deadline_misses": 20,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.325556
+    },
+    {
+      "episode": 290,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 45,
+      "paired_response_deadline_misses": 42,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 4.191215
+    },
+    {
+      "episode": 291,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 142,
+      "paired_response_deadline_misses": 84,
+      "processing_pair_misses": 26,
+      "maximum_start_lateness_ms": 73.60449
+    },
+    {
+      "episode": 292,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 70,
+      "paired_response_deadline_misses": 67,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 5.187678
+    },
+    {
+      "episode": 293,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 57,
+      "paired_response_deadline_misses": 54,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 3.056246
+    },
+    {
+      "episode": 294,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 71,
+      "paired_response_deadline_misses": 71,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.214656
+    },
+    {
+      "episode": 295,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 59,
+      "paired_response_deadline_misses": 56,
+      "processing_pair_misses": 1,
+      "maximum_start_lateness_ms": 3.80532
+    },
+    {
+      "episode": 296,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 81,
+      "paired_response_deadline_misses": 66,
+      "processing_pair_misses": 7,
+      "maximum_start_lateness_ms": 12.279737
+    },
+    {
+      "episode": 297,
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 7.453889935837843e-20,
+      "frame_deadline_misses": 31,
+      "paired_response_deadline_misses": 28,
+      "processing_pair_misses": 2,
+      "maximum_start_lateness_ms": 4.40363
+    },
+    {
+      "episode": 298,
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "full_final_state_max_error": 8.131516293641283e-20,
+      "frame_deadline_misses": 67,
+      "paired_response_deadline_misses": 66,
+      "processing_pair_misses": 0,
+      "maximum_start_lateness_ms": 2.886368
+    },
+    {
+      "episode": 299,
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "full_final_state_max_error": 5.421010862427522e-20,
+      "frame_deadline_misses": 102,
+      "paired_response_deadline_misses": 76,
+      "processing_pair_misses": 14,
+      "maximum_start_lateness_ms": 36.769849
+    }
+  ],
+  "real_time_deadline_gate_pass": false,
+  "all_inputs_preserved_in_complete_chunks": true,
+  "physiological_validation": false,
+  "physical_camera_validated": false,
+  "scope": "Saved full population trajectories/final states, original episode arithmetic and fixed schedule; logging association is descriptive; no actual camera capture, fresh biological trials or hard-real-time guarantee"
+}

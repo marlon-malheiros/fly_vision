@@ -1,0 +1,10 @@
+{
+  "utc": "2026-10-30T18:19:18.873259+00:00",
+  "crop_luminance_error": 0.0,
+  "numpy_renderer_error": 0.0,
+  "crop_score_error": 1.7763568394002505e-14,
+  "landmark_checks": 800,
+  "max_landmark_yaw_error_deg_s": 9.869354595792856e-07,
+  "one_copy_and_parent_intact_bitwise_equal": true,
+  "passed": true
+}

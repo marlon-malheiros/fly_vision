@@ -1,0 +1,33 @@
+{
+  "status": "METADATA_AUDIT_COMPLETE_NOT_PHYSIOLOGICAL_VALIDATION",
+  "files": 660,
+  "family_counts": {
+    "DNp15": 127,
+    "H2": 46,
+    "H2rn": 44,
+    "HS": 146,
+    "bIPS": 263,
+    "uLPTCrn": 34
+  },
+  "flies": 124,
+  "previous_fly_count": 27,
+  "available_previously_unused_flies": 97,
+  "explicit_soma_side_files": 660,
+  "different_imaging_and_soma_sides": 306,
+  "failures": [],
+  "preliminary_reader_failure": "scipy.io.whosmat raised TypeError on MATLAB opaque variables; loadmat with explicit metadata variable_names succeeded",
+  "opportunities": [
+    "Use explicit recorded soma side with MaleCNS soma side instead of pooling both model sides",
+    "Preserve recorded neurite and genotype; do not treat all cells in candidate recurrent families as recorded subtype",
+    "Full TimeAxis/epochs available; replace compressed historical 2-second diagnostic in a separately frozen benchmark"
+  ],
+  "remaining_gaps": [
+    "Soma-matched single-node rates do not establish neurite-specific voltage/calcium equivalence",
+    "Exact trial image arrays and source camera/display ray mapping not found in cached recording files",
+    "GCaMP reporter/observation model must be specified and calibrated only on development flies",
+    "Genotype/control inclusion and corrected/uncorrected duplication require an author-code-based prospective rule"
+  ],
+  "no_response_arrays_loaded": true,
+  "no_new_model_fit": true,
+  "no_favorable_side_selection": true
+}

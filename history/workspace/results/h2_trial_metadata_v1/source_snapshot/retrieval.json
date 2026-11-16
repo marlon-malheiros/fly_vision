@@ -1,0 +1,23 @@
+[
+  {
+    "file": "github_tree.json",
+    "url": "https://api.github.com/repos/reiserlab/eyemap_T4/git/trees/99d2a43123db636cedb55af9ff31a59657e7d17e?recursive=1",
+    "resolved_url": "https://api.github.com/repos/reiserlab/eyemap_T4/git/trees/99d2a43123db636cedb55af9ff31a59657e7d17e?recursive=1",
+    "bytes": 19719,
+    "sha256": "1af62aec0c89d1f85390fe76b90e2dcc56400e18920e647f720e69a346a37748"
+  },
+  {
+    "file": "eyemap_func.R",
+    "url": "https://raw.githubusercontent.com/reiserlab/eyemap_T4/99d2a43123db636cedb55af9ff31a59657e7d17e/eyemap_func.R",
+    "resolved_url": "https://raw.githubusercontent.com/reiserlab/eyemap_T4/99d2a43123db636cedb55af9ff31a59657e7d17e/eyemap_func.R",
+    "bytes": 27327,
+    "sha256": "d139cd26ef5aa2ef60b54236b399a1eaef8cc3ce0c95d7026884d34c68d948ac"
+  },
+  {
+    "file": "paper.xml",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12488493/fullTextXML",
+    "resolved_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12488493/fullTextXML",
+    "bytes": 234510,
+    "sha256": "880bc8d9efcc096c720cd12dd3f0d70813bd6aab70d3315996247657d8daca23"
+  }
+]

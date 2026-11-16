@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "figures": [
+    "presentation_v2/all_tuning_curves_v1.png",
+    "presentation_v2/quantitative_comparison_v1.png",
+    "presentation_v2/controls_and_coverage_v1.png"
+  ],
+  "viewed_initial_figures": true,
+  "viewed_final_curve_layout": true,
+  "other_final_figures_identical_to_viewed_initial": [
+    "quantitative_comparison_v1.png",
+    "controls_and_coverage_v1.png"
+  ],
+  "original_issue": "Curve amplitude labels overlapped data in the initial layout; retained",
+  "correction": "V2 moves amplitudes into a second title line and increases figure height; no numerical change"
+}

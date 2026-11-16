@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "entries": 1262,
+  "bytes": 596798286,
+  "index": {
+    "path": "results/published_circuit_comparison_v1/completion_v1/artifact_index.json",
+    "size_bytes": 283146,
+    "sha256": "1baf1eeb79c6548238a2b027b2f20982975cc14fb44cdab5398134f22b3fc3c6"
+  },
+  "sealer_exited": true,
+  "all_listed_hashes_verified": true,
+  "live_progress_excluded": true,
+  "agent_instructions_excluded": true
+}

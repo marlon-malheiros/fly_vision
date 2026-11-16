@@ -1,0 +1,98 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-21T20:39:47.859532+00:00",
+  "counts": {
+    "plans": 3536,
+    "class_rows": 56576,
+    "models": 240,
+    "predictions": 67584,
+    "curves": 2400,
+    "thresholds": 480,
+    "mean_flags": 3998,
+    "contrast_flags": 4270,
+    "decision_changes": 701
+  },
+  "verified_receipt_files": 3536,
+  "verified_method_entries": 30,
+  "verified_storage_entries": 8,
+  "verified_predecessor_entries": 2950,
+  "numerical_comparisons": 4896,
+  "decision_comparisons": 19008,
+  "cell_diagnostics": 129744,
+  "cutoff_edges_within_review_score_tolerance": 2112,
+  "maximum_absolute_arithmetic_discrepancies": {
+    "record_clock": 0.0,
+    "class_response": 3.0357660829594124e-18,
+    "decoder_center": 1.3010426069826053e-18,
+    "decoder_scale": 2.168404344971009e-19,
+    "decoder_coefficients": 1.2967404927621828e-13,
+    "decoder_cutoff": 9.947598300641403e-14,
+    "prediction_score": 1.4210854715202004e-14,
+    "prediction_cutoff": 0.0,
+    "curve_detection": 0.0,
+    "bootstrap_detection": 0.0,
+    "curve_direction": 0.0,
+    "bootstrap_direction": 0.0,
+    "curve_correctly_directed_detection": 0.0,
+    "curve_fpr": 0.0,
+    "wilson_by_inversion": 2.040034807748725e-15,
+    "threshold_fpr": 0.0,
+    "threshold_false_positives": 0.0,
+    "threshold_straight_cases": 0.0,
+    "refinement_mean_absolute_error": 6.071532165918825e-18,
+    "refinement_mean_relative_error": 9.71445146547012e-16,
+    "refinement_contrast_absolute_error": 7.806255641895632e-18,
+    "refinement_contrast_relative_error": 3.559819106158102e-11
+  },
+  "scalar_check_counts": {
+    "record_clock": 710736,
+    "class_response": 169728,
+    "decoder_center": 480,
+    "decoder_scale": 480,
+    "decoder_coefficients": 720,
+    "decoder_cutoff": 240,
+    "prediction_score": 67584,
+    "prediction_cutoff": 67584,
+    "curve_detection": 2400,
+    "bootstrap_detection": 4800,
+    "curve_direction": 2400,
+    "bootstrap_direction": 4800,
+    "curve_correctly_directed_detection": 2400,
+    "curve_fpr": 2400,
+    "wilson_by_inversion": 4800,
+    "threshold_fpr": 480,
+    "threshold_false_positives": 480,
+    "threshold_straight_cases": 480,
+    "refinement_mean_absolute_error": 4896,
+    "refinement_mean_relative_error": 4896,
+    "refinement_contrast_absolute_error": 4896,
+    "refinement_contrast_relative_error": 4896
+  },
+  "time_windows": {
+    "legacy": {
+      "sample_count": 70,
+      "first_index": 70,
+      "last_index": 139
+    },
+    "spatial_half": {
+      "sample_count": 70,
+      "first_index": 70,
+      "last_index": 139
+    },
+    "spatial_quarter": {
+      "sample_count": 70,
+      "first_index": 70,
+      "last_index": 139
+    },
+    "quarter_fine_time": {
+      "sample_count": 70,
+      "first_index": 70,
+      "last_index": 139
+    }
+  },
+  "scientific_results_changed": false,
+  "scientific_criteria_changed": false,
+  "independent_solver_replayed": false,
+  "physiologically_validated": false,
+  "scope": "Independent saved-trajectory accumulation, split audit, augmented least-squares fits, scores, integer decisions, thresholds, multinomial-weighted paired bootstrap, inverted score intervals, refinement summaries and all original indexed artifacts. No solver reintegration."
+}

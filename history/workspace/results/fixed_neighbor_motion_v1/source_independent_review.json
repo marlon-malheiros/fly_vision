@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-13T04:11:21.877842+00:00",
+  "executions": 47,
+  "maximum_channel_error": 2.5544847792602354e-08,
+  "maximum_filter_error": 5.551115123125783e-16,
+  "maximum_physical_pixel_error": 2.972915313925739e-08,
+  "maximum_retinal_error": 2.9802322387695312e-08,
+  "independent_filter": "streamed scipy.signal.lfilter, batch-equivalent",
+  "independent_pool": "summed_area_rectangle",
+  "biological_validation": false
+}

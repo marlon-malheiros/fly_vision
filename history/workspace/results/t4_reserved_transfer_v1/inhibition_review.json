@@ -1,0 +1,24 @@
+{
+  "cells": [
+    {
+      "cell": 6,
+      "early_mask_bins": 0,
+      "later_observed_mean_mv": null,
+      "predicted_mean_mv": null
+    },
+    {
+      "cell": 7,
+      "early_mask_bins": 362,
+      "later_observed_mean_mv": 2.9657953541240887,
+      "predicted_mean_mv": 2.3335371624204986
+    },
+    {
+      "cell": 8,
+      "early_mask_bins": 63,
+      "later_observed_mean_mv": 2.7301862814213957,
+      "predicted_mean_mv": 2.248477032562818
+    }
+  ],
+  "confirmed_inhibition_cells": 0,
+  "scope": "Predefined early masks; later repeats do not confirm negative mean; not an inhibitory validation pass"
+}

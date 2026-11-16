@@ -1,0 +1,127 @@
+[
+  {
+    "cohort": "DNp15|GC6f|dendrite|WT",
+    "group": "test",
+    "flies": [
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "traces": 4,
+        "zero_mse": 1.3398888009828134,
+        "model_mse": 0.8389905494191005,
+        "skill": 0.3738356878543221
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "traces": 4,
+        "zero_mse": 2.958870968381865,
+        "model_mse": 1.4909668880202165,
+        "skill": 0.496102768943794
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "traces": 4,
+        "zero_mse": 10.190475293762518,
+        "model_mse": 6.68073299459641,
+        "skill": 0.3444139942436625
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "traces": 4,
+        "zero_mse": 1.3666641195994513,
+        "model_mse": 0.8926217487261469,
+        "skill": 0.34686091781808037
+      },
+      {
+        "fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "traces": 4,
+        "zero_mse": 0.2206817621055689,
+        "model_mse": 0.8491163527902004,
+        "skill": -2.8476960881978246
+      }
+    ],
+    "positive": 4,
+    "mean": -0.25729654386759315,
+    "median": 0.34686091781808037,
+    "ratio_of_equal_fly_mean_errors": 0.33117442256847407,
+    "leave_one_fly_out": [
+      {
+        "omitted_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240119|1",
+        "remaining_mean": -0.4150796017980719
+      },
+      {
+        "omitted_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|1",
+        "remaining_mean": -0.4456463720704399
+      },
+      {
+        "omitted_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240212|2",
+        "remaining_mean": -0.40772417839540703
+      },
+      {
+        "omitted_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240214|1",
+        "remaining_mean": -0.40833590928901153
+      },
+      {
+        "omitted_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240221|1",
+        "remaining_mean": 0.3903033422149647
+      }
+    ],
+    "no_fly_excluded_from_primary_result": true
+  },
+  {
+    "cohort": "DNp15|GC7f|dendrite|native",
+    "group": "calibration",
+    "flies": [
+      {
+        "fly": "GC7f R77F05LexA|220523|1",
+        "traces": 4,
+        "zero_mse": 46.710549226521024,
+        "model_mse": 21.7518868165713,
+        "skill": 0.5343260317688333
+      },
+      {
+        "fly": "GC7f R77F05LexA|220524|1",
+        "traces": 2,
+        "zero_mse": 13.117486407438209,
+        "model_mse": 4.095817582918779,
+        "skill": 0.6877589611530861
+      },
+      {
+        "fly": "GC7f R77F05LexA|220617|1",
+        "traces": 2,
+        "zero_mse": 45.39242129037856,
+        "model_mse": 19.913863128111462,
+        "skill": 0.5612954197635536
+      },
+      {
+        "fly": "R11E07AD R77F05DBD mCherry GC7f|230128|1",
+        "traces": 2,
+        "zero_mse": 0.550379684905741,
+        "model_mse": 6.527341950610261,
+        "skill": -10.85970727049663
+      }
+    ],
+    "positive": 3,
+    "mean": -2.2690817144527893,
+    "median": 0.5478107257661935,
+    "ratio_of_equal_fly_mean_errors": 0.5056396341896556,
+    "leave_one_fly_out": [
+      {
+        "omitted_fly": "GC7f R77F05LexA|220523|1",
+        "remaining_mean": -3.20355096319333
+      },
+      {
+        "omitted_fly": "GC7f R77F05LexA|220524|1",
+        "remaining_mean": -3.2546952729880814
+      },
+      {
+        "omitted_fly": "GC7f R77F05LexA|220617|1",
+        "remaining_mean": -3.2125407591915702
+      },
+      {
+        "omitted_fly": "R11E07AD R77F05DBD mCherry GC7f|230128|1",
+        "remaining_mean": 0.5944601375618244
+      }
+    ],
+    "no_fly_excluded_from_primary_result": true
+  }
+]

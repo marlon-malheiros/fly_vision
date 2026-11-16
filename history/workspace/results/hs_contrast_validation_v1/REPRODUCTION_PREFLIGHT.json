@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "isolated_root": "<TEMP>/hs_contrast_reproduction_v1",
+  "source_files_and_dependencies_verified": 36,
+  "legacy_case_receipts_verified": 16,
+  "imports_use_isolated_tree": true,
+  "full_second_study_executed": false
+}

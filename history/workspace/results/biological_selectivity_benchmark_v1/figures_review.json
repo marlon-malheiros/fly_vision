@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "pngs_visually_reviewed": 3,
+  "pdf_exports_checked": 3,
+  "files": [
+    "results/biological_selectivity_benchmark_v1/figures/comparison.png",
+    "results/biological_selectivity_benchmark_v1/figures/comparison.pdf",
+    "results/biological_selectivity_benchmark_v1/figures/primary_timecourses.png",
+    "results/biological_selectivity_benchmark_v1/figures/primary_timecourses.pdf",
+    "results/biological_selectivity_benchmark_v1/walking_transfer_v1/figures/independent_bIPS.png",
+    "results/biological_selectivity_benchmark_v1/walking_transfer_v1/figures/independent_bIPS.pdf"
+  ],
+  "review": "Cohort/animal labels, uncertainty, missing intervals, negative skills and model disagreement retained; no clipped series observed."
+}

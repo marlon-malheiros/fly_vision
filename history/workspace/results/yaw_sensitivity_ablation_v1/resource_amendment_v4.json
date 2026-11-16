@@ -1,0 +1,11 @@
+{
+  "created_utc": "2026-10-19T13:50:25.570349+00:00",
+  "helper": {
+    "path": "scripts/assist_yaw_sensitivity_cached_v1.py",
+    "sha256": "e3f023da34fbdc2a65519c95ac8e2bb3ab6485ecd8583e18514a95dc7433e929",
+    "size_bytes": 891
+  },
+  "workers": 4,
+  "scope": "last seventeen primary s07 conditions with preexisting sources; FIFO remains in s06",
+  "scientific_methods_unchanged": true
+}

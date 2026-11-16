@@ -1,0 +1,55 @@
+{
+  "status": "SUPPORTED_CHEMICAL_FAMILY_RECONSTRUCTION",
+  "created_utc": "2026-10-19T14:02:40.482463+00:00",
+  "raw_rows": 151856684,
+  "annotations": 211577,
+  "original_cells": 13593,
+  "expanded_cells": 13618,
+  "candidate_cells": 25,
+  "included_candidates": 25,
+  "added_neuron_edges": 340,
+  "expanded_edges": 204201,
+  "omitted_incident_pathway_edges": 80833,
+  "omitted_incident_pathway_synapses": 189280,
+  "additional_old_core_edges": 0,
+  "missing_old_core_edges": 0,
+  "old_core_changed_normalized_entries": 6333,
+  "old_core_max_weight_difference": 1.1102230246251565e-16,
+  "existing_core_normalization_changes": 10894,
+  "candidate_counts": {
+    "ulptcrn": 17,
+    "h2rn": 8
+  },
+  "absent_hemibrain_subtypes": [
+    "PS071",
+    "PS073"
+  ],
+  "nt_sign_disagreements": 0,
+  "unresolved": [
+    "family_homology_and_subtype_identity",
+    "electrical_conductances",
+    "cell_specific_dynamics",
+    "receptor_and_subcellular_effects",
+    "unselected_network_inputs"
+  ],
+  "provenance": {
+    "annotations": {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/malecns-v1.0/body-annotations-male-cns-v1.0-minconf-0.5.feather",
+      "sha256": "2177e246113e4cfbf1e7772ec37c6da1955ff22e8063d0b1f833101f99a9a3b2",
+      "size_bytes": 14483314,
+      "source": "https://male-cns.janelia.org/download/"
+    },
+    "neurotransmitters": {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/malecns-v1.0/body-neurotransmitters-male-cns-v1.0.feather",
+      "sha256": "95c9289220663abeb3409f3ad9e5a7f8a53f8093f5139d15502cd08da8879621",
+      "size_bytes": 43282834,
+      "source": "https://male-cns.janelia.org/download/"
+    },
+    "weights": {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/malecns-v1.0/connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+      "sha256": "e35da783d1c686b2b58b3b87cd6a403ae43bfcfba8bff28e08ef752c1a56afc1",
+      "size_bytes": 1051241946,
+      "source": "https://male-cns.janelia.org/download/"
+    }
+  }
+}

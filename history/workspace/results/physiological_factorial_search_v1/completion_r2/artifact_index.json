@@ -1,0 +1,829 @@
+{
+  "files": [
+    {
+      "path": "results/physiological_factorial_search_v1/all_72_frequency_scores.png",
+      "size_bytes": 199743,
+      "sha256": "ab135ffddffffb0e19affc6c4227325abd72bb967d30448f4a96c01cb53c1985"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/all_group_input_omission_contrasts.csv",
+      "size_bytes": 747273,
+      "sha256": "8ab6b387c1ee59472bb5560af2093af21e22699eff0d30765565ef0dcb59b070"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/before_execution.json",
+      "size_bytes": 66145,
+      "sha256": "ef3ea77f50f55d335751fd317d5a2052bb2b74b7715753e52717b40deba23dfc"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__confirm/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "b9e259999766136926999be5d02a22ba535e0d50e9f9911f0dfc96d9ad651bbf"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__confirm/observations.npz",
+      "size_bytes": 498475,
+      "sha256": "2c50f232fd9341ec8351c65364dcdd6d9fb496f93dc7a829009f654c40357a97"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__confirm/receipt.json",
+      "size_bytes": 494,
+      "sha256": "9d0ce2874a363d23433311adfa3f875122b1cf15861735fe6b2fedc383c80aca"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__confirm/summary.json",
+      "size_bytes": 2141,
+      "sha256": "882a2a70d5c205bc2ee644fe88f4d9441b4d78fe55385774df43b59482840b17"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__screen/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "5100ee923e99f947a3bf81b1453109824a0c8a19cb0ab5da8fd75c0c60e049ed"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__screen/observations.npz",
+      "size_bytes": 9372210,
+      "sha256": "506686f7545373adecdf8bd69d4ae0d0939d85addb7d05947640cd66754680a8"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__screen/receipt.json",
+      "size_bytes": 494,
+      "sha256": "66d58a58307f4b8f418bf97e8767adc36f5d906916a62c13a55d19728236db39"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d0_primary__screen/summary.json",
+      "size_bytes": 23920,
+      "sha256": "e7598541b320e2a3f37715d6f3bb92a7c6d5979653ae757b70bd793619cb5294"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_fine__confirm/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "adccb61ac8ab60238127e79d205a2a838b57e5a598389477808449cfc7cb6a23"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_fine__confirm/observations.npz",
+      "size_bytes": 498390,
+      "sha256": "a635ba2e9351f78e482b7ac8c4210dcc55200f8cd266c85e1c2deefce91ed853"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_fine__confirm/receipt.json",
+      "size_bytes": 492,
+      "sha256": "65586d78795007364d74fd6ebf16fad4ab70006149dc2f74d010d23038375b32"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_fine__confirm/summary.json",
+      "size_bytes": 2138,
+      "sha256": "06f8fd60a69420552ab6f7462e3bfc2cad1f4f60cb9b13fdacbce1c2adeb7734"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__confirm/execution_resources.json",
+      "size_bytes": 127,
+      "sha256": "c0ec131e377d4c4d3e23f68dd15b0e78f49e45c56be67abbf8265b693216133a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__confirm/observations.npz",
+      "size_bytes": 498366,
+      "sha256": "1e0a6ca3caf7232ca74001e0018e3da52c402fc249a9570a07b393e98f0d1304"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__confirm/receipt.json",
+      "size_bytes": 498,
+      "sha256": "84d5d74258a47299ff514747a0621d999caa96afd626efe3af3a2ef36a8fbd40"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__confirm/summary.json",
+      "size_bytes": 2150,
+      "sha256": "16e95d26cf69ff23fcdbe7fd2b06e914a2203a24bbe381965ae4935b35cca561"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__screen/execution_resources.json",
+      "size_bytes": 127,
+      "sha256": "57c40d729adf7f299b1d030db49d90875f2077c0b54527d1b11985772139c5b9"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__screen/observations.npz",
+      "size_bytes": 9371642,
+      "sha256": "faa07cb12a2da9f480d3e2ea386dc798bcab08c4017f8b0cfa6bf01b88776f4e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__screen/receipt.json",
+      "size_bytes": 498,
+      "sha256": "583a8c5c027bc39b4e5fc9458195c9c08e1ac3e4e3fed53a8344ffd5d0486205"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/contrast_x0.5_d180_primary__screen/summary.json",
+      "size_bytes": 23928,
+      "sha256": "1bcae010b9acee75b9398082c61d83a5917fbcb6e93afdf35341ca2e39c627db"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_fine__confirm/execution_resources.json",
+      "size_bytes": 124,
+      "sha256": "41bf263ad1b66cda366bab3345df29a2efc40f8828e274fd91730a9af8586a93"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_fine__confirm/observations.npz",
+      "size_bytes": 496766,
+      "sha256": "c4fa4a6bb4bf848f95d440e077fdfdb97c6495a031d85a891bd048b69a5bf1d9"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_fine__confirm/receipt.json",
+      "size_bytes": 490,
+      "sha256": "da65190bd1c28b071c688fcec95b5ba9b045ce68d4296aeace174718a2d681f7"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_fine__confirm/summary.json",
+      "size_bytes": 2133,
+      "sha256": "b00993891914634d7d3de50c22bc6f6b8122ea0df83bbaadb0fdeb30c708e072"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__confirm/execution_resources.json",
+      "size_bytes": 123,
+      "sha256": "8ce980e0a564d1c8b5726802a1e4334cd8fc820cbea28fb1ade9a5d9c2f0433e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__confirm/observations.npz",
+      "size_bytes": 496876,
+      "sha256": "51f6a51d301c03f8a1573fb4e26ac1d8eeb81e7afd3314e09ab477106505c092"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__confirm/receipt.json",
+      "size_bytes": 496,
+      "sha256": "17b7cdd227f4eea5339c7e1d840ec8db9c60d7eebe6de154d544d5193c251843"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__confirm/summary.json",
+      "size_bytes": 2147,
+      "sha256": "4c8af12c41a2167438c718a52ca98995748810462042d0b6060acc6ae0b6884f"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__screen/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "2f1dd976a2a6ec060bfa9907145f6dff88a9d40c33566513ec4dae6bf8b3da98"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__screen/observations.npz",
+      "size_bytes": 9253149,
+      "sha256": "af9940132c50867d56909412d87e6db2a680fb2c1a71f0ef41e6c654c56db114"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__screen/receipt.json",
+      "size_bytes": 496,
+      "sha256": "22dd8424261d8871026e8d623939dc0d8dd6099a190c64644fe275e21a0c32bc"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d0_primary__screen/summary.json",
+      "size_bytes": 23928,
+      "sha256": "e7304036371c8bf8a8c2e54a733d6f35425ce9ed56d790738a07822549f418b0"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__confirm/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "1b94c4328c02c63ab40f1cf3cf4b68219ec7aa5303ea0c6111f3f6bc85f5faae"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__confirm/observations.npz",
+      "size_bytes": 496791,
+      "sha256": "fa9a234a60fbfef27efe185996ec444dc4840ebd005b9bf6159c174f0bf81016"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__confirm/receipt.json",
+      "size_bytes": 500,
+      "sha256": "f093386a7d1be261c7f69f85a1b38e111775621e2fd16bcaf6ebd3bed30923d2"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__confirm/summary.json",
+      "size_bytes": 2154,
+      "sha256": "bf1db2d18700138714a26c0c5a595590bbb8cfcd310e07cbd1aaf079877047df"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__screen/execution_resources.json",
+      "size_bytes": 123,
+      "sha256": "b4e2c6a341a520e6301726d8dd22cbaeac4bd66fda16afb692851dce46a0ca96"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__screen/observations.npz",
+      "size_bytes": 9251782,
+      "sha256": "369dde30394a66a0c0cabc930865d43612661850bdf83493466a8978c64e9dd7"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__screen/receipt.json",
+      "size_bytes": 500,
+      "sha256": "3273c1bf0652426ed6f1694cec1e40455df5fac7d2f9d5b25742b3ef78a316db"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x0.5_d180_primary__screen/summary.json",
+      "size_bytes": 23929,
+      "sha256": "9ded7a7f0366071b6c9d317c8692c1c602d26e56f06307576c0f6d6bf96f567a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_fine__confirm/execution_resources.json",
+      "size_bytes": 127,
+      "sha256": "314b7cc63492d457d2b828f4d85ecd080368f503f3161375f8c7e9f54b45cf9a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_fine__confirm/observations.npz",
+      "size_bytes": 496501,
+      "sha256": "06d3c47c6e2e56d8ca1151956ac4c3dd462e8e5980da1555d19c87d47875ae2a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_fine__confirm/receipt.json",
+      "size_bytes": 488,
+      "sha256": "886e3851c528287479aa209b61decf5f8c95e552b915674fabbbfceb08021bde"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_fine__confirm/summary.json",
+      "size_bytes": 2131,
+      "sha256": "e878377c4741b12272d59e7583e69ce22fe4b9461378804cb3d31c4707ae7d66"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_primary__screen/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "a519a5c7e1287b196fbb0b02a0bc28f547bed86fdc8c39f114a0d59aee641d00"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_primary__screen/observations.npz",
+      "size_bytes": 18758423,
+      "sha256": "70da0215ea77ac2840e626cdfcf51d4ad7736f0553d453272fcdb3d5b315e027"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_primary__screen/receipt.json",
+      "size_bytes": 495,
+      "sha256": "45d22056d065f7f81780fb21129ce02a1b64f0732f9fd9e1a5b615446d93538e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d0_primary__screen/summary.json",
+      "size_bytes": 41704,
+      "sha256": "b4a80e5c65bd17aa987a445ae4df9ca330a7165e8d0c359eb625482b813caca5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__confirm/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "9253280143e01f2bc38bb43ef8f8c43b8a9b9046780a72017990df1d136f8e2b"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__confirm/observations.npz",
+      "size_bytes": 496020,
+      "sha256": "d83cabc75632112020c9c1d7634f9c5b7779f15adb9ab855ff087110269726d9"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__confirm/receipt.json",
+      "size_bytes": 498,
+      "sha256": "c77b312a878037f32e19605fec57fe123119a4872c3c40bb84b499b005bbde2a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__confirm/summary.json",
+      "size_bytes": 2151,
+      "sha256": "adcea4d0898d7575ddafeb6edd5fe44ab472a9ef74e24a97dbb69e7b8d8d3295"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__screen/execution_resources.json",
+      "size_bytes": 124,
+      "sha256": "ee446e4235c31769b6750ce5c1424fadd3e38f8ff3785b3ec3205580f5e2964f"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__screen/observations.npz",
+      "size_bytes": 9374618,
+      "sha256": "0d749439ec479b481b40a5293daedcebe232e9e10b15ca0512a2f232819b582d"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__screen/receipt.json",
+      "size_bytes": 498,
+      "sha256": "4953870025d5ccc0d608f696c7ba055e6db5f686d341a521740b25397340cb9a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x15_d180_primary__screen/summary.json",
+      "size_bytes": 23924,
+      "sha256": "bf53f85f2def5016aca49b0e5d9bfb733324e31865c9f8e927ee817d679af8e7"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_fine__confirm/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "41a2ff3e77d082b3965090304ff4a15a045feb64003616572fd77f6646a329ca"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_fine__confirm/observations.npz",
+      "size_bytes": 498281,
+      "sha256": "349dd402cf6a297c18a8bb3e1d13b3de22e545dbd4834c0f25915ebb942c0eff"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_fine__confirm/receipt.json",
+      "size_bytes": 486,
+      "sha256": "4c5ff201d2c8ee1f4a0ec16472e5a609693f57ec2e62033010e83bc4f3b6b042"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_fine__confirm/summary.json",
+      "size_bytes": 2128,
+      "sha256": "e5f9f8160b7d93da3ae6ad1af619c7bfe02a15e47f6c16a00c69c83e7accf493"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__halfsolver/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "71472f566ae7a40066a4326e5c8c6549d0ccaa8a53618c9d688c52c777fa4591"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__halfsolver/observations.npz",
+      "size_bytes": 498220,
+      "sha256": "e42ab9ef4d99fe0a35abd7dd250efd0534e4c6d2db373c200008c8a487bbb601"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__halfsolver/receipt.json",
+      "size_bytes": 498,
+      "sha256": "41b3a1b1c0dafa968aa3e0df4008e101661529820b19ef0c2c7543e6f05b54a4"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__halfsolver/summary.json",
+      "size_bytes": 2142,
+      "sha256": "e12df3a3f24d6e51d4311bbbae01ec43b515e2e79aedaf798bb720ac97034fd7"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__horizontal/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "4096baedadce03a9997c8861d2f7f7fbff1dc8575decbcbc22bc169da4bd0781"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__horizontal/observations.npz",
+      "size_bytes": 498027,
+      "sha256": "0583dfc8b6e6a168301a6f46f25c4064a70d268d94d23742c3918986ac4bc314"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__horizontal/receipt.json",
+      "size_bytes": 498,
+      "sha256": "a602ba3ec66e1fc4b49b103d3163d9cba781207923a6831a4f461e74cfc506f4"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__horizontal/summary.json",
+      "size_bytes": 2138,
+      "sha256": "57f87ea48b1eca39e83370b8beef767ec56c25b989090b678da7e5573a43fe5a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__screen/execution_resources.json",
+      "size_bytes": 125,
+      "sha256": "6ec9168258d2b7f7ec5382dcf41b7d9a9b77c669d4c23724cb3edf72851a409b"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__screen/observations.npz",
+      "size_bytes": 18699071,
+      "sha256": "00655c3cf10ef04fb2525a75de4ebba8838e934b8082d503070b5d7e52cd77b1"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__screen/receipt.json",
+      "size_bytes": 493,
+      "sha256": "3fd12366a2a7c54426295e4f96deacc3c2e672a57e1969f9171475dd51b9e53e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d0_primary__screen/summary.json",
+      "size_bytes": 42193,
+      "sha256": "592732b8f9cb61e477e756939d28f1e65c96a3dcb43dcca69feeabfce435d2b0"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__confirm/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "e3349f96636af62a9cb5f512e608a1cc583f2028b74317ee168628bd5c0912a6"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__confirm/observations.npz",
+      "size_bytes": 497769,
+      "sha256": "198030d72f196bd3de938b038b9eb1fe5095cbef1d6c08c722d8cfb1dfbaf627"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__confirm/receipt.json",
+      "size_bytes": 496,
+      "sha256": "b9e0340a1ce6db51a379ad85fb3768b3d3a65214b9a5bae9ac257cf76edeabd0"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__confirm/summary.json",
+      "size_bytes": 2147,
+      "sha256": "1428605649c96522f7e482a2a1443e03ea57f4800d7aeb362751f586a66486a4"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__screen/execution_resources.json",
+      "size_bytes": 127,
+      "sha256": "f3cef9cf7e1f62e18293e804683dfd369aab105d5c2fe5787c65549424407695"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__screen/observations.npz",
+      "size_bytes": 9346353,
+      "sha256": "dd5a3ee6bf257b0ecfe9423c60acb6ee4e462a3134b484f0ccee2fd944113bef"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__screen/receipt.json",
+      "size_bytes": 496,
+      "sha256": "56149f6ca22d44237c8aac6529aa61762fdf270fc662f6c16900d1136d5879b0"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x1_d180_primary__screen/summary.json",
+      "size_bytes": 23920,
+      "sha256": "a292550fa20b3d585f5d44658a00cc3bfb9af5fd054f0b1fb0bbe395674b129e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__confirm/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "58e81e09c87fafcc908d73a47d84a8eb6d9aafb4a9506ede56b0568779b60434"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__confirm/observations.npz",
+      "size_bytes": 497350,
+      "sha256": "648b7926b00192dca29b6a52f1c744b4aeed1983719ec465474d42fe22952e97"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__confirm/receipt.json",
+      "size_bytes": 496,
+      "sha256": "d2a43be411c976c6f2cdf9bd2669a5462551fdb48076d2627378dd658288cb8a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__confirm/summary.json",
+      "size_bytes": 2147,
+      "sha256": "178ac7b3abd7c5eefda4e853cc5713c922ddbd5230832b245b87de0be65cd3e5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__screen/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "db11dd4dd9773bd55c2c5f081c5f505e75f61622c3a1367b6c0302c4f07fe16a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__screen/observations.npz",
+      "size_bytes": 9373316,
+      "sha256": "0eab6ac3ab773ef9d6b36744bc487040df466d1d6fdbd62a6e3025ba4eca57be"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__screen/receipt.json",
+      "size_bytes": 496,
+      "sha256": "0e6825a8c893f266c537b33a6e47b5ce57bd83f180295f2ad5ad08c8d6dc1781"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d0_primary__screen/summary.json",
+      "size_bytes": 23926,
+      "sha256": "45a60e003a1f9b289ec6a29005e9327dc10cecb458b76b457be892c663a6b400"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__confirm/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "2a32ca27a1374fcae900ee2662ff6fa052354d9d40cad46a4900f982fdb4b23e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__confirm/observations.npz",
+      "size_bytes": 497440,
+      "sha256": "f84915708986fa137dc19e909d946fa507acfcdb3f5610419964ab6df8fed43c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__confirm/receipt.json",
+      "size_bytes": 500,
+      "sha256": "e3b5586ea7d7eed2e88e7f72e94571a3e74822640f760cd0d23e5240c1f24778"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__confirm/summary.json",
+      "size_bytes": 2153,
+      "sha256": "0269737d60ed8fa1de640b9ff0d0f4a64804296b3db455d949e0084364f6408c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__screen/execution_resources.json",
+      "size_bytes": 128,
+      "sha256": "6085cb1082e9fccbdc9b5c2ce43ce38ae3411a1c927cce07081a4bb57deb1c56"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__screen/observations.npz",
+      "size_bytes": 9372623,
+      "sha256": "0a94bf106e558cc6522b606b8258dc57825bf54e6eed07cc630bffd7d626a003"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__screen/receipt.json",
+      "size_bytes": 500,
+      "sha256": "e5e1843e6701586df38851b5351ae8d0f960a219574801d484d5aec7257945c4"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/frequency_x2.5_d180_primary__screen/summary.json",
+      "size_bytes": 23924,
+      "sha256": "fc3bc71d27779bf409ff6929549fa4a0bbda2d659decc799add3e568a5e047aa"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/stationary_x1_d0_primary__confirm/execution_resources.json",
+      "size_bytes": 129,
+      "sha256": "9cddafd70fbe565837930f4f99fcc6aed70a91f51d1882a51e8457af866d6531"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/stationary_x1_d0_primary__confirm/observations.npz",
+      "size_bytes": 291268,
+      "sha256": "f226f9a04f89f4a9b6d246ecea80d8f783b57be9ea80cdd353615b587a470ca4"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/stationary_x1_d0_primary__confirm/receipt.json",
+      "size_bytes": 494,
+      "sha256": "96c41f22716c3fe21e44b2ae2fda8ef02ce6ed756b5c87d99e6a55be88a88774"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/cases/stationary_x1_d0_primary__confirm/summary.json",
+      "size_bytes": 2002,
+      "sha256": "e0237f22368e9acfea745c2c9b894fcdec948645b5e0d1e142ce29a47cd723cf"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/complete_bilateral_asymmetry.csv",
+      "size_bytes": 566246,
+      "sha256": "da5ba727c8721c5dac535b9c318a94d204d880ac55fcfb1e52e4a6cdcf7f945b"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/complete_group_responses.csv",
+      "size_bytes": 947212,
+      "sha256": "866ab2cae8c1d24e11017342b2d7ef8fbb1e8feda75f4928fcd018273e066c1e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/complete_matched_factor_contrasts.csv",
+      "size_bytes": 29427,
+      "sha256": "d7e9a4a4c1886500ce700de8b736ab2d3b9315f511d01fb11c520b4c035e5247"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/complete_scores.csv",
+      "size_bytes": 16460,
+      "sha256": "9f6069cac3d76dc18be8d93eff09f27c6b3af166dc1d95b791155a3c1260046a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_r2/PHYSIOLOGICAL_FACTORIAL_SEARCH_CONCLUSION_R2.md",
+      "size_bytes": 4187,
+      "sha256": "ddd53c19e2b6c3719ef555939d0c00236f89f3031f08d7619c4838a06c5348c9"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_r2/PROJECT_PROGRESS_REPORT_2026-11-04.md",
+      "size_bytes": 543250,
+      "sha256": "19273decb887b69cf989d966fd5b029bdee583be35c36d46a9dbd28df2846abd"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_r2/seal_correction.json",
+      "size_bytes": 774,
+      "sha256": "6c35240b2c01800f0205d59afb9c80b05c5466e9deff7f56a591a8eb29010d73"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_r2/seal_physiological_factorial_search_r2.py",
+      "size_bytes": 8556,
+      "sha256": "91db4f612be2ec4ec6f61ab47273bbd804820350cc666119a85e670ede33266a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_v1/PHYSIOLOGICAL_FACTORIAL_SEARCH_REPORT_V1.md",
+      "size_bytes": 15941,
+      "sha256": "74844bfc67d7888a9e7ae17705414e2a95869928b69cbdde1cefd9e5c1eb0937"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_v1/PHYSIOLOGICAL_FEEDBACK_EVIDENCE_AUDIT_V1.md",
+      "size_bytes": 2972,
+      "sha256": "d76926a80d8ed7000e97044457e59c8337f710f0ad8dc4eafa8b6a9f57f38f53"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_v1/PROJECT_PROGRESS_REPORT_2026-11-04.md",
+      "size_bytes": 542398,
+      "sha256": "32ae8a8d1003e01161fa28c77b7ffda336def3e444ee7b915aa094e97a9ec60d"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_v1/artifact_index.json",
+      "size_bytes": 36048,
+      "sha256": "df445f35cd2836b1954ccc504196aceb8e24c307397a4f16a5a10508e9a639b5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_v1/completion.json",
+      "size_bytes": 545,
+      "sha256": "eca144a66f922116fbc6511305a117c9bbe77c18e7fcdce97a878f0a186cb52a"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/completion_v1/post_exit_integrity_v1.json",
+      "size_bytes": 515,
+      "sha256": "218b5a52430dc3e4d953b848bd767845771bddb337a9f5c4021540ce4086ce8d"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/conditional_expansion.json",
+      "size_bytes": 196,
+      "sha256": "5831becc1795845b21c22da7e43e1edc2d9f45585f083bdc020d2b67e6ead44c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/conditional_full_bank_review.json",
+      "size_bytes": 199,
+      "sha256": "cae94a74b9f53d118eb1e838868bcb407cf6ea3f4c2baf047e18dc74ad79f3c5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/confirmation_checks.json",
+      "size_bytes": 6293,
+      "sha256": "8b866e282b02e4bfdf106afacd8c69c3a5add5eb472562811072425c3f3512e5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/confirmation_scores.json",
+      "size_bytes": 12078,
+      "sha256": "a53cea6b27a489698748989203e0663ef7c60cc3ec734fccd0ea89d757e6ea9d"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/continuation_r2.log",
+      "size_bytes": 2986,
+      "sha256": "350343da4fbff1315b8182d31bf342f7f1d5360fe5a675841424835dcef8266d"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/continuation_r2_before_execution.json",
+      "size_bytes": 1373,
+      "sha256": "97b243d03c762df1a3f45dbe2ca232aed7602bb9fc04031a4defd661dc527df9"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/conversion_log.json",
+      "size_bytes": 54,
+      "sha256": "6379c17d798191f995d43b0950ea7787779fe29c9af7354b25de37a514ff207d"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/decision.json",
+      "size_bytes": 1050,
+      "sha256": "bf3d0e2f817e1d10f3f34e3bb286d4ae799ddf2ab061b924399d15744d3180ca"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/environment.json",
+      "size_bytes": 233,
+      "sha256": "ead176aa3bb4dbb0a05fa37791d9a004a2b4a286874091d132a63106fcbfe6a4"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/exact_visual_replay_review.json",
+      "size_bytes": 1183,
+      "sha256": "22a094e9e25bf7513f37125856744778f33993a94064bfb6054a28c5ce15c21b"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/execution.log",
+      "size_bytes": 4090,
+      "sha256": "6af200bd6598ed25846eb47026291f8447a1b8d2d8448c241a50772bad350a77"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/execution_complete.json",
+      "size_bytes": 258,
+      "sha256": "efae10efcec337eb81a73c31942dfddc41681b1cf0d2a68d72e168b0b3cf6831"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/execution_failure_v1.json",
+      "size_bytes": 2195,
+      "sha256": "14ae19542fb1f89989756e2aa517eb5922d3a64f8284141684eb261e79ed6aa4"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/exploratory_input_contribution_r2.json",
+      "size_bytes": 671,
+      "sha256": "c202a27a1289473a427a16636b053438109a255109776c3994dbe1ed687ac40e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/failures_v1/screen_scores_partial.json",
+      "size_bytes": 1302,
+      "sha256": "5579a3400d9648a51c24d51b8a06fbce941c724de309aa100f3be1b9a56ae53e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/feedback_source_audit/C2C3_Figure6_SourceCode1_T4T5_DS_Responses.m",
+      "size_bytes": 6184,
+      "sha256": "cd7f26a2cac281be8175c4cbfad03c2d9f12e5aa8eeea7bf9185f627e9d3186c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/feedback_source_audit/C2C3_README.md",
+      "size_bytes": 2379,
+      "sha256": "8bdd7f4b5a7ccc363256a536708bc98e45a9b4180736cde1fe6343b563c9a688"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/feedback_source_audit/C2C3_file_manifest.json",
+      "size_bytes": 82808,
+      "sha256": "5fafee60698b55158dcbca7809c85fa214d9ebd6e5327a0ca4e126259efe19dc"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/feedback_source_audit/L1L2_computational-model__Simulation.ipynb",
+      "size_bytes": 11316,
+      "sha256": "f93c79e6d5ca778dd4ef9686a0defa056e49972e149dd85c9555ac7a72a7c529"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/feedback_source_audit/L1L2_file_manifest.json",
+      "size_bytes": 131545,
+      "sha256": "15f569041595e1326543911693f1933288e11fca6129b6ccb71119d79e83a560"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/feedback_source_audit/retrieval_review.json",
+      "size_bytes": 1422,
+      "sha256": "c3142a7fed0f0f600ff1b91d0576b021a63b3e769e4043c3df8a7290ac094f0b"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/frequency_contrast_tradeoffs.png",
+      "size_bytes": 72522,
+      "sha256": "2ae9b2c73e3e77ef6bbd5ec26ca09200fa4c28d869c79b860412d713cf779ecb"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/independent_review.json",
+      "size_bytes": 766,
+      "sha256": "b778e67de7dc96146684a40ac73c8d7c6b3f293e2b5e4d85ee073ec1dd91a778"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/conversion_review.json",
+      "size_bytes": 1064,
+      "sha256": "7325375f818b01355a682d53a0e5c6ec3f2f2f18cf426eacab7afc753f8034cd"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/kernel_200.mat",
+      "size_bytes": 14080,
+      "sha256": "380b631e904c6cde2e4da4646bc0f3ef943d76f8ca98330fceb584d354de06f5"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/kernels/kernel_300.mat",
+      "size_bytes": 14080,
+      "sha256": "acae991885386dca7117c42949674f906d367af7c3f6506ab15e5c3ac9952bbc"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/matched_input_omission_contrasts.csv",
+      "size_bytes": 124676,
+      "sha256": "f043519d2391bc666b2421f98aaa1eade54ff216f47ac736892571f227809dc8"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/methods/packed.so",
+      "size_bytes": 20496,
+      "sha256": "c63b16af9de52510309ed4079de7f1e5f8b26aab3ad3ac03390940042532fa44"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/models.json",
+      "size_bytes": 19179,
+      "sha256": "f2659e3087d4629e6d0cdd66e7cd65d089e9c1f0832b7b32471f2248631445b9"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/plans.json",
+      "size_bytes": 1355,
+      "sha256": "48457ce4fe7dac94242b8de973eabfd909504e15aa9968c34b4528481ac9dd5e"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/report_writer.log",
+      "size_bytes": 25,
+      "sha256": "fc0aa91d31306e28872b69e28225c2664a1bca5ea96edde29217f6351181d35c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/reporting_sources/audit_feedback_sources_v1.py",
+      "size_bytes": 2367,
+      "sha256": "4c261f9b9006a18f44f86a2e2f318a9e6cb42a77c6d146696ab0e74401e697af"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/reporting_sources/continue_physiological_factorial_search_r2.py",
+      "size_bytes": 4275,
+      "sha256": "a144b401889679654523da583f621d84c2a909d0201011f40622c97e662c349c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/reporting_sources/report_physiological_factorial_search_v1.py",
+      "size_bytes": 38131,
+      "sha256": "a0c6605a1163335ee909640846e4636d95cca36f6d4161e8feb8660f10f55793"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/screen_complete.json",
+      "size_bytes": 119,
+      "sha256": "ee54e663836c29606305f107c14acf1ccd21653f8f3a57b91e6df7eb18f1a8fd"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/screen_numerical_checks.json",
+      "size_bytes": 50833,
+      "sha256": "a7973fd750e3bc111b1c2af47fe4a68faf3d94fe26736a558b0ad7304e0c4277"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/screen_scores.json",
+      "size_bytes": 116087,
+      "sha256": "a2fcdb0bd61c42b6ec60d11712a32ab269b7e02ceb8d51541522d1f2eafa99ab"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/selection.json",
+      "size_bytes": 2855,
+      "sha256": "9a8ab3d69bf853fd2f2115cb8752305a6d57cf3cab3348627d228c4e35a37977"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/source_controls/complete_responses.csv",
+      "size_bytes": 967557,
+      "sha256": "54e79de550cdfbf862643bf5a178dabfb033e23786da60ed884dab0d074b0753"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/source_controls/curves.npz",
+      "size_bytes": 204799,
+      "sha256": "c75d220d9052b234ace80c94582047025731b0700479ace32dc58d4d1afba172"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/source_controls/gates.json",
+      "size_bytes": 71612,
+      "sha256": "9059509373ae186fc566423f165764a9718d8bbc89e685b07df66da71fbd579f"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/source_controls/original_source_parity.json",
+      "size_bytes": 77,
+      "sha256": "f6075c0318db466097ed7d84db1332f9180893a77766138552bafd6cedf3ff2c"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/source_controls/resources.json",
+      "size_bytes": 127,
+      "sha256": "8db8a732d10e426743465420cc430b27f2129f70468b2854962db06d933fa016"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/strict_finalist_frequency_curves.png",
+      "size_bytes": 158439,
+      "sha256": "cf1ab032e4f15ce9a1ccf4b37d9110fba906103a5ddb9477fd0ac5bc94942254"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/synthetic_backend_review.json",
+      "size_bytes": 1618,
+      "sha256": "8cc105d16c5e13e359b7d222e8b93004707b19656d6676ac7c9baaf1389b5eff"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/synthetic_guard_review.json",
+      "size_bytes": 186,
+      "sha256": "657267281f4bfeb33e7b3cec5219062c4e7b839c7135341c516fa792ba174b8b"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/synthetic_stress_review.json",
+      "size_bytes": 532,
+      "sha256": "ad4424304ad9a9a0d2f44096d382e27fcedc2839d20e50ef3719804f2670d6fb"
+    },
+    {
+      "path": "results/physiological_factorial_search_v1/test_review.json",
+      "size_bytes": 247,
+      "sha256": "b77c0c931cab97ea6d74a82f949f4913070d4c3337529bcea3f14a4a796a30c4"
+    }
+  ]
+}

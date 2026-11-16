@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-19T13:58:13.799187+00:00",
+  "all_sampler_checkpoints_verified": true,
+  "maximum_retinal_error": 0.0,
+  "maximum_final_current_error": 7.047314121155779e-19,
+  "stationary_source_maximum": 0.0,
+  "independent_source_cases": 8,
+  "source_channel_samples": 4345280,
+  "maximum_channel_error": 3.3297896523398762e-09,
+  "maximum_delay_error": 4.440892098500626e-16,
+  "maximum_angular_flow_error_rad_s": 4.0123468991737354e-09,
+  "maximum_scalar_depth_error_mm": 0.0,
+  "original_python_trials": 24,
+  "maximum_python_rate_error": 3.469446951953614e-18,
+  "maximum_python_final_state_error": 3.2526065174565133e-19,
+  "solver_only": [
+    {
+      "yaw": 0.0,
+      "maximum_rate_change": 8.583508975821066e-06
+    },
+    {
+      "yaw": 2.0,
+      "maximum_rate_change": 8.109896768959072e-06
+    },
+    {
+      "yaw": -2.0,
+      "maximum_rate_change": 9.041412883220665e-06
+    },
+    {
+      "yaw": 40.0,
+      "maximum_rate_change": 8.120529221264166e-06
+    }
+  ],
+  "biological_validation": false
+}

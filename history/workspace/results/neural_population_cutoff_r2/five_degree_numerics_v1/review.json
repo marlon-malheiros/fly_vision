@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "comparison_rows": 54,
+  "new_numerical_pass": true,
+  "old_81_numerical_pass": true,
+  "total_comparisons": 135,
+  "five_degree_behavior_pass": true,
+  "secondary_five_degree_qualified": true,
+  "original_two_degree_target_qualified": false,
+  "maximum_score_error": 0.1777534994646155,
+  "max_independent_error": 2.5757174171303632e-14,
+  "primary_and_fine_scores_independently_checked": true,
+  "physiological_validation": false
+}

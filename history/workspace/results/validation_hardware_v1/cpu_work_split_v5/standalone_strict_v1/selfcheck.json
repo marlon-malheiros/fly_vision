@@ -1,0 +1,383 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "case": "s01_v16.5_y+0",
+      "numerical_pass": true,
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "intermediate_wide_rate_max_error": 8.673617379884035e-19,
+      "source_states_bit_identical_to_batched": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.08806176199868787,
+        "first_frame_processing_s": 0.0016218109958572313,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 5.987925993395038,
+          "p95_ms": 6.295960745774209,
+          "p99_ms": 6.5176539384992775,
+          "maximum_ms": 8.425616993918084,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 12.039539506076835,
+          "p95_ms": 12.414570849068696,
+          "p99_ms": 13.088420418789596,
+          "maximum_ms": 15.056076008477248,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -9.158884922903608,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 5.593546657790044,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -7.869968405647621,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -7.904225361166492,
+            "decision": 0,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 0.35821490474062223,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846486232653e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.9978770351084854,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790625641917e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 0.029268692139458707,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014718365675e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": -0.9874582983023492,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.655869764353788e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 0
+          }
+        },
+        "peak_process_rss_bytes": 189673472,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "case": "s01_v16.5_y+20",
+      "numerical_pass": true,
+      "published_rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 5.421010862427522e-20,
+      "intermediate_wide_rate_max_error": 8.673617379884035e-19,
+      "source_states_bit_identical_to_batched": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.07116646399663296,
+        "first_frame_processing_s": 0.001586220008903183,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.007317999319639,
+          "p95_ms": 6.394224941323045,
+          "p99_ms": 6.621997978363652,
+          "maximum_ms": 8.246159995906055,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 12.076305494701955,
+          "p95_ms": 12.615654300316235,
+          "p99_ms": 13.177375140221555,
+          "maximum_ms": 14.618911998695694,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": 15.420213508303227,
+            "decision": 1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": -5.21318274878797,
+            "decision": -1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": 13.957339759264018,
+            "decision": 1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": 13.898666275968612,
+            "decision": 1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 6.6195434901402415,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117846931126807e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 1.6175131261064117,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.1248790598615438e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 6.116640045755855,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014750470221e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 5.006982616499771,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698069468524e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          }
+        },
+        "peak_process_rss_bytes": 305483776,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    },
+    {
+      "case": "s01_v16.5_y-20",
+      "numerical_pass": true,
+      "published_rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "intermediate_wide_rate_max_error": 7.66357463599654e-15,
+      "source_states_bit_identical_to_batched": true,
+      "runtime": {
+        "schema": "cpu_camera_replay_v5",
+        "backend": "portable_linux_cpu",
+        "solver_dt": 0.001,
+        "execution_scheduling": "split",
+        "initialization_s": 0.0682753809960559,
+        "first_frame_processing_s": 0.001616042005480267,
+        "frame_processing": {
+          "count": 400,
+          "median_ms": 6.045062997145578,
+          "p95_ms": 6.392832201527198,
+          "p99_ms": 6.6630960209295145,
+          "maximum_ms": 7.29659698845353,
+          "budget_ms": 5.0,
+          "missed_deadlines": 400
+        },
+        "paired_update_processing": {
+          "count": 200,
+          "median_ms": 12.116727499233093,
+          "p95_ms": 12.69591843811213,
+          "p99_ms": 13.272381752758518,
+          "maximum_ms": 13.453256018692628,
+          "budget_ms": 10.0,
+          "missed_deadlines": 200
+        },
+        "libraries": {
+          "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+          "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+          "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+        },
+        "calibration_status": "SYNTHETIC_TEST_ONLY",
+        "calibration_arrays_sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe",
+        "calibration_manifest_sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49",
+        "episode_detection": {
+          "hs": {
+            "score_deg_s": -28.650288924874033,
+            "decision": -1,
+            "cutoff": 8.800670018162986
+          },
+          "h2": {
+            "score_deg_s": 8.671443462289398,
+            "decision": 1,
+            "cutoff": 3.5956696226815583
+          },
+          "bips": {
+            "score_deg_s": -26.355306387435956,
+            "decision": -1,
+            "cutoff": 7.840699713508163
+          },
+          "dnp15": {
+            "score_deg_s": -26.295442852432537,
+            "decision": -1,
+            "cutoff": 8.89168365946884
+          }
+        },
+        "numerical_cutoff_annotations": {
+          "hs": {
+            "signed_distance_to_cutoff_deg_s": 19.849618906711047,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 1.9117847871180205e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "h2": {
+            "signed_distance_to_cutoff_deg_s": 5.075773839607839,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.124879084433964e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": 1
+          },
+          "bips": {
+            "signed_distance_to_cutoff_deg_s": 18.514606673927794,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 5.085014838563072e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          },
+          "dnp15": {
+            "signed_distance_to_cutoff_deg_s": 17.403759192963697,
+            "assumed_per_cell_rate_error": 1e-10,
+            "conditional_score_error_bound_deg_s": 3.6558698950312476e-06,
+            "ambiguous_within_assumed_numerical_bound": false,
+            "frozen_decision_unchanged": -1
+          }
+        },
+        "peak_process_rss_bytes": 307924992,
+        "scope": "Unpaced camera replay; same100Hz outputs,5ms frames and1ms solver; acquisition/file IO excluded",
+        "physical_camera_tested": false,
+        "robot_tested": false,
+        "physiologically_validated": false
+      }
+    }
+  ],
+  "build": {
+    "commands": {
+      "neural": [
+        "g++",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-shared",
+        "-fPIC",
+        "<TEMP>/male_optic_cpu_work_split_v5/package/original_runtime_cpu_v5/src/male_optic_frontend/streaming_core_v1.cpp",
+        "-o",
+        "<TEMP>/male_optic_cpu_work_split_v5/strict/libraries/neural_cpu.so"
+      ],
+      "frontend": [
+        "g++",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-shared",
+        "-fPIC",
+        "<TEMP>/male_optic_cpu_work_split_v5/package/original_runtime_cpu_v5/src/male_optic_frontend/deployment_frontend_v3.cpp",
+        "-o",
+        "<TEMP>/male_optic_cpu_work_split_v5/strict/libraries/frontend_cpu.so"
+      ],
+      "projection": [
+        "g++",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-shared",
+        "-fPIC",
+        "<TEMP>/male_optic_cpu_work_split_v5/package/original_runtime_cpu_v5/src/male_optic_frontend/sensor_projection_v2.cpp",
+        "-o",
+        "<TEMP>/male_optic_cpu_work_split_v5/strict/libraries/projection_cpu.so"
+      ]
+    },
+    "threads": 1,
+    "approximate_activation": false,
+    "solver_dt": 0.001,
+    "libraries": {
+      "neural_cpu.so": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780",
+      "frontend_cpu.so": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015",
+      "projection_cpu.so": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+    },
+    "native_architecture_flags": false,
+    "gpu_required": false
+  },
+  "reset_during_prefix_bit_identical": true,
+  "rejected_inputs": [
+    {
+      "name": "missing_frame",
+      "error": "Dropped frame, drift or off-clock camera sample"
+    },
+    {
+      "name": "repeated_frame",
+      "error": "Camera frame timestamps repeated or reordered"
+    },
+    {
+      "name": "wrong_dtype",
+      "error": "Raw camera shape/dtype differs from calibration"
+    },
+    {
+      "name": "uncalibrated_mode",
+      "error": "Camera acquisition mode differs from photometric calibration"
+    },
+    {
+      "name": "off_clock",
+      "error": "Input must be resampled onto the declared frontend clock"
+    },
+    {
+      "name": "unsupported_2ms_solver",
+      "error": "Work splitting preserves the original 1-ms solver"
+    }
+  ],
+  "solver_dt": 0.001,
+  "physical_camera_validated": false,
+  "physiological_validation": false,
+  "hard_real_time_certified": false
+}

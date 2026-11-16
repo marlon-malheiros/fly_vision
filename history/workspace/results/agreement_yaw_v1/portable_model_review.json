@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "frozen_model_unchanged": true,
+  "replay": {
+    "path": "results/agreement_yaw_v1/portable_replay.npz",
+    "size_bytes": 3238,
+    "sha256": "c4ccde4c247b4b2eaa1f66134977d1035482edee5aedd277d64365e1374b3492"
+  },
+  "maximum_support_error": 2.220446049250313e-16,
+  "movement_labels_used": false,
+  "physical_deployment_validated": false
+}

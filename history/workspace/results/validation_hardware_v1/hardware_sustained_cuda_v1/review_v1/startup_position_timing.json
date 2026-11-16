@@ -1,0 +1,21 @@
+{
+  "scope": "post_score_descriptive_split; original_deadline_gate_unchanged",
+  "groups": [
+    {
+      "group": "First update of each reset episode",
+      "updates": 1500,
+      "median_ms": 8.981581500847824,
+      "p95_ms": 9.666425503382925,
+      "maximum_ms": 12.248981001903303,
+      "missed_10ms": 41
+    },
+    {
+      "group": "Other updates",
+      "updates": 58500,
+      "median_ms": 8.847970493661705,
+      "p95_ms": 9.555489704507634,
+      "maximum_ms": 20.856466013356112,
+      "missed_10ms": 1055
+    }
+  ]
+}

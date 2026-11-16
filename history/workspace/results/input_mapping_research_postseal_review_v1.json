@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "entries": 119,
+  "bytes": 3998535750,
+  "index": {
+    "path": "results/input_mapping_research_audit_v1/completion_v1/artifact_index.json",
+    "size_bytes": 24815,
+    "sha256": "73e840c6cd10a37b8242cece6147d81a805694fc52897f425412201afd13d345"
+  },
+  "all_indexed_files_match_after_sealer_exit": true,
+  "live_progress_and_instructions_excluded": true,
+  "neural_correction_justified": false,
+  "physiological_validation": false,
+  "new_detection_threshold": false
+}

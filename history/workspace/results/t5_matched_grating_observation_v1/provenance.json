@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-12T01:04:18.020142+00:00",
+  "cell": 7,
+  "iteration": 52,
+  "acquisition_hashes_match": true,
+  "fitting_protocols": [
+    0
+  ],
+  "fitting_trials": 44,
+  "fitting_width_two_trials": 24,
+  "fitting_width_two_samples": 3748,
+  "all_fitting_traces_bitwise_in_full_dataset": true,
+  "archived_objective_mse_mv2": 1.603445030028503,
+  "stored_objective_mse_mv2": 1.603445030028504,
+  "archived_full_fitting_mse_mv2": 3.0180017492277043,
+  "stored_full_fitting_mse_mv2": 3.0180017492277096,
+  "exact_objective_mse_mv2": 1.609316975149141,
+  "exact_full_fitting_mse_mv2": 3.020004468169738,
+  "grating_samples_in_audited_objective": 0,
+  "stimulus_held_out_relative_to_audited_objective": true,
+  "independent_cell_validation": false,
+  "selected_example": "Published plotting script explicitly specifies cell 7 / iteration 52",
+  "author_example_selection_history_available": false,
+  "whole_ensemble_e0_definition_verified": false,
+  "fully_blind_parameter_selection_established": false,
+  "new_grating_scores_inspected": false,
+  "limitations": [
+    "Author choice of published example not independently reconstructed",
+    "Full optimization/model-report production history unavailable",
+    "No independent cells or repeat-level physiological uncertainty in this study"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "status": "MEASURED_SAME_CLOCK_NUMERICAL_CHECKS_PASS",
+  "records": [
+    {
+      "implementation": "serial_strict",
+      "repeat": 0,
+      "maximum_rate_difference": 4.336808689942018e-19,
+      "median_ms": 17.947902000742033,
+      "p95_ms": 19.6150393505377,
+      "p99_ms": 24.25999734070501,
+      "maximum_ms": 26.963592004904058,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "serial_activation_accelerated",
+      "repeat": 0,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "median_ms": 16.359017998183845,
+      "p95_ms": 17.902979953942122,
+      "p99_ms": 20.738305538616256,
+      "maximum_ms": 22.325767000438645,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "unrolled_portable",
+      "repeat": 0,
+      "maximum_rate_difference": 1.734723475976807e-18,
+      "median_ms": 17.089615001168568,
+      "p95_ms": 19.638078705247594,
+      "p99_ms": 27.466300348532965,
+      "maximum_ms": 29.518299001210835,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "unrolled_native",
+      "repeat": 0,
+      "maximum_rate_difference": 1.734723475976807e-18,
+      "median_ms": 17.355971496726852,
+      "p95_ms": 20.103841750096763,
+      "p99_ms": 20.534145317287766,
+      "maximum_ms": 20.550529996398836,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "serial_strict",
+      "repeat": 1,
+      "maximum_rate_difference": 4.336808689942018e-19,
+      "median_ms": 18.333103504119208,
+      "p95_ms": 21.555980105040362,
+      "p99_ms": 23.249986861046636,
+      "maximum_ms": 24.23225100210402,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "serial_activation_accelerated",
+      "repeat": 1,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "median_ms": 15.955036997183925,
+      "p95_ms": 18.804669247401755,
+      "p99_ms": 22.20510189050401,
+      "maximum_ms": 23.13624600355979,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "unrolled_portable",
+      "repeat": 1,
+      "maximum_rate_difference": 1.734723475976807e-18,
+      "median_ms": 17.153836000943556,
+      "p95_ms": 19.042828895908308,
+      "p99_ms": 21.392100580051192,
+      "maximum_ms": 21.642120998876635,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "unrolled_native",
+      "repeat": 1,
+      "maximum_rate_difference": 1.734723475976807e-18,
+      "median_ms": 17.223527498572366,
+      "p95_ms": 21.705143053259235,
+      "p99_ms": 23.350728091681958,
+      "maximum_ms": 24.226890003774315,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "serial_strict",
+      "repeat": 2,
+      "maximum_rate_difference": 4.336808689942018e-19,
+      "median_ms": 17.58621450062492,
+      "p95_ms": 21.538609396520766,
+      "p99_ms": 23.695924870989984,
+      "maximum_ms": 24.482034998072777,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "serial_activation_accelerated",
+      "repeat": 2,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "median_ms": 16.17779950174736,
+      "p95_ms": 17.495599749236135,
+      "p99_ms": 18.243861716546235,
+      "maximum_ms": 18.533573995227925,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "unrolled_portable",
+      "repeat": 2,
+      "maximum_rate_difference": 1.734723475976807e-18,
+      "median_ms": 17.550780004967237,
+      "p95_ms": 18.20168220583582,
+      "p99_ms": 20.282903949919273,
+      "maximum_ms": 21.117814001627266,
+      "missed_10ms": 40,
+      "samples": 40
+    },
+    {
+      "implementation": "unrolled_native",
+      "repeat": 2,
+      "maximum_rate_difference": 1.734723475976807e-18,
+      "median_ms": 17.551378499774728,
+      "p95_ms": 19.264891698185235,
+      "p99_ms": 21.334110278185108,
+      "maximum_ms": 21.89951200125506,
+      "missed_10ms": 40,
+      "samples": 40
+    }
+  ],
+  "builds": [
+    {
+      "label": "unrolled_portable",
+      "command": [
+        "g++",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v4.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v4/unrolled_portable.so"
+      ]
+    },
+    {
+      "label": "unrolled_native",
+      "command": [
+        "g++",
+        "-march=native",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v4.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v4/unrolled_native.so"
+      ]
+    }
+  ],
+  "initial_affinity": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "measured_affinity": [
+    0
+  ],
+  "load_average": [
+    4.404296875,
+    4.421875,
+    4.525390625
+  ],
+  "platform": "Linux-7.2.11-200.fc44.x86_64-x86_64-with-glibc2.43",
+  "peak_rss_bytes": 121868288,
+  "scope": "same_single_logical_CPU_with_concurrent_study_workers; acquisition/rendering_excluded",
+  "hard_real_time_guarantee": false,
+  "physical_camera_tested": false,
+  "solver_dt": 0.001
+}

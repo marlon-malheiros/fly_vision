@@ -1,0 +1,9 @@
+{
+  "stage": "seal",
+  "status": "FAIL",
+  "source_commit": "459d459",
+  "exception": "NameError: name 'Path' is not defined",
+  "location": "construction of archival source list, before source copying or artifact indexing",
+  "numerical_results_changed": false,
+  "correction": "Import pathlib.Path in the archive tool; preserve this first attempt and rerun into a fresh completion directory."
+}

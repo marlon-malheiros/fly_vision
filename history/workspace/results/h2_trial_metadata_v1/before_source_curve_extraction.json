@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2026-10-25T10:40:30.295883+00:00",
+  "files": {
+    "scripts/h2_spike_curves_v1.py": "dd80eee20446fce93ef81200c41f82c050ab52a52a1b4f99bb31a8ee5eed0491",
+    "docs/H2_SOURCE_CURVE_EXTRACTION_PROTOCOL_V1.md": "d0c31de33ab2367466838b9383e035e4b8164d6f496c8a09e43e7e2a01554670"
+  },
+  "no_spike_rate_endpoints_inspected": true,
+  "requires": "Metadata extraction and independent review PASS",
+  "windows_tests_sha256": "b6b4db3c039ae1228cd810d166f8e22392df856f724cf66ef97b33bf3430aa60"
+}

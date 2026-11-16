@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "files_checked": 30,
+  "bytes_checked": 1662819,
+  "index_sha256": "0c033d288c09d9928b6d2c22fa37c1de3d06bd28775e97dff356ff046bdeb394",
+  "failures": [],
+  "scope": "new technical comparison only, excluding intentional legacy movie retirements"
+}

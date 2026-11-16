@@ -1,0 +1,345 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "key": "aligned_100_202610279100_yaw",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_yaw",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_yaw",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_yaw",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_yaw",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_yaw",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_translation",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_translation",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 2.7755575615628914e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_translation",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_translation",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_translation",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_translation",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 2.7755575615628914e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_left",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_left",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_left",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_left",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_left",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_left",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_right",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_right",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_right",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_right",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_right",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279100_right",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_yaw",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_yaw",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_yaw",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_yaw",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_yaw",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_yaw",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_translation",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_translation",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_translation",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_translation",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_translation",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_translation",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_left",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_left",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_left",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_left",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_left",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_left",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_right",
+      "variant": "intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_right",
+      "variant": "h2_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_right",
+      "variant": "hs_to_bips_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_right",
+      "variant": "bips_to_dnp15_cut",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_right",
+      "variant": "expanded_intact",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    },
+    {
+      "key": "aligned_100_202610279101_right",
+      "variant": "expanded_new_silent",
+      "python_checkpoint_maximum_error": 1.3877787807814457e-17,
+      "inputs_unchanged": true,
+      "intervention_mask_verified": true
+    }
+  ],
+  "maximum_error": 2.7755575615628914e-17,
+  "independent_python_RK4_intervals": 48,
+  "current_decompositions": 672,
+  "all_baselines_match_parent_exactly": true
+}

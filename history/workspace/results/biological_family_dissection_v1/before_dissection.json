@@ -1,0 +1,134 @@
+{
+  "utc": "2026-10-28T01:21:47.373177+00:00",
+  "files": [
+    {
+      "path": "scripts/biological_family_dissection_v1.py",
+      "size_bytes": 7402,
+      "sha256": "1eed0f2cf6f2ba612f920c46147e3691f0be8f8ff41da0fa7d08635391f96283"
+    },
+    {
+      "path": "configs/biological_family_dissection_v1.json",
+      "size_bytes": 1143,
+      "sha256": "e1cd7527cafdb42abb9f491ec00633878b7fbd5b552daac81e58f9b969284abc"
+    },
+    {
+      "path": "docs/BIOLOGICAL_FAMILY_DISSECTION_PROTOCOL_V1.md",
+      "size_bytes": 6810,
+      "sha256": "d83dcdcace54eb3ae5016294efe668fcc9cb365ee65ca1aaeb259db7f70fe04b"
+    },
+    {
+      "path": "scripts/review_biological_family_dissection_v1.py",
+      "size_bytes": 6432,
+      "sha256": "9a9c43174e324c2757f2f9e0824d86d56bf061da9c081daccd1b254f306bb2e6"
+    },
+    {
+      "path": "scripts/audit_dnp15_family_dissection_v1.py",
+      "size_bytes": 6996,
+      "sha256": "948e750a3e533f5ee4a134281b9d982929a89b7d8d45405cd10e5dc2b47bcd7d"
+    },
+    {
+      "path": "scripts/biological_failure_localization_v1.py",
+      "size_bytes": 24931,
+      "sha256": "8fbfa1dcbbd55f4b021779981182815affb96f3d33835ba9a91a69a2edb2eb40"
+    },
+    {
+      "path": "scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "scripts/review_biological_failure_localization_v1.py",
+      "size_bytes": 21399,
+      "sha256": "4d3517186f0743291bb5ff04fb60ec54d2e808ab9d6ee336725211d05d355df9"
+    },
+    {
+      "path": "scripts/review_biological_selectivity_v1.py",
+      "size_bytes": 9076,
+      "sha256": "a3f5ba2f9f1cc277e286d21457a818bdd0c4c54188d0c84d326b2070d207f9c7"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "src/male_optic_frontend/biological_failure_localization_v1.py",
+      "size_bytes": 3234,
+      "sha256": "b45099a951ae67db4bf3989bd47b175e8e1a795ff9d4a8a5cf3dbbe013e0b197"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/plans.json",
+      "size_bytes": 1087,
+      "sha256": "42b05ffbc751dcaf6747583e6a0889baa366de6d49fc79c81a47d9a014d2e36b"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/observations.json",
+      "size_bytes": 112459,
+      "sha256": "8248f3312b33e74c9b9e3b49cf92da63145517d53692cf88828d84e7bff69e9a"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/parent_inputs.json",
+      "size_bytes": 75121,
+      "sha256": "74332e377744918b5b2b8a4a837b0e46cce9e5ada7cd511b25253ea6fc879f51"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/methods/neural.so",
+      "size_bytes": 16464,
+      "sha256": "ad5d0849198c2b7fc583fedb0fc8809a769a011d7b9fd2f88016b7ac2e1e1780"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/methods/reference.so",
+      "size_bytes": 16472,
+      "sha256": "3c1b94aaca0725acd9a379defda525166b9edd300776393d24444ee27567bd23"
+    },
+    {
+      "path": "results/biological_family_dissection_v1/preflight_review.json",
+      "size_bytes": 580,
+      "sha256": "1cf5cb77f7d2fd061a7471312eb68ac7dd79a7d89d691726b834ad5f7068bb7f"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/graph.json",
+      "size_bytes": 1376,
+      "sha256": "e4edb43cca309d9ad28717de4a2eb3de8047062978f0e5b9dbf84f624804c9c1"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/graph_arrays.npz",
+      "size_bytes": 64772,
+      "sha256": "1f59dedc65c4eb8d2f7884dc4df17284611f185ef05299a42a130ca3d44fde66"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/chemical_weights.npz",
+      "size_bytes": 638376,
+      "sha256": "0dacd787df2d1e43c9e6b351b7e287052d3ebcf489e5732a65ac199fd01b702e"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/graph/gap_weights.npz",
+      "size_bytes": 1042,
+      "sha256": "8dbe77c9f81a583e2aeea53601d170da73b51502f24bb30dde0878730d95df29"
+    },
+    {
+      "path": "<HOME>/Lab/mech_male_fly_cns/data/raw/erginkaya-2025/code/scripts/matlab/PaperFiguresImaging.m",
+      "size_bytes": 375695,
+      "sha256": "19983ab9378bce5ec975be07fe11dfd08ae246c52dd4213338b5e6817b9f7d17"
+    }
+  ],
+  "new_single_family_outcomes_computed": false,
+  "new_DNp15_diagnostics_computed": false,
+  "previous_data_and_joint_effects_known": true,
+  "circuit_selection": false
+}

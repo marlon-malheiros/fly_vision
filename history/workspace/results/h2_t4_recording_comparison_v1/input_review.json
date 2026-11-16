@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "checked_native_positions": 2640,
+  "max_absolute_contrast_error": 6.938893903907228e-17,
+  "scope": "input sampling and exact hold only; no neural or biological outcome"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "files": 1663,
+  "bytes": 126246589,
+  "index": {
+    "path": "results/small_turn_round_v1/completion_v1/artifact_index.json",
+    "size_bytes": 323299,
+    "sha256": "d14696c25dfbbf1ef55933ec5753fe0a0a64e90c39a3253717e14664ba6ea376"
+  },
+  "receipt_outside_index": true
+}

@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "kernel": "strict",
+      "status": "PASS",
+      "complete_traces": 18,
+      "hard_fault_checks": 24
+    },
+    {
+      "kernel": "parallel4",
+      "status": "PASS",
+      "complete_traces": 18,
+      "hard_fault_checks": 24
+    }
+  ],
+  "all_neural_parameters_unchanged": true,
+  "performance_measured": false,
+  "physical_camera_validated": false,
+  "physiological_validation": false
+}

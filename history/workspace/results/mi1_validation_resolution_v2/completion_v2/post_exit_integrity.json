@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/mi1_validation_resolution_v2/completion_v2/artifact_index.json",
+    "bytes": 8013,
+    "sha256": "b1fa2f4f2101fe4b786cf7f4421e72601a8d4805804da138d4c5d093323a1178"
+  },
+  "verified_after_sealer_exit": true
+}

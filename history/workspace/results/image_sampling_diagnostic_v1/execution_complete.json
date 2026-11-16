@@ -1,0 +1,579 @@
+{
+  "status": "PASS",
+  "completed_inputs": [
+    {
+      "scene": "s07",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "key": "s07_v0_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v0_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v0_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v0_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v0_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v0_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "key": "s07_v5.5_y-2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-2/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "key": "s07_v5.5_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "key": "s07_v5.5_y+2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+2/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "key": "s07_v5.5_y+5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+5/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "key": "s07_v5.5_y-5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-5/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 5.5,
+      "yaw": -20.0,
+      "key": "s07_v5.5_y-20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y-20/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 5.5,
+      "yaw": 20.0,
+      "key": "s07_v5.5_y+20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v5.5_y+20/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "key": "s07_v11_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "key": "s07_v11_y-2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-2/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "key": "s07_v11_y+2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+2/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "key": "s07_v11_y-5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-5/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "key": "s07_v11_y+5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+5/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 11.0,
+      "yaw": -20.0,
+      "key": "s07_v11_y-20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y-20/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 11.0,
+      "yaw": 20.0,
+      "key": "s07_v11_y+20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v11_y+20/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "key": "s07_v16.5_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "key": "s07_v16.5_y-2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-2/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "key": "s07_v16.5_y+2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+2/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "key": "s07_v16.5_y-5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-5/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "key": "s07_v16.5_y+5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+5/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 16.5,
+      "yaw": -20.0,
+      "key": "s07_v16.5_y-20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y-20/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "key": "s12_v0_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v0_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v0_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v0_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v0_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v0_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s07",
+      "speed": 16.5,
+      "yaw": 20.0,
+      "key": "s07_v16.5_y+20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s07_v16.5_y+20/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "key": "s12_v5.5_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "key": "s12_v5.5_y-2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-2/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "key": "s12_v5.5_y+2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+2/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "key": "s12_v5.5_y-5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-5/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "key": "s12_v5.5_y+5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+5/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 5.5,
+      "yaw": -20.0,
+      "key": "s12_v5.5_y-20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y-20/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 5.5,
+      "yaw": 20.0,
+      "key": "s12_v5.5_y+20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v5.5_y+20/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "key": "s12_v11_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "key": "s12_v11_y-2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-2/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "key": "s12_v11_y+2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+2/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "key": "s12_v11_y-5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-5/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "key": "s12_v11_y+5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+5/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 11.0,
+      "yaw": -20.0,
+      "key": "s12_v11_y-20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y-20/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 11.0,
+      "yaw": 20.0,
+      "key": "s12_v11_y+20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v11_y+20/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "key": "s12_v16.5_y+0",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+0/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+0/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+0/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+0/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+0/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "key": "s12_v16.5_y-2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-2/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "key": "s12_v16.5_y+2",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+2/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+2/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+2/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+2/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+2/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "key": "s12_v16.5_y-5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-5/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "key": "s12_v16.5_y+5",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+5/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+5/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+5/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+5/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+5/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 16.5,
+      "yaw": -20.0,
+      "key": "s12_v16.5_y-20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y-20/p0125"
+      ]
+    },
+    {
+      "scene": "s12",
+      "speed": 16.5,
+      "yaw": 20.0,
+      "key": "s12_v16.5_y+20",
+      "profiles": [
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+20/direct",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+20/p1000",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+20/p0500",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+20/p0250",
+        "results/image_sampling_diagnostic_v1/cases/s12_v16.5_y+20/p0125"
+      ]
+    }
+  ],
+  "failures": [],
+  "planned_trajectories": 220
+}

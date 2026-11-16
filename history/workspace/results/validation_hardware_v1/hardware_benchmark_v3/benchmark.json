@@ -1,0 +1,284 @@
+{
+  "status": "MEASURED_EXACT_CLOCK_NUMERICAL_GATES_PASS",
+  "results": [
+    {
+      "implementation": "parallel_1_portable",
+      "repeat": 0,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 16.864409499248723,
+        "p95_ms": 18.723236196092326,
+        "p99_ms": 20.485072360970662,
+        "maximum_ms": 20.71621600043727,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_1_native",
+      "repeat": 0,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 16.950298497249605,
+        "p95_ms": 18.035652498292606,
+        "p99_ms": 23.184488122424227,
+        "maximum_ms": 23.527217002992984,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_2_portable",
+      "repeat": 0,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 19.348542500665644,
+        "p95_ms": 23.06154839716328,
+        "p99_ms": 23.431302509779925,
+        "maximum_ms": 23.544047995528672,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_2_native",
+      "repeat": 0,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 19.216758497350384,
+        "p95_ms": 20.886767702540965,
+        "p99_ms": 21.105098264306434,
+        "maximum_ms": 21.12462399963988,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_4_portable",
+      "repeat": 0,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 12.236550996021833,
+        "p95_ms": 15.630038197923566,
+        "p99_ms": 16.39544438687153,
+        "maximum_ms": 16.673201993398834,
+        "missed_10ms": 38
+      }
+    },
+    {
+      "implementation": "parallel_4_native",
+      "repeat": 0,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 14.226959501684178,
+        "p95_ms": 15.736633799679112,
+        "p99_ms": 15.917032265933813,
+        "maximum_ms": 16.005330995540135,
+        "missed_10ms": 38
+      }
+    },
+    {
+      "implementation": "parallel_1_portable",
+      "repeat": 1,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 17.005594505462795,
+        "p95_ms": 20.121539997489876,
+        "p99_ms": 25.25284502087743,
+        "maximum_ms": 25.80289400066249,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_1_native",
+      "repeat": 1,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 17.226923006091965,
+        "p95_ms": 18.339273957462865,
+        "p99_ms": 19.66825089075428,
+        "maximum_ms": 20.366409000416752,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_2_portable",
+      "repeat": 1,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 19.182321993866935,
+        "p95_ms": 20.780820296204183,
+        "p99_ms": 21.21769253986713,
+        "maximum_ms": 21.44268900156021,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_2_native",
+      "repeat": 1,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 19.37638399977004,
+        "p95_ms": 21.016267099184915,
+        "p99_ms": 21.499014295768575,
+        "maximum_ms": 21.702044010453392,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_4_portable",
+      "repeat": 1,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 15.217295000184095,
+        "p95_ms": 16.93047499866225,
+        "p99_ms": 17.78399120667018,
+        "maximum_ms": 18.150614996557124,
+        "missed_10ms": 40
+      }
+    },
+    {
+      "implementation": "parallel_4_native",
+      "repeat": 1,
+      "maximum_rate_difference": 8.673617379884035e-19,
+      "latency": {
+        "count": 40,
+        "median_ms": 14.74218349903822,
+        "p95_ms": 16.41053315543104,
+        "p99_ms": 16.788682603946654,
+        "maximum_ms": 16.907320990867447,
+        "missed_10ms": 40
+      }
+    }
+  ],
+  "builds": [
+    {
+      "label": "parallel_1_portable",
+      "command": [
+        "g++",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-fopenmp",
+        "-DOPTIC_THREADS=1",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v3/parallel_1_portable.so"
+      ]
+    },
+    {
+      "label": "parallel_1_native",
+      "command": [
+        "g++",
+        "-march=native",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-fopenmp",
+        "-DOPTIC_THREADS=1",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v3/parallel_1_native.so"
+      ]
+    },
+    {
+      "label": "parallel_2_portable",
+      "command": [
+        "g++",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-fopenmp",
+        "-DOPTIC_THREADS=2",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v3/parallel_2_portable.so"
+      ]
+    },
+    {
+      "label": "parallel_2_native",
+      "command": [
+        "g++",
+        "-march=native",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-fopenmp",
+        "-DOPTIC_THREADS=2",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v3/parallel_2_native.so"
+      ]
+    },
+    {
+      "label": "parallel_4_portable",
+      "command": [
+        "g++",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-fopenmp",
+        "-DOPTIC_THREADS=4",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v3/parallel_4_portable.so"
+      ]
+    },
+    {
+      "label": "parallel_4_native",
+      "command": [
+        "g++",
+        "-march=native",
+        "-DOPTIC_APPROX_TANH",
+        "-std=c++17",
+        "-O3",
+        "-fno-fast-math",
+        "-ffp-contract=off",
+        "-fopenmp",
+        "-DOPTIC_THREADS=4",
+        "-shared",
+        "-fPIC",
+        "<WORKSPACE>/src/male_optic_frontend/deployment_neural_v3.cpp",
+        "-o",
+        "<WORKSPACE>/results/validation_hardware_v1/hardware_benchmark_v3/parallel_4_native.so"
+      ]
+    }
+  ],
+  "solver_dt": 0.001,
+  "neural_parameters_changed": false,
+  "load_average": [
+    5.47412109375,
+    4.93798828125,
+    4.51953125
+  ],
+  "platform": "Linux-7.2.11-200.fc44.x86_64-x86_64-with-glibc2.43",
+  "peak_rss_bytes": 125067264,
+  "scope": "calibrated_retina_processing_with_concurrent_scientific_workers; no_sensor_or_robot_validation"
+}

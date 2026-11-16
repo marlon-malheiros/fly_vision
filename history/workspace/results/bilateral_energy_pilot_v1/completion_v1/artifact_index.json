@@ -1,0 +1,155 @@
+{
+  "files": [
+    {
+      "path": "results/bilateral_energy_pilot_v1/before_calibration.json",
+      "size_bytes": 1006,
+      "sha256": "15b729dd4f1593becac303284c6dbf7ef06ff097453d7b6a53f7e6aa4f2baf2a"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/before_fit.json",
+      "size_bytes": 2018,
+      "sha256": "b4290f5ac6676d157c52fc549a034a10bbb81cc2a35efe1a71496d0de36a6473"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/calibration_comparison.png",
+      "size_bytes": 77295,
+      "sha256": "0d2465028c0a8d357041e4db6feed7e920eb4113211a0798e30569cf53c7eb8c"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/calibration_comparison.svg",
+      "size_bytes": 55697,
+      "sha256": "af2d564b67ac7236af0e40369317a3a244f38c44856978345b66dce0989a4a76"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/calibration_results.json",
+      "size_bytes": 199492,
+      "sha256": "6ec2257aef627caacb086424daec3b1f8f81d5f71db46a06fb40429b32456941"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/calibration_score_curves.npz",
+      "size_bytes": 436173,
+      "sha256": "fb52e342a4dbaa550c76510c6ac3b6ae14f338aaaa2225e62cf60ef64aa1e3ec"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/PROJECT_PROGRESS_REPORT_2026-11-01.md",
+      "size_bytes": 475966,
+      "sha256": "d49c38a9d3412f006eab0dbfb100902cf3dec2894c86804d01938481c0b419d3"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/external_review_user_provided.txt",
+      "size_bytes": 33774,
+      "sha256": "18d969807f88becf6baa888948dd2eeb9f09fdaf8205b5f3de4422d526328ef1"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/configs/bilateral_energy_pilot_v1.json",
+      "size_bytes": 534,
+      "sha256": "b2e9272258e9771277192c51241e51b9138b18da7f1df1cdf1198a23f4515109"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/docs/BILATERAL_ENERGY_PILOT_PROTOCOL_V1.md",
+      "size_bytes": 8245,
+      "sha256": "53477b23e06f8fba69ed9a8e6f8d985cbc89fef69d110f3fb2d2d565678896e5"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/docs/BILATERAL_ENERGY_PILOT_REPORT_V1.md",
+      "size_bytes": 13885,
+      "sha256": "7730b871f149b56069606d6d079d4bf80ec9b413c5802b4640a1768e642c4fb2"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/scripts/bilateral_energy_pilot_v1.py",
+      "size_bytes": 19230,
+      "sha256": "408e319103be3d2f912e5a54171c5376ea9668e24226fa9b84d1047a491d222b"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/scripts/finish_bilateral_energy_pilot_v1.py",
+      "size_bytes": 5550,
+      "sha256": "8dffd66ea563519dc9f93fd508e11b282c0c7be46b92176a92b79ac351e0503f"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/scripts/review_bilateral_energy_pilot_r2.py",
+      "size_bytes": 6785,
+      "sha256": "80306db8d4003638baed4c7aa690fddf8b11a6307f22e5cf3c0b7a89a4bf1652"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/scripts/review_bilateral_energy_pilot_r3.py",
+      "size_bytes": 6825,
+      "sha256": "098877cf0e08f1bb7a71ba4380db3e3e53fb5221145eecafe3ffde92151f9b24"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/scripts/review_bilateral_energy_pilot_v1.py",
+      "size_bytes": 6779,
+      "sha256": "6fdaa91f980cd275da8e2b357b3e9e37c04b4ef2ed559c65d86a83b771270123"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/completion_v1/sources/tests/test_bilateral_energy_pilot_v1.py",
+      "size_bytes": 3516,
+      "sha256": "7e15b21238f476abc9c7ff09f1a1080ebcbe6714fb8a8acbe4a4926ec3cd5ef2"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/decision.json",
+      "size_bytes": 394,
+      "sha256": "e57dc0a4d357c8207fb763d289078e781a51d19210e7d4a62671e0dfc0094c71"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/diagnostics.json",
+      "size_bytes": 1437,
+      "sha256": "95c056e2fc04098d3dc789aa6dca577fc215cfe72e744473e7aa5d812d85b932"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/execution.log",
+      "size_bytes": 444,
+      "sha256": "26692100ce94b83f90ef886df83ff535e607200ad95c75051d8b750b74e5c711"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/figure_review.json",
+      "size_bytes": 214,
+      "sha256": "5158f9f549d779bb0bde456ec926adfe46ffc2470aff5f89384c3fca6a3bf8fe"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/focused_tests.log",
+      "size_bytes": 706,
+      "sha256": "359f28dfccd1507a1241e2bf650e8ec70b016978250972f3a0ac90d2ae78e306"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/independent_review.json",
+      "size_bytes": 534,
+      "sha256": "185cfaffd93cc29d212f15337e0f718da2140cf9906ba1f92a1b29838c634ed7"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/independent_review.log",
+      "size_bytes": 544,
+      "sha256": "a3fd7b5631fd480a5f99fb514422e041f7f96c31454e31fc0ff5554604dd8e4c"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/independent_review_r2.log",
+      "size_bytes": 544,
+      "sha256": "24a4aa1985759adf6a94cd21aa4e8a496609cce687e7f84c373eb818e2d5cbd9"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/independent_review_r3.log",
+      "size_bytes": 506,
+      "sha256": "8f752ed9e8be54de0948c3de34755d09877735c3668a500ad4767294b00701f2"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/input_manifest.json",
+      "size_bytes": 106176,
+      "sha256": "cd578163c4eed30d570e53ab95844f62007d4f94f884fa616b37bb9264f61b23"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/models.json",
+      "size_bytes": 2035,
+      "sha256": "9b4a5e92c70f24b10b7c271f262956dcdc8b9ea391e12efb8eafb60fb9ca7531"
+    },
+    {
+      "path": "results/bilateral_energy_pilot_v1/training_selection.json",
+      "size_bytes": 31104,
+      "sha256": "0f3ca8e81168fc50cdb66addb1da0c0038a309985d0b6ab35f7539232371ba2a"
+    }
+  ],
+  "count": 29,
+  "indexed_bytes": 1497408,
+  "created_utc": "2026-11-01T13:48:32Z",
+  "scientific_success": false,
+  "physiological_validation": false,
+  "live_progress_and_AGENTS_excluded": true
+}

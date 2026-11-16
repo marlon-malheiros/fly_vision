@@ -1,0 +1,3156 @@
+{
+  "cutoff": 1.1329958232706985,
+  "summary": [
+    {
+      "speed": 5.5,
+      "yaw_magnitude": 2.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "correct": 48,
+      "total": 48,
+      "raw_sign_correct": 48,
+      "straight_alarms": 0,
+      "straight_total": 24,
+      "gate": true
+    },
+    {
+      "speed": 5.5,
+      "yaw_magnitude": 5.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "correct": 48,
+      "total": 48,
+      "raw_sign_correct": 48,
+      "straight_alarms": 0,
+      "straight_total": 24,
+      "gate": true
+    },
+    {
+      "speed": 11.0,
+      "yaw_magnitude": 2.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "correct": 48,
+      "total": 48,
+      "raw_sign_correct": 48,
+      "straight_alarms": 0,
+      "straight_total": 24,
+      "gate": true
+    },
+    {
+      "speed": 11.0,
+      "yaw_magnitude": 5.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "correct": 48,
+      "total": 48,
+      "raw_sign_correct": 48,
+      "straight_alarms": 0,
+      "straight_total": 24,
+      "gate": true
+    },
+    {
+      "speed": 16.5,
+      "yaw_magnitude": 2.0,
+      "negative_correct": 21,
+      "positive_correct": 21,
+      "correct": 42,
+      "total": 48,
+      "raw_sign_correct": 48,
+      "straight_alarms": 0,
+      "straight_total": 24,
+      "gate": true
+    },
+    {
+      "speed": 16.5,
+      "yaw_magnitude": 5.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "correct": 48,
+      "total": 48,
+      "raw_sign_correct": 48,
+      "straight_alarms": 0,
+      "straight_total": 24,
+      "gate": true
+    }
+  ],
+  "episodes": [
+    {
+      "key": "rt00_v0_y+0",
+      "scene": "rt00",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt00_v5.5_y+0",
+      "scene": "rt00",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.06854524141970372,
+      "negative_peak": 0.22213426347941498
+    },
+    {
+      "key": "rt00_v5.5_y-2",
+      "scene": "rt00",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.3338177738516133,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v5.5_y+2",
+      "scene": "rt00",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.2403487506051256,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v5.5_y-5",
+      "scene": "rt00",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.451109083937266,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v5.5_y+5",
+      "scene": "rt00",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.574079957318543,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v11_y+0",
+      "scene": "rt00",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.2827946484250792,
+      "negative_peak": 0.33353480102830624
+    },
+    {
+      "key": "rt00_v11_y-2",
+      "scene": "rt00",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.8528177676676465,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v11_y+2",
+      "scene": "rt00",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.424338274005383,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v11_y-5",
+      "scene": "rt00",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.876009294242717,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v11_y+5",
+      "scene": "rt00",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.476890549287153,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v16.5_y+0",
+      "scene": "rt00",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.16792247525849385,
+      "negative_peak": 0.4323451352170101
+    },
+    {
+      "key": "rt00_v16.5_y-2",
+      "scene": "rt00",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.7300193836124047,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v16.5_y+2",
+      "scene": "rt00",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.076312933285325,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v16.5_y-5",
+      "scene": "rt00",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.5452491692629895,
+      "negative_peak": null
+    },
+    {
+      "key": "rt00_v16.5_y+5",
+      "scene": "rt00",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.839808708217709,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v0_y+0",
+      "scene": "rt01",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt01_v5.5_y+0",
+      "scene": "rt01",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.03625853334393854,
+      "negative_peak": 0.2627945162154702
+    },
+    {
+      "key": "rt01_v5.5_y-2",
+      "scene": "rt01",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.827740813633869,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v5.5_y+2",
+      "scene": "rt01",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8590983177505285,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v5.5_y-5",
+      "scene": "rt01",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.58389959001964,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v5.5_y+5",
+      "scene": "rt01",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.647255718839921,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v11_y+0",
+      "scene": "rt01",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.10952641339140451,
+      "negative_peak": 0.6756952423519135
+    },
+    {
+      "key": "rt01_v11_y-2",
+      "scene": "rt01",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.6025957254332677,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v11_y+2",
+      "scene": "rt01",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.8236128779753598,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v11_y-5",
+      "scene": "rt01",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.222090789240497,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v11_y+5",
+      "scene": "rt01",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.33648134056535,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v16.5_y+0",
+      "scene": "rt01",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.7832432205979234,
+      "negative_peak": 0.8788956109846403
+    },
+    {
+      "key": "rt01_v16.5_y-2",
+      "scene": "rt01",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.2768492164249707,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v16.5_y+2",
+      "scene": "rt01",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 0.7482627610480823,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v16.5_y-5",
+      "scene": "rt01",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.464443259722109,
+      "negative_peak": null
+    },
+    {
+      "key": "rt01_v16.5_y+5",
+      "scene": "rt01",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.052814569328714,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v0_y+0",
+      "scene": "rt02",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt02_v5.5_y+0",
+      "scene": "rt02",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.007814217339951387,
+      "negative_peak": 0.12914582728812582
+    },
+    {
+      "key": "rt02_v5.5_y-2",
+      "scene": "rt02",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.9207939381222963,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v5.5_y+2",
+      "scene": "rt02",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.9504768805497776,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v5.5_y-5",
+      "scene": "rt02",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.627732355847533,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v5.5_y+5",
+      "scene": "rt02",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.743709365409695,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v11_y+0",
+      "scene": "rt02",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.17357793534778707,
+      "negative_peak": 0.24350882547155434
+    },
+    {
+      "key": "rt02_v11_y-2",
+      "scene": "rt02",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.0543574315621322,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v11_y+2",
+      "scene": "rt02",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.708387130969345,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v11_y-5",
+      "scene": "rt02",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.781131273622138,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v11_y+5",
+      "scene": "rt02",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.49916819909728,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v16.5_y+0",
+      "scene": "rt02",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.2222886640547699,
+      "negative_peak": 0.36886409890447924
+    },
+    {
+      "key": "rt02_v16.5_y-2",
+      "scene": "rt02",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.9340162274220878,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v16.5_y+2",
+      "scene": "rt02",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.4880045217758415,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v16.5_y-5",
+      "scene": "rt02",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.46617120761685,
+      "negative_peak": null
+    },
+    {
+      "key": "rt02_v16.5_y+5",
+      "scene": "rt02",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.029892829448605,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v0_y+0",
+      "scene": "rt03",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt03_v5.5_y+0",
+      "scene": "rt03",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.11498436022473778,
+      "negative_peak": 0.13245203042848971
+    },
+    {
+      "key": "rt03_v5.5_y-2",
+      "scene": "rt03",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.0446840665813806,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v5.5_y+2",
+      "scene": "rt03",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.893293143653656,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v5.5_y-5",
+      "scene": "rt03",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.818175485711719,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v5.5_y+5",
+      "scene": "rt03",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.772917964251351,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v11_y+0",
+      "scene": "rt03",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.02682414571774778,
+      "negative_peak": 0.40148874175910537
+    },
+    {
+      "key": "rt03_v11_y-2",
+      "scene": "rt03",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.8008999147190041,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v11_y+2",
+      "scene": "rt03",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.8658007863306976,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v11_y-5",
+      "scene": "rt03",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.527845136217577,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v11_y+5",
+      "scene": "rt03",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.64566842489419,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v16.5_y+0",
+      "scene": "rt03",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.6399845527881101,
+      "negative_peak": 0.8705621830438438
+    },
+    {
+      "key": "rt03_v16.5_y-2",
+      "scene": "rt03",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.366213873318422,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v16.5_y+2",
+      "scene": "rt03",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.0986980273691171,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v16.5_y-5",
+      "scene": "rt03",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.856440937539418,
+      "negative_peak": null
+    },
+    {
+      "key": "rt03_v16.5_y+5",
+      "scene": "rt03",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.7612241429107125,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v0_y+0",
+      "scene": "rt04",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt04_v5.5_y+0",
+      "scene": "rt04",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.05022576238060352,
+      "negative_peak": 0.21554217701596157
+    },
+    {
+      "key": "rt04_v5.5_y-2",
+      "scene": "rt04",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.530423921530778,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v5.5_y+2",
+      "scene": "rt04",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.6476484777193443,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v5.5_y-5",
+      "scene": "rt04",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -6.202969503465145,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v5.5_y+5",
+      "scene": "rt04",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 6.417335340221174,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v11_y+0",
+      "scene": "rt04",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.4830113903910264,
+      "negative_peak": 0.49392710123270067
+    },
+    {
+      "key": "rt04_v11_y-2",
+      "scene": "rt04",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.848245783867222,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v11_y+2",
+      "scene": "rt04",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.930084741286933,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v11_y-5",
+      "scene": "rt04",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -6.302553720392109,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v11_y+5",
+      "scene": "rt04",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.623224821400647,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v16.5_y+0",
+      "scene": "rt04",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.4629072679620871,
+      "negative_peak": 1.0179255943985477
+    },
+    {
+      "key": "rt04_v16.5_y-2",
+      "scene": "rt04",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.6561475669003998,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v16.5_y+2",
+      "scene": "rt04",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.597674595035525,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v16.5_y-5",
+      "scene": "rt04",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.935900984355124,
+      "negative_peak": null
+    },
+    {
+      "key": "rt04_v16.5_y+5",
+      "scene": "rt04",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 5.813641650579214,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v0_y+0",
+      "scene": "rt05",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt05_v5.5_y+0",
+      "scene": "rt05",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.1914152149242787,
+      "negative_peak": 0.20958991671198252
+    },
+    {
+      "key": "rt05_v5.5_y-2",
+      "scene": "rt05",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.2845506668543725,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v5.5_y+2",
+      "scene": "rt05",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8662278853120629,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v5.5_y-5",
+      "scene": "rt05",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.151312921624819,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v5.5_y+5",
+      "scene": "rt05",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.722994258510689,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v11_y+0",
+      "scene": "rt05",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.22538089090458538,
+      "negative_peak": 0.40177997913172325
+    },
+    {
+      "key": "rt05_v11_y-2",
+      "scene": "rt05",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.7970286625648686,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v11_y+2",
+      "scene": "rt05",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.2915009275510063,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v11_y-5",
+      "scene": "rt05",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.75898400141619,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v11_y+5",
+      "scene": "rt05",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.119080869432869,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v16.5_y+0",
+      "scene": "rt05",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.10582084661005839,
+      "negative_peak": 0.5783993676078996
+    },
+    {
+      "key": "rt05_v16.5_y-2",
+      "scene": "rt05",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.0053639737430893,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v16.5_y+2",
+      "scene": "rt05",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.7402191504778377,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v16.5_y-5",
+      "scene": "rt05",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.855415306768914,
+      "negative_peak": null
+    },
+    {
+      "key": "rt05_v16.5_y+5",
+      "scene": "rt05",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.4112154221636395,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v0_y+0",
+      "scene": "rt06",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt06_v5.5_y+0",
+      "scene": "rt06",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.14904307000842068,
+      "negative_peak": 0.2936810633763113
+    },
+    {
+      "key": "rt06_v5.5_y-2",
+      "scene": "rt06",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.074120166006689,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v5.5_y+2",
+      "scene": "rt06",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.6986452235758276,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v5.5_y-5",
+      "scene": "rt06",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.750839309899963,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v5.5_y+5",
+      "scene": "rt06",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.408921364620525,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v11_y+0",
+      "scene": "rt06",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.04825452846968936,
+      "negative_peak": 0.648486772136598
+    },
+    {
+      "key": "rt06_v11_y-2",
+      "scene": "rt06",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.7566794244479045,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v11_y+2",
+      "scene": "rt06",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.807196495464375,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v11_y-5",
+      "scene": "rt06",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.300372490350053,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v11_y+5",
+      "scene": "rt06",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.50618139024945,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v16.5_y+0",
+      "scene": "rt06",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.017722718112466562,
+      "negative_peak": 0.8393479971009723
+    },
+    {
+      "key": "rt06_v16.5_y-2",
+      "scene": "rt06",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.4403035323922313,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v16.5_y+2",
+      "scene": "rt06",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.5822211734490204,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v16.5_y-5",
+      "scene": "rt06",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.6903143830327574,
+      "negative_peak": null
+    },
+    {
+      "key": "rt06_v16.5_y+5",
+      "scene": "rt06",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.996892270428254,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v0_y+0",
+      "scene": "rt07",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt07_v5.5_y+0",
+      "scene": "rt07",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.10003526978285539,
+      "negative_peak": 0.18464737452854751
+    },
+    {
+      "key": "rt07_v5.5_y-2",
+      "scene": "rt07",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.8147885981473104,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v5.5_y+2",
+      "scene": "rt07",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.9454952578767857,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v5.5_y-5",
+      "scene": "rt07",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.476236381612136,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v5.5_y+5",
+      "scene": "rt07",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.714705516727674,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v11_y+0",
+      "scene": "rt07",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.2674232098278024,
+      "negative_peak": 0.34630585231008665
+    },
+    {
+      "key": "rt07_v11_y-2",
+      "scene": "rt07",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.5201764103269009,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v11_y+2",
+      "scene": "rt07",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.956066348124685,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v11_y-5",
+      "scene": "rt07",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.058379698657054,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v11_y+5",
+      "scene": "rt07",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.467423247173057,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v16.5_y+0",
+      "scene": "rt07",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.38436838750192637,
+      "negative_peak": 0.5068422287595219
+    },
+    {
+      "key": "rt07_v16.5_y-2",
+      "scene": "rt07",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.8957249757174888,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v16.5_y+2",
+      "scene": "rt07",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.1381376196443007,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v16.5_y-5",
+      "scene": "rt07",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.133036631931787,
+      "negative_peak": null
+    },
+    {
+      "key": "rt07_v16.5_y+5",
+      "scene": "rt07",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.438982522579984,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v0_y+0",
+      "scene": "rt08",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt08_v5.5_y+0",
+      "scene": "rt08",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.01991454895466848,
+      "negative_peak": 0.27562423598327335
+    },
+    {
+      "key": "rt08_v5.5_y-2",
+      "scene": "rt08",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.0602345614138975,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v5.5_y+2",
+      "scene": "rt08",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.0811658947466705,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v5.5_y-5",
+      "scene": "rt08",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.997455409163733,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v5.5_y+5",
+      "scene": "rt08",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.1196984162829065,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v11_y+0",
+      "scene": "rt08",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.31936136329422293,
+      "negative_peak": 0.7487216449334744
+    },
+    {
+      "key": "rt08_v11_y-2",
+      "scene": "rt08",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.5501164649549568,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v11_y+2",
+      "scene": "rt08",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.1882535666340415,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v11_y-5",
+      "scene": "rt08",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.298783470946641,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v11_y+5",
+      "scene": "rt08",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.027709536969744,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v16.5_y+0",
+      "scene": "rt08",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.6009763007942038,
+      "negative_peak": 1.091472097220153
+    },
+    {
+      "key": "rt08_v16.5_y-2",
+      "scene": "rt08",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -0.9960189880009322,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v16.5_y+2",
+      "scene": "rt08",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.235115206147608,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v16.5_y-5",
+      "scene": "rt08",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.368313590528619,
+      "negative_peak": null
+    },
+    {
+      "key": "rt08_v16.5_y+5",
+      "scene": "rt08",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.639097311571877,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v0_y+0",
+      "scene": "rt09",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt09_v5.5_y+0",
+      "scene": "rt09",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.03673388339189725,
+      "negative_peak": 0.09980621644488676
+    },
+    {
+      "key": "rt09_v5.5_y-2",
+      "scene": "rt09",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.257035669846215,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v5.5_y+2",
+      "scene": "rt09",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.146629450807604,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v5.5_y-5",
+      "scene": "rt09",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.400856492041101,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v5.5_y+5",
+      "scene": "rt09",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.2810096555715935,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v11_y+0",
+      "scene": "rt09",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.08786420225416024,
+      "negative_peak": 0.5016921989422722
+    },
+    {
+      "key": "rt09_v11_y-2",
+      "scene": "rt09",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.181472918209793,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v11_y+2",
+      "scene": "rt09",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.000297374601904,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v11_y-5",
+      "scene": "rt09",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.25947012324669,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v11_y+5",
+      "scene": "rt09",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.100843717914963,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v16.5_y+0",
+      "scene": "rt09",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.2636441165013584,
+      "negative_peak": 0.7082092867095727
+    },
+    {
+      "key": "rt09_v16.5_y-2",
+      "scene": "rt09",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.192602252029904,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v16.5_y+2",
+      "scene": "rt09",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.7291996691311196,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v16.5_y-5",
+      "scene": "rt09",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -5.018530147573707,
+      "negative_peak": null
+    },
+    {
+      "key": "rt09_v16.5_y+5",
+      "scene": "rt09",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.633237471197075,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v0_y+0",
+      "scene": "rt10",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt10_v5.5_y+0",
+      "scene": "rt10",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.08212417246445902,
+      "negative_peak": 0.15036043922332262
+    },
+    {
+      "key": "rt10_v5.5_y-2",
+      "scene": "rt10",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.3734758527822652,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v5.5_y+2",
+      "scene": "rt10",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.1556889924275056,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v5.5_y-5",
+      "scene": "rt10",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.640879004111684,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v5.5_y+5",
+      "scene": "rt10",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.429248761168696,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v11_y+0",
+      "scene": "rt10",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.1545252340063196,
+      "negative_peak": 0.28149778229114625
+    },
+    {
+      "key": "rt10_v11_y-2",
+      "scene": "rt10",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.0448130832134113,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v11_y+2",
+      "scene": "rt10",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.271137331463151,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v11_y-5",
+      "scene": "rt10",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.3240467418404425,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v11_y+5",
+      "scene": "rt10",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.386743938045089,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v16.5_y+0",
+      "scene": "rt10",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.14281278293311553,
+      "negative_peak": 0.4586904282312924
+    },
+    {
+      "key": "rt10_v16.5_y-2",
+      "scene": "rt10",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.1748774580222228,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v16.5_y+2",
+      "scene": "rt10",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.8729777752340335,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v16.5_y-5",
+      "scene": "rt10",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -5.207988691397406,
+      "negative_peak": null
+    },
+    {
+      "key": "rt10_v16.5_y+5",
+      "scene": "rt10",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.788305437913402,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v0_y+0",
+      "scene": "rt11",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt11_v5.5_y+0",
+      "scene": "rt11",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.23433634419204716,
+      "negative_peak": 0.24903680325682057
+    },
+    {
+      "key": "rt11_v5.5_y-2",
+      "scene": "rt11",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.9114543718248838,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v5.5_y+2",
+      "scene": "rt11",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.3586844484296092,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v5.5_y-5",
+      "scene": "rt11",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.963656902161038,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v5.5_y+5",
+      "scene": "rt11",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.439471159206162,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v11_y+0",
+      "scene": "rt11",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.07209872029778581,
+      "negative_peak": 0.6203726606505512
+    },
+    {
+      "key": "rt11_v11_y-2",
+      "scene": "rt11",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.8192848089137523,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v11_y+2",
+      "scene": "rt11",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.9883744108642287,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v11_y-5",
+      "scene": "rt11",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.680670664871932,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v11_y+5",
+      "scene": "rt11",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.920056443971027,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v16.5_y+0",
+      "scene": "rt11",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.8137312611416216,
+      "negative_peak": 0.8998591266546483
+    },
+    {
+      "key": "rt11_v16.5_y-2",
+      "scene": "rt11",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -0.888777485302453,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v16.5_y+2",
+      "scene": "rt11",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.5181771415101353,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v16.5_y-5",
+      "scene": "rt11",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.472117581271622,
+      "negative_peak": null
+    },
+    {
+      "key": "rt11_v16.5_y+5",
+      "scene": "rt11",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 5.010261930314512,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v0_y+0",
+      "scene": "rt12",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt12_v5.5_y+0",
+      "scene": "rt12",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.22398304459271157,
+      "negative_peak": 0.3113889054675197
+    },
+    {
+      "key": "rt12_v5.5_y-2",
+      "scene": "rt12",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.9187629254887524,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v5.5_y+2",
+      "scene": "rt12",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.3821228380460853,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v5.5_y-5",
+      "scene": "rt12",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.911938522520745,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v5.5_y+5",
+      "scene": "rt12",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.440721545583874,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v11_y+0",
+      "scene": "rt12",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.445775660638148,
+      "negative_peak": 0.6603491330283332
+    },
+    {
+      "key": "rt12_v11_y-2",
+      "scene": "rt12",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.4975471031815726,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v11_y+2",
+      "scene": "rt12",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.680584658532524,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v11_y-5",
+      "scene": "rt12",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.490688452901,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v11_y+5",
+      "scene": "rt12",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.788017765089986,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v16.5_y+0",
+      "scene": "rt12",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.2503484789726777,
+      "negative_peak": 0.676201966694941
+    },
+    {
+      "key": "rt12_v16.5_y-2",
+      "scene": "rt12",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.7601716617084884,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v16.5_y+2",
+      "scene": "rt12",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.2489482457368255,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v16.5_y-5",
+      "scene": "rt12",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.621956918732879,
+      "negative_peak": null
+    },
+    {
+      "key": "rt12_v16.5_y+5",
+      "scene": "rt12",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 5.259246040889406,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v0_y+0",
+      "scene": "rt13",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt13_v5.5_y+0",
+      "scene": "rt13",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.06735676044195013,
+      "negative_peak": 0.23191964128602235
+    },
+    {
+      "key": "rt13_v5.5_y-2",
+      "scene": "rt13",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.4641021667776926,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v5.5_y+2",
+      "scene": "rt13",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.592709135724727,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v5.5_y-5",
+      "scene": "rt13",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -6.063877103922861,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v5.5_y+5",
+      "scene": "rt13",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 6.284952927546938,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v11_y+0",
+      "scene": "rt13",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.24213725521907364,
+      "negative_peak": 0.4514643605550894
+    },
+    {
+      "key": "rt13_v11_y-2",
+      "scene": "rt13",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.103023766947637,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v11_y+2",
+      "scene": "rt13",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.6249772529045674,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v11_y-5",
+      "scene": "rt13",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.498203014120261,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v11_y+5",
+      "scene": "rt13",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 6.1069184123865865,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v16.5_y+0",
+      "scene": "rt13",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.18389344380024145,
+      "negative_peak": 1.1317272302979091
+    },
+    {
+      "key": "rt13_v16.5_y-2",
+      "scene": "rt13",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.2340231849954955,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v16.5_y+2",
+      "scene": "rt13",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.9435958313569204,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v16.5_y-5",
+      "scene": "rt13",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -5.173729065618767,
+      "negative_peak": null
+    },
+    {
+      "key": "rt13_v16.5_y+5",
+      "scene": "rt13",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 5.045126546569009,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v0_y+0",
+      "scene": "rt14",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt14_v5.5_y+0",
+      "scene": "rt14",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.00533302711902457,
+      "negative_peak": 0.15884326756334463
+    },
+    {
+      "key": "rt14_v5.5_y-2",
+      "scene": "rt14",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.8970957038441048,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v5.5_y+2",
+      "scene": "rt14",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8304971514061907,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v5.5_y-5",
+      "scene": "rt14",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.486164012157276,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v5.5_y+5",
+      "scene": "rt14",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.40091448623718,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v11_y+0",
+      "scene": "rt14",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.13518140661718445,
+      "negative_peak": 0.3001668425192394
+    },
+    {
+      "key": "rt14_v11_y-2",
+      "scene": "rt14",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.7671877602348633,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v11_y+2",
+      "scene": "rt14",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.5114225441921618,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v11_y-5",
+      "scene": "rt14",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.180665246104472,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v11_y+5",
+      "scene": "rt14",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 3.8850697442685,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v16.5_y+0",
+      "scene": "rt14",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.06786651554523733,
+      "negative_peak": 0.47744367362416756
+    },
+    {
+      "key": "rt14_v16.5_y-2",
+      "scene": "rt14",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.3911616447636226,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v16.5_y+2",
+      "scene": "rt14",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.5387184758220338,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v16.5_y-5",
+      "scene": "rt14",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.5584212889565605,
+      "negative_peak": null
+    },
+    {
+      "key": "rt14_v16.5_y+5",
+      "scene": "rt14",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.686412339332236,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v0_y+0",
+      "scene": "rt15",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt15_v5.5_y+0",
+      "scene": "rt15",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.048006659135956586,
+      "negative_peak": 0.2825930841715528
+    },
+    {
+      "key": "rt15_v5.5_y-2",
+      "scene": "rt15",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.0212048220726833,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v5.5_y+2",
+      "scene": "rt15",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.9698797481926986,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v5.5_y-5",
+      "scene": "rt15",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.8581826953537774,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v5.5_y+5",
+      "scene": "rt15",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.738741435917213,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v11_y+0",
+      "scene": "rt15",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.07761837218553408,
+      "negative_peak": 0.4965444712195615
+    },
+    {
+      "key": "rt15_v11_y-2",
+      "scene": "rt15",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.9982476608216,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v11_y+2",
+      "scene": "rt15",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.8575829477854453,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v11_y-5",
+      "scene": "rt15",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.839707921812819,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v11_y+5",
+      "scene": "rt15",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.567073717309044,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v16.5_y+0",
+      "scene": "rt15",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.0038607856323926056,
+      "negative_peak": 0.8554029125519307
+    },
+    {
+      "key": "rt15_v16.5_y-2",
+      "scene": "rt15",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.8129510741940698,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v16.5_y+2",
+      "scene": "rt15",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.872215610478786,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v16.5_y-5",
+      "scene": "rt15",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.469951484249011,
+      "negative_peak": null
+    },
+    {
+      "key": "rt15_v16.5_y+5",
+      "scene": "rt15",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.431382650059571,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v0_y+0",
+      "scene": "rt16",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt16_v5.5_y+0",
+      "scene": "rt16",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.05576269212651574,
+      "negative_peak": 0.11969190887449309
+    },
+    {
+      "key": "rt16_v5.5_y-2",
+      "scene": "rt16",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.7165111718150183,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v5.5_y+2",
+      "scene": "rt16",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8268006479131014,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v5.5_y-5",
+      "scene": "rt16",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.29121642997178,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v5.5_y+5",
+      "scene": "rt16",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.333066063255919,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v11_y+0",
+      "scene": "rt16",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.027532848944459058,
+      "negative_peak": 0.30735693442770273
+    },
+    {
+      "key": "rt16_v11_y-2",
+      "scene": "rt16",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.7047122546139581,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v11_y+2",
+      "scene": "rt16",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.7201360345726036,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v11_y-5",
+      "scene": "rt16",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.133178364599061,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v11_y+5",
+      "scene": "rt16",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.127590846416579,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v16.5_y+0",
+      "scene": "rt16",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.4651690709547468,
+      "negative_peak": 0.5826425619561555
+    },
+    {
+      "key": "rt16_v16.5_y-2",
+      "scene": "rt16",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.02367983533256,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v16.5_y+2",
+      "scene": "rt16",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.1030109181159027,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v16.5_y-5",
+      "scene": "rt16",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.277610404062265,
+      "negative_peak": null
+    },
+    {
+      "key": "rt16_v16.5_y+5",
+      "scene": "rt16",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.345328083180892,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v0_y+0",
+      "scene": "rt17",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt17_v5.5_y+0",
+      "scene": "rt17",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.10333910014008782,
+      "negative_peak": 0.11664661790313254
+    },
+    {
+      "key": "rt17_v5.5_y-2",
+      "scene": "rt17",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.2386951875853693,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v5.5_y+2",
+      "scene": "rt17",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.09493897003974,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v5.5_y-5",
+      "scene": "rt17",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.3036666341031244,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v5.5_y+5",
+      "scene": "rt17",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.204879879948542,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v11_y+0",
+      "scene": "rt17",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.09342680375521839,
+      "negative_peak": 0.8251571943742517
+    },
+    {
+      "key": "rt17_v11_y-2",
+      "scene": "rt17",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.9307336403475917,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v11_y+2",
+      "scene": "rt17",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.148202552627692,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v11_y-5",
+      "scene": "rt17",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.920653957576709,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v11_y+5",
+      "scene": "rt17",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.117830038860518,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v16.5_y+0",
+      "scene": "rt17",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.10977696835494069,
+      "negative_peak": 1.1211518220087744
+    },
+    {
+      "key": "rt17_v16.5_y-2",
+      "scene": "rt17",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.7992328811552996,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v16.5_y+2",
+      "scene": "rt17",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.037258846668159,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v16.5_y-5",
+      "scene": "rt17",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.6136996742068135,
+      "negative_peak": null
+    },
+    {
+      "key": "rt17_v16.5_y+5",
+      "scene": "rt17",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.852043107131795,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v0_y+0",
+      "scene": "rt18",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt18_v5.5_y+0",
+      "scene": "rt18",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.08179842555932362,
+      "negative_peak": 0.2363102618757752
+    },
+    {
+      "key": "rt18_v5.5_y-2",
+      "scene": "rt18",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.375006923411892,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v5.5_y+2",
+      "scene": "rt18",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.535842682710405,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v5.5_y-5",
+      "scene": "rt18",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.9703161460677805,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v5.5_y+5",
+      "scene": "rt18",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 6.1390957135653,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v11_y+0",
+      "scene": "rt18",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.30705776734265877,
+      "negative_peak": 0.6567931384820621
+    },
+    {
+      "key": "rt18_v11_y-2",
+      "scene": "rt18",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.5078042057918775,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v11_y+2",
+      "scene": "rt18",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.908759725555643,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v11_y-5",
+      "scene": "rt18",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.764964641753227,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v11_y+5",
+      "scene": "rt18",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.149707329103568,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v16.5_y+0",
+      "scene": "rt18",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.6612820367209253,
+      "negative_peak": 1.0804751663426315
+    },
+    {
+      "key": "rt18_v16.5_y-2",
+      "scene": "rt18",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -2.5307317005940337,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v16.5_y+2",
+      "scene": "rt18",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.2575066497081904,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v16.5_y-5",
+      "scene": "rt18",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -5.317124101963821,
+      "negative_peak": null
+    },
+    {
+      "key": "rt18_v16.5_y+5",
+      "scene": "rt18",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.025972631996921,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v0_y+0",
+      "scene": "rt19",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt19_v5.5_y+0",
+      "scene": "rt19",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.02038720112915966,
+      "negative_peak": 0.1801975171885794
+    },
+    {
+      "key": "rt19_v5.5_y-2",
+      "scene": "rt19",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.320790435143233,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v5.5_y+2",
+      "scene": "rt19",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.3046451904179164,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v5.5_y-5",
+      "scene": "rt19",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.529250429693532,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v5.5_y+5",
+      "scene": "rt19",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.625769834389339,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v11_y+0",
+      "scene": "rt19",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.24107873895243156,
+      "negative_peak": 0.3536291453717209
+    },
+    {
+      "key": "rt19_v11_y-2",
+      "scene": "rt19",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.9847822113047302,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v11_y+2",
+      "scene": "rt19",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.5288653218587265,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v11_y-5",
+      "scene": "rt19",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -5.012682448600254,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v11_y+5",
+      "scene": "rt19",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.842457183451638,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v16.5_y+0",
+      "scene": "rt19",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.48461508698158584,
+      "negative_peak": 0.5078271254524396
+    },
+    {
+      "key": "rt19_v16.5_y-2",
+      "scene": "rt19",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.4594121067439836,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v16.5_y+2",
+      "scene": "rt19",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.483863809128753,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v16.5_y-5",
+      "scene": "rt19",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.3226687032493265,
+      "negative_peak": null
+    },
+    {
+      "key": "rt19_v16.5_y+5",
+      "scene": "rt19",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 5.543797772408711,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v0_y+0",
+      "scene": "rt20",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt20_v5.5_y+0",
+      "scene": "rt20",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.1015976867048313,
+      "negative_peak": 0.19298595803858862
+    },
+    {
+      "key": "rt20_v5.5_y-2",
+      "scene": "rt20",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.0770727718950965,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v5.5_y+2",
+      "scene": "rt20",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.322495719952611,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v5.5_y-5",
+      "scene": "rt20",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.163241566177175,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v5.5_y+5",
+      "scene": "rt20",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.460373381548869,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v11_y+0",
+      "scene": "rt20",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.44675735455157395,
+      "negative_peak": 0.5659843469886211
+    },
+    {
+      "key": "rt20_v11_y-2",
+      "scene": "rt20",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.5172469189030189,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v11_y+2",
+      "scene": "rt20",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 2.4305340986328816,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v11_y-5",
+      "scene": "rt20",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.391305204758088,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v11_y+5",
+      "scene": "rt20",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 5.298961583808534,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v16.5_y+0",
+      "scene": "rt20",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.22492190837503448,
+      "negative_peak": 1.052417474824087
+    },
+    {
+      "key": "rt20_v16.5_y-2",
+      "scene": "rt20",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.48606041602454,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v16.5_y+2",
+      "scene": "rt20",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.9360061734697775,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v16.5_y-5",
+      "scene": "rt20",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.936815688538115,
+      "negative_peak": null
+    },
+    {
+      "key": "rt20_v16.5_y+5",
+      "scene": "rt20",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.407825825484949,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v0_y+0",
+      "scene": "rt21",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt21_v5.5_y+0",
+      "scene": "rt21",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": -0.04635500950160067,
+      "negative_peak": 0.25941016121735877
+    },
+    {
+      "key": "rt21_v5.5_y-2",
+      "scene": "rt21",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -2.106703194208034,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v5.5_y+2",
+      "scene": "rt21",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 2.046893609981303,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v5.5_y-5",
+      "scene": "rt21",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -5.04297577148186,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v5.5_y+5",
+      "scene": "rt21",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 5.163508354131714,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v11_y+0",
+      "scene": "rt21",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": 0.07696117055697918,
+      "negative_peak": 0.5265058832997899
+    },
+    {
+      "key": "rt21_v11_y-2",
+      "scene": "rt21",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.6729076845799065,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v11_y+2",
+      "scene": "rt21",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.9757853350247223,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v11_y-5",
+      "scene": "rt21",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.337100421603435,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v11_y+5",
+      "scene": "rt21",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.948565123408105,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v16.5_y+0",
+      "scene": "rt21",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.5677047598646731,
+      "negative_peak": 0.6236349656999995
+    },
+    {
+      "key": "rt21_v16.5_y-2",
+      "scene": "rt21",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.051918040419373,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v16.5_y+2",
+      "scene": "rt21",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 2.265611564797833,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v16.5_y-5",
+      "scene": "rt21",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.455658327716055,
+      "negative_peak": null
+    },
+    {
+      "key": "rt21_v16.5_y+5",
+      "scene": "rt21",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.852558684301023,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v0_y+0",
+      "scene": "rt22",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt22_v5.5_y+0",
+      "scene": "rt22",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.0007030406671145162,
+      "negative_peak": 0.17814780603921973
+    },
+    {
+      "key": "rt22_v5.5_y-2",
+      "scene": "rt22",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.9146639101780116,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v5.5_y+2",
+      "scene": "rt22",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8862655956091932,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v5.5_y-5",
+      "scene": "rt22",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.608652691510116,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v5.5_y+5",
+      "scene": "rt22",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.40261460910571,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v11_y+0",
+      "scene": "rt22",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.044693967114521865,
+      "negative_peak": 0.30011667053740726
+    },
+    {
+      "key": "rt22_v11_y-2",
+      "scene": "rt22",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -1.813372312142657,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v11_y+2",
+      "scene": "rt22",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.7263488494836658,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v11_y-5",
+      "scene": "rt22",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.476860393472505,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v11_y+5",
+      "scene": "rt22",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.275559739854615,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v16.5_y+0",
+      "scene": "rt22",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": -0.18250908458964152,
+      "negative_peak": 0.57458412974779
+    },
+    {
+      "key": "rt22_v16.5_y-2",
+      "scene": "rt22",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.7776842869247886,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v16.5_y+2",
+      "scene": "rt22",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.442606656832318,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v16.5_y-5",
+      "scene": "rt22",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -4.147456844378869,
+      "negative_peak": null
+    },
+    {
+      "key": "rt22_v16.5_y+5",
+      "scene": "rt22",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 3.808428658447266,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v0_y+0",
+      "scene": "rt23",
+      "speed": 0.0,
+      "yaw": 0.0,
+      "endpoint": 0.0,
+      "negative_peak": 0.0
+    },
+    {
+      "key": "rt23_v5.5_y+0",
+      "scene": "rt23",
+      "speed": 5.5,
+      "yaw": 0.0,
+      "endpoint": 0.07705357688235545,
+      "negative_peak": 0.1535949345425534
+    },
+    {
+      "key": "rt23_v5.5_y-2",
+      "scene": "rt23",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "endpoint": -1.736562577142208,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v5.5_y+2",
+      "scene": "rt23",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "endpoint": 1.8767416448786558,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v5.5_y-5",
+      "scene": "rt23",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "endpoint": -4.365513863459403,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v5.5_y+5",
+      "scene": "rt23",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "endpoint": 4.488570197995865,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v11_y+0",
+      "scene": "rt23",
+      "speed": 11.0,
+      "yaw": 0.0,
+      "endpoint": -0.2773134952194914,
+      "negative_peak": 0.6135718912843131
+    },
+    {
+      "key": "rt23_v11_y-2",
+      "scene": "rt23",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "endpoint": -2.0113141626494317,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v11_y+2",
+      "scene": "rt23",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "endpoint": 1.459945504624137,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v11_y-5",
+      "scene": "rt23",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "endpoint": -4.56374470642703,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v11_y+5",
+      "scene": "rt23",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "endpoint": 4.049283925493769,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v16.5_y+0",
+      "scene": "rt23",
+      "speed": 16.5,
+      "yaw": 0.0,
+      "endpoint": 0.20496129039677288,
+      "negative_peak": 0.844928703794731
+    },
+    {
+      "key": "rt23_v16.5_y-2",
+      "scene": "rt23",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "endpoint": -1.4477567578534443,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v16.5_y+2",
+      "scene": "rt23",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "endpoint": 1.8395580392242574,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v16.5_y-5",
+      "scene": "rt23",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "endpoint": -3.884458909741505,
+      "negative_peak": null
+    },
+    {
+      "key": "rt23_v16.5_y+5",
+      "scene": "rt23",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "endpoint": 4.272359070296974,
+      "negative_peak": null
+    }
+  ],
+  "stationary_total": 24,
+  "stationary_alarms": 0,
+  "all_gates": true,
+  "no_test_retuning": true,
+  "physiological_validation": false
+}

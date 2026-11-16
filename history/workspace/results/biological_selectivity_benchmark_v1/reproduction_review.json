@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "key": "aligned_100_202610279103_translation",
+      "arrays": 16,
+      "exact": true
+    },
+    {
+      "key": "pitched_100_202610279101_left",
+      "arrays": 16,
+      "exact": true
+    }
+  ],
+  "numerical_primary_matches_main_exactly": true
+}

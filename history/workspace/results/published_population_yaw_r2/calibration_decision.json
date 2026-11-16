@@ -1,0 +1,11 @@
+{
+  "cutoffs": {
+    "flow_linear": 6.2382614806818255,
+    "population_mlp": 5.496044951213741
+  },
+  "qualified": {
+    "flow_linear": false,
+    "population_mlp": false
+  },
+  "test_not_rendered": true
+}

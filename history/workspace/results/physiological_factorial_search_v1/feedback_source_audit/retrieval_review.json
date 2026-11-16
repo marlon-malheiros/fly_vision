@@ -1,0 +1,33 @@
+{
+  "utc": "2026-11-04T20:21:50.880903+00:00",
+  "files": [
+    {
+      "repo": "ClandininLab/L1L2-recurrent-feedback",
+      "commit": "7fa5829e37d566e02beaaa87efd6a0f1de4e48c0",
+      "original_path": "computational-model/Simulation.ipynb",
+      "saved": "results/physiological_factorial_search_v1/feedback_source_audit/L1L2_computational-model__Simulation.ipynb",
+      "bytes": 11316,
+      "sha256": "f93c79e6d5ca778dd4ef9686a0defa056e49972e149dd85c9555ac7a72a7c529"
+    },
+    {
+      "repo": "silieslab/C2C3_feedback_Henning",
+      "commit": "745c6114b72a61dabc9389a1f024dbe22f679edf",
+      "original_path": "Figure6_SourceCode1_T4T5_DS_Responses.m",
+      "saved": "results/physiological_factorial_search_v1/feedback_source_audit/C2C3_Figure6_SourceCode1_T4T5_DS_Responses.m",
+      "bytes": 6184,
+      "sha256": "cd7f26a2cac281be8175c4cbfad03c2d9f12e5aa8eeea7bf9185f627e9d3186c"
+    },
+    {
+      "repo": "silieslab/C2C3_feedback_Henning",
+      "commit": "745c6114b72a61dabc9389a1f024dbe22f679edf",
+      "original_path": "README.md",
+      "saved": "results/physiological_factorial_search_v1/feedback_source_audit/C2C3_README.md",
+      "bytes": 2379,
+      "sha256": "8bdd7f4b5a7ccc363256a536708bc98e45a9b4180736cde1fe6343b563c9a688"
+    }
+  ],
+  "trial_data_downloaded": false,
+  "grid_or_acceptance_changes": false,
+  "source_evidence_only": true,
+  "missing_biophysical_parameters_not_invented": true
+}

@@ -1,0 +1,38 @@
+{
+  "utc": "2026-11-01T02:26:37.809993+00:00",
+  "files": [
+    {
+      "path": "docs/NEURAL_POPULATION_CUTOFF_PROTOCOL_R2.md",
+      "size_bytes": 2575,
+      "sha256": "a6115202428da54fdffbff30b2e32b1eb0eec635e7241641d81f1128414a2644"
+    },
+    {
+      "path": "results/neural_population_cutoff_r2/before_calibration.json",
+      "size_bytes": 1202,
+      "sha256": "5ef9f14cdeea2040c8bab9a85ff69f525c4ffd8820bf3e18e809102005de099f"
+    },
+    {
+      "path": "results/neural_population_cutoff_r2/cutoffs.json",
+      "size_bytes": 512,
+      "sha256": "31fa6ad7bf9b1e69b55547d7cb50cc4a80d2003c4da87b0e00a96a96bf446a1d"
+    },
+    {
+      "path": "results/neural_population_cutoff_r2/negative_episode_peaks.csv",
+      "size_bytes": 14222,
+      "sha256": "e8b37dd7711a4f723c9b1b8b3041e0fa22b4306b8779f78e1cbb40eb08c06ea1"
+    },
+    {
+      "path": "results/neural_population_readout_v1/readouts.json",
+      "size_bytes": 859562,
+      "sha256": "034dfe1df2d1e42ce2f836048de6ca74f92631811f1560c2a396fe9438b1c093"
+    },
+    {
+      "path": "scripts/neural_population_cutoff_r2.py",
+      "size_bytes": 6715,
+      "sha256": "752fd98579ab251b2840a8d8a5e1491e94d194dfd81c352f0cac2f49e043b787"
+    }
+  ],
+  "test_not_rendered": true,
+  "positive_trials_not_used_for_cutoffs": true,
+  "primary": "episode90/individual_linear"
+}

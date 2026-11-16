@@ -1,0 +1,101 @@
+{
+  "utc": "2026-11-02T03:38:00.035897+00:00",
+  "files": [
+    {
+      "path": "configs/raw_local_qualification_v1.json",
+      "size_bytes": 470,
+      "sha256": "4f8f923d62c75f6ee2d74e3ade85476f75bf7c99f4051ed70b07825e32eaac30"
+    },
+    {
+      "path": "docs/RAW_LOCAL_QUALIFICATION_PROTOCOL_V1.md",
+      "size_bytes": 4995,
+      "sha256": "d7488bf0ab83a61a8df8248a12b516954951dae5a963d204a72e5d12126295f3"
+    },
+    {
+      "path": "scripts/raw_local_qualification_v1.py",
+      "size_bytes": 12684,
+      "sha256": "d6d4412ad97d62804b8548213e7de3f963f262acb66a81a70d7b780e06065d98"
+    },
+    {
+      "path": "scripts/local_subunit_pilot_v1.py",
+      "size_bytes": 22191,
+      "sha256": "aa7e5ce9567d4cfd1f8dfaefb0db4176570b881dca93108085a775f8c7d7c66b"
+    },
+    {
+      "path": "src/male_optic_frontend/local_subunit_v1.py",
+      "size_bytes": 4641,
+      "sha256": "97011e13b452b9bdac6cb606f3c27d461b781232ddbf61961c02b4bd7af427a3"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/completion_v1/artifact_index.json",
+      "size_bytes": 206742,
+      "sha256": "5903f1bcf7b9a7aab6b5cad08f99178e9be47aeea3771adf4e7c939ea2c0cbc5"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/post_exit_integrity_v1.json",
+      "size_bytes": 434,
+      "sha256": "7a70d6c26caf2b1404dd766f846896af46f4fdc72f691d9e20a2cb24b238cc87"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/before_features.json",
+      "size_bytes": 13925,
+      "sha256": "4200ad15ab0ea6eb5c7dd129f0c697ccafd68b023b92fa5ee729269861bc74c9"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/before_calibration.json",
+      "size_bytes": 1220,
+      "sha256": "92afe404cbf887593ac939d04a8f05a42d43c2956bf9918012e5fee1b0358621"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/fast_calibration_results.json",
+      "size_bytes": 79603,
+      "sha256": "fc9ae5fbe538fb2c2c8cc2ba5f2516772d3c79530177f8cc4cfbbca359e90078"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/model.json",
+      "size_bytes": 2802,
+      "sha256": "8d2e9a7f091043a9b5618d5c421f36b3494169614a85f11df20a85c273584b1b"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/local_map.npz",
+      "size_bytes": 18753,
+      "sha256": "f23180743243e92e8ed9d3438f6755ef289fa8273306cde029a0debbfd2edd9c"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/training_floor.json",
+      "size_bytes": 166,
+      "sha256": "09fa8351e323416065179bb44258d13f0237685c637acbae10aa85d38f1317ea"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/input_manifest.json",
+      "size_bytes": 308095,
+      "sha256": "3a87621be09bea5ceea78749d78b894b00bf9062a0de2997bedc92e6b181c43b"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/calibration_plans.json",
+      "size_bytes": 55251,
+      "sha256": "1146486fa7f00bf51ff5a62692cfa5d08a592e1cd37aac65ad6f4f563c04e1b7"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/numerical_plans.json",
+      "size_bytes": 25383,
+      "sha256": "ba2dd447b5deeeaa002372f3f4dfb6eeed439fa3d5f41213b8f15b4edc4584d4"
+    },
+    {
+      "path": "results/raw_local_qualification_v1/numerical_input_manifest.json",
+      "size_bytes": 47900,
+      "sha256": "a77af09b7c5b1258e27181165d413e163cf6accd15bb8615812e644085ec1bed"
+    }
+  ],
+  "candidate": "raw_local",
+  "selection_retrospective": true,
+  "additional_calibration_not_scored": true,
+  "numerical_scores_not_computed": true,
+  "reserved_rooms_not_accessed": true,
+  "planning_cpu_seconds": {
+    "remaining_calibration": 1200,
+    "numerics": 2000
+  },
+  "planning_output_bytes": 209715200,
+  "free_bytes": 162577850368
+}

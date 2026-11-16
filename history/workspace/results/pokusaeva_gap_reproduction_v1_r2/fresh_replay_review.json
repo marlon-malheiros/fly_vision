@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "exact_JSON_payloads": [
+    "reproduction/solutions.json",
+    "reproduction/DI.json",
+    "reproduction/warnings.json",
+    "transfer/weights.json",
+    "transfer/development_features.json",
+    "transfer/decoders.json",
+    "transfer/test_features.json",
+    "transfer/predictions.json",
+    "transfer/curves.json",
+    "transfer/thresholds.json",
+    "transfer/offsets.json",
+    "transfer/paired_effects.json",
+    "transfer/input_rank.json"
+  ],
+  "bootstrap_arrays_exact": [
+    "scenes",
+    "resamples",
+    "changes"
+  ],
+  "fresh_processes": 5,
+  "all_model_responses_and_decisions_exact": true
+}

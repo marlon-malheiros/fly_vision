@@ -1,0 +1,346 @@
+{
+  "status": "PASS",
+  "scope": "Four predefined episodes; same environment, separate execution",
+  "results": [
+    {
+      "key": "q00_v16.5_y+0",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "confidence",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "geometric_weights",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_xy",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "q01_v16.5_y-2",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "confidence",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "geometric_weights",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_xy",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "q02_v5.5_y+2",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "confidence",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "geometric_weights",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_xy",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "q03_v11_y+5",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "methods",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "confidence",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "geometric_weights",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "clipped_grid_entries",
+          "exact": true
+        },
+        {
+          "file": "readout.npz",
+          "field": "local_xy",
+          "exact": true
+        }
+      ]
+    }
+  ]
+}

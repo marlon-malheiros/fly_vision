@@ -1,0 +1,15 @@
+{
+  "status": "ANALYSIS_COMPLETE",
+  "inputs": 280,
+  "mean_rows": 8960,
+  "gain_rows": 3840,
+  "source_role_count_unequal": true,
+  "all_duplicate_controls_identical": true,
+  "max_mirror_image_error": 0.0,
+  "max_symmetric_image_error": 0.0,
+  "maximum_recorded_abs_wide_rate": 0.006168461402532522,
+  "minimum_recorded_wide_activation_derivative": 0.9999619500839255,
+  "unique_error_cause_established": false,
+  "physiological_validation": false,
+  "new_detection_threshold": false
+}

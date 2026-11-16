@@ -1,0 +1,12 @@
+{
+  "utc": "2026-11-02T12:49:33.425633+00:00",
+  "passed": true,
+  "index": {
+    "path": "results/hs_contrast_validation_v1/completion_v1/artifact_index.json",
+    "size_bytes": 115044,
+    "sha256": "00048226c7c7eff91d431f4ff173015d972dbd8c1fce5c22ae1698382181a04c"
+  },
+  "indexed_files": 503,
+  "total_package_bytes": 38202479,
+  "complete_biological_validation": false
+}

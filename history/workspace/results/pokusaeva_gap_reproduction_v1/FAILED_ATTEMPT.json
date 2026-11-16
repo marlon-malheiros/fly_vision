@@ -1,0 +1,7 @@
+{
+  "status": "FAILED_WRAPPER",
+  "cause": "Independent DI calculation divided by zero for a neuron with zero responses in an author lesion condition. Author code emits NaN; preserve undefined as JSON null, never invent DI=0.",
+  "parameters_changed": false,
+  "criteria_changed": false,
+  "corrected_destination": "results/pokusaeva_gap_reproduction_v1_r2"
+}

@@ -1,0 +1,37 @@
+{
+  "utc": "2026-11-02T03:26:50.525106+00:00",
+  "files": [
+    {
+      "path": "results/local_subunit_pilot_v1/models.json",
+      "size_bytes": 9154,
+      "sha256": "0c4b42c49cefc3d4a5ad5cafa0851702b12910e6fd078ec77a94e6402ae7d28c"
+    },
+    {
+      "path": "results/local_subunit_pilot_v1/training_fit.json",
+      "size_bytes": 600,
+      "sha256": "88db7f5176c7b337cf26fa67c01245f6c66267b14ab5a70edac9732aca8b0ab3"
+    },
+    {
+      "path": "configs/local_subunit_pilot_v1.json",
+      "size_bytes": 790,
+      "sha256": "8426df6390dd9ae6f6f0bc8667c7c00edc50bb4ec5c90ca033af18cfb22a922b"
+    },
+    {
+      "path": "docs/LOCAL_SUBUNIT_PILOT_PROTOCOL_V1.md",
+      "size_bytes": 8905,
+      "sha256": "b68d60b90e7ac301ced90cf70c445a13db0d1a91b0fe42e4cc2dee4be2fdec08"
+    },
+    {
+      "path": "scripts/local_subunit_pilot_v1.py",
+      "size_bytes": 22191,
+      "sha256": "aa7e5ce9567d4cfd1f8dfaefb0db4176570b881dca93108085a775f8c7d7c66b"
+    },
+    {
+      "path": "src/male_optic_frontend/local_subunit_v1.py",
+      "size_bytes": 4641,
+      "sha256": "97011e13b452b9bdac6cb606f3c27d461b781232ddbf61961c02b4bd7af427a3"
+    }
+  ],
+  "new_w_local_features_not_computed": true,
+  "coefficients_frozen": true
+}

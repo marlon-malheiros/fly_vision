@@ -1,0 +1,7 @@
+{
+  "stage": "auxiliary post-run zero-drive hash audit",
+  "error": "AssertionError from assumed float64 bytes",
+  "model_or_predictions_changed": false,
+  "original_hashes_not_modified": true,
+  "correction_pending": "Verify actual inherited source dtype and repeat check"
+}

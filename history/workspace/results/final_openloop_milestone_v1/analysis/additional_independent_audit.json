@@ -1,0 +1,73 @@
+{
+  "utc": "2026-10-30T13:57:55.175407+00:00",
+  "independently_recomputed_curves": 1050,
+  "independently_recomputed_paired_effects": 84,
+  "errors": [],
+  "masks": [
+    {
+      "variant": "original_frozen",
+      "silent": 0,
+      "edges": 0,
+      "passed": true
+    },
+    {
+      "variant": "expanded_pre_LPi",
+      "silent": 0,
+      "edges": 0,
+      "passed": true
+    },
+    {
+      "variant": "LPi_intact",
+      "silent": 0,
+      "edges": 0,
+      "passed": true
+    },
+    {
+      "variant": "LPi_silent_same_normalization",
+      "silent": 6,
+      "edges": 0,
+      "passed": true
+    },
+    {
+      "variant": "LPi_bIPS_silent",
+      "silent": 2,
+      "edges": 0,
+      "passed": true
+    },
+    {
+      "variant": "LPi_bIPS_all_outputs_cut",
+      "silent": 0,
+      "edges": 30,
+      "passed": true
+    },
+    {
+      "variant": "LPi_bIPS_to_DNp15_cut",
+      "silent": 0,
+      "edges": 4,
+      "passed": true
+    },
+    {
+      "variant": "LPi_HS_silent",
+      "silent": 8,
+      "edges": 0,
+      "passed": true
+    },
+    {
+      "variant": "LPi_H2_silent",
+      "silent": 2,
+      "edges": 0,
+      "passed": true
+    },
+    {
+      "variant": "LPi_sham",
+      "silent": 0,
+      "edges": 0,
+      "passed": true
+    }
+  ],
+  "prefix_episodes": 1800,
+  "stationary_episodes": 60,
+  "stationary_max_rate": 0.0,
+  "minimum_walking_rate_at_yaw": 0.0008395004092436602,
+  "passed": true
+}

@@ -1,0 +1,12 @@
+{
+  "status": "PRESENTATION_REVISION_REQUIRED",
+  "all_seven_png_figures_inspected": true,
+  "issues": [
+    "normalization_control footer overlaps legend",
+    "fresh_readout_comparison footer overlaps legend",
+    "dnp15 time ticks crowded"
+  ],
+  "numerical_results_unchanged": true,
+  "preserved_folder": "presentation",
+  "correction_folder": "presentation_v2"
+}

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "draws": 10000,
+  "deterministic_seed_and_every_resample_checked": true,
+  "all_position_errors_and_cell_bounds_checked": true,
+  "animal_resampling_and_reported_intervals_checked": true,
+  "max_phase_error_deg": 1.7053025658242404e-13,
+  "biological_validation": false
+}

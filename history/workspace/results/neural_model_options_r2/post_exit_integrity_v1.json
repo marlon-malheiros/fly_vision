@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "index": {
+    "path": "results/neural_model_options_r2/completion_v1/artifact_index.json",
+    "size_bytes": 85485,
+    "sha256": "580f26698b3d8363f9b48641d63ff982fa32c960e4ed8cbaebef9e163d071aca"
+  },
+  "files": 406,
+  "bytes": 278790094,
+  "receipt_outside_index": true
+}

@@ -1,0 +1,17 @@
+{
+  "status": "COMPLETE_EXPLORATORY",
+  "completed_utc": "2026-10-19T13:58:18.639994+00:00",
+  "cell_rows": 68544,
+  "class_rows": 19584,
+  "decoder_models": 144,
+  "predictions": 19008,
+  "curve_rows": 1440,
+  "threshold_rows": 288,
+  "static_maximum": 0.0,
+  "mean_timing_flags": 0,
+  "contrast_timing_flags": 0,
+  "timing_decision_changes": 33,
+  "no_held_out_fit": true,
+  "biological_detection_thresholds_established": false,
+  "parameters_refitted": false
+}

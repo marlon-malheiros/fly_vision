@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-21T20:43:59.946984+00:00",
+  "regenerated_full_inputs": 8,
+  "independent_python_neural_replays": 32,
+  "retinal_checkpoint_summaries": 80,
+  "retinal_pixels_checked": 23120,
+  "flow_summaries": 60,
+  "retinal_max_error": 0.0,
+  "neural_rate_max_error": 8.673617379884035e-19,
+  "full_final_state_max_error": 1.0842021724855044e-19,
+  "angular_flow_max_error_rad_s": 5.474890372170194e-07,
+  "scientific_results_changed": false,
+  "physiologically_validated": false,
+  "scope": "Two fixed scene/condition pairs across four profiles; no global convergence claim"
+}

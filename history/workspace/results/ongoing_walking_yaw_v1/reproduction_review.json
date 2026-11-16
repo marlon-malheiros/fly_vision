@@ -1,0 +1,446 @@
+{
+  "status": "PASS",
+  "results": [
+    {
+      "key": "p00_v16.5_y+0",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "rate",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "roles",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "sides",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "state_at_yaw",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "final_state",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source_body_ids",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "p01_v16.5_y-2",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "rate",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "roles",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "sides",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "state_at_yaw",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "final_state",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source_body_ids",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "p02_v5.5_y+2",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "rate",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "roles",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "sides",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "state_at_yaw",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "final_state",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source_body_ids",
+          "exact": true
+        }
+      ]
+    },
+    {
+      "key": "p03_v11_y+5",
+      "checks": [
+        {
+          "file": "retina.npz",
+          "field": "frames",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "frame_index",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "horizontal_deg",
+          "exact": true
+        },
+        {
+          "file": "retina.npz",
+          "field": "elevation_deg",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "drive",
+          "exact": true
+        },
+        {
+          "file": "source.npz",
+          "field": "source_body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "rate",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "body_ids",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "roles",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "sides",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "state_at_yaw",
+          "exact": true
+        },
+        {
+          "file": "network.npz",
+          "field": "final_state",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "time_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "local_yaw_deg_s",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "weights",
+          "exact": true
+        },
+        {
+          "file": "reference.npz",
+          "field": "source_body_ids",
+          "exact": true
+        }
+      ]
+    }
+  ],
+  "scope": "Four predefined subset episodes in a separate execution"
+}

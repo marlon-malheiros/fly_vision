@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "new_rooms": 24,
+  "episodes": 384,
+  "predictions": 3072,
+  "curves": 48,
+  "thresholds": 24,
+  "all_cutoffs_verified": true,
+  "nearest_hypotheses_independently_checked": true,
+  "bootstrap_draws": 10000,
+  "maximum_score_discrepancy": 2.6645352591003757e-15,
+  "maximum_bootstrap_discrepancy": 0.0,
+  "qualified_target_methods": [
+    "subspace",
+    "lk_median",
+    "subspace_median"
+  ],
+  "numerical_evidence_reused_with_hashes": true,
+  "neural_detector_repaired": false,
+  "physiological_validation": false
+}

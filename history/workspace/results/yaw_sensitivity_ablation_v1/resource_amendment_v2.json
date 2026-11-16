@@ -1,0 +1,15 @@
+{
+  "reason": "Parallel execution of disjoint far-later inputs to keep the larger frozen study practical",
+  "helper": {
+    "path": "scripts/assist_yaw_sensitivity_disjoint_v1.py",
+    "sha256": "2ed843bdf4176b641124bd68789a08d918b201fd1b7c6291a86ac313d9950adf",
+    "size_bytes": 917
+  },
+  "primary_block": "FIFO starting s01, primary verifies and skips completed later receipts",
+  "helper_block": "s09 through s12 plus sixteen uniquely keyed refinements",
+  "additional_workers": 4,
+  "solver_threads_per_worker": 2,
+  "scientific_methods_unchanged": true,
+  "all_conditions_retained": true,
+  "identical_frozen_execute_function": true
+}

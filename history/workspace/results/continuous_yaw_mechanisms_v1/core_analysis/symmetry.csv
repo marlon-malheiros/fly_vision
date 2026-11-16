@@ -1,0 +1,9 @@
+group,scene,world,world_kind,split,speed,yaw,key,image_lr_rms,image_lr_max,pooled_lr_max,routed_lr_max
+core,s07,s07_S,S,known_diagnostic,0.0,0.0,s07_S_v0_y+0,0.0,0.0,0.0,0.0
+core,s07,s07_S,S,known_diagnostic,5.5,0.0,s07_S_v5.5_y+0,0.0,0.0,0.0,2.4304958060383797e-05
+core,s07,s07_S,S,known_diagnostic,11.0,0.0,s07_S_v11_y+0,0.0,0.0,0.0,6.82548270560801e-05
+core,s07,s07_S,S,known_diagnostic,16.5,0.0,s07_S_v16.5_y+0,0.0,0.0,0.0,9.057106217369437e-05
+core,s12,s12_S,S,known_diagnostic,0.0,0.0,s12_S_v0_y+0,0.0,0.0,0.0,0.0
+core,s12,s12_S,S,known_diagnostic,5.5,0.0,s12_S_v5.5_y+0,0.0,0.0,0.0,2.1636835299432278e-05
+core,s12,s12_S,S,known_diagnostic,11.0,0.0,s12_S_v11_y+0,0.0,0.0,0.0,3.865055623464286e-05
+core,s12,s12_S,S,known_diagnostic,16.5,0.0,s12_S_v16.5_y+0,0.0,0.0,0.0,5.457829684019089e-05

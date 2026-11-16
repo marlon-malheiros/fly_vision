@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-19T14:49:54.927065+00:00",
+  "actual_python_replays": 6,
+  "actual_python_rate_error": 1.734723475976807e-18,
+  "actual_python_final_error": 5.421010862427522e-20,
+  "solver_only": [
+    {
+      "key": "s01_v16.5_y+2",
+      "maximum_rate_change": 8.1067902005232e-06
+    },
+    {
+      "key": "s01_v16.5_y-2",
+      "maximum_rate_change": 9.038133310667901e-06
+    }
+  ],
+  "raw_means": 248040,
+  "maximum_mean_error": 4.336808689942018e-18,
+  "maximum_current_error": 5.692061405548898e-19,
+  "predictions": 35640,
+  "curve_rows": 2700,
+  "threshold_rows": 540
+}

@@ -1,0 +1,133 @@
+{
+  "utc": "2026-11-01T02:25:41.437746+00:00",
+  "files": [
+    {
+      "path": "configs/neural_population_readout_v1.json",
+      "size_bytes": 669,
+      "sha256": "1fa7045d1ba44a6659b5ad25bc2394f108f8e9b81e81a9db9e016cfd5b456732"
+    },
+    {
+      "path": "docs/NEURAL_POPULATION_READOUT_PROTOCOL_V1.md",
+      "size_bytes": 5466,
+      "sha256": "1a3b04e4a8cc0e4d304d9ce493935f7a911eda7adc3c7bce437fce539b7b2fb3"
+    },
+    {
+      "path": "results/neural_population_readout_v1/analysis/calibration_curves.csv",
+      "size_bytes": 1959,
+      "sha256": "10ba2a197915becf1ae8f48ad111fdaea44a4ea5f458180162673a3cbbaebf05"
+    },
+    {
+      "path": "results/neural_population_readout_v1/analysis/calibration_gates.json",
+      "size_bytes": 140,
+      "sha256": "30e3bd20c15941d7265ceff1188e05dfda925035002360fcb362461d94a51c20"
+    },
+    {
+      "path": "results/neural_population_readout_v1/analysis/numerical_comparisons.csv",
+      "size_bytes": 33867,
+      "sha256": "2513fc74fd57eb9844b15d49ebc3f88d614704580e978a42b3d85ff465040c1e"
+    },
+    {
+      "path": "results/neural_population_readout_v1/analysis/numerical_gates.json",
+      "size_bytes": 139,
+      "sha256": "4327c41e71deb83a126e0c41990efab4dc3b9bee56713ca669737787e537dd98"
+    },
+    {
+      "path": "results/neural_population_readout_v1/before_development.json",
+      "size_bytes": 19336,
+      "sha256": "5caf3181243d4ab6d5b14e0678d5d511067a17a28288390b2df14e095f3da644"
+    },
+    {
+      "path": "results/neural_population_readout_v1/fit_freeze.json",
+      "size_bytes": 4871,
+      "sha256": "4a1e6662f76076c1e5fad02f2d77efc44b81863938f15d31a2c3ed0c566e115c"
+    },
+    {
+      "path": "results/neural_population_readout_v1/readouts.json",
+      "size_bytes": 859562,
+      "sha256": "034dfe1df2d1e42ce2f836048de6ca74f92631811f1560c2a396fe9438b1c093"
+    },
+    {
+      "path": "scripts/biological_selectivity_benchmark_v1.py",
+      "size_bytes": 25639,
+      "sha256": "e5c7156dd943e060c0d632e7271bb409324a8114300c842457cf74a61a377bf8"
+    },
+    {
+      "path": "scripts/continuous_readout_repair_v1.py",
+      "size_bytes": 21347,
+      "sha256": "63f90b7c6250c90099c87521d759c066d2b302fd8785f00d5926c154a1dbd163"
+    },
+    {
+      "path": "scripts/neural_population_readout_v1.py",
+      "size_bytes": 20013,
+      "sha256": "800d6d4b223463213fd2caeddd6c4e9899148c9e9ce6f285e355bace58229b03"
+    },
+    {
+      "path": "scripts/report_neural_population_v1.py",
+      "size_bytes": 12587,
+      "sha256": "74f9c67acd5dfb6a5de6229a69e81676c7b0a3ff4742695b8c36f4f4d7a0247f"
+    },
+    {
+      "path": "scripts/review_neural_population_v1.py",
+      "size_bytes": 8396,
+      "sha256": "f729e888b91c3b61acb162f52405dbf7aca08cc6697f9d188fbc30dfd008296b"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_readout_repair_v1.py",
+      "size_bytes": 3398,
+      "sha256": "ad012d42c7e17c13a327469e7f0fd36230a2012348c04bd5ec9959ff8c623170"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/final_openloop_v1.py",
+      "size_bytes": 6523,
+      "sha256": "6319db9e70cb1be83413dd6e95c1223209eb8674098eca5927580ee0cb701030"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_observer_v1.cpp",
+      "size_bytes": 3368,
+      "sha256": "1d8b992b937ea9cf64ac428ea9d95f47ead8f3286ff32f48297afaab5c828254"
+    },
+    {
+      "path": "src/male_optic_frontend/neural_population_readout_v1.py",
+      "size_bytes": 6283,
+      "sha256": "472e4b5ce6326cb9c03f30ca0ebd8b1b7c4efe9aed90b2499c5cc28e69ef02e4"
+    },
+    {
+      "path": "src/male_optic_frontend/ongoing_walking_yaw_v1.py",
+      "size_bytes": 661,
+      "sha256": "62696cbe63a00f23bdd37090090d3ce8f3ea8dee26fee12030bfe202d67f791f"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "tests/test_neural_population_readout_v1.py",
+      "size_bytes": 1418,
+      "sha256": "bf087a7e788a1e38288edeb97a82bad5de67eadd3a967845b0f2c48a8b204b8a"
+    }
+  ],
+  "primary": "spatial_mlp",
+  "test_images_not_generated": true,
+  "failed_candidates_still_tested_without_retuning": true
+}

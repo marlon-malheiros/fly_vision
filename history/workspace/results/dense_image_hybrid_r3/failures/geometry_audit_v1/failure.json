@@ -1,0 +1,7 @@
+{
+  "utc": "2026-10-30T18:19:05.503496+00:00",
+  "action": "auxiliary landmark finite-difference audit",
+  "reason": "forward first-order finite difference failed the frozen 0.002 deg/s check",
+  "scientific_inference_changed": false,
+  "correction": "Use a symmetric central landmark difference to reduce derivative truncation, retaining the same tolerance."
+}

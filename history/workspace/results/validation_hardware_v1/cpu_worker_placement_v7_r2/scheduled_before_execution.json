@@ -1,0 +1,379 @@
+{
+  "created_utc": "2026-10-22T12:45:54.168477+00:00",
+  "files": [
+    {
+      "path": "configs/cpu_worker_placement_v7_r2.json",
+      "size_bytes": 5480,
+      "sha256": "37e28c5f516f9e58a0754e7afeba8c1bd50a098f3127d7fb65108f61f74d6a84"
+    },
+    {
+      "path": "docs/CPU_WORKER_PLACEMENT_PROTOCOL_V7.md",
+      "size_bytes": 5783,
+      "sha256": "3a8f932e1f63fa96fa4748d660be86ed2e14195d1bf6da8a47a9545b95df8d14"
+    },
+    {
+      "path": "docs/CPU_WORKER_PLACEMENT_STARTUP_CORRECTION_V7_R2.md",
+      "size_bytes": 1633,
+      "sha256": "45f3dfb33a05c1576043cec1b1966a21a4c5fe63e6451beb32f2f51979032275"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_clock_v6/standalone_parallel4_v1/libraries/frontend_cpu.so",
+      "size_bytes": 16344,
+      "sha256": "c63217f24b59b30b53fdd4d464fadf27c36adde55d08d303de505c22ce802015"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_clock_v6/standalone_parallel4_v1/libraries/neural_cpu.so",
+      "size_bytes": 29488,
+      "sha256": "23a66b286deea18d507b50f0525903486d691b7c3476e2eab9b68f53861a6a47"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_camera_clock_v6/standalone_parallel4_v1/libraries/projection_cpu.so",
+      "size_bytes": 11720,
+      "sha256": "8ff0c132c1feffdae0064bc827c50de27db38286afae146a8cc85234471e2f19"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/before_preflight.json",
+      "size_bytes": 16723,
+      "sha256": "512418933459b6a14dbb94b517834e1de37e64fcb01258ebcf1feddfd3e66b63"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/preflight.json",
+      "size_bytes": 72923,
+      "sha256": "7ab2102b68968e92a807385c270718c8d87932f61a5d6dc58fae79c91b6ef857"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/scheduled_jobs.json",
+      "size_bytes": 6307,
+      "sha256": "f34364d40ef24914742cfe9c46f73868440c1bcff7d1b6fd91cff3c763a81dce"
+    },
+    {
+      "path": "results/validation_hardware_v1/cpu_worker_placement_v7_r2/unit_tests.log",
+      "size_bytes": 98,
+      "sha256": "d69b6f69e04bc0a56bc320b823fe9ffa437ecb7e0a2d05a2ace978766d34d550"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/BASELINE_V5_README.md",
+      "size_bytes": 2648,
+      "sha256": "d2b58325a0671a423bf3f26ebc19716d073fa4db899e9194ab543f9ecb146e45"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/CAUSAL_SOLVER_WORK_SPLIT_PROTOCOL_V5.md",
+      "size_bytes": 3154,
+      "sha256": "1500c360b64a2a49059e274f2e064cb73001668011c036c6440d04d2b2a32126"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/COMPILED_CAMERA_PROJECTION_PROTOCOL_V4.md",
+      "size_bytes": 3760,
+      "sha256": "91039981a596e03a004b75fdb68584253e5f889d5bd9cc79408c7f108e9531e3"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/CPU_CAMERA_DEPLOYMENT_PROTOCOL_V3.md",
+      "size_bytes": 4783,
+      "sha256": "2486fc2e4e7645337e00919a9ca489f85840f861524ff210c7e21d8b695bcd21"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/PROTOCOL.md",
+      "size_bytes": 5908,
+      "sha256": "9549789dd9043be38fc4d46425a09e70073bacc0943e9be2c67c6f51e5e68f53"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/README.md",
+      "size_bytes": 4849,
+      "sha256": "720f0225cccfbbd439cc5bca47ac3f92cb5d201e51d1aeb31a0c3ad2490e1dd5"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/SYNTHETIC_CLOCK_MAPPING_EXAMPLE.json",
+      "size_bytes": 449,
+      "sha256": "0bdcfaf2b0294706895c1b7b653c1118626e38470719e099396bc461551bea32"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/calibration/arrays.npz",
+      "size_bytes": 422409,
+      "sha256": "56040e4703927e9b1cb0084ecb249af4cf262aee54e8a19ac11fbcaf8db138fe"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/calibration/calibration.json",
+      "size_bytes": 3347,
+      "sha256": "a9dcf2f319cc8bdd38528c5c00ce09f9b92bf917158154a16556bcce8323ad49"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/fixtures_complete.json",
+      "size_bytes": 4676,
+      "sha256": "b2a5dacdf207f65c15326e707800de56b4c93e60c55a62a398ea3e8df2ea5e80"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y+0_expected.npz",
+      "size_bytes": 819083,
+      "sha256": "0709439edec5e0205bbc8a2889fcbe005c73d13cbe179e26b38ad3275299f65c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y+0_half_time_reference.npz",
+      "size_bytes": 33573,
+      "sha256": "d38464874431e9cc544838bc726dad9127726cb6175d81238907a97cfc09df7c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y+0_raw.npz",
+      "size_bytes": 8445747,
+      "sha256": "01a8136d0e721d6e452a68dea1be14587110c0119b18ca41784e26c442ba9ee8"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y+20_expected.npz",
+      "size_bytes": 820541,
+      "sha256": "49f62530f193387d402633510674e649b052c1d3fcbc32d890c851a785bbc1c2"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y+20_half_time_reference.npz",
+      "size_bytes": 33595,
+      "sha256": "3453c67119db079acf75752a0dbae6ae33c988a6dc32f14d81b623b98615809b"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y+20_raw.npz",
+      "size_bytes": 8904008,
+      "sha256": "1bc0a61c6c03b447cdce6604eccf6bba0573ad1f868084f07b80e24e919f6195"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y-20_expected.npz",
+      "size_bytes": 824588,
+      "sha256": "25be9fc91be0c6704f130722d85c186df6f3fa328e80144659bb26c6230a2e56"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y-20_half_time_reference.npz",
+      "size_bytes": 33573,
+      "sha256": "4a6b47d78db179cc6a7c093beac2c7462825b1d14f625dcc6d6173c68f720d58"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/fixtures/s01_v16.5_y-20_raw.npz",
+      "size_bytes": 8881126,
+      "sha256": "f29055ba29f004a019e1d894aacd0f8a943018ca87524448f774780e7c48dc04"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/model/decoders.json",
+      "size_bytes": 73952,
+      "sha256": "54e66326e4cefd854b7acdd15e4d5af47f4a9816f0cec111290fbf53d859ed9f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/model/graph/chemical_weights.npz",
+      "size_bytes": 636379,
+      "sha256": "035a97b22e4a88bce9a147e374628c0e59e79d006bc4e4177c99a136520f97b0"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/model/graph/gap_weights.npz",
+      "size_bytes": 1041,
+      "sha256": "fd139d416d5bc375f36e1b87b7aba11bfa3b05888bb1b6b20cb7c7d09684ae70"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/model/graph/graph.json",
+      "size_bytes": 2010,
+      "sha256": "91b1f680f9533152480203d65f60f96739229ffe6e9d53dc2a61e2bb6c6c2da6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/model/graph/graph_arrays.npz",
+      "size_bytes": 54879,
+      "sha256": "a1294c651c7a111439cfc0d0363a9075db69edb8f1c814ae250e50e8dd0ba373"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/model/model.json",
+      "size_bytes": 2642244,
+      "sha256": "883bcac95c72a43c7719fd1b3f60f43c10b84d198f17e09aef5fc6813a4b9159"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/package_index.json",
+      "size_bytes": 10270,
+      "sha256": "e64ed1e3533928ed9372533c0f6796cf7dfe5261b01d760f46a593f30495e82a"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/requirements.txt",
+      "size_bytes": 26,
+      "sha256": "bd9b05f6d7d86ebb478781195b8fb4c0d0754a9c1e0bf2936b4e7ea9552228b2"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/selfcheck_cpu_camera_v5.py",
+      "size_bytes": 6360,
+      "sha256": "e887de486dd219fbf0198628ebdf12e8b51d8855c1d0df96ae487ca26ab00f51"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/selfcheck_cpu_camera_v6.py",
+      "size_bytes": 11101,
+      "sha256": "caf01d59d889ef15ec6851b2ad6092190e5b2729c1f525b1fb7b6346256827ec"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/__init__.py",
+      "size_bytes": 104,
+      "sha256": "1a1b602c69967dfa8488e0f29612792da8cdde8dcbb76dbed499b827b4c0db79"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/camera_clock_guard_v1.py",
+      "size_bytes": 13090,
+      "sha256": "5262d39f37290e2cbf40c1d57f9fbb80c6c34a15b5e33d640c935e857d277a96"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/camera_runtime_v3.py",
+      "size_bytes": 6713,
+      "sha256": "a0e762a1c3473517e5ac3c262559d3631d0a8227f3ccfa8ee8057f35558e3c2f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/camera_runtime_v4.py",
+      "size_bytes": 6425,
+      "sha256": "0abf7e248faeec133191d794387364925665e3f55791f658c7fe5ff467982a3f"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/camera_runtime_v5.py",
+      "size_bytes": 4707,
+      "sha256": "4c56ffaddfce90a486477372b633ebffe86839392d599c2ef91b05a8af6167b6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/camera_runtime_v6.py",
+      "size_bytes": 1771,
+      "sha256": "84c1f2c54fa2bc83eefb80372bae9c665cf7d9d461304de9c0e3fb74b19fcce7"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/deployment_frontend_v2.cpp",
+      "size_bytes": 2823,
+      "sha256": "530c51be3a3de8a4caf3cd782019f89557c858408d9ebc0c5560f1c87a3bedd8"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/deployment_frontend_v2.py",
+      "size_bytes": 3142,
+      "sha256": "ea7f96e231f29ef2b144869abe2fa53c53dba18e8c7824f760361228b9a2298e"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/deployment_frontend_v3.cpp",
+      "size_bytes": 2930,
+      "sha256": "75814ef3a1ee7fc83f02f9ae66898581d3904f054fd2485b52b7677f9f05521b"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/deployment_frontend_v3.py",
+      "size_bytes": 667,
+      "sha256": "0e7c737336ff63d9b6a887400382cd529456e1f31ab39f0c9613c4888d4d21de"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/deployment_neural_v3.cpp",
+      "size_bytes": 2385,
+      "sha256": "1873c4bc53c662b50623b11a024fc3471487121cc684928c6bfd58263eaf0f64"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/deployment_neural_v3.py",
+      "size_bytes": 867,
+      "sha256": "4ad5184815d103e3cb2c438c42c9faa8780168de4c9f704d8803a025505e8d45"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/hardware_runtime_split_v1.py",
+      "size_bytes": 1379,
+      "sha256": "aeadf56447dc3dd1c09aca1f937f752712560107abccb92ccd2e1d9c80e10e63"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/hardware_runtime_v1.py",
+      "size_bytes": 4536,
+      "sha256": "01690d344d4146c6884814526fa1ed8cf34de1e3620724021f1aec44371b0904"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/hardware_runtime_v2.py",
+      "size_bytes": 7068,
+      "sha256": "412461ad5e46cc0df0c86afb892065fd932828031c233f106c993ac0579f625c"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/held_input_circuit_v1.py",
+      "size_bytes": 3341,
+      "sha256": "ea3412b584c054e728221822d241921c620e5d34f5400aa9ee1c915f276b3750"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/postfix_contracts.py",
+      "size_bytes": 5599,
+      "sha256": "552f707c4943fb86ad7b46add41cf502a66834f30b60a4ef209666e94ee106d6"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/retinal_input.py",
+      "size_bytes": 3390,
+      "sha256": "10ce14adfce3cb273fda657b8ea0ea1e6ca1b9a8e2682b07832f49e91a760ab5"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/sensor_adapter_v1.py",
+      "size_bytes": 8721,
+      "sha256": "c8dce5784f54726ce4491fc11bf3dfd6cd174f81330a08ba687dedb5bfc1d8d9"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/sensor_adapter_v2.py",
+      "size_bytes": 4947,
+      "sha256": "540ac507196a6b93da7dcb772f0130045d43e241280524a60a5391dd61ac6625"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/sensor_projection_v2.cpp",
+      "size_bytes": 1248,
+      "sha256": "1d5bedd556b0efb0782a0fe839904219f19ca7d13b51c243f62e461e9ee62dce"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    },
+    {
+      "path": "results/validation_hardware_v1/deployment/original_runtime_cpu_v6/tests/test_camera_clock_guard_v1.py",
+      "size_bytes": 8572,
+      "sha256": "b36d36df88d583ea41a155e929b62b0cbe12b62a9f152e81ca97dac3f203396f"
+    },
+    {
+      "path": "scripts/benchmark_cpu_placement_v7_r2.py",
+      "size_bytes": 6476,
+      "sha256": "c71130918a6900cdcf0f050942cb7401014eeb4ad39c19c51ee0dad7fe19e604"
+    },
+    {
+      "path": "scripts/cpu_worker_placement_v7.py",
+      "size_bytes": 3973,
+      "sha256": "7f27242caf58748ab8f10923b5cf65f558870bfd271f5c65922c4a7a7891d66d"
+    },
+    {
+      "path": "scripts/scheduled_cpu_placement_v7.py",
+      "size_bytes": 11656,
+      "sha256": "0759d53c6daf4b6561e48212fb5ae2507944de789fa106fed4c3b549e58784e7"
+    },
+    {
+      "path": "tests/test_cpu_worker_placement_v7.py",
+      "size_bytes": 2297,
+      "sha256": "f916d74b815fe2de05f254e51a4b2afa7cb53a6b9b1a2d9e3c7c69138b056c83"
+    }
+  ],
+  "runs": 8,
+  "episodes_per_run": 60,
+  "total_episodes": 480,
+  "frame_pairs": 192480,
+  "noninitial_updates": 96000,
+  "frame_period_ns": 5000000,
+  "chunk_episodes": 10,
+  "nominal_availability_span_per_run_s": 120.295,
+  "independent_uninterrupted_clock_origins": 8,
+  "scheduled_outcomes_inspected": false,
+  "unpaced_preflight_outcomes_known": true,
+  "logging_affinity": "full_original_allowed_mask_in_both_profiles",
+  "no_unrecorded_warmup": true,
+  "neural_parameters_changed": false
+}

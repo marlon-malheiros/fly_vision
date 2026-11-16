@@ -1,0 +1,128 @@
+{
+  "posthoc_descriptive": true,
+  "no_new_fit_or_selection": true,
+  "frozen_new_cutoff_retained": true,
+  "purpose": "Paired old/new cutoff comparisons within each cohort prevent attributing between-cohort differences solely to calibration.",
+  "records": [
+    {
+      "cohort": "old_st_inspected",
+      "operating_point": "original_16_room",
+      "cutoff": 1.0391996879817291,
+      "speed": 5.5,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "old_st_inspected",
+      "operating_point": "original_16_room",
+      "cutoff": 1.0391996879817291,
+      "speed": 11.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "old_st_inspected",
+      "operating_point": "original_16_room",
+      "cutoff": 1.0391996879817291,
+      "speed": 16.5,
+      "negative_correct": 23,
+      "positive_correct": 23,
+      "joint_correct": 46,
+      "straight_alarms": 5
+    },
+    {
+      "cohort": "old_st_inspected",
+      "operating_point": "new_40_room_negative_only",
+      "cutoff": 1.1329958232706985,
+      "speed": 5.5,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "old_st_inspected",
+      "operating_point": "new_40_room_negative_only",
+      "cutoff": 1.1329958232706985,
+      "speed": 11.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "old_st_inspected",
+      "operating_point": "new_40_room_negative_only",
+      "cutoff": 1.1329958232706985,
+      "speed": 16.5,
+      "negative_correct": 23,
+      "positive_correct": 23,
+      "joint_correct": 46,
+      "straight_alarms": 3
+    },
+    {
+      "cohort": "fresh_rt",
+      "operating_point": "original_16_room",
+      "cutoff": 1.0391996879817291,
+      "speed": 5.5,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "fresh_rt",
+      "operating_point": "original_16_room",
+      "cutoff": 1.0391996879817291,
+      "speed": 11.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "fresh_rt",
+      "operating_point": "original_16_room",
+      "cutoff": 1.0391996879817291,
+      "speed": 16.5,
+      "negative_correct": 22,
+      "positive_correct": 23,
+      "joint_correct": 45,
+      "straight_alarms": 5
+    },
+    {
+      "cohort": "fresh_rt",
+      "operating_point": "new_40_room_negative_only",
+      "cutoff": 1.1329958232706985,
+      "speed": 5.5,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "fresh_rt",
+      "operating_point": "new_40_room_negative_only",
+      "cutoff": 1.1329958232706985,
+      "speed": 11.0,
+      "negative_correct": 24,
+      "positive_correct": 24,
+      "joint_correct": 48,
+      "straight_alarms": 0
+    },
+    {
+      "cohort": "fresh_rt",
+      "operating_point": "new_40_room_negative_only",
+      "cutoff": 1.1329958232706985,
+      "speed": 16.5,
+      "negative_correct": 21,
+      "positive_correct": 21,
+      "joint_correct": 42,
+      "straight_alarms": 0
+    }
+  ]
+}

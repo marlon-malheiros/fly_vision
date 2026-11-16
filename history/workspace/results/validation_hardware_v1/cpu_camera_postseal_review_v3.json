@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-21T21:11:24.691814+00:00",
+  "verified_entries": 183,
+  "index": {
+    "path": "results/validation_hardware_v1/cpu_camera_v3/completion_v3/artifact_index.json",
+    "size_bytes": 41704,
+    "sha256": "0340f95add0f05e344124afbf09f8113359f8bfc90580a6a917947dc55c633c1"
+  },
+  "after_sealer_exit": true,
+  "scientific_v2_post_exit_verified_entries": 7230,
+  "goal_complete": false
+}

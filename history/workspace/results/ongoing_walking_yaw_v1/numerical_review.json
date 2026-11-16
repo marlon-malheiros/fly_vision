@@ -1,0 +1,1057 @@
+{
+  "utc": "2026-10-27T09:59:47.659202+00:00",
+  "implementation_pass": true,
+  "trajectory": [
+    {
+      "speed": 5.5,
+      "yaw": 0.0,
+      "derivative_error": 5.823519444447811e-11,
+      "legacy_equivalence_error": 0.0,
+      "event_continuity_difference": 1.100000091014408e-09,
+      "passed": true
+    },
+    {
+      "speed": 5.5,
+      "yaw": -2.0,
+      "derivative_error": 5.891820364922751e-11,
+      "legacy_equivalence_error": 8.734332701543224e-15,
+      "event_continuity_difference": 1.100000091014408e-09,
+      "passed": true
+    },
+    {
+      "speed": 5.5,
+      "yaw": 2.0,
+      "derivative_error": 5.891820364922751e-11,
+      "legacy_equivalence_error": 8.734332701543224e-15,
+      "event_continuity_difference": 1.100000091014408e-09,
+      "passed": true
+    },
+    {
+      "speed": 5.5,
+      "yaw": 5.0,
+      "derivative_error": 3.8487435460865527e-11,
+      "legacy_equivalence_error": 3.4911309954033243e-15,
+      "event_continuity_difference": 1.100000091014408e-09,
+      "passed": true
+    },
+    {
+      "speed": 11.0,
+      "yaw": 0.0,
+      "derivative_error": 1.1647038888895622e-10,
+      "legacy_equivalence_error": 0.0,
+      "event_continuity_difference": 2.200000182028816e-09,
+      "passed": true
+    },
+    {
+      "speed": 11.0,
+      "yaw": -2.0,
+      "derivative_error": 1.1783640729845501e-10,
+      "legacy_equivalence_error": 1.7468665403086447e-14,
+      "event_continuity_difference": 2.200000182028816e-09,
+      "passed": true
+    },
+    {
+      "speed": 11.0,
+      "yaw": 2.0,
+      "derivative_error": 1.1783640729845501e-10,
+      "legacy_equivalence_error": 1.7468665403086447e-14,
+      "event_continuity_difference": 2.200000182028816e-09,
+      "passed": true
+    },
+    {
+      "speed": 11.0,
+      "yaw": 5.0,
+      "derivative_error": 7.697487092173105e-11,
+      "legacy_equivalence_error": 6.9822619908066486e-15,
+      "event_continuity_difference": 2.200000182028816e-09,
+      "passed": true
+    },
+    {
+      "speed": 16.5,
+      "yaw": 0.0,
+      "derivative_error": 2.6352608983870596e-10,
+      "legacy_equivalence_error": 0.0,
+      "event_continuity_difference": 3.3000020494000637e-09,
+      "passed": true
+    },
+    {
+      "speed": 16.5,
+      "yaw": -2.0,
+      "derivative_error": 6.9540817548841e-11,
+      "legacy_equivalence_error": 2.6201263381153694e-14,
+      "event_continuity_difference": 3.3000020494000637e-09,
+      "passed": true
+    },
+    {
+      "speed": 16.5,
+      "yaw": 2.0,
+      "derivative_error": 6.9540817548841e-11,
+      "legacy_equivalence_error": 2.6201263381153694e-14,
+      "event_continuity_difference": 3.3000020494000637e-09,
+      "passed": true
+    },
+    {
+      "speed": 16.5,
+      "yaw": 5.0,
+      "derivative_error": 2.042845892447076e-10,
+      "legacy_equivalence_error": 1.0474260347947961e-14,
+      "event_continuity_difference": 3.3000002730432243e-09,
+      "passed": true
+    }
+  ],
+  "old_simultaneous_parity": [
+    {
+      "key": "f00_v16.5_y+0",
+      "source_error": 0.0,
+      "rate_error": 0.0,
+      "reference_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "source_error": 0.0,
+      "rate_error": 0.0,
+      "reference_error": 0.0,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "source_error": 0.0,
+      "rate_error": 0.0,
+      "reference_error": 0.0,
+      "passed": true
+    }
+  ],
+  "sampling": [
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_hs",
+      "primary": -0.36239864638912894,
+      "finer": -0.41845284827388113,
+      "error_deg_s": 0.056054201884752186,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_h2",
+      "primary": -0.49157772931086924,
+      "finer": -0.29618933999324853,
+      "error_deg_s": 0.1953883893176207,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_bips",
+      "primary": -0.1518876882118683,
+      "finer": -0.18938054300422816,
+      "error_deg_s": 0.037492854792359864,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.2520780638246126,
+      "finer": 0.19424492105901411,
+      "error_deg_s": 0.057833142765598505,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "engineering_reference",
+      "primary": -0.06102979252388008,
+      "finer": 0.023793487376290272,
+      "error_deg_s": 0.08482327990017036,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_hs",
+      "primary": 0.6222383128312966,
+      "finer": 0.6553350204629231,
+      "error_deg_s": 0.03309670763162653,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_h2",
+      "primary": 3.0655851996181633,
+      "finer": 3.256111886297433,
+      "error_deg_s": 0.19052668667926964,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_bips",
+      "primary": 0.6128273816250387,
+      "finer": 0.6371621162102695,
+      "error_deg_s": 0.024334734585230833,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_dnp15",
+      "primary": 1.412307149671377,
+      "finer": 1.4433527555608576,
+      "error_deg_s": 0.031045605889480576,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "engineering_reference",
+      "primary": 0.0348676823789525,
+      "finer": 0.12556075860613594,
+      "error_deg_s": 0.09069307622718345,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_hs",
+      "primary": 1.3733888469449744,
+      "finer": 1.3392592002741996,
+      "error_deg_s": 0.03412964667077478,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_h2",
+      "primary": 4.98538478450659,
+      "finer": 5.140274224838962,
+      "error_deg_s": 0.15488944033237217,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_bips",
+      "primary": 1.4730946700638947,
+      "finer": 1.439439695017719,
+      "error_deg_s": 0.03365497504617565,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_dnp15",
+      "primary": 1.9546884598151346,
+      "finer": 1.9319808389904165,
+      "error_deg_s": 0.02270762082471811,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "engineering_reference",
+      "primary": 0.014831151142407047,
+      "finer": 0.07106621218147711,
+      "error_deg_s": 0.05623506103907007,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_hs",
+      "primary": -0.36239864638912894,
+      "finer": -1.6567962629657875,
+      "error_deg_s": 1.2943976165766586,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_h2",
+      "primary": -0.49157772931086924,
+      "finer": -1.9429360567578988,
+      "error_deg_s": 1.4513583274470296,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_bips",
+      "primary": -0.1518876882118683,
+      "finer": -1.2672853883725308,
+      "error_deg_s": 1.1153977001606625,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.2520780638246126,
+      "finer": -0.5364848750086918,
+      "error_deg_s": 0.7885629388333044,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "engineering_reference",
+      "primary": -0.06102979252388008,
+      "finer": -0.05819886351919408,
+      "error_deg_s": 0.0028309290046859975,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_hs",
+      "primary": 0.6222383128312966,
+      "finer": -0.708271018224635,
+      "error_deg_s": 1.3305093310559317,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_h2",
+      "primary": 3.0655851996181633,
+      "finer": 1.34606127859045,
+      "error_deg_s": 1.7195239210277133,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_bips",
+      "primary": 0.6128273816250387,
+      "finer": -0.5524423234593914,
+      "error_deg_s": 1.16526970508443,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_dnp15",
+      "primary": 1.412307149671377,
+      "finer": 0.5563420435707431,
+      "error_deg_s": 0.8559651061006339,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "engineering_reference",
+      "primary": 0.0348676823789525,
+      "finer": -0.005044500680398754,
+      "error_deg_s": 0.03991218305935125,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_hs",
+      "primary": 1.3733888469449744,
+      "finer": -0.008650694264901667,
+      "error_deg_s": 1.382039541209876,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_h2",
+      "primary": 4.98538478450659,
+      "finer": 3.1719978656523358,
+      "error_deg_s": 1.8133869188542544,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_bips",
+      "primary": 1.4730946700638947,
+      "finer": 0.2639337644496631,
+      "error_deg_s": 1.2091609056142316,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_dnp15",
+      "primary": 1.9546884598151346,
+      "finer": 1.065003162006651,
+      "error_deg_s": 0.8896852978084837,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "engineering_reference",
+      "primary": 0.014831151142407047,
+      "finer": 0.017070519347965014,
+      "error_deg_s": 0.0022393682055579667,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_hs",
+      "primary": -0.36239864638912894,
+      "finer": -0.41845284827388113,
+      "error_deg_s": 0.056054201884752186,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_h2",
+      "primary": -0.49157772931086924,
+      "finer": -0.29618933999324853,
+      "error_deg_s": 0.1953883893176207,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_bips",
+      "primary": -0.1518876882118683,
+      "finer": -0.18938054300422816,
+      "error_deg_s": 0.037492854792359864,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.2520780638246126,
+      "finer": 0.19424492105901411,
+      "error_deg_s": 0.057833142765598505,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "engineering_reference",
+      "primary": -0.06102979252388008,
+      "finer": 0.023793487376290272,
+      "error_deg_s": 0.08482327990017036,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_hs",
+      "primary": -0.5891164212374024,
+      "finer": -0.5703433916480822,
+      "error_deg_s": 0.018773029589320145,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_h2",
+      "primary": 2.5233240248700426,
+      "finer": 2.6897323529594725,
+      "error_deg_s": 0.16640832808942996,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_bips",
+      "primary": -0.4905236414752594,
+      "finer": -0.47645770217704797,
+      "error_deg_s": 0.014065939298211427,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.513377939038283,
+      "finer": 0.5376753465427635,
+      "error_deg_s": 0.024297407504480506,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "engineering_reference",
+      "primary": -1.9175215593338986,
+      "finer": -1.8019080222505401,
+      "error_deg_s": 0.11561353708335842,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_hs",
+      "primary": -0.4687992435765608,
+      "finer": -0.5126096430969959,
+      "error_deg_s": 0.043810399520435084,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_h2",
+      "primary": 3.384975292714773,
+      "finer": 3.481519373299731,
+      "error_deg_s": 0.096544080584958,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_bips",
+      "primary": -0.3269826033253269,
+      "finer": -0.36424407580627893,
+      "error_deg_s": 0.03726147248095202,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.4878327679196848,
+      "finer": 0.46285472098441477,
+      "error_deg_s": 0.024978046935270004,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "engineering_reference",
+      "primary": -1.9038100734473993,
+      "finer": -1.8828065033629136,
+      "error_deg_s": 0.021003570084485723,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_hs",
+      "primary": -0.36239864638912894,
+      "finer": -1.6567962629657875,
+      "error_deg_s": 1.2943976165766586,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_h2",
+      "primary": -0.49157772931086924,
+      "finer": -1.9429360567578988,
+      "error_deg_s": 1.4513583274470296,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_bips",
+      "primary": -0.1518876882118683,
+      "finer": -1.2672853883725308,
+      "error_deg_s": 1.1153977001606625,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.2520780638246126,
+      "finer": -0.5364848750086918,
+      "error_deg_s": 0.7885629388333044,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "engineering_reference",
+      "primary": -0.06102979252388008,
+      "finer": -0.05819886351919408,
+      "error_deg_s": 0.0028309290046859975,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_hs",
+      "primary": -0.5891164212374024,
+      "finer": -1.911638654497037,
+      "error_deg_s": 1.3225222332596345,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_h2",
+      "primary": 2.5233240248700426,
+      "finer": 0.777090007800175,
+      "error_deg_s": 1.7462340170698676,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_bips",
+      "primary": -0.4905236414752594,
+      "finer": -1.6578084027869633,
+      "error_deg_s": 1.1672847613117039,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.513377939038283,
+      "finer": -0.3456682292917732,
+      "error_deg_s": 0.8590461683300562,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "engineering_reference",
+      "primary": -1.9175215593338986,
+      "finer": -1.9421213697335873,
+      "error_deg_s": 0.024599810399688726,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_hs",
+      "primary": -0.4687992435765608,
+      "finer": -1.7893034590189685,
+      "error_deg_s": 1.3205042154424076,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_h2",
+      "primary": 3.384975292714773,
+      "finer": 1.6042515790489922,
+      "error_deg_s": 1.780723713665781,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_bips",
+      "primary": -0.3269826033253269,
+      "finer": -1.4757091069121653,
+      "error_deg_s": 1.1487265035868384,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.4878327679196848,
+      "finer": -0.35330304190700557,
+      "error_deg_s": 0.8411358098266903,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "engineering_reference",
+      "primary": -1.9038100734473993,
+      "finer": -1.928149935583841,
+      "error_deg_s": 0.02433986213644168,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_hs",
+      "primary": -0.36239864638912894,
+      "finer": -0.41845284827388113,
+      "error_deg_s": 0.056054201884752186,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_h2",
+      "primary": -0.49157772931086924,
+      "finer": -0.29618933999324853,
+      "error_deg_s": 0.1953883893176207,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_bips",
+      "primary": -0.1518876882118683,
+      "finer": -0.18938054300422816,
+      "error_deg_s": 0.037492854792359864,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.2520780638246126,
+      "finer": 0.19424492105901411,
+      "error_deg_s": 0.057833142765598505,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "pre",
+      "method": "engineering_reference",
+      "primary": -0.06102979252388008,
+      "finer": 0.023793487376290272,
+      "error_deg_s": 0.08482327990017036,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_hs",
+      "primary": 1.7865058712473312,
+      "finer": 1.8401215189267957,
+      "error_deg_s": 0.05361564767946447,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_h2",
+      "primary": 3.633169794431029,
+      "finer": 3.828396711819932,
+      "error_deg_s": 0.19522691738890297,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_bips",
+      "primary": 1.6901935262063725,
+      "finer": 1.731963153109513,
+      "error_deg_s": 0.041769626903140455,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "MaleCNS_dnp15",
+      "primary": 2.2965918304385737,
+      "finer": 2.3414915176990405,
+      "error_deg_s": 0.04489968726046678,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "primary",
+      "method": "engineering_reference",
+      "primary": 1.9334654860101097,
+      "finer": 2.0900755315839175,
+      "error_deg_s": 0.15661004557380775,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_hs",
+      "primary": 3.1439727756732703,
+      "finer": 3.128270094669251,
+      "error_deg_s": 0.01570268100401906,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_h2",
+      "primary": 6.606662100053936,
+      "finer": 6.763376286727014,
+      "error_deg_s": 0.1567141866730779,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_bips",
+      "primary": 3.227280458932803,
+      "finer": 3.205341487546409,
+      "error_deg_s": 0.021938971386394,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "MaleCNS_dnp15",
+      "primary": 3.394699468213508,
+      "finer": 3.3820527605418307,
+      "error_deg_s": 0.012646707671677415,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "phase": "late",
+      "method": "engineering_reference",
+      "primary": 1.986722019125399,
+      "finer": 2.0689757292126822,
+      "error_deg_s": 0.08225371008728333,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_hs",
+      "primary": -0.36239864638912894,
+      "finer": -1.6567962629657875,
+      "error_deg_s": 1.2943976165766586,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_h2",
+      "primary": -0.49157772931086924,
+      "finer": -1.9429360567578988,
+      "error_deg_s": 1.4513583274470296,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_bips",
+      "primary": -0.1518876882118683,
+      "finer": -1.2672853883725308,
+      "error_deg_s": 1.1153977001606625,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "MaleCNS_dnp15",
+      "primary": 0.2520780638246126,
+      "finer": -0.5364848750086918,
+      "error_deg_s": 0.7885629388333044,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "pre",
+      "method": "engineering_reference",
+      "primary": -0.06102979252388008,
+      "finer": -0.05819886351919408,
+      "error_deg_s": 0.0028309290046859975,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_hs",
+      "primary": 1.7865058712473312,
+      "finer": 0.4404058260837191,
+      "error_deg_s": 1.346100045163612,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_h2",
+      "primary": 3.633169794431029,
+      "finer": 1.923432342201087,
+      "error_deg_s": 1.709737452229942,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_bips",
+      "primary": 1.6901935262063725,
+      "finer": 0.5206753197833309,
+      "error_deg_s": 1.1695182064230416,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "MaleCNS_dnp15",
+      "primary": 2.2965918304385737,
+      "finer": 1.4391421216430198,
+      "error_deg_s": 0.8574497087955539,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "primary",
+      "method": "engineering_reference",
+      "primary": 1.9334654860101097,
+      "finer": 1.860776816993215,
+      "error_deg_s": 0.07268866901689464,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_hs",
+      "primary": 3.1439727756732703,
+      "finer": 1.6985991337164887,
+      "error_deg_s": 1.4453736419567815,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_h2",
+      "primary": 6.606662100053936,
+      "finer": 4.732089971583384,
+      "error_deg_s": 1.874572128470552,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_bips",
+      "primary": 3.227280458932803,
+      "finer": 1.9577559375369553,
+      "error_deg_s": 1.2695245213958475,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "MaleCNS_dnp15",
+      "primary": 3.394699468213508,
+      "finer": 2.455988504791734,
+      "error_deg_s": 0.9387109634217743,
+      "passed": false
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "phase": "late",
+      "method": "engineering_reference",
+      "primary": 1.986722019125399,
+      "finer": 1.9919567902001283,
+      "error_deg_s": 0.005234771074729361,
+      "passed": true
+    }
+  ],
+  "sampling_pass_by_method": {
+    "MaleCNS_bips": false,
+    "MaleCNS_dnp15": false,
+    "MaleCNS_h2": false,
+    "MaleCNS_hs": false,
+    "engineering_reference": true
+  },
+  "solver": [
+    {
+      "key": "f00_v16.5_y+0",
+      "primary_Python_error": 0.0,
+      "same_forcing_half_step_error": 1.9801808173791043e-11,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "primary_Python_error": 0.0,
+      "same_forcing_half_step_error": 1.9801808173791043e-11,
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "primary_Python_error": 0.0,
+      "same_forcing_half_step_error": 1.9801808173791043e-11,
+      "passed": true
+    }
+  ],
+  "solver_pass": true,
+  "sampling_failures": 36,
+  "scope": "Three predeclared known conditions; no uniform test-set numerical bound"
+}

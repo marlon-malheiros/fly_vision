@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "timestamp_utc": "2026-10-25T10:56:14.829875+00:00",
+  "entries_verified": 101,
+  "bytes_verified": 3115933684,
+  "index_sha256": "f82dab3b0bb21df0b0fa43e6c111e6160bc05579e3f519f34a2a5b053e851b2e",
+  "sealer_exit_code": 0,
+  "live_files_excluded": true,
+  "source_commit": "b68014e5378c5394d1c0870f3b1325c5477a845c",
+  "metadata_source_task_complete": true,
+  "model_comparison_complete": false,
+  "physiological_validation": false
+}

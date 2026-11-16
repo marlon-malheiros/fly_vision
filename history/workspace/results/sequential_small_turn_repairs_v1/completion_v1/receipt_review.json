@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "creation_receipts": 1015,
+  "distinct_creation_file_records": 4060,
+  "shared_input_references": 509,
+  "shared_input_metadata_consistent": true
+}

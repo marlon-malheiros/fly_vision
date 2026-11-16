@@ -1,0 +1,31 @@
+{
+  "utc": "2026-11-02T04:26:53.021836+00:00",
+  "files": [
+    {
+      "path": "results/raw_local_calibration_repair_v1/cutoff.json",
+      "size_bytes": 15327,
+      "sha256": "d2a40a9cc5e2de05d0720a974f9233e8031bc8728a7546572bb32c4862a6311b"
+    },
+    {
+      "path": "results/raw_local_calibration_repair_v1/model.json",
+      "size_bytes": 2802,
+      "sha256": "8d2e9a7f091043a9b5618d5c421f36b3494169614a85f11df20a85c273584b1b"
+    },
+    {
+      "path": "configs/raw_local_calibration_repair_v1.json",
+      "size_bytes": 527,
+      "sha256": "835c6de7116b0885cb30af07f2663699ceacd8cedaf9cfd5da5828f50b3afe5c"
+    },
+    {
+      "path": "docs/RAW_LOCAL_CALIBRATION_REPAIR_PROTOCOL_V1.md",
+      "size_bytes": 3712,
+      "sha256": "e3249408259f52a3a58c636cdcf3fcfe6ba227dfcaace988e488eef99723759c"
+    },
+    {
+      "path": "scripts/raw_local_calibration_repair_v1.py",
+      "size_bytes": 12507,
+      "sha256": "bc86ffdd90755b8460e7638ce558b9c432920d361544db97e7d0b079d9dad939"
+    }
+  ],
+  "new_rt_outcomes_uninspected": true
+}

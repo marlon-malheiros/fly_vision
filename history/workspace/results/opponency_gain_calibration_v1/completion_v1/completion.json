@@ -1,0 +1,274 @@
+{
+  "status": "COMPLETE",
+  "utc": "2026-10-29T19:17:53.541826+00:00",
+  "git_checkpoint": "ccbf01534e199b99e47a096b1379444cea1c719f",
+  "methods_git_freeze": "0b7bbdacc55fca4662bc04614f9d7dd542b10608",
+  "decision": {
+    "status": "COMPLETED_SCALE_ONLY_DEVELOPMENT_TEST",
+    "decisions": [
+      {
+        "variant": "expanded_intact",
+        "cohorts": [
+          {
+            "cohort": "bIPS|sytGC7f|axon|native",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": true,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": true,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": true,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+                "criteria_met": true
+              }
+            ]
+          },
+          {
+            "cohort": "DNp15|GC6f|dendrite|WT",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": false,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": true,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": false,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+                "criteria_met": false
+              }
+            ]
+          }
+        ],
+        "overall_scale_only_support": false
+      },
+      {
+        "variant": "lpi_intact",
+        "cohorts": [
+          {
+            "cohort": "bIPS|sytGC7f|axon|native",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": true,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": true,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": true,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+                "criteria_met": true
+              }
+            ]
+          },
+          {
+            "cohort": "DNp15|GC6f|dendrite|WT",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": false,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": true,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": false,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+                "criteria_met": false
+              }
+            ]
+          }
+        ],
+        "overall_scale_only_support": false
+      },
+      {
+        "variant": "lpi_silent",
+        "cohorts": [
+          {
+            "cohort": "bIPS|sytGC7f|axon|native",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": true,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": true,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": true,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+                "criteria_met": true
+              }
+            ]
+          },
+          {
+            "cohort": "DNp15|GC6f|dendrite|WT",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": false,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": true,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": false,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+                "criteria_met": false
+              }
+            ]
+          }
+        ],
+        "overall_scale_only_support": false
+      },
+      {
+        "variant": "functional_opponent",
+        "cohorts": [
+          {
+            "cohort": "bIPS|sytGC7f|axon|native",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": true,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": false,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": false,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210822|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|220704|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221030|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221221|1",
+                "criteria_met": false
+              }
+            ]
+          },
+          {
+            "cohort": "DNp15|GC6f|dendrite|WT",
+            "criteria": {
+              "positive_gain": true,
+              "median_vs_own_transfer": false,
+              "pooled_vs_own_transfer": true,
+              "median_vs_recalibrated_expanded": true,
+              "pooled_vs_recalibrated_expanded": true
+            },
+            "scale_only_support": false,
+            "calibration_sensitivity": [
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231114|1",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|231230|1",
+                "criteria_met": true
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240205|2",
+                "criteria_met": false
+              },
+              {
+                "omitted_calibration_fly": "R11E07AD R77F05DBD GC6f UASFLP mCherry|240222|1",
+                "criteria_met": false
+              }
+            ]
+          }
+        ],
+        "overall_scale_only_support": false
+      }
+    ],
+    "neural_parameters_changed": false,
+    "new_independent_validation": false,
+    "old_advancement_rules_unchanged": true
+  },
+  "new_neural_solves": 0,
+  "biological_validation_established": false,
+  "failures_preserved": 0,
+  "live_AGENTS_and_progress_excluded": true
+}

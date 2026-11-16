@@ -1,0 +1,85 @@
+{
+  "utc": "2026-10-27T09:20:11.192038+00:00",
+  "selected": {
+    "method": "backward_current",
+    "window_s": 0.1,
+    "development_pass": true,
+    "numerical_pass": true,
+    "nominal_latency_s": 0.1
+  },
+  "eligible_candidate_found": true,
+  "candidates": [
+    {
+      "method": "delayed_centered",
+      "window_s": 0.1,
+      "development_pass": true,
+      "numerical_pass": false,
+      "nominal_latency_s": 0.11
+    },
+    {
+      "method": "delayed_centered",
+      "window_s": 0.2,
+      "development_pass": true,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.21000000000000002
+    },
+    {
+      "method": "delayed_centered",
+      "window_s": 0.3,
+      "development_pass": false,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.31
+    },
+    {
+      "method": "delayed_centered",
+      "window_s": 0.5,
+      "development_pass": true,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.51
+    },
+    {
+      "method": "delayed_centered",
+      "window_s": 0.7,
+      "development_pass": true,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.71
+    },
+    {
+      "method": "backward_current",
+      "window_s": 0.1,
+      "development_pass": true,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.1
+    },
+    {
+      "method": "backward_current",
+      "window_s": 0.2,
+      "development_pass": false,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.2
+    },
+    {
+      "method": "backward_current",
+      "window_s": 0.3,
+      "development_pass": false,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.3
+    },
+    {
+      "method": "backward_current",
+      "window_s": 0.5,
+      "development_pass": true,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.5
+    },
+    {
+      "method": "backward_current",
+      "window_s": 0.7,
+      "development_pass": true,
+      "numerical_pass": true,
+      "nominal_latency_s": 0.7
+    }
+  ],
+  "selection_rule": "Fastest nominal window plus method delay among development early+late accuracy and numerical passes; backward_current wins an exact latency tie. If none qualifies, retain delayed_centered/0.7 as an explicitly failed-development fallback.",
+  "test_images_not_generated": true
+}

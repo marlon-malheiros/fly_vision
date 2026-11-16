@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "episodes_checked": 432,
+  "calibration_rooms": 16,
+  "new_test_rooms": 24,
+  "cutoffs_checked": 12,
+  "predictions_checked": 1536,
+  "curves_checked": 24,
+  "thresholds_checked": 12,
+  "mean_error": 4.440892098500626e-16,
+  "score_error": 2.6645352591003757e-15,
+  "maximum_bootstrap_error": 0.0,
+  "room_bootstrap_draws": 10000,
+  "test_seeds_disjoint_from_v2": true,
+  "frozen_dependencies_unchanged": true,
+  "biological_validation": false
+}

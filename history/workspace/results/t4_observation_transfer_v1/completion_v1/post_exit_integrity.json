@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/t4_observation_transfer_v1/completion_v1/artifact_index.json",
+    "bytes": 9338,
+    "sha256": "575591faeffae145494ebfa7384344bf0fd37dae55657607d9424eadb3d1fe95"
+  },
+  "files": 45,
+  "bytes": 791855,
+  "separate_process_after_sealer_exit": true,
+  "previous_retained_files_unchanged": true,
+  "reserved_C2C3_flies_unscored": 4
+}

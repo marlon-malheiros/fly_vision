@@ -1,0 +1,49 @@
+{
+  "status": "PASS_METADATA_ONLY_SPLITS",
+  "cohorts": {
+    "DNp15|GC7f|dendrite|native": {
+      "calibration": 4,
+      "validation": 1
+    },
+    "DNp15|GC6f|dendrite|WT": {
+      "calibration": 4,
+      "validation": 5
+    },
+    "H2|sytGC7f|axon|native": {
+      "calibration": 6,
+      "validation": 2
+    },
+    "HS|GC7f|axon|native": {
+      "calibration": 1,
+      "validation": 3
+    },
+    "HS|sytGC7f|axon|native": {
+      "calibration": 6,
+      "validation": 3
+    },
+    "bIPS|GC6f|axon|WT": {
+      "calibration": 9,
+      "validation": 9
+    },
+    "bIPS|sytGC7f|axon|native": {
+      "calibration": 4,
+      "validation": 4
+    },
+    "bIPS|GC7f|axon|native": {
+      "calibration": 1,
+      "validation": 1
+    }
+  },
+  "calibration_flies": 35,
+  "validation_flies": 28,
+  "previously_unused_test_flies": 23,
+  "reused_prior_test_flies": [
+    "20xUASjGCaMP7f VT058487Gal4_UAS-CD4-tdTomato|201126|1",
+    "GC7f R77F05LexA|220602|1",
+    "R23C12AD R32A11DBD sytGCaMP7f R39E01LexA,LexAop-mCherry|210405|1",
+    "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|221029|1",
+    "R27B03AD R39E01DBD sytGC7f 20xUAS6xmCherry|210413|1"
+  ],
+  "no_neural_calibration_fly_in_validation": true,
+  "response_arrays_inspected": false
+}

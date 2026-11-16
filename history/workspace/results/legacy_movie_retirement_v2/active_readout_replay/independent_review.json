@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "independent_method": "group first; direct convolution windows; einsum scoring",
+  "calibration_curves_reproduced": 1024,
+  "callback_scores_compared": 147968,
+  "old_baseline_callbacks": 36992,
+  "maximum_score_error": 2.1005419625907962e-13,
+  "group_gates_checked": 24,
+  "input_and_source_hash_checks": 510,
+  "selection_ordering_verified": true,
+  "independent_refit_performed": false,
+  "numerical_refinement_performed": false,
+  "physiological_validation": false,
+  "elapsed_seconds": 3.5348004209809005
+}

@@ -1,0 +1,251 @@
+{
+  "status": "PASS",
+  "completed_utc": "2026-10-21T20:48:37.968006+00:00",
+  "source": {
+    "path": "scripts/review_validation_reporting_v1.py",
+    "size_bytes": 5491,
+    "sha256": "1acddac2e7fe34c84001cfd315fa7d8bc406acc0171ee1187676c33113241e4f"
+  },
+  "paired_rows": 1200,
+  "summary_rows": 30,
+  "scalar_checks": 7680,
+  "maximum_absolute_discrepancy": 2.3936408410918375e-13,
+  "review_absolute_tolerance": 1e-12,
+  "review_relative_tolerance": 1e-09,
+  "unchanged_tables": [
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/decision_change_summary.csv",
+      "size_bytes": 6818,
+      "sha256": "b162e754404f2b50d77f1268514ccfb183758ec1fee0a160176a8358f240aa77"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/legacy_refinement_summary.csv",
+      "size_bytes": 1626,
+      "sha256": "3266919b6314814ba070610e4fa87b0a8e2b7dbaa9013c08b192ec94a0a3f5a2"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/new_environment_dnp15_thresholds.csv",
+      "size_bytes": 2852,
+      "sha256": "96869b34d61ff8b2115612f540c5c60f46110b3dbe500acbdb844cc0df8ed412"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/convergence_dnp15_thresholds.csv",
+      "size_bytes": 12609,
+      "sha256": "a3d9485b3ef508b2c10652361a88030667e8549e32d687a0d4e8ca99672acb90"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/postscore_adjacent_profile_comparisons.csv",
+      "size_bytes": 1552769,
+      "sha256": "b4993cb23d1afb2244bb2d7937463fd7314167e819e5323b6ef4166edad4bf90"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/postscore_adjacent_profile_summary.csv",
+      "size_bytes": 3669,
+      "sha256": "ea679bb1fe14539c3da068467ad095e313153f7ef18495e0c15f94fc2f5e74e2"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/postscore_dnp15_scene_pairs.csv",
+      "size_bytes": 218515,
+      "sha256": "30c2c210c77b9cd3d298618887757fa233b8f5cf3f86e11599a4ea3ad820e327"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/postscore_dnp15_mechanism_summary.csv",
+      "size_bytes": 13012,
+      "sha256": "9c50dee4a0d7d89cb32662d8d34ba7b89b1b687ebd909caf49652cea695342e6"
+    }
+  ],
+  "figures": [
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/figures/adjacent_profile_diagnostic.png",
+      "size_bytes": 97163,
+      "sha256": "4cc5c727488b1f9fbef56821c6ef0b3960859205ed4362fa8028248b757e4f8b",
+      "manually_viewed": true,
+      "view_version": "R2 with identical final bytes",
+      "review": "Axes, units, labels, legends, uncertainty and displayed source values inspected"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/figures/dnp15_ablation_and_retraining.png",
+      "size_bytes": 170392,
+      "sha256": "215c1cd19441fcea366bdbeb17f11dcddbe8701417c01c7862312eb533939f58",
+      "manually_viewed": true,
+      "view_version": "R3 final",
+      "review": "Axes, units, labels, legends, uncertainty and displayed source values inspected"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/figures/dnp15_full_profile_convergence.png",
+      "size_bytes": 140521,
+      "sha256": "cc7c3e8506aac597e1e88201de66c49d609e3499df9d0a14d8aa61852c0e50d0",
+      "manually_viewed": true,
+      "view_version": "R2 with identical final bytes",
+      "review": "Axes, units, labels, legends, uncertainty and displayed source values inspected"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/figures/generalization_intact_all_classes.png",
+      "size_bytes": 507950,
+      "sha256": "080ba344d7ccb4fdff3138a8719b7b6d10f7b0e908f7df05d5135c56c753a837",
+      "manually_viewed": true,
+      "view_version": "R3 final",
+      "review": "Axes, units, labels, legends, uncertainty and displayed source values inspected"
+    },
+    {
+      "path": "results/validation_hardware_v1/scientific_report_v1_r3/figures/paired_dnp15_asymmetry.png",
+      "size_bytes": 271584,
+      "sha256": "5366eba2ed7f923a380d2c0059c406fdc9610d1c0787660aad6ee5ed75b334da",
+      "manually_viewed": true,
+      "view_version": "R2 with identical final bytes",
+      "review": "Axes, units, labels, legends, uncertainty and displayed source values inspected"
+    }
+  ],
+  "local_links": [
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "VALIDATION_HARDWARE_PROTOCOL_V1.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../configs/validation_hardware_v1.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/prospective_manifest.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/detection_thresholds.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/detection_curves.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/decoder_predictions.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/figures/generalization_intact_all_classes.png"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/postscore_dnp15_scene_pairs.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/postscore_dnp15_mechanism_summary.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/figures/dnp15_ablation_and_retraining.png"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/figures/paired_dnp15_asymmetry.png"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/numerical_refinement.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/refinement_decisions.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/figures/dnp15_full_profile_convergence.png"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/postscore_adjacent_profile_comparisons.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_report_v1_r3/figures/adjacent_profile_diagnostic.png"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/analysis_review_v1_r2/independent_review.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/analysis_review_v1_r2/cell_refinement_diagnostics.csv.gz"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/geometry_replay_review_v1/checks_complete.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/geometry_replay_review_v1/before_execution.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/geometry_replay_review_v1/retinal_sampling.csv"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "CORRECTED_PHYSIOLOGICAL_DIAGNOSTICS_REPORT_V2.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "ANATOMICAL_STRENGTHENING_REPORT_V1.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "VALIDATION_HARDWARE_STORAGE_AMENDMENT_V2.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/analysis_review_v1"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "../results/validation_hardware_v1/scientific_reporting_execution_v1.log"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "CUDA_DEPLOYMENT_PROGRESS_REPORT_V1.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "SUSTAINED_CUDA_REPLAY_REPORT_V1.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md",
+      "target": "CAMERA_INPUT_CONTRACT_V1.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "target": "../configs/validation_hardware_v1.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "target": "VALIDATION_HARDWARE_PROTOCOL_V1.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "target": "../results/validation_hardware_v1/prospective_manifest.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "target": "VALIDATION_HARDWARE_STORAGE_AMENDMENT_V2.md"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "target": "../results/validation_hardware_v1/execution_all_complete.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "target": "../results/validation_hardware_v1/analysis_complete.json"
+    },
+    {
+      "document": "VALIDATION_GENERALIZATION_CONVERGENCE_REPRODUCTION_V1.md",
+      "target": "VALIDATION_GENERALIZATION_CONVERGENCE_REPORT_V1.md"
+    }
+  ],
+  "scientific_criteria_changed": false,
+  "physiological_validation": false
+}

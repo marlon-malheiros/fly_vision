@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETE",
+  "utc": "2026-10-27T19:19:35.097289+00:00",
+  "source_report_checkpoint": "3e2f2ca51f8398f96369353a3db917215816f29a",
+  "conclusion": {
+    "capability_by_method": {
+      "hybrid": true,
+      "neural": false,
+      "image": false
+    },
+    "physiological_validation": false
+  },
+  "report": "docs/AGREEMENT_YAW_REPORT_V1.md",
+  "live_AGENTS_and_progress_excluded": true,
+  "physiological_validation": false
+}

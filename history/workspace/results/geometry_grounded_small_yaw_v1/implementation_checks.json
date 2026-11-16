@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "cardinal_samples": 121,
+  "cardinal_maximum_drive_error": 0.0,
+  "analytical_forward_cancellation_error": 6.585426648442194e-13,
+  "synthetic_yaw_images": [
+    {
+      "yaw": 0.0,
+      "predicted": {
+        "lk": 0.0,
+        "subspace": 0.0
+      }
+    },
+    {
+      "yaw": -2.0,
+      "predicted": {
+        "lk": -2.000084359783455,
+        "subspace": -2.0000094382094282
+      }
+    },
+    {
+      "yaw": 2.0,
+      "predicted": {
+        "lk": 2.000084359783455,
+        "subspace": 2.0000094382094282
+      }
+    }
+  ],
+  "synthetic_gain_tolerance_deg_s": 0.02,
+  "real_image_estimators_do_not_receive_synthetic_truth": true,
+  "neural_parameter_fits": 0
+}

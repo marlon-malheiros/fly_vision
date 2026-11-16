@@ -1,0 +1,63 @@
+{
+  "frozen_utc": "2026-10-21T13:10:31.787997+00:00",
+  "files": [
+    {
+      "path": "scripts/run_heldout_speed_condition_v1.py",
+      "size_bytes": 12211,
+      "sha256": "b84cd9119e268bc2eaf64590c50d65dbd2688ae67d6061fb4586186238baf1e7"
+    },
+    {
+      "path": "docs/HELDOUT_SPEED_CONDITION_PROTOCOL_V1.md",
+      "size_bytes": 2684,
+      "sha256": "badbabfb34fb54859f95d2f98e2bb23bb410b6c7c76d4bd472f966c05af44126"
+    },
+    {
+      "path": "results/validation_hardware_v1/heldout_speed_condition_v1/sessions.json",
+      "size_bytes": 201218,
+      "sha256": "e901012fe51d67299909f18eb353305914159225c81a88125981d7d034eabdb8"
+    },
+    {
+      "path": "results/validation_hardware_v1/heldout_speed_condition_v1/config.json",
+      "size_bytes": 554,
+      "sha256": "a4ef6a9612c1da3c89e7a632587902c394188e88d6b4b3890f93f9fbb32bcd3c"
+    },
+    {
+      "path": "results/validation_hardware_v1/speed_tuning_source_audit_v1/audit.json",
+      "size_bytes": 1238,
+      "sha256": "fc25ae22dbd79228b261bc867539e335d71c0226e877049d7bba5324b1b2f468"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/methods/anatomical_batch_solver_v1_strict.so",
+      "size_bytes": 21368,
+      "sha256": "13aa60021f4fe5f864e0b89d852a4bd4dbd5e8f5b713793afa8dc0262eaf5a81"
+    },
+    {
+      "path": "src/male_optic_frontend/flow_clamp_interface_v2.py",
+      "size_bytes": 1452,
+      "sha256": "b1ea08ff2614f909d265b2992b70bfa38612580ae846e6e362321d77056e07c0"
+    },
+    {
+      "path": "src/male_optic_frontend/physiology_observation_v1.py",
+      "size_bytes": 2849,
+      "sha256": "5ac356301b24d5d10643f1641b9344fff0fac81aba6dd36982b9335ced6d3952"
+    },
+    {
+      "path": "src/male_optic_frontend/anatomical_strengthening_v1.py",
+      "size_bytes": 6071,
+      "sha256": "e94164e679665f14ec973db1edd9ff3045d00db4a9e6bcc326f461e59b402c57"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiological_interface_v2/coordinate_signed/observation_models_before_test_scoring.json",
+      "size_bytes": 94307,
+      "sha256": "7926a7d8ddec38e53cdca1cbab811513259d571feb3c41a331ad3989d17f2e4c"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiological_interface_v2/coordinate_rectified/observation_models_before_test_scoring.json",
+      "size_bytes": 94309,
+      "sha256": "b77a5f332170f2e3405dc9ca93b0b589a1980073150e377784feac62e0696367"
+    }
+  ],
+  "new_speed_fluorescence_responses_inspected": false,
+  "world_sign_chosen_from_data": false,
+  "neural_parameters_changed": false
+}

@@ -1,0 +1,20 @@
+{
+  "files": [
+    {
+      "path": "results/small_turn_round_v1/existing/models.json",
+      "bytes": 241629,
+      "sha256": "45d2aaf1750017cb14d87a808f4514f2c73ef29ad6131104a6f20a18c3f901ed"
+    },
+    {
+      "path": "configs/small_turn_round_v1.json",
+      "bytes": 888,
+      "sha256": "d69305533611850e8f2a1590e821b1c2486e9053f04d26f0ee115aeee4063531"
+    },
+    {
+      "path": "scripts/small_turn_round_v1.py",
+      "bytes": 19508,
+      "sha256": "49ffa0dca46b33e84a3501d35c5b5036d409c85addff76a98ea1cde82335e0d1"
+    }
+  ],
+  "calibration_not_scored_in_this_round": true
+}

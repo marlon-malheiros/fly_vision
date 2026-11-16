@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "source_dtype": "float32",
+  "static_episodes_checked": 88,
+  "expected_zero_drive_sha256": "743a3935cb7e546df8a9a6549506f347046bdd3c9ffcf28da949ce2e0a713705",
+  "source_shape": [
+    301,
+    13579
+  ],
+  "nonstatic_source_overlap_calibration_vs_test": 0,
+  "nonstatic_source_overlap_old_vs_new_test": 0,
+  "source_dtype_reference": "results/ongoing_walking_yaw_v1/held_out/p00_v16.5_y+0_primary/source.npz",
+  "initial_float64_assumption_corrected": true,
+  "no_source_neural_parameter_or_prediction_changed": true
+}

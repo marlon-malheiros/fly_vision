@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-10-22T12:33:36.085638+00:00",
+  "index": {
+    "path": "results/validation_hardware_v1/cpu_camera_clock_v6/completion_v6/artifact_index.json",
+    "size_bytes": 76514,
+    "sha256": "9e984710180ac8664a5637cd022d54a515b3154f6632d4e0a6d11227fce36a14"
+  },
+  "entries": 327,
+  "verified_after_sealer_exit": true,
+  "active_stdout_excluded": true,
+  "live_progress_excluded": true,
+  "physical_camera_validated": false,
+  "physiological_validation": false,
+  "broad_goal_complete": false
+}

@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "index": {
+    "path": "results/hs_upstream_temporal_v1/completion_v1/artifact_index.json",
+    "size_bytes": 53216,
+    "sha256": "ad2d3bb5f754a5d16f58747773974a9753348e034bbbcf3e2d0709eac2f23d14"
+  },
+  "indexed_files": 232,
+  "bytes_before_audit": 6511914,
+  "dependency_hashes_pass": true,
+  "scientific_decision": {
+    "development_improvement": true,
+    "guards": {
+      "numerical": true,
+      "frequency_rmse": true,
+      "contrast_rmse": true,
+      "contrast_violations": true,
+      "PD50_PD75_inside": true,
+      "zero_clipping": true
+    },
+    "numerical_passes": 14,
+    "numerical_total": 14,
+    "conditional_panel_compatibility": {
+      "contrast": false,
+      "frequency": false
+    },
+    "biological_validation": false,
+    "walking_advancement": false,
+    "parameters_fitted": 0,
+    "data_already_inspected": true,
+    "old_graph_and_detector_preserved": true
+  }
+}

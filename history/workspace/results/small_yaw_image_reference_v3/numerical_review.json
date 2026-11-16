@@ -1,0 +1,333 @@
+{
+  "status": "COMPLETE_WITH_ALL_RESULTS_RETAINED",
+  "controls": [
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "lk",
+      "mode": "temporal",
+      "primary": -0.8847157557166535,
+      "refined": -0.8767202755546176,
+      "error": 0.007995480162035884,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "subspace",
+      "mode": "temporal",
+      "primary": -0.02551708370792625,
+      "refined": -0.03576017573029274,
+      "error": 0.010243092022366493,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "lk_median",
+      "mode": "temporal",
+      "primary": 0.07227823591830067,
+      "refined": 0.07508777360285113,
+      "error": 0.002809537684550459,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "subspace_median",
+      "mode": "temporal",
+      "primary": 0.036789014541631006,
+      "refined": 0.032025665654242426,
+      "error": 0.00476334888738858,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "lk",
+      "mode": "spatial",
+      "primary": -0.8847157557166535,
+      "refined": -0.9387361423506805,
+      "error": 0.05402038663402697,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "subspace",
+      "mode": "spatial",
+      "primary": -0.02551708370792625,
+      "refined": -0.02705486545361515,
+      "error": 0.0015377817456889015,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "lk_median",
+      "mode": "spatial",
+      "primary": 0.07227823591830067,
+      "refined": 0.008480188153235433,
+      "error": 0.06379804776506523,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+0",
+      "method": "subspace_median",
+      "mode": "spatial",
+      "primary": 0.036789014541631006,
+      "refined": 0.004203417092950796,
+      "error": 0.03258559744868021,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "lk",
+      "mode": "temporal",
+      "primary": -3.1836206712428274,
+      "refined": -3.259067963010906,
+      "error": 0.07544729176807863,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "subspace",
+      "mode": "temporal",
+      "primary": -2.1407708733365376,
+      "refined": -2.2771094197458246,
+      "error": 0.136338546409287,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "lk_median",
+      "mode": "temporal",
+      "primary": -1.9176660730751163,
+      "refined": -1.9049144068288548,
+      "error": 0.01275166624626145,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "subspace_median",
+      "mode": "temporal",
+      "primary": -1.8972844424605626,
+      "refined": -1.898615800386936,
+      "error": 0.0013313579263733999,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "lk",
+      "mode": "spatial",
+      "primary": -3.1836206712428274,
+      "refined": -3.164087665664048,
+      "error": 0.01953300557877924,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "subspace",
+      "mode": "spatial",
+      "primary": -2.1407708733365376,
+      "refined": -2.220237636360753,
+      "error": 0.0794667630242154,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "lk_median",
+      "mode": "spatial",
+      "primary": -1.9176660730751163,
+      "refined": -1.9848150544177146,
+      "error": 0.06714898134259828,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "method": "subspace_median",
+      "mode": "spatial",
+      "primary": -1.8972844424605626,
+      "refined": -1.9658418208200519,
+      "error": 0.06855737835948927,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "lk",
+      "mode": "temporal",
+      "primary": 1.312686947398306,
+      "refined": 1.3197761277820497,
+      "error": 0.007089180383743621,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "subspace",
+      "mode": "temporal",
+      "primary": 2.0328163360706086,
+      "refined": 2.0332943473387086,
+      "error": 0.00047801126809998706,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "lk_median",
+      "mode": "temporal",
+      "primary": 2.0176899208573196,
+      "refined": 2.009589118267655,
+      "error": 0.008100802589664724,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "subspace_median",
+      "mode": "temporal",
+      "primary": 2.0286686372551603,
+      "refined": 2.010805194230488,
+      "error": 0.017863443024672243,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "lk",
+      "mode": "spatial",
+      "primary": 1.312686947398306,
+      "refined": 1.268860330003303,
+      "error": 0.04382661739500304,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "subspace",
+      "mode": "spatial",
+      "primary": 2.0328163360706086,
+      "refined": 2.0533042910909862,
+      "error": 0.02048795502037759,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "lk_median",
+      "mode": "spatial",
+      "primary": 2.0176899208573196,
+      "refined": 1.9614500003201056,
+      "error": 0.05623992053721394,
+      "tolerance": 0.2,
+      "passes": true
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "method": "subspace_median",
+      "mode": "spatial",
+      "primary": 2.0286686372551603,
+      "refined": 2.0053935078489964,
+      "error": 0.02327512940616394,
+      "tolerance": 0.2,
+      "passes": true
+    }
+  ],
+  "crop_checks": [
+    {
+      "key": "s07_v16.5_y+0",
+      "maximum_luminance_error": 0.0,
+      "luminance_tolerance": 1e-07,
+      "luminance_pass": true,
+      "methods": [
+        "lk",
+        "subspace",
+        "lk_median",
+        "subspace_median"
+      ],
+      "estimate_errors": [
+        3.5134117837287704e-12,
+        2.42861286636753e-17,
+        1.3205686544282003e-12,
+        2.0816681711721685e-17
+      ],
+      "estimate_tolerance": 1e-08,
+      "estimate_pass": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "s07_v16.5_y-2",
+      "maximum_luminance_error": 0.0,
+      "luminance_tolerance": 1e-07,
+      "luminance_pass": true,
+      "methods": [
+        "lk",
+        "subspace",
+        "lk_median",
+        "subspace_median"
+      ],
+      "estimate_errors": [
+        2.3092194822993406e-11,
+        0.0,
+        4.440892098500626e-15,
+        6.661338147750939e-16
+      ],
+      "estimate_tolerance": 1e-08,
+      "estimate_pass": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "key": "s07_v16.5_y+2",
+      "maximum_luminance_error": 0.0,
+      "luminance_tolerance": 1e-07,
+      "luminance_pass": true,
+      "methods": [
+        "lk",
+        "subspace",
+        "lk_median",
+        "subspace_median"
+      ],
+      "estimate_errors": [
+        2.7007729386241408e-11,
+        0.0,
+        5.329070518200751e-15,
+        4.440892098500626e-16
+      ],
+      "estimate_tolerance": 1e-08,
+      "estimate_pass": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "pass_by_method": {
+    "lk": true,
+    "subspace": true,
+    "lk_median": true,
+    "subspace_median": true
+  },
+  "numerical_pass_count": 24,
+  "numerical_total": 24,
+  "tolerance_unchanged": true,
+  "neural_models_changed": false,
+  "biological_validation": false
+}

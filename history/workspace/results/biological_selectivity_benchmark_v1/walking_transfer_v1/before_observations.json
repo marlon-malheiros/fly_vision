@@ -1,0 +1,55 @@
+{
+  "utc": "2026-10-27T20:57:36.981932+00:00",
+  "files": [
+    {
+      "path": "scripts/biological_walking_transfer_v1.py",
+      "size_bytes": 10350,
+      "sha256": "4a0b66abd2182ff91075a106ab3f0d32613f03b0c96e3f8d519c0ebbd24ffa1b"
+    },
+    {
+      "path": "docs/BIOLOGICAL_WALKING_TRANSFER_PROTOCOL_V1.md",
+      "size_bytes": 3329,
+      "sha256": "c6fb0e7564e8e56b9bc3510261da18c623910a806a11ac2fa5341ca8925e0c1f"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/walking_transfer_v1/sessions.json",
+      "size_bytes": 23294,
+      "sha256": "2a1285073a741ba69d45910ce511ad20151a115f8d762b9a6ee0114dfb23f5dd"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/walking_transfer_v1/metadata_exclusions.json",
+      "size_bytes": 4813,
+      "sha256": "ff02ff03008c8d4ca3b44171076711eb4003ad5e45a437b610c60872ca38eb5c"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/additional_intact_metadata_audit.json",
+      "size_bytes": 18062,
+      "sha256": "79670f4452bb2790e836fb044fb1cad2e9c3b9b1b84db78c96570ae1c85f3990"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed_traces.json",
+      "size_bytes": 132946,
+      "sha256": "d6f09b55f25695bd5798171c8da0b0732419e37c691bd395ca05462f209fb261"
+    },
+    {
+      "path": "results/validation_hardware_v1/heldout_speed_condition_v1/observed_traces.json",
+      "size_bytes": 201851,
+      "sha256": "d6442840a3408cc07ebd3e80a931794a40e63d83ce204c1075aa0be8f3f1df47"
+    },
+    {
+      "path": "results/biological_selectivity_benchmark_v1/sessions.json",
+      "size_bytes": 419331,
+      "sha256": "96d9ed20da1ab1e54fa21683b290c6f86686a41de1ac05f3b5d83e95cf3cd6e6"
+    }
+  ],
+  "independent_new_animal_ids": [
+    "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210819|1",
+    "R25F07AD VT014724DBD sytGC7f 20xUASmCherry|210828|1",
+    "R25F07AD VT014724DBD sytGC7f|210330|2",
+    "R25F07AD VT014724DBD sytGC7f|210401|1"
+  ],
+  "prior_observed_fly_count": 63,
+  "response_arrays_loaded": false,
+  "original_benchmark_unchanged": true,
+  "neurons_or_observation_models_to_fit": 0
+}

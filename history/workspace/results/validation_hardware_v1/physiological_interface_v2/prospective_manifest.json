@@ -1,0 +1,1305 @@
+{
+  "frozen_utc": "2026-10-21T12:47:03.290227+00:00",
+  "files": [
+    {
+      "path": "scripts/run_physiological_interface_v2.py",
+      "size_bytes": 5783,
+      "sha256": "f942029a39a2b807863fe96e29418ed0ed5306bc53ef8e7c391b336d732134fa"
+    },
+    {
+      "path": "src/male_optic_frontend/flow_clamp_interface_v2.py",
+      "size_bytes": 1452,
+      "sha256": "b1ea08ff2614f909d265b2992b70bfa38612580ae846e6e362321d77056e07c0"
+    },
+    {
+      "path": "tests/test_flow_clamp_interface_v2.py",
+      "size_bytes": 2461,
+      "sha256": "c92f13373e2ce0a3d40cd50132c2f22de41a9a07da784b86bf979eadc817033d"
+    },
+    {
+      "path": "docs/PHYSIOLOGICAL_INTERFACE_CORRECTION_PROTOCOL_V2.md",
+      "size_bytes": 2413,
+      "sha256": "6c3fed63175c4dab00da539290fd9957324e232ab705ad3133f71eab80eec2eb"
+    },
+    {
+      "path": "scripts/analyze_soma_matched_physiology_v1.py",
+      "size_bytes": 12022,
+      "sha256": "be1f2965be745c1d79a48411a67ff4fc2c4bff08745e0a2ba489e4d1c0961b94"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/prospective_manifest.json",
+      "size_bytes": 5175,
+      "sha256": "33800ccdbf418f1102b43bb3e4b168434c45f0341e1f81cfbec515b08f399318"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/independent_review.json",
+      "size_bytes": 1050,
+      "sha256": "b3c9a09adbf65cc16ee3ad64028ff2be71a65949ff992489838d26a4b8bf610d"
+    },
+    {
+      "path": "results/validation_hardware_v1/flow_clamp_interface_audit_v1/audit.json",
+      "size_bytes": 1673,
+      "sha256": "a47874efda4a2222afbb21f8d75899d3df027d4351864a88c518c5ab5d6b6a92"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/config.json",
+      "size_bytes": 12274,
+      "sha256": "e04c6e652aa236852b7e208b8e1c19a725265d26bacef385f10699f01a7a4c12"
+    },
+    {
+      "path": "results/fixed_neighbor_motion_v1/targets.json",
+      "size_bytes": 2410306,
+      "sha256": "8874b8c4bb32180409618433959c16c8c505dec7ea4ed901a58a54b9fc4b5b60"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/methods/anatomical_batch_solver_v1_strict.so",
+      "size_bytes": 21368,
+      "sha256": "13aa60021f4fe5f864e0b89d852a4bd4dbd5e8f5b713793afa8dc0262eaf5a81"
+    },
+    {
+      "path": "results/validation_hardware_v1/preflight/flow_clamp_interface_v2_tests.log",
+      "size_bytes": 98,
+      "sha256": "77d92cd56cd64a1a5b65adac4e344cc7fd9699faace17014c0a319c92f46082d"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiological_interface_v2/coordinate_signed/config.json",
+      "size_bytes": 5957,
+      "sha256": "b1750306b678670eb91d8d92833d29fd513b1e014dd96a6a1f299ce6b1807205"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiological_interface_v2/coordinate_signed/observed_traces.json",
+      "size_bytes": 141224,
+      "sha256": "b1442b878e6bfb09e0b40684109460cb28ac06def2916f8012c7310a5b1ac43b"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiological_interface_v2/coordinate_rectified/config.json",
+      "size_bytes": 5960,
+      "sha256": "ab30ae50cbd03671763736950c2c19ed5fd9293ac7a12fab69a835889264d96f"
+    },
+    {
+      "path": "results/validation_hardware_v1/physiological_interface_v2/coordinate_rectified/observed_traces.json",
+      "size_bytes": 141224,
+      "sha256": "b1442b878e6bfb09e0b40684109460cb28ac06def2916f8012c7310a5b1ac43b"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/physiology_inputs/erginkaya_dot_yaw.npz",
+      "size_bytes": 1129582,
+      "sha256": "d185e774ea38c5bd245439922050caf527ea58442fa9c454b659383a4649ac11"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/physiology_inputs/erginkaya_dot_progressive.npz",
+      "size_bytes": 11779678,
+      "sha256": "2211f2e1ab59fa01b426d796cb9255af5c1ef9c6909fc3d53738b8a73593d370"
+    },
+    {
+      "path": "results/anatomical_strengthening_v1/physiology_inputs/erginkaya_dot_yaw_right_flipped.npz",
+      "size_bytes": 1374991,
+      "sha256": "79c159a062dd94a8c8f338e6e1aaa206d1953ffde1c83bf66770559cce17d7b3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/830f11843b398a8c2fe0.npz",
+      "size_bytes": 5272,
+      "sha256": "b2f5d01b7bf51d99d590d97f82e3ed0a50cc6937bed9ad0c49571d132e5cfe7a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ef092a65e4e4183b1f61.npz",
+      "size_bytes": 5318,
+      "sha256": "35e7706d9029a8e718bda78ac32be35ce7c86488e11abb6fc7fcdbcb815d0a9d"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8153e5b345f39b6b3131.npz",
+      "size_bytes": 5327,
+      "sha256": "898ea272ea0224c2c164d8e5fbef3b4c9f75bf961c497afad51484a4896fa922"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0055adc124b8c53083fc.npz",
+      "size_bytes": 5286,
+      "sha256": "af60ee198871f26ef33546f28748a06175e48709f77b2d352e349bc75ae3a00d"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/96045ba91756dbc9a3f1.npz",
+      "size_bytes": 5293,
+      "sha256": "b1e4f006a1eec577953a04f5c72fbdcc1f7a7c9be59f7c2b1914f34d32457630"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/630c7304a995fcc22696.npz",
+      "size_bytes": 5323,
+      "sha256": "1b5b9602dbf94939e5773a7d9f1c417d378c19c11e21ec602264e275232f5715"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d285e306b33a7a0c6a9a.npz",
+      "size_bytes": 5318,
+      "sha256": "1578ba39b99d0ddecb80db7fb91e64b9a9e56966299d51ebb47516663289beea"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6b1d11886405a50e88d9.npz",
+      "size_bytes": 5315,
+      "sha256": "6c54f1b2a5d9431b19072d3701137395aa98b182a92ee01ed77009d7b1210fbf"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/4238f64120bb45ca3db9.npz",
+      "size_bytes": 5312,
+      "sha256": "bb063934b07de01f13b80a529c2631d0f4aec0ace8e214c3451c4eb38149d9c8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ab7a11fd7a443cebfe78.npz",
+      "size_bytes": 5357,
+      "sha256": "cf503147c518aab77a053690f82b381b5aa3eacc6205174856c3b50d3f0fe09a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/4ec52348f1de6d853b88.npz",
+      "size_bytes": 5362,
+      "sha256": "d9969183c64bd3307226f908d0d2d33d1048938a1dfc8b850bc3b91611a64026"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b77f0dcad6021b774185.npz",
+      "size_bytes": 5363,
+      "sha256": "ac518c2a3a5a598a1598ce8fc4898947cf38555a8b3f16a32ae24b9cf5ef73b4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/901189567098dc53479c.npz",
+      "size_bytes": 5371,
+      "sha256": "455fd76d5d817d07c8c725b3ee5b3de7394c16c0adf26c64dd3c9ad1adaedcdc"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/de66a593f1203ac90e39.npz",
+      "size_bytes": 5374,
+      "sha256": "71ee8a7f39b4c343e3d2d30820ace05241cc5de387e6659837ab8faf37fdeea3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/1a293b8d512afca16ec6.npz",
+      "size_bytes": 5379,
+      "sha256": "84ae4652db7e063dbbefb36629577cf550931844e5139a2c87522d638720678d"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2f565fe556ac359257c8.npz",
+      "size_bytes": 5337,
+      "sha256": "c521caff6b5e8c7a312f906688df1b41a4f76c51c1c78472cb28c1cdf3e461c6"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/480194ae84b3554decb9.npz",
+      "size_bytes": 5332,
+      "sha256": "aee36badd8ea9f081b7b729c2ee64d967a32248c701b5cb6584e6b538e1702fb"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d18330e7f517e58b78d7.npz",
+      "size_bytes": 5349,
+      "sha256": "50993a364301c8ec5e3a8d256d8293036e4df58e92da5e089c775b5ca42a1843"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/9262a5e6dc5c4454d909.npz",
+      "size_bytes": 5318,
+      "sha256": "cb774ab3a67d828ebcafd666cc4e8af8a00c60a2a58ed6a89c338dceb1555a17"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e0a3dcf38be140bc350d.npz",
+      "size_bytes": 5309,
+      "sha256": "0847df812e2215e10a912893f053aff08d958499ec4588eaa25db11f587f5e04"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a082995d17e9f72cd93b.npz",
+      "size_bytes": 5313,
+      "sha256": "3da2f2895fa6740b8686346f45a2e645f1d3279408b407e76dd55aef1d527864"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0ef903692d7d21168550.npz",
+      "size_bytes": 5319,
+      "sha256": "67201e211d6ce676496491ab4ddea0d06b79d988fd2caa614cbc09c07ef1500f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/1f6c9caa8ac30723cf6a.npz",
+      "size_bytes": 5343,
+      "sha256": "0688bda72d65386cc78846d177ed0d904003b14d4a6cfc02ef4b81296424df25"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/65f0485d73190418dfec.npz",
+      "size_bytes": 5351,
+      "sha256": "c7e09eb1843b5b291d911c5381a7bf682ec13869163a5ced580df2ee704b70ef"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/95d81d9652bb822f5464.npz",
+      "size_bytes": 5345,
+      "sha256": "0c1cec79d3bcae5e69370605fee6dae1f89acc98e619784e3607dbd7074afb28"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/69773000cdf0ef377cde.npz",
+      "size_bytes": 5388,
+      "sha256": "9400856bc6c9336f5cd6f4a2b18f04e8592dc4a6fbb0de6c039ebd257a713414"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/c5c9eba18ae30b2d9256.npz",
+      "size_bytes": 5385,
+      "sha256": "ff62e3a4cf1e70d3e5581393160c8fb257def71fac7733bc735ae0d56aed542a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/07e5b772c8592408fc10.npz",
+      "size_bytes": 5393,
+      "sha256": "5a77e7ca6c7089150456863851ae3f876f5b1d8f78be7ce815dd7f22739552eb"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d1f2146ae7835f03ff84.npz",
+      "size_bytes": 5329,
+      "sha256": "e50e56357a57c05dde6ad3bafced0ae4195589eead00fdebbc301cc7acca2aa5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/47c70d83677318a06bf8.npz",
+      "size_bytes": 5326,
+      "sha256": "f0db060cee5b30bf25f7e5343a8e20381b358323b9378eec6c5ac9c04f9e43fa"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/748f2ac880635ff06232.npz",
+      "size_bytes": 5284,
+      "sha256": "dfd4ed7ea53cc65367a795e34dc6b2627a122885c06feb3152aeaea976d17baf"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/3f5a63f53b29913521ab.npz",
+      "size_bytes": 5360,
+      "sha256": "b10ec2e99abed92a155b5d6de3d537e1b3892c720655d3e8323e9e2ab4c60b43"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e10a6d4d5364985ffdbe.npz",
+      "size_bytes": 5389,
+      "sha256": "56a288c39b8e2017f3249157da5345032c242bba7ab6623039a3e744ddb81f5d"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/74382d210be3dfece7c1.npz",
+      "size_bytes": 5398,
+      "sha256": "402de5f8a87462ae6ff776bae6d239de43f9a0552a83edc8c27cfbdebf6ca17d"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/9531d1fe9ec8d76c5e20.npz",
+      "size_bytes": 5403,
+      "sha256": "a0a7e5f9acb5717b12a46a6c564b4b82dd59384831a8d7c6c3a8201316aeedeb"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/91ea2a43136c1d312d5b.npz",
+      "size_bytes": 5394,
+      "sha256": "3dad043b1345011fbb0ebef8a543a0502ca05cceb4d78509e0b721635eac9f8c"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0cfc0fd5789f6c0cbbfc.npz",
+      "size_bytes": 5407,
+      "sha256": "11d99940e13714b2a9b0f3525bab90b15a4f985dcbf5fa40412df4408dd5508f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b29b3f0b3d354579cb28.npz",
+      "size_bytes": 5392,
+      "sha256": "c55cc0cbf3727448dcacd03764ec44e0287ddfafdadde94ba21f54c03556b2d2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/06d4c1b0643cb5e02800.npz",
+      "size_bytes": 5382,
+      "sha256": "b2607121b738fbd7de9c722543a62bd649913c63453fb11cce0c1b132ac0ea6b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/5e7c4096faf476568bfc.npz",
+      "size_bytes": 5389,
+      "sha256": "fe6a5d89dd233fa1b82d6b5e2515e50bed7a10b8d5af237ac2a255973e6447d2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/4c1b250f4c0974ce9c8a.npz",
+      "size_bytes": 5346,
+      "sha256": "a0f712c965cc47e4cafa1a09ac68bf48ddbba4f7f96ff8e534da734eece011de"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b2004e4e94d2b1f67b2a.npz",
+      "size_bytes": 5351,
+      "sha256": "a2f9db7ff648c546b824bb6115c3d213b6b00fd2896a040c90443d231018c526"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6a4723456f92736b5e5c.npz",
+      "size_bytes": 5354,
+      "sha256": "41926cca0662aa918df4bc7385c0a6de2a0453774a7a61a2e237812e6189bbea"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ec2d6fc66e4fce2d67c2.npz",
+      "size_bytes": 5299,
+      "sha256": "6735072214325fb4bda0e281b34f1f22d166fff8a6c3acd7c1567da4aaf9d6ca"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/37333ef1f3a00ce0b7fb.npz",
+      "size_bytes": 5303,
+      "sha256": "bbc6849496bb1d53321281dc134841fe910a7711b543a5fbd74095cee309791c"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d59f5e9ac8369be1c0df.npz",
+      "size_bytes": 5320,
+      "sha256": "ea7b1d2049f7b1cde4e0f69c4ad8956d740ee54851ed3cc0a0963dc7d1f4d399"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8e69525f4b00ea23931f.npz",
+      "size_bytes": 5330,
+      "sha256": "ee86cce7d0df5d3cf5654ba46feefe7f872e45a4c2cea1660297f5192c855309"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/791938fc3d7a58ee9320.npz",
+      "size_bytes": 5329,
+      "sha256": "483a222799bddc1e6ac071658a8b2c2941bd8b75572a3ba232c54f8f3ad65f9f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6464d2c4c70f63da6039.npz",
+      "size_bytes": 5338,
+      "sha256": "50dd277e3f6eebab5892bfdf4a3c435f126706f4688be00fe993553aa5336407"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e914ec3d9b2484d28298.npz",
+      "size_bytes": 5324,
+      "sha256": "21257979e9fc23e22b75fafdab2c501779edff599db0a63a4f5b6b584cf2743a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/49d9e91081f7058e49c0.npz",
+      "size_bytes": 5337,
+      "sha256": "5ee94c165f95901566ceff3615ee84ce1d39b0dfdfbb4aab7a6b96adf8b24e84"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ef7bc6557b49d6c246fa.npz",
+      "size_bytes": 5347,
+      "sha256": "6ac8085ad256a31eddb98d22491fa6ee36e4572d220ecbd9732907328d58d18a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e62a285d5c4f91045fa7.npz",
+      "size_bytes": 5357,
+      "sha256": "509d32634363b977cbe0923c93d139400ab83f646142aae9a82f97bb636ebc5f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ae829e368470f2e0b3a6.npz",
+      "size_bytes": 5343,
+      "sha256": "cbcfa2c41ff7624c2656e12cc6b4d91a8deb28ac6c6cac296aa551917870607f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/03d59c4824c02dffff22.npz",
+      "size_bytes": 5364,
+      "sha256": "0afa4b824f3f217f2e03866fa234bb9304f6f26e2b038792cff163d2f34fc8b8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/87e68b23a622e094c043.npz",
+      "size_bytes": 5363,
+      "sha256": "e88f76cd03419a08d7b57cc8e07d50541eb3679eff3c57391872c7dac3393c6b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/74024bb90f42cd6b2f29.npz",
+      "size_bytes": 5386,
+      "sha256": "4f4c25d520005216e1d8b09163ede6ee618e0d7986d189cd97d3e5b2d33fee08"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/c59a789e8d6c2c484897.npz",
+      "size_bytes": 5419,
+      "sha256": "28670aa7aea8b1acb9f16c5bf6912fbc6071f31645bd2aa6ba3a181acd954365"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/9bc03f3e9b8e2770c47a.npz",
+      "size_bytes": 5328,
+      "sha256": "ddbd09f70c30c18e05d554bed41a5283b0a7aa321b429e186aab312d298540f8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/cd0e543f2166c16123c6.npz",
+      "size_bytes": 5358,
+      "sha256": "69ae97b6bc23e54bf7c6746a3d2cd786a619a04a9150dfc64fb5a229e19c5434"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/79efd57c102ac085a708.npz",
+      "size_bytes": 5331,
+      "sha256": "df5dcfbc3669c196a7a6535c72b357916ef650ccc2b8d1dd77f4b303b6108c43"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8f12c66d03aa7c129c72.npz",
+      "size_bytes": 5432,
+      "sha256": "09c161c807a1b63f91986989bdfca2a805debf4da71ae23c8238f76ac62e2968"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/efda8fc143c803da60dd.npz",
+      "size_bytes": 5432,
+      "sha256": "0ee81638afb3250a1e38de2b4e62c399eb268a4166482ca1d4dc5fdab476ff45"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a590335d5819bd800af1.npz",
+      "size_bytes": 5437,
+      "sha256": "700d8ccf39aead9b1df7e40f8ea7feea288a4a14fb4d9215821442afc2eb1018"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/14b473326d7fa42bb75c.npz",
+      "size_bytes": 5315,
+      "sha256": "d0c7d68007c23352e7807c28ac418b5a5be60d892a7ef57197e68107f755254a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/23e29f62d20d973c66ca.npz",
+      "size_bytes": 5332,
+      "sha256": "379e3982511a7ef6d5cecdbf846009a20df16dcab3c16751e986fcf12fb583e0"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/03a68fb2ef901694d661.npz",
+      "size_bytes": 5326,
+      "sha256": "f8ee140a3d77906fd74a0cde0df0c60c6b6badf4b60fc0bd92db8551f42ef25c"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b70db3bc539ecb6d66b7.npz",
+      "size_bytes": 5427,
+      "sha256": "2ce118cf0de6d543f38f0f0c47fce8f2b1f8a3fb0ee21395443d9d5bd49e67f0"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/73a644b1af80b6c270f7.npz",
+      "size_bytes": 5433,
+      "sha256": "40b6a1372c6aca209caeb29aadaad4a43249b638c271f2288d0cc496feadc357"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/387e2917d0c2230fdc09.npz",
+      "size_bytes": 5430,
+      "sha256": "962454e29c7a7c8694fea555b71cb155abf4e7de5fcc0b3dddf894ce91b8d7ca"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/eb9f919a71ed152a0c16.npz",
+      "size_bytes": 5321,
+      "sha256": "e1cd40813f1d54e539da8fc99abc68562737e5b15605f99f46248676053293ad"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e2b659806ffecfa25798.npz",
+      "size_bytes": 5293,
+      "sha256": "3e954a14278b0e274a8bf2a3be123080d69da08d6ac5856bb983bb197ad33573"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/292baead618de33bc9fe.npz",
+      "size_bytes": 5329,
+      "sha256": "663515d956e2ef14bcf86b1efc0daf732d45e4548db022bf34619ba51561a7c4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/1c48f584a7263fa2094a.npz",
+      "size_bytes": 5391,
+      "sha256": "62f48e926ed3b891fadd71f6726fbd2d8386d1f2301e17f5b27ceb3bb1bfe951"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/85e12f7109023293d246.npz",
+      "size_bytes": 5403,
+      "sha256": "9adabb79a2885b93fa7b75a8b06e45aa835e0512c3a89fe33de2ab4d62401a68"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/665cdde8ef0bd870263f.npz",
+      "size_bytes": 5409,
+      "sha256": "185764967ca29c594fececa1030e1c68b4b31fdf49d4a361eaa39cd0acd5dff8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/105c7d0fd899e3d72f48.npz",
+      "size_bytes": 5399,
+      "sha256": "67f79ce86e92c267f48d65adce9d689ddb7b0776fbfce4211610ba158705c895"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/99cf78897e7b368ecb57.npz",
+      "size_bytes": 5407,
+      "sha256": "786626665d3166035614f07a75fbb5c988739c7c88ec04d3e845339141e6b03a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8e5cf3bdc21332237245.npz",
+      "size_bytes": 5426,
+      "sha256": "d9b809a913da54a0cd3b27f5ed22a2c4264d47c934b82b995a16cb85e7ab9fd0"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/4a36094aa342db4b5303.npz",
+      "size_bytes": 5384,
+      "sha256": "9ef9fd8c73b282db15c944a480ee59bc632decc167faffb1be8a2f9337b028d2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b1340007650e73c894e6.npz",
+      "size_bytes": 5385,
+      "sha256": "10698fe5164f098fb3a969800453401903366706363addb650f3a177b2059def"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fa992de0b8da8c00f925.npz",
+      "size_bytes": 5370,
+      "sha256": "d6c6028fb57e48395d1e0c1866ed911c9185a2b1d1f3eac4fe9a167141965ab7"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/c427441a5aa6a6a67df6.npz",
+      "size_bytes": 5430,
+      "sha256": "106d240ea314eaec9a8e87dd287e1c179416b86b399ea319e3f3f0b561c59565"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a746ddcca1c3a2137c09.npz",
+      "size_bytes": 5438,
+      "sha256": "69f0d3855602b17213ddcb9a17e47590d84fb65e26754692fdacbf137edaea63"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/40dcbf2057b27717324c.npz",
+      "size_bytes": 5430,
+      "sha256": "3c7bbe98b60b262f6b6cae9fdbc4fce1ca5788b16bfb81827764a7fc4917b727"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/395ae31dd9f6fe831e9b.npz",
+      "size_bytes": 5396,
+      "sha256": "e3cdef3368650e1ba927438d411156c0cc8fb1286f9dbe1ef5853e1e384b13ea"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2f32086e30fc55464287.npz",
+      "size_bytes": 5377,
+      "sha256": "902253dd17116992c65e92e0a891bdfb23d2dbc1d69fe8fd717e0d589bb51412"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ca510ab6f0aca53f3e04.npz",
+      "size_bytes": 5393,
+      "sha256": "fc281e2634be1f62459badefe024391c292e9d25f3da2f4d93d88a7edd0ad355"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/4ed9a9c47671c39e8ffb.npz",
+      "size_bytes": 5381,
+      "sha256": "dc6e31f214cb5bc3ba7fa9c52bd672032d97e606784d8356f59ed15cb2f3cb6b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/31ca28e97d56e60bd9e2.npz",
+      "size_bytes": 5377,
+      "sha256": "0ec5ca02eaa8c57e871babb7fcc80eaebdeed10c65a3d46132ccbb643cecea74"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/61164eff8736cbcf3a0f.npz",
+      "size_bytes": 5394,
+      "sha256": "39a149f4d7baef535162cae7053268cbb36bebd59114d1d1b4417e8c6f88f992"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/83687b029e3b308e3988.npz",
+      "size_bytes": 5381,
+      "sha256": "e482bed4a36dabb835d0fa85c0789a9c4cddb7dae278c6bf5c57fca8c1a1ab38"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2ec1de1acb3bcfc97dc2.npz",
+      "size_bytes": 5359,
+      "sha256": "84e0eb9ad68b0e75420b36464931d848390b1cd9c2cfc7ce776970f443ed7b32"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2bd27c8310d9ae2b4c80.npz",
+      "size_bytes": 5393,
+      "sha256": "87f60f37a074ff226fda3b1effaa222a3920c15cc07516cd41d4aa35b35197a6"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e40d60881fc024e244f0.npz",
+      "size_bytes": 5070,
+      "sha256": "05538947ccd73a5da3c5cfa71f9e51b4a4dedce150f9b56e4a32e0262d886376"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d36098dd1d5154afde4d.npz",
+      "size_bytes": 5076,
+      "sha256": "e4fdfe508c2f20c1101bdf68651844d92e1b5f9b3debd59afbb8303a15831016"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fa1a91f1036a091ff50a.npz",
+      "size_bytes": 5053,
+      "sha256": "fd3710abed15c73121b9c6fa2307b40dd14ef40a30cda99879656d78b6f4b292"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/bd9907e70ddcd4cf0f39.npz",
+      "size_bytes": 5130,
+      "sha256": "7c695c3822ab13fd9b406cab8b7130067133535b33b687f9711f81a388f1d8d2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8cbb0603f65b9d54dac9.npz",
+      "size_bytes": 5140,
+      "sha256": "f95a1f3ad1a5c35a202e40c1a6df7cf9e5a9d47fdf9fee79fe81ced9076a0905"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2c00ea51bfade2164165.npz",
+      "size_bytes": 5152,
+      "sha256": "9d4d76ac9be228e02e1dc5aae5b7d598682bc678a2bf66e5b0459dafccde9995"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/163bafd9d21972c55715.npz",
+      "size_bytes": 5384,
+      "sha256": "aaed49dd0d895ab651a3dfba367084da724fe58c3df1a7c3abe705d79f03d864"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/89c0e7d07c77aa7f0914.npz",
+      "size_bytes": 5384,
+      "sha256": "3cad1b4e848885f4048e59f9331483ef3009105c7b1ead1445d7c22404a0e374"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e967d686634dd8e922de.npz",
+      "size_bytes": 5400,
+      "sha256": "5bb9d27438d2a87c3c022cb06e369b287b0ea48080836b897954e74bae153529"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/f12a310a7d2a8773e1e6.npz",
+      "size_bytes": 5392,
+      "sha256": "088898e985cd6bf9b0a64b8b90f182eb6124eada67dbaf9bf47da4ca000ec1ba"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/cbb3576e458233cda2c9.npz",
+      "size_bytes": 5393,
+      "sha256": "929007ad00609811694e8a02caaf7f7b6ad52ed2eb1d1550b569bdc2dcaeafc5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/7511c12999a9f9f11464.npz",
+      "size_bytes": 5393,
+      "sha256": "2d75d4a0813ca230d8e7b1f93b218269735bd877710f636867e3cfd4a2ae1cf7"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fdd70ce86368c6cac819.npz",
+      "size_bytes": 5414,
+      "sha256": "74006e919fd8e29106353f0cda4f7c29ed28b09ebb624f07016c1be88fa5b968"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/7910b1f5d899af6d5ba0.npz",
+      "size_bytes": 5408,
+      "sha256": "a2e4fa004f00d174f6e6e98e1e91c4a5ce1e6da2b9c2bd2dca74263e00083760"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/3652844a14c7c7d994ca.npz",
+      "size_bytes": 5419,
+      "sha256": "befec21200751aabfae63f53e1725229c33908f5320f8a52daedd537b2842a9e"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6f6336e6c7c012df340d.npz",
+      "size_bytes": 5423,
+      "sha256": "b428f73389a991d851a241945811648e947edd289cfbd595a39fdcc7f8a7c3be"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/58e5b36428269069bb7c.npz",
+      "size_bytes": 5422,
+      "sha256": "a850fb90bfe080100258a41e82413e4fcff9f1b89f429124ac25ffc313428911"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/643dae0db8ec3506f43e.npz",
+      "size_bytes": 5411,
+      "sha256": "e6a134fcba9ec79a77f76733d93d3dca34e3d2fd937d1aeefe8c7fe704a0d7d5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/89fa5f185f7e6224111b.npz",
+      "size_bytes": 5358,
+      "sha256": "7b080aa92fce27f2d9fca6e730706cea34eaf6935286d88d847c808fb043e07a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0ea50a91aa131c0d2289.npz",
+      "size_bytes": 5394,
+      "sha256": "ae42b225e4894dfba6ecd6cb40452604a5ed2837f60988b19241dd4680ff1403"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/68911f21b61dc7c5cd30.npz",
+      "size_bytes": 5388,
+      "sha256": "51df77cf574e6abd6ea2621a7175f08539a7b93bc5f3e9919cd9389fda3c3b77"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8abc0edd4c6d8afc49c0.npz",
+      "size_bytes": 5399,
+      "sha256": "3d3d18c5e00fb165c984d2bc17687cbc953a9caa8c66fee56b014bbd48a2e92b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/1d03cd90080b1ce87803.npz",
+      "size_bytes": 5405,
+      "sha256": "9987e7438c8d05ee6f04f51d9f9110514f1ca26d042ed51d3afa2a7b2dc941f9"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d233a323ca06223613e4.npz",
+      "size_bytes": 5404,
+      "sha256": "6652aa99769c6fb6f0c4579e7968503240b24593d346af87b546e06d8ad90ce4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/1bc012e85e77e887241a.npz",
+      "size_bytes": 5351,
+      "sha256": "391c516b85ecd9aa3597db3ebb6c7e267054ad0b3e8b3a3b42610118fbb39ad5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a112fa777b2700e82d53.npz",
+      "size_bytes": 5354,
+      "sha256": "383efba3fc4ec9ae5aaa04ebcf18786c91969b832ef49fd10a807b34ee823a40"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d2bef5bd8136c556b4a6.npz",
+      "size_bytes": 5352,
+      "sha256": "34732133e85050d8a7736d418892a09c8d13a9c7351a888fd342fdfc706c41bd"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/5e9b730362e2e2f0f46e.npz",
+      "size_bytes": 5396,
+      "sha256": "8f9bbc0abe41ce7ff96c8ac3f8fd6ffc5f258d2954056086cc8cbb56a1b22fa4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/27f7798bc9b49f167daf.npz",
+      "size_bytes": 5411,
+      "sha256": "9fe88711d7c0775de7ab0fcb055949defacbc36760d8684a9a172c1426dd3f33"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/988eeb2098811e5f5ce7.npz",
+      "size_bytes": 5420,
+      "sha256": "f671f28a00f191f2b1d0f0c6480ae65965c27f0111b10bfd3480dc44435c626b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ce4c00bc94016de21750.npz",
+      "size_bytes": 5402,
+      "sha256": "e2c139bf91ad50232e3b4b34122034e651422a579eadd15afb8c8f1561ec5cfb"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/10d8491e01777efa57b5.npz",
+      "size_bytes": 5410,
+      "sha256": "2569f9d90b268bbfda0c1c4215fad7ae0c8b769bb5c767e470ababb9be9a69cd"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/946c72e2b20d909a3ce7.npz",
+      "size_bytes": 5412,
+      "sha256": "a804ce9aad8df227614fbfd7fe8966b04a697653345fde52a454d7bb735722f7"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6157336e08168f04a69c.npz",
+      "size_bytes": 5371,
+      "sha256": "a8bc5593a265681c756f49d450627fad099615a74dddcc4f8d9cfe75dd5db6e5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/9e22e610f77125cf10ee.npz",
+      "size_bytes": 5314,
+      "sha256": "51079d9fabfcd7a0bcb996f9858e0ea88af58b81b35f7abf341f89148896e72b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/7e03ab0685af80948ca3.npz",
+      "size_bytes": 5379,
+      "sha256": "ce586dde5e58824610260eb7228dab5e9c68e268f801bceb4bef540dacd89fa0"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fc5d71324c8ddac34fd2.npz",
+      "size_bytes": 5381,
+      "sha256": "78d387de857ab6d1324ad2666f87019381d2ac38eb6737fc233851741a6aa1a9"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/157dcafe0e59fb95c5ff.npz",
+      "size_bytes": 5401,
+      "sha256": "353db05c6c615166a1bff13a5e512a623f6de26113acb1c5b965b623ced47b93"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/af51e8c77d870d834d79.npz",
+      "size_bytes": 5385,
+      "sha256": "78af92bde60e50725b4fc497e2b3ce0692eee3aa2a6a6d56bde8d1dfe8d5fe1e"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0caba0158a02eb5e3420.npz",
+      "size_bytes": 5372,
+      "sha256": "f9dc17d01dce72e961f033f5f32f7b1dcc9bd0f9dca47335bcb2f849ac4e024f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/f19977b26dc0ca0f55d4.npz",
+      "size_bytes": 5364,
+      "sha256": "18b1d30c42d063f0521597104342e23e15ca8a26395af1656f7cca26b2f92bf2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2b06b3cad9ac41431667.npz",
+      "size_bytes": 5367,
+      "sha256": "653dc6a4aed4ad34010cc41bcdf18931adbe25108cc3b107c88a30effada11a1"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/c908fc0968842a6c4899.npz",
+      "size_bytes": 5353,
+      "sha256": "3e6ce0ab1639ab24a08ffaab10ae7aecd7ae72ead99a5276282d0e9ee2d5a995"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/98935114cba61b96f888.npz",
+      "size_bytes": 5351,
+      "sha256": "227994595eda5f9702a9670bf8594ddcd61acfbe1cda6928b679a938fadac419"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d8fde6feefc95333ffcb.npz",
+      "size_bytes": 5354,
+      "sha256": "cfa39f89afbefab46bfbb26a31eebd2920cbbbe75b9a4eee010aeff4a2e2b980"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/39227b8d588fc091ae49.npz",
+      "size_bytes": 5393,
+      "sha256": "17c408d6107d1923c2c04e89aa17fd30f6271d3cda347571f7f639bad2df88f9"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2508261e8fa2efba500e.npz",
+      "size_bytes": 5398,
+      "sha256": "b25d813176cd03b5c9fd2c6c7ea348607a43b4e126edd254a6ff849f3d8a3c25"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0da0a67b3e4da2066219.npz",
+      "size_bytes": 5396,
+      "sha256": "fa4ad58e4353723e630d9600b2b1ecba495770ed385ab0545970110ee83130ee"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/101e18dea16c20636a84.npz",
+      "size_bytes": 5367,
+      "sha256": "6ad2371fa28266893a4f79be736b61defdab700f190845ad54db1ca0194cce3b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/671bc36a26d3090a99c7.npz",
+      "size_bytes": 5362,
+      "sha256": "8cfa0d04273d5e9cad4e4fa2f15b2f3b5dce383ba0dde84edf009bb6be60dcbd"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/081ddc23322df3cfd43c.npz",
+      "size_bytes": 5371,
+      "sha256": "050d016607ffd4feb796a6e0a53d05208372acfbb9fe50de3e90ea262841c8e3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/446965b766fd9e08a089.npz",
+      "size_bytes": 5388,
+      "sha256": "ddc0341e6b1891b211eaa2d516d0b7c7de272394cde2b7d8624dfee732ab1b5c"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/9c53c55b78ab09b83ea3.npz",
+      "size_bytes": 5397,
+      "sha256": "fc9eab5ed300aa968e27789dd875e2f05a03056acde9475fff4aa621d3215c38"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/71589f8c08a786da4f47.npz",
+      "size_bytes": 5404,
+      "sha256": "1c8676797079606875ffc453c1f696deaefa2f1b372a8d195952459de40cb7f2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/f0df2e6f3a7bdfed0e86.npz",
+      "size_bytes": 5374,
+      "sha256": "e4b2f1a1e3617ddb02276ac37a63cb9eda01a24b43fc01e12d83d9d1f43fd148"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e6d3aa22da4502f3f1c7.npz",
+      "size_bytes": 5386,
+      "sha256": "c5b9db05629356f49095b002f599a4bd1ce26c9c9c4d1e61d388b6f4e9faffa3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/f4322b20424c54209d96.npz",
+      "size_bytes": 5385,
+      "sha256": "574c22aac6b5b9c30eb4dcf87a44f8bbfa9e526e053637f9819a21d4879a1080"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/4bf35989eb70e2a62207.npz",
+      "size_bytes": 5339,
+      "sha256": "e0e9a238e0794753ff63e411647078d022b3386b97c855c11b5fa6fbe80d78ae"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8da3013b2ecaa80913ef.npz",
+      "size_bytes": 5372,
+      "sha256": "1d5f8ad8ddc26f3161fd182eee37dc55e15a6e6f06bfc1816bcfdbac49c307a3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/cf90b0e42e8ad2cc9d23.npz",
+      "size_bytes": 5412,
+      "sha256": "8db1c293a161741c861881168eabe43ff2308ff02ba965f35aabe35ec7723b7c"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/702b902a30a7e33a906c.npz",
+      "size_bytes": 5389,
+      "sha256": "13ef3aa5736ee23f15ad833a8b6ff6abacb1c3e593edd58c02bb157c39c3476e"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/1c430958bff40a951079.npz",
+      "size_bytes": 5393,
+      "sha256": "11434a812e205c3e6a9cced86ccdd748a3228274e1cff3d4ffae2d951161de65"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/44d88c2d9f350258580c.npz",
+      "size_bytes": 5382,
+      "sha256": "99ccaaaf9581918d6ef858e0a96843022a5e1be91c55635f1ae4a210756891ea"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/3e33290cfde574e07214.npz",
+      "size_bytes": 5414,
+      "sha256": "5ffc1d8403705f24aadc11d00f5f833e89f0a063a5648c558cc744fe17823d4e"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/2b227f6e1a72e86b225c.npz",
+      "size_bytes": 5405,
+      "sha256": "2f4534a60b9f49a389d39ac2d8a10f629e18ab3832e17ed0e75cb08cbbfa3167"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/efdd107e5d4b7bd49c42.npz",
+      "size_bytes": 5373,
+      "sha256": "5877b327ab5647de4bed98a4d4553a6116b29986611b859f138fe04d146c86ee"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fdd6db8b5b8377672696.npz",
+      "size_bytes": 5362,
+      "sha256": "52fc5809667165e405f1f4501d0ba23e0e3663cca66ecd713255d16c7dd69b44"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ba8dc58f470ed03f37ce.npz",
+      "size_bytes": 5377,
+      "sha256": "42d7ae78d54f009aeaa02ab6fe93c53b6ff3657dcc8b70b875171173246fef5f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0e0386c510c87e4d784b.npz",
+      "size_bytes": 5304,
+      "sha256": "98a05b2e28579659af0efb89b4b46427395a9d7448cd1398d29c3d49e218ae9b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ab712caff4a2d56106fc.npz",
+      "size_bytes": 5336,
+      "sha256": "b11a67486fc506628bdc4d0756ebfe21d350fbbee8d1f2b2d17c52680f8668e5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/904b937c919886b73c15.npz",
+      "size_bytes": 5346,
+      "sha256": "15c990db6406f1632298fc93366982e02ccb566675dfb6e08a61347e59450f97"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fec47554fec2bc3442c7.npz",
+      "size_bytes": 5364,
+      "sha256": "96d2ac8f58fdf78fec64aca40e2c18c84f942bea5a8d1d699218906aa15f391d"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0c197cfd7f98e1261fed.npz",
+      "size_bytes": 5345,
+      "sha256": "822d532317097ca42cb25692440b25314098c238d8afeae419802041abdd73c3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e19074bdb513ab565b96.npz",
+      "size_bytes": 5356,
+      "sha256": "3c2ad508f13be6e53b3e1073886e15d1fb528a916c42cb6d20bf3897596f65c6"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/98ce35827fa49d185e45.npz",
+      "size_bytes": 5351,
+      "sha256": "4343074801fdf453900d967712ddf733f6def20707ee08f7536186aaa4e93c3a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/205b4dade2d8a6594f09.npz",
+      "size_bytes": 5344,
+      "sha256": "72bb3146d14ba5bbd425517eac557df9a089bbba30ae9e10171810f1b9dd9b4f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0852de13dcbb9981c104.npz",
+      "size_bytes": 5358,
+      "sha256": "37f3ce464c76181778b1c84ce90d3da55e8b8466d3547c40b4cf2b1d4ce23a7f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e841c92aa83057aa49c7.npz",
+      "size_bytes": 5345,
+      "sha256": "f08d509084c377773be31360a0a823c7e2294e93cf063daf42eb2672ca5927bd"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b79b887f44dbc34049d2.npz",
+      "size_bytes": 5416,
+      "sha256": "89b078c3a4e083b84ed38bf27d53252bdd1426dbdf2bf3a6f6a674be82f33af4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6f633d7288787689730e.npz",
+      "size_bytes": 5421,
+      "sha256": "adf24b07eb1e7e6508b89bd5f4af1c186e2da19816c220395110e6ffd6439b7f"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6f19c7af9e7c92960141.npz",
+      "size_bytes": 5431,
+      "sha256": "8777f2c9527273948bda49a7f01f113ac11f26cde2bd088f652ea01e1a3a0e90"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0d815e72f222b9790e6c.npz",
+      "size_bytes": 5334,
+      "sha256": "632955a9d5c9ef827a2b062116e565271d90c01cd3ca217cf1e6cbe8f3710111"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fe9339aa52becd0f1f54.npz",
+      "size_bytes": 5351,
+      "sha256": "d827725678165ff414a9959ef61bd233f2df6a02a349642c55e8ca7fc443f5c9"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/5833c1f0d03880f15792.npz",
+      "size_bytes": 5346,
+      "sha256": "f5c7741695a3102716b64d46b0314689e509d3687d57c4de7b472a6b642a9198"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/948036572cbd007171c8.npz",
+      "size_bytes": 5398,
+      "sha256": "ffa48d3192018d2b286eeb567acde2189a2b042228443cf2b842aa64f4b7444b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ec1cb19306ffa3fcbf1e.npz",
+      "size_bytes": 5416,
+      "sha256": "95ceda25e78f189449e6f888771cbcef4e4bf885d45f06f1852c1368fcf770fe"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/52ccd0e22e4f6352b389.npz",
+      "size_bytes": 5393,
+      "sha256": "cf66eda4da462aa0a5ecb87d3e548772634c275f27e731cfa7cca4a45b4b7bde"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/f19404448256259e1a47.npz",
+      "size_bytes": 5334,
+      "sha256": "6d1ee8c215ba65f216c1c9c0ba17e8132d0b0fb2609d6c2b083f0983b0ef1819"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b24af7ae73e66fed2523.npz",
+      "size_bytes": 5365,
+      "sha256": "ae9117025692c8c02098aee64ae58423b1b33594b28049ba7124822ade49f3f2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ba7e8d36cd74c761f533.npz",
+      "size_bytes": 5317,
+      "sha256": "cc7bece0f0bf89c534e852ab53d2b4d7cbae47108a1a4be1629f8666d5b377e8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d3233121faa006ed9a8d.npz",
+      "size_bytes": 5400,
+      "sha256": "c8ce314871a84b014e7596cc45c37675ba2d3574790694b040ab87ade87cf4d6"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/f806f3e4d727cea8c49a.npz",
+      "size_bytes": 5415,
+      "sha256": "648f217573751f560aaaa9c8a67fc063b46f5dfec232da3af80596cc4029f46c"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/adb7fbe30e305bcf1cec.npz",
+      "size_bytes": 5406,
+      "sha256": "7b2a0ebd52b3437ebcc73adeeb5aba52a8e2864dd978080be40eb548fe68a0c3"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/31aa6fa1d6a78e48984d.npz",
+      "size_bytes": 5390,
+      "sha256": "139ca40f0169f90277aa733cfd0a1e0a01ce34aed9423392caa2f926b9540ed5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/c5e67c41753fb7609336.npz",
+      "size_bytes": 5404,
+      "sha256": "fc4188c53550ca93678578a46fa28d1fd3a900867e28b64810ca70006c32f876"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/eb4f99c85d51303e6e7c.npz",
+      "size_bytes": 5397,
+      "sha256": "51068e69a43aa02db12915439d69a63556ca136b9844949509cc59934900aea8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ae63253f861879fad06d.npz",
+      "size_bytes": 5407,
+      "sha256": "767847507605b8b263ed2f71b2d3c72994511a5047edea9e949e3210fd961ffc"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/7583c3d178bec552a587.npz",
+      "size_bytes": 5408,
+      "sha256": "68cbaeacc4bfee5f3df42f43f53457379077caa10898ab9b08b2436a6e5dadb1"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d3d2a806c225bbeb5837.npz",
+      "size_bytes": 5403,
+      "sha256": "34343bf57c7526dfe3dc73227b0d07a18240b72a45ee2a6f61354a0065f2ce08"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/f87154d5b7cf6a858241.npz",
+      "size_bytes": 5395,
+      "sha256": "bdabae25abd77010ca02bdb2aa7e13462bc09b89760dff65029885c2a8a75eae"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/5299dd9f74a8ca5c8e58.npz",
+      "size_bytes": 5394,
+      "sha256": "4be9021945077896b012b5bfc781b58438f368dd37b4bab6232e4034f7b6c7c8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/7d6913042536b535a769.npz",
+      "size_bytes": 5379,
+      "sha256": "ca4077f811205b2ef06371f8e7a6f7643bda916ddcd0ea17cdb7cfed7072a317"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0236e2acea04cdd9cc25.npz",
+      "size_bytes": 5400,
+      "sha256": "5cfc7c2aa35d396b75e9d31460bcac8bbd08fcd74f5c65bf66909bc702056bf1"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/3290bd0e72eae27a1598.npz",
+      "size_bytes": 5406,
+      "sha256": "9c2f16d67685d44be7a333234cf79bc8759bdb3d6c71861dc5cebc4364649bb1"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/34ce09ac122d8b04b36c.npz",
+      "size_bytes": 5398,
+      "sha256": "dd0b2f02e6ee5cc81ee874c5e0dfbe58b6fec3394b218b765a8e3fef89a2131b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fc42ca113654d7ace652.npz",
+      "size_bytes": 5339,
+      "sha256": "28f513516b3b5ddc633fa4efa41d6336f63a73a8535bc20e4dfeb9363de11871"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e8960d5e5bc71c11f637.npz",
+      "size_bytes": 5360,
+      "sha256": "89c1dd99f42885c3dbed29775db722156fcf66c2636b3d15aa8e33c5268f5f40"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/1eee0a820a3ea94f1b00.npz",
+      "size_bytes": 5335,
+      "sha256": "d155a27652dbae7dae5be09c95469523e4c4f20f69c62654754abb899d0cd781"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/4d2daa7d974467c08eb9.npz",
+      "size_bytes": 5351,
+      "sha256": "6d87173de2b2448cbe1bc84c574e2c5bc72b23127ed1732ded33872ad3c8d20b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a6681847cbeb7b4fd82a.npz",
+      "size_bytes": 5355,
+      "sha256": "79a659dc91ca29e42aeabc2e9c793eabd3b861eef8e8e522067d5daad6ad6fac"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8d3c53364779f933508b.npz",
+      "size_bytes": 5352,
+      "sha256": "fd9cc700bb92ec08227e896947bb0afa9d4557988e5c86510f1628928d06344a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/58bdd927f8da52f80b13.npz",
+      "size_bytes": 5343,
+      "sha256": "e1497b255ab0a2c3191832824f7a6d8f124e2f515883163fa1679e08f7ba87f6"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a967886ede575ab2af1f.npz",
+      "size_bytes": 5411,
+      "sha256": "627955787e849b8c0c64933511e5eeaff71388f600123a32d00df74d5e45d4d8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/b7436a56b18110b55da5.npz",
+      "size_bytes": 5433,
+      "sha256": "25f84740ea8ab5524d64cef1a0c04c353a01d1c3dcc5512e719a17f161114980"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/00b506b03ed64d4dcaf7.npz",
+      "size_bytes": 5433,
+      "sha256": "80ba85626d876c4526f6b914ac493c51a93176bf12a6d98c8dacd9709c6ac954"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/d7cf160ecc5c8799d9bf.npz",
+      "size_bytes": 5373,
+      "sha256": "d4b19ae155e5fff28c5d567519afef6234cee05b764b660d56c5f81f4f990ca8"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/8a57fdca46c81e97675b.npz",
+      "size_bytes": 5380,
+      "sha256": "0945e1191ebb94a766870d814fa51e9c242d5c9ee49ac7a8dc379ebf296ab2f4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/3d14516959ba3858ff39.npz",
+      "size_bytes": 5376,
+      "sha256": "a50bfaa4e7ee0a26e37d81231dafa960c9ae0fd03cc0158a14d8ab3d674108f5"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ee7ab2f0f5371bbc451b.npz",
+      "size_bytes": 5401,
+      "sha256": "5ebb4936ec0e95956c4648caea531ba2f084ac9781a4d885b1d7a5319618412b"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6c25333f4c86db286052.npz",
+      "size_bytes": 5365,
+      "sha256": "83de033d17e9934721bc37d1497bc115a9a2bacb9e56bc821d8f8de1a355f622"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/fe905bcbf6967c15bee4.npz",
+      "size_bytes": 5353,
+      "sha256": "c2208b96ea1b7954599f9c190fc63bd5bdc69dc43a0a9fd49e87462c54ca00cc"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a6fc2be532f566566e31.npz",
+      "size_bytes": 5358,
+      "sha256": "581b961a14e89d3910b5037116ddab562eb2590548d70839993eb813239ac2c0"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/90eca798b4ef14d56f9c.npz",
+      "size_bytes": 5378,
+      "sha256": "af533576a27de9407c2551c69517b24f37577538d716d1e356fd93396ba971b9"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/733e89cb1eb62c533cfe.npz",
+      "size_bytes": 5395,
+      "sha256": "a9fbb33ea20bbf5d057e554a00fdb53a6b09905619a213127d7a049cb918db81"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/73eb580618c05cd18c95.npz",
+      "size_bytes": 5375,
+      "sha256": "aec6b8b12e37de7a8ca4320765afe6f12d04fa57ff07fe9ebe6bef68627c4836"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/203967606b6425fb5911.npz",
+      "size_bytes": 5422,
+      "sha256": "6209ab2c4907586c694ef79cdc0d6c118a72eec252c4a63ec348e093209bd50a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/77ff3df05c6dcc80cd62.npz",
+      "size_bytes": 5430,
+      "sha256": "d9a4fb4b7123ddb091334def427428325184f03e7f557c9cb7b07544a0449a2a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/17003489025aa04798c0.npz",
+      "size_bytes": 5429,
+      "sha256": "20f32f2925ac266740817689d90fcffc7ba22d5e177625a80eb15a6692fd8609"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/346a9d4d44d9b0514e32.npz",
+      "size_bytes": 5440,
+      "sha256": "a141c3a1272684d7ea670d96b9b5818d57c8fda88261e97355d82ac2424cdc4a"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/6167f79a5f3969985195.npz",
+      "size_bytes": 5417,
+      "sha256": "b02abe876f8e238159fa5fdfce37f1bf1dc715ac2d3068111086160c68b184dc"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/34c5712a4be3851cfc5f.npz",
+      "size_bytes": 5445,
+      "sha256": "f05d9baae4c7d1e146fff0a96e3f14f200abad18a52aca16a9e292befb2b5e16"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/ab57df103a21b96c4253.npz",
+      "size_bytes": 5317,
+      "sha256": "5076eab64770b6de4526c124b4dbf7233f221dd7886d0dd0e88de9dc99c0b9ac"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/295fe3292ca31fae6aaf.npz",
+      "size_bytes": 5331,
+      "sha256": "392c0d45827586115d9bb71eae19e18c8ae076b53414e771538e77c97ff3c766"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/cb5065c437090bfc163d.npz",
+      "size_bytes": 5362,
+      "sha256": "4ec3613bb78c2707d48350f824755e73c21bf77c0bf9037e96cd564194fbd3f9"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/3675a4696ef3c96b34d9.npz",
+      "size_bytes": 5385,
+      "sha256": "042dcda9c029dec216a90fdd38b5f71997e048b95e63c9a1044df1009ce43ce2"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/7b4b528fc672881d15c2.npz",
+      "size_bytes": 5356,
+      "sha256": "0443bb1a36204a012841bab70b571223ec6baf2d92c78639caf4a248a6d5dbb7"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/837a8b76e363b883b36d.npz",
+      "size_bytes": 5362,
+      "sha256": "308fb0caad941ce9dbced2c9664818d8074d5df3ba07a5a069c8e3d463e098bf"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/e47c3f83e291e27b3176.npz",
+      "size_bytes": 5334,
+      "sha256": "b732510eaaaf8b63c7ac555862d8fa557bf7a6094d624dd9925888b93cdc48fe"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0f8192efbddd0b6ee271.npz",
+      "size_bytes": 5343,
+      "sha256": "6d476cceb55457c8fc94c49c1cd0774ffddc294f8ae664ed009df31faf90d9fe"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/744d6ad2d50e7a9962a6.npz",
+      "size_bytes": 5334,
+      "sha256": "c615095505f7a7834a316387a9d0942167b8edea7e912443bb445e7b86b8d829"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/34f8baeb282922fd873e.npz",
+      "size_bytes": 5348,
+      "sha256": "f6d680b4a48f6ae6bea56962be80cea74ee32c582f9966e8941a43b1dd124386"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/66ded52695dfb7acf424.npz",
+      "size_bytes": 5353,
+      "sha256": "080ab693732aa6dbe72c3079d476b8d7ed403cdbbcc365f91939eef88e192588"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/869548a9260a71354ce7.npz",
+      "size_bytes": 5342,
+      "sha256": "1b42cdc018e0186abfbf851921d3abf3baefc716ed80a57f332ed1ab0b760e7d"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/0d884dfe644380d5ff5e.npz",
+      "size_bytes": 5339,
+      "sha256": "4adf308fbce47c6d7bd53ec4ed11e87b9249261ac91fa7cabf33584bce564223"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/a30d7c95584873264060.npz",
+      "size_bytes": 5344,
+      "sha256": "1a416193702714833ce98cf29efdaae30828f09f7599324cd367f5ad028d17be"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed/91778586a5ff3dc9bfea.npz",
+      "size_bytes": 5351,
+      "sha256": "684326ba1ba183e386751efab56cf0aae614c5a3120dceb2e53f4d1f13d34a6a"
+    }
+  ],
+  "corrected_network_outcomes_inspected": false,
+  "reused_test_outcomes_previously_inspected": true,
+  "neural_parameters_fitted": false,
+  "proxy_chosen_from_test_performance": false,
+  "analysis_code_reused_unchanged": true
+}

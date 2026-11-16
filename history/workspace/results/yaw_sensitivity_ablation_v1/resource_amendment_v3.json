@@ -1,0 +1,13 @@
+{
+  "created_utc": "2026-10-19T13:26:42.917717+00:00",
+  "helper": {
+    "path": "scripts/assist_yaw_sensitivity_middle_v1.py",
+    "sha256": "a54797e9548b74eac3b8aa0a879fde1a224aa5449d36754b97a8327fa004c443",
+    "size_bytes": 1442
+  },
+  "workers": 3,
+  "source_only": "s07, before FIFO reaches it",
+  "graph_copies": "s08, disjoint from both other current execution blocks",
+  "frozen_execute_and_stream_unchanged": true,
+  "trial_conditions_and_criteria_unchanged": true
+}

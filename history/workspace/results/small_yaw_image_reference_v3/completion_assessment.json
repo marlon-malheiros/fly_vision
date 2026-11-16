@@ -1,0 +1,9 @@
+{
+  "status": "COMPLETE_FINITE_IMAGE_REFERENCE_TEST",
+  "numerically_qualified_2deg_methods": [],
+  "engineering_small_turn_milestone": false,
+  "neural_detector_repaired": false,
+  "original_1deg_input_sufficiency_established": false,
+  "physiological_validation": false,
+  "closed_loop": false
+}

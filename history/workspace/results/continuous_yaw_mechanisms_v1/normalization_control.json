@@ -1,0 +1,10 @@
+{
+  "original_cells": 13593,
+  "old_block_exact": true,
+  "original_nonzero": 203861,
+  "changed_entries_vs_expanded": 15408,
+  "added_pathway_coupling": 1.0,
+  "weights_fitted": false,
+  "max_absolute_row_sum": 1.46875,
+  "inherited_graph_signs_unchanged": true
+}

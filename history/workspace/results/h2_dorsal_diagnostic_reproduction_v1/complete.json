@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "fresh_build": [
+    "g++",
+    "-std=c++17",
+    "-O3",
+    "-fno-fast-math",
+    "-ffp-contract=off",
+    "-shared",
+    "-fPIC",
+    "<WORKSPACE>/src/male_optic_frontend/streaming_core_v1.cpp",
+    "-o",
+    "<WORKSPACE>/results/h2_dorsal_diagnostic_reproduction_v1/methods/streaming_core_v1.so"
+  ],
+  "cases": [
+    {
+      "family": "cases",
+      "case": "0e2694b67f760011b820",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "family": "cases",
+      "case": "f887b7e0b9f973cab089",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "family": "lesions",
+      "case": "1fe8d9ba85ed091cd888",
+      "all_retained_arrays_exact": true
+    },
+    {
+      "family": "numerical",
+      "case": "9bbab5fd61f043309b96_fine",
+      "all_retained_arrays_exact": true
+    }
+  ],
+  "full_execution_and_analysis": false,
+  "independent_python_review_repeated": false,
+  "seconds": 20.69601954999962,
+  "biological_validation": false
+}

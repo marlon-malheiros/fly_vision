@@ -1,0 +1,8 @@
+{
+  "utc": "2026-10-30T18:46:00.295785+00:00",
+  "comparisons": 81,
+  "FIR_and_scalar_arithmetic_independent": true,
+  "max_comparison_error_discrepancy": 1.3766765505351941e-14,
+  "all_selected_comparisons_pass": true,
+  "passed": true
+}

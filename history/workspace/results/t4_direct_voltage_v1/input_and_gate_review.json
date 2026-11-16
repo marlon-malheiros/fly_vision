@@ -1,0 +1,57 @@
+{
+  "passed": true,
+  "image_checks": [
+    {
+      "cell": 1,
+      "max_normalized_contrast_error": 6.661338147750939e-16
+    },
+    {
+      "cell": 2,
+      "max_normalized_contrast_error": 1.1102230246251565e-15
+    },
+    {
+      "cell": 3,
+      "max_normalized_contrast_error": 6.661338147750939e-16
+    },
+    {
+      "cell": 4,
+      "max_normalized_contrast_error": 6.661338147750939e-16
+    },
+    {
+      "cell": 5,
+      "max_normalized_contrast_error": 6.661338147750939e-16
+    }
+  ],
+  "scalar_pixel_evaluations": 87150,
+  "event_queries": 119400,
+  "native_clock": [
+    {
+      "cell": 1,
+      "trials": 96,
+      "interval_us": 50
+    },
+    {
+      "cell": 2,
+      "trials": 96,
+      "interval_us": 50
+    },
+    {
+      "cell": 3,
+      "trials": 96,
+      "interval_us": 50
+    },
+    {
+      "cell": 4,
+      "trials": 96,
+      "interval_us": 50
+    },
+    {
+      "cell": 5,
+      "trials": 96,
+      "interval_us": 50
+    }
+  ],
+  "decisions_independently_recomputed": true,
+  "neural_parameters_changed": 0,
+  "scope": "Numerical/input audit, not independent biological validation"
+}

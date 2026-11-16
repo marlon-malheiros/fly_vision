@@ -1,0 +1,1888 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T18:13:07.352726+00:00",
+  "feature_rows": 14976,
+  "curve_counts": 156,
+  "maximum_scalar_score_error": 5.1514348342607263e-14,
+  "stationary_zero_checks": 24,
+  "independent_reference_medians": 69120,
+  "rolling_scores": 74880,
+  "rolling_curves": 39,
+  "prefix_checks": [
+    {
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w00",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w01",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w02",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w03",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w04",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w05",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w06",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w07",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w08",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w09",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w10",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w11",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w12",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w13",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w14",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w15",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w16",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w17",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w18",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w19",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w20",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w21",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w22",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 5.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 5.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 5.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 5.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 11.0,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 11.0,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 11.0,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 11.0,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 16.5,
+      "yaw": -2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 16.5,
+      "yaw": 2.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 16.5,
+      "yaw": -5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    },
+    {
+      "scene": "w23",
+      "speed": 16.5,
+      "yaw": 5.0,
+      "exact_shared_prefix_through_yaw_onset": true
+    }
+  ],
+  "render_checks": [
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 0.9,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 0.9,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 1.0,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 1.0,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 1.19,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 1.19,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 1.79,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w00_v16.5_y+0",
+      "time": 1.79,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 0.9,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 0.9,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 1.0,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 1.0,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 1.19,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 1.19,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 1.79,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w01_v16.5_y-2",
+      "time": 1.79,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 0.9,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 0.9,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 1.0,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 1.0,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 1.19,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 1.19,
+      "side": "R",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 1.79,
+      "side": "L",
+      "error": 0.0
+    },
+    {
+      "key": "w02_v5.5_y+2",
+      "time": 1.79,
+      "side": "R",
+      "error": 0.0
+    }
+  ],
+  "physiological_validation": false
+}

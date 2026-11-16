@@ -1,0 +1,96 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "spatial",
+      "primary_margin": 0.0,
+      "finer_margin": 0.0,
+      "margin_error": 0.0,
+      "neural_error_deg_s": 0.10964051765812557,
+      "image_error_deg_s": 0.09069307622718345,
+      "decisions": [
+        0,
+        0
+      ],
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+0",
+      "profile": "temporal",
+      "primary_margin": 0.0,
+      "finer_margin": 0.0,
+      "margin_error": 0.0,
+      "neural_error_deg_s": 0.04410668287130784,
+      "image_error_deg_s": 0.01929492808978203,
+      "decisions": [
+        0,
+        0
+      ],
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "spatial",
+      "primary_margin": -1.9175215593338986,
+      "finer_margin": -1.8019080222505401,
+      "margin_error": 0.11561353708335842,
+      "neural_error_deg_s": 0.10900428940652729,
+      "image_error_deg_s": 0.11561353708335842,
+      "decisions": [
+        -1,
+        -1
+      ],
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y-2",
+      "profile": "temporal",
+      "primary_margin": -1.9175215593338986,
+      "finer_margin": -1.9330975308687848,
+      "margin_error": 0.015575971534886213,
+      "neural_error_deg_s": 0.08204894775022531,
+      "image_error_deg_s": 0.015575971534886213,
+      "decisions": [
+        -1,
+        -1
+      ],
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "spatial",
+      "primary_margin": 1.8024912192450333,
+      "finer_margin": 1.9646391489249422,
+      "margin_error": 0.16214792967990888,
+      "neural_error_deg_s": 0.15156431083533306,
+      "image_error_deg_s": 0.15661004557380775,
+      "decisions": [
+        1,
+        1
+      ],
+      "passed": true
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "profile": "temporal",
+      "primary_margin": 1.8024912192450333,
+      "finer_margin": 1.8221187790158822,
+      "margin_error": 0.019627559770848846,
+      "neural_error_deg_s": 0.018346441893649645,
+      "image_error_deg_s": 0.0016485323175761124,
+      "decisions": [
+        1,
+        1
+      ],
+      "passed": true
+    }
+  ],
+  "clock": "100 Hz for all readouts; refined visual/source trajectories sampled at common arrival times",
+  "inherited_solver": {
+    "path": "results/ongoing_walking_yaw_v1/numerical_review.json",
+    "size_bytes": 28041,
+    "sha256": "79c0d736f5ce5c2ae7bff6890fab05ca5df4f4308d4b83d9c984fc85dc64949d"
+  },
+  "physiological_validation": false
+}

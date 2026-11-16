@@ -1,0 +1,25 @@
+{
+  "utc": "2026-10-30T19:29:42.899276+00:00",
+  "episodes": 960,
+  "methods": 20,
+  "finite_scores_checked": 2810880,
+  "callback_decisions_checked": 1406400,
+  "max_scalar_score_error": 8.881784197001252e-15,
+  "max_streaming_score_error": 8.881784197001252e-16,
+  "all_saved_counts_and_bootstraps_reconstructed": true,
+  "independently_checked_primary_gates": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "four_exact_replays": [
+    "rr24_v0_y+0",
+    "rr24_v5.5_y-2",
+    "rr24_v11_y+2",
+    "rr24_v16.5_y+0"
+  ],
+  "passed": true
+}

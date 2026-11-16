@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-16",
+  "passed": true,
+  "scope": "Sanitized project-history export and original pilot release; not biological validation",
+  "archive_manifest_files_verified": 1161,
+  "linked_source_files_included_and_source_hash_verified": 1154,
+  "source_references_indexed": 1229,
+  "unbundled_files": 47,
+  "unbundled_directories": 27,
+  "live_file_excluded": 1,
+  "progress_entries": 536,
+  "parent_git_commits": 265,
+  "historical_json_files_parsed_strictly": 758,
+  "historical_jsonl_lines_parsed": 2823,
+  "retained_snapshot_local_links_checked": 1283,
+  "broken_snapshot_links": 0,
+  "source_transformations": {
+    "workspace_paths": 2371,
+    "home_paths": 896,
+    "temporary_paths": 52
+  },
+  "source_and_export_mismatches": 0,
+  "original_pilot_manifest_files_verified": 53,
+  "retired_generated_movies_regenerated": 0,
+  "limitations": [
+    "Only paths directly referenced by the main progress report, plus explicit retirement evidence, were considered for inclusion.",
+    "Full directories, large binary bundles, raw/source data and several other original references remain local-only.",
+    "Machine-specific paths were sanitized; original source hashes and transformation counts are preserved.",
+    "Pattern scanning is bounded and is not proof that every possible sensitive value is absent.",
+    "Historical results retain their original study-specific assumptions, status and source licenses."
+  ]
+}

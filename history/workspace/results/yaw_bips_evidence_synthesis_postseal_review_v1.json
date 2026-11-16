@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "date": "2026-10-24",
+  "verified_entries": 73,
+  "index": "results/yaw_bips_evidence_synthesis_v1/completion_v1/artifact_index.json",
+  "index_sha256": "805fdffc6f264cb292f15f0f37f331ebcdfd4f6cff34206369ac769e12e7938d",
+  "verified_after_sealer_exit": true,
+  "live_reporting_excluded": true,
+  "biological_validation": false
+}

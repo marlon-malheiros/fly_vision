@@ -1,0 +1,140 @@
+{
+  "recorded_utc": "2026-10-13T04:34:10.691851+00:00",
+  "maximum_dsi_error": 1.0659999229824259e-05,
+  "mismatched_selectivity_classes": 0,
+  "over_tolerance": 72,
+  "examples": [
+    {
+      "benchmark": "speed_30",
+      "body_id": "65302",
+      "cell_type": "T4c",
+      "r_plus": 6.389435333197437e-18,
+      "r_minus": 1.6582891871124046e-17,
+      "recorded_dsi": 4.6677685393733446e-07,
+      "reference_dsi": -1.0193222375886924e-05,
+      "dsi_error": 1.0659999229824259e-05,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "550005",
+      "cell_type": "T4b",
+      "r_plus": 1.3578812169049526e-17,
+      "r_minus": 0.0,
+      "recorded_dsi": 2.389683280609859e-05,
+      "reference_dsi": 1.3578627787413288e-05,
+      "dsi_error": 1.0318205018685304e-05,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "138081",
+      "cell_type": "T5d",
+      "r_plus": 9.063045098980867e-19,
+      "r_minus": 1.741131191282188e-17,
+      "recorded_dsi": -6.384022003651664e-06,
+      "reference_dsi": -1.650470507606704e-05,
+      "dsi_error": 1.0120683072415377e-05,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "99530",
+      "cell_type": "T5c",
+      "r_plus": 1.691477797170628e-18,
+      "r_minus": 1.130795424818349e-17,
+      "recorded_dsi": -1.2664183431777283e-06,
+      "reference_dsi": -9.616351443905742e-06,
+      "dsi_error": 8.349933100728013e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "115829",
+      "cell_type": "T5c",
+      "r_plus": 7.869148914886245e-18,
+      "r_minus": 0.0,
+      "recorded_dsi": 4.3158051783515233e-07,
+      "reference_dsi": 7.869086991868884e-06,
+      "dsi_error": 7.437506474033731e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "127546",
+      "cell_type": "T4d",
+      "r_plus": 1.9855875637655375e-18,
+      "r_minus": 9.273099796335625e-18,
+      "recorded_dsi": -1.1855781532911249e-08,
+      "reference_dsi": -7.287430185671969e-06,
+      "dsi_error": 7.2755744041390576e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "83092",
+      "cell_type": "T5c",
+      "r_plus": 1.0203865332757108e-17,
+      "r_minus": 0.0,
+      "recorded_dsi": 2.9741994153242437e-06,
+      "reference_dsi": 1.0203761214951784e-05,
+      "dsi_error": 7.22956179962754e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "150803",
+      "cell_type": "T5d",
+      "r_plus": 1.0522664690814376e-17,
+      "r_minus": 2.1704157748646523e-17,
+      "recorded_dsi": -3.96834342088066e-06,
+      "reference_dsi": -1.1181132725453133e-05,
+      "dsi_error": 7.212789304572472e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "133992",
+      "cell_type": "T4d",
+      "r_plus": 7.107021286355567e-18,
+      "r_minus": 0.0,
+      "recorded_dsi": 1.6298131900524868e-07,
+      "reference_dsi": 7.106970776962974e-06,
+      "dsi_error": 6.943989457957725e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "56996",
+      "cell_type": "T4d",
+      "r_plus": 1.7797182200202016e-18,
+      "r_minus": 9.493224590948616e-18,
+      "recorded_dsi": -1.046827725935427e-06,
+      "reference_dsi": -7.713419417992438e-06,
+      "dsi_error": 6.666591692057011e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "107648",
+      "cell_type": "T5d",
+      "r_plus": 7.225079847056496e-18,
+      "r_minus": 0.0,
+      "recorded_dsi": 9.852900097261442e-07,
+      "reference_dsi": 7.225027645654859e-06,
+      "dsi_error": 6.239737635928715e-06,
+      "selective": false
+    },
+    {
+      "benchmark": "speed_30",
+      "body_id": "121825",
+      "cell_type": "T5d",
+      "r_plus": 6.991491933499526e-18,
+      "r_minus": 0.0,
+      "recorded_dsi": 1.1429275875693437e-06,
+      "reference_dsi": 6.9914430528818185e-06,
+      "dsi_error": 5.848515465312475e-06,
+      "selective": false
+    }
+  ]
+}

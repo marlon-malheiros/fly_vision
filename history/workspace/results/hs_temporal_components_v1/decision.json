@@ -1,0 +1,43 @@
+{
+  "predictions": {
+    "slowing_reduces_PD15_error": true,
+    "removing_adaptation_improves_PD05": true,
+    "adaptation_alone_worsens_PD05": true
+  },
+  "nomination": {
+    "slowing_only": {
+      "eligible": true,
+      "guards": {
+        "numerical": true,
+        "zero_clipping": true,
+        "PD50_PD75_inside": true,
+        "contrast_violations": true,
+        "contrast_rmse": true,
+        "frequency_rmse": true,
+        "PD05_improves": true
+      }
+    },
+    "adaptation_only": {
+      "eligible": false,
+      "guards": {
+        "numerical": true,
+        "zero_clipping": true,
+        "PD50_PD75_inside": true,
+        "contrast_violations": true,
+        "contrast_rmse": true,
+        "frequency_rmse": false,
+        "PD05_improves": false
+      }
+    }
+  },
+  "nominated_variant": "slowing_only",
+  "new_numerical_passes": 14,
+  "new_numerical_total": 14,
+  "reused_numerical_passes": 14,
+  "biological_validation": false,
+  "walking_advancement": false,
+  "parameters_fitted": 0,
+  "data_already_inspected": true,
+  "model_component_causality_only": true,
+  "biological_neuron_causality_established": false
+}

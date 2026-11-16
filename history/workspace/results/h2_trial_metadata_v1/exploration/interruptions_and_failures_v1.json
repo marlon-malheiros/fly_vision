@@ -1,0 +1,16 @@
+{
+  "interrupted_reference_listing": {
+    "session": 84485,
+    "exit_code": 130,
+    "read_only": true,
+    "reason": "Unbounded MCOS pool listing; replaced with bounded schema inspection"
+  },
+  "parameter_inspection": {
+    "exit_code": 1,
+    "error": "TypeError: Accessing a group is done with bytes or str, not tuple",
+    "cause": "medFindSpkPar resolves to a group",
+    "correction": "Inspect object type; retain group path instead of numeric read"
+  },
+  "publisher_access": "Nature access failed; official Europe PMC XML retrieval succeeded",
+  "raw_data_modified": false
+}

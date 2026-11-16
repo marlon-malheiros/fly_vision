@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "source": {
+    "path": "scripts/check_measured_pilot_v9.py",
+    "size_bytes": 3919,
+    "sha256": "0811db5a8302ac1a253047e8f4290104f13763ee2c3f73dfcbf07725109b3200"
+  },
+  "episodes": 6,
+  "results": [
+    {
+      "profile": "baseline",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "delivered_rates": 201,
+      "delivered_event": true
+    },
+    {
+      "profile": "baseline",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "delivered_rates": 197,
+      "delivered_event": true
+    },
+    {
+      "profile": "baseline",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "delivered_rates": 181,
+      "delivered_event": true
+    },
+    {
+      "profile": "continuing",
+      "case": "s01_v16.5_y+0",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 7.453889935837843e-20,
+      "delivered_rates": 197,
+      "delivered_event": true
+    },
+    {
+      "profile": "continuing",
+      "case": "s01_v16.5_y+20",
+      "rate_max_error": 1.734723475976807e-18,
+      "final_state_max_error": 8.131516293641283e-20,
+      "delivered_rates": 194,
+      "delivered_event": true
+    },
+    {
+      "profile": "continuing",
+      "case": "s01_v16.5_y-20",
+      "rate_max_error": 8.673617379884035e-19,
+      "final_state_max_error": 5.421010862427522e-20,
+      "delivered_rates": 200,
+      "delivered_event": true
+    }
+  ],
+  "pilot_outcomes_not_used_to_tune_conditions": true,
+  "physical_capture_measured": false,
+  "physiological_validation": false
+}

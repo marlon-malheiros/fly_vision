@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "artifacts_rehashed": 288,
+  "calibration_scores": 19488,
+  "maximum_inference_error": 1.7763568394002505e-15,
+  "summary_rows": 24,
+  "reserved_rooms_not_rendered": 24
+}

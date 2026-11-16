@@ -1,0 +1,21 @@
+{
+  "computational_pilot_feasible": true,
+  "physiologically_calibrated_integration": false,
+  "fitted_coupling_parameters": 0,
+  "driving_force_mV": 60,
+  "source_parameter_strings_verified": true,
+  "replaced_types": [
+    "T4a",
+    "T4b"
+  ],
+  "unchanged_other_types": true,
+  "assumptions": [
+    "fractional rectified voltage to arbitrary network drive",
+    "row-wise1D embedding for horizontal grating only",
+    "extended panorama receptive-field support",
+    "inherited eye chart and subtype routing",
+    "constant initial-image prehistory"
+  ],
+  "biological_validation_eligible": false,
+  "reason": "No measured voltage-to-release coupling or complete upstream reconstruction"
+}

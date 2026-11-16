@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "previous": [
+    {
+      "index": {
+        "path": "results/t4_observation_transfer_v1/completion_v1/artifact_index.json",
+        "bytes": 9338,
+        "sha256": "575591faeffae145494ebfa7384344bf0fd37dae55657607d9424eadb3d1fe95"
+      },
+      "files": 45,
+      "unchanged": true
+    },
+    {
+      "index": {
+        "path": "results/t4_matched_source_admission_v1/completion_v1/artifact_index.json",
+        "bytes": 28129,
+        "sha256": "e6d7ae595fc59b4be89a3e2d849e49fc88a6dab575186a64a270259e4954e7dd"
+      },
+      "files": 130,
+      "unchanged": true
+    },
+    {
+      "index": {
+        "path": "results/t4t5_stage_benchmark_v1/completion_v1/artifact_index.json",
+        "bytes": 15593,
+        "sha256": "f45eabb2c3291568bcf9581fc03cf3afe93713acf6f09847d068db7984a1795f"
+      },
+      "files": 75,
+      "unchanged": true
+    },
+    {
+      "index": {
+        "path": "results/t4t5_sampling_diagnostic_r3/completion_v1/artifact_index.json",
+        "bytes": 9956,
+        "sha256": "b60f73136e9f7222635c850407fc227704e900f1ac18de95c8eb76bb0809a8fb"
+      },
+      "files": 46,
+      "unchanged": true
+    }
+  ],
+  "files_unchanged": 296,
+  "original_failure_cause": "bytes versus size_bytes dictionary keys; SHA256 and actual lengths all identical",
+  "initial_diagnostic_mismatches_are_schema_differences_not_file_changes": true,
+  "initial_utility_preserved": "failed_methods/complete_t4_direct_voltage_initial_v1.py",
+  "no_old_artifacts_modified": true
+}

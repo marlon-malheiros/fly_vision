@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "checks_recomputed": 24,
+  "maximum_error_mv": 0.0030226928806662556,
+  "all_thresholds_unchanged": true,
+  "midpoint_checks": {
+    "passed": true,
+    "checks": [
+      {
+        "case": "p0_h20_m0",
+        "max_error_mv": 6.171817923572576e-05,
+        "passed": true
+      },
+      {
+        "case": "p0_h20_m1",
+        "max_error_mv": 1.1580086425766467e-05,
+        "passed": true
+      },
+      {
+        "case": "p0_h160_m0",
+        "max_error_mv": 7.67222246089716e-05,
+        "passed": true
+      },
+      {
+        "case": "p0_h160_m1",
+        "max_error_mv": 2.545595145875268e-05,
+        "passed": true
+      },
+      {
+        "case": "p2_h20_m0",
+        "max_error_mv": 3.827077738094431e-05,
+        "passed": true
+      },
+      {
+        "case": "p2_h20_m1",
+        "max_error_mv": 7.123677129072803e-06,
+        "passed": true
+      },
+      {
+        "case": "p2_h160_m0",
+        "max_error_mv": 5.691289347353745e-05,
+        "passed": true
+      },
+      {
+        "case": "p2_h160_m1",
+        "max_error_mv": 1.8674644252314465e-05,
+        "passed": true
+      }
+    ]
+  },
+  "full_biological_validation": false
+}

@@ -1,0 +1,91 @@
+{
+  "status": "AUDIT_AND_BENCHMARK_SPECIFICATION_COMPLETE_PHYSIOLOGICAL_SCORING_BLOCKED",
+  "primary_sessions": 11,
+  "primary_flies": 8,
+  "uninspected_primary_flies": 0,
+  "verified_public_generator_commit": "4ace457c24bc6afce36bcb58b5c38f89db0777e0",
+  "generator_source_files": [
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/physiology_audit/source_snapshot/generator/LICENSE.md",
+      "size_bytes": 1068,
+      "sha256": "ed8d855fbd3953ff53e0fc2b26e014124c408cf0b352b3b1bc18563812cf688b"
+    },
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/physiology_audit/source_snapshot/generator/support/Motion_Maker_G4.m",
+      "size_bytes": 4532,
+      "sha256": "ac8f3bdfa6eff09e00b0948422d4dceeca38e973bf62d5b7ff7bbff0fb5c39c6"
+    },
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/physiology_audit/source_snapshot/generator/support/make_starfield.m",
+      "size_bytes": 12546,
+      "sha256": "60b863e59be973e4600ae05ad353f5d54326f7fbcbecc9db2f4329116aba5b22"
+    },
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/physiology_audit/source_snapshot/generator/support/arena_coordinates.m",
+      "size_bytes": 3688,
+      "sha256": "ef9141c442253208b6511e81193563d050b34d19dc3bf7b5e33d6072c73184a5"
+    },
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/physiology_audit/source_snapshot/generator/support/arena_projection.m",
+      "size_bytes": 2058,
+      "sha256": "5631b049b48f931392d8b644e460e6fa50bb4e418dab60b788a66a0595920237"
+    },
+    {
+      "path": "results/continuous_yaw_mechanisms_v1/physiology_audit/source_snapshot/generator/support/rotate_coordinates.m",
+      "size_bytes": 1739,
+      "sha256": "b6106fef6560c3d77ccef01aee32ea66c2336e91b28d14fb3b4cab9489f82279"
+    }
+  ],
+  "exact_recording_matched_images_available": false,
+  "new_neural_or_observation_fit": false,
+  "physiological_validation": false,
+  "gates": [
+    {
+      "gate": "recordings_and_metadata",
+      "status": "AVAILABLE",
+      "evidence": "11 eligible sessions from 8 bIPS/sytGC7f/axon/native flies"
+    },
+    {
+      "gate": "published_geometry_and_nominal_epochs",
+      "status": "PARTIAL",
+      "evidence": "Paper describes G3 32x96, 216x72 degrees, 74-degree tilt and 13-s epochs"
+    },
+    {
+      "gate": "exact_G3_pattern_frames_or_modified_generator",
+      "status": "UNAVAILABLE_IN_AUDITED_SOURCES",
+      "evidence": "Public generator is G4; paper states modified G3 compatibility. Exact per-trial dot state/seed, frame clock, mask and mapping not verified"
+    },
+    {
+      "gate": "verified_eye_neurite_world_sign_mapping",
+      "status": "UNRESOLVED",
+      "evidence": "Soma/neurite labels exist; these do not determine the full visual-display-to-compartment mapping"
+    },
+    {
+      "gate": "source_constrained_observation_model",
+      "status": "UNRESOLVED",
+      "evidence": "Reporter identified; no generic 0.5-s decay is treated as measured physiology"
+    },
+    {
+      "gate": "fresh_independent_validation_flies",
+      "status": "NONE_IN_PRIMARY_ELIGIBLE_COHORT",
+      "evidence": "0 uninspected primary-cohort flies after existing 63-fly analysis"
+    }
+  ],
+  "previous_metadata_sources": [
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/plans.json",
+      "size_bytes": 430231,
+      "sha256": "0f0cc72d65926d951b4fbadb384cf14fabfc90b72fc6fa9f8da8495969cac8b4"
+    },
+    {
+      "path": "results/validation_hardware_v1/soma_matched_physiology_v1/observed_traces.json",
+      "size_bytes": 132946,
+      "sha256": "d6f09b55f25695bd5798171c8da0b0732419e37c691bd395ca05462f209fb261"
+    }
+  ],
+  "source_urls": [
+    "https://www.nature.com/articles/s41593-025-01948-9",
+    "https://github.com/misaacson01/Motion_Maker_G4",
+    "https://github.com/ChiappeLab/Erginkaya_et_al_2025"
+  ]
+}

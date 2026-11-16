@@ -1,0 +1,28 @@
+{
+  "status": "PASS",
+  "utc": "2026-10-27T09:29:01.681864+00:00",
+  "online_checks": [
+    {
+      "key": "f00_v16.5_y+0",
+      "compared": 81,
+      "maximum_error": 0.0
+    },
+    {
+      "key": "f00_v16.5_y+2",
+      "compared": 81,
+      "maximum_error": 0.0
+    },
+    {
+      "key": "r00_v16.5_y+0",
+      "compared": 81,
+      "maximum_error": 0.0
+    },
+    {
+      "key": "r01_v16.5_y-2",
+      "compared": 81,
+      "maximum_error": 0.0
+    }
+  ],
+  "repeated_decision_episodes_checked": 3840,
+  "scope": "Functional online replay separate from timing benchmark"
+}

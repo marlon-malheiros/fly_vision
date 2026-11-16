@@ -1,0 +1,133 @@
+{
+  "utc": "2026-10-27T10:01:10.684169+00:00",
+  "fresh_images_not_generated": true,
+  "no_fit_or_selection": true,
+  "numerical_failures_retained": true,
+  "files": [
+    {
+      "path": "configs/ongoing_walking_yaw_v1.json",
+      "size_bytes": 969,
+      "sha256": "2789a8892d1f567f1c967460e2bec972e776d0e430f627a57569f075643f3f65"
+    },
+    {
+      "path": "docs/ONGOING_WALKING_YAW_PROTOCOL_V1.md",
+      "size_bytes": 6118,
+      "sha256": "04588f22e774081ae5d84d96a06e1b74f8ffb0de5487f276b53d3758b11afb20"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/before_development.json",
+      "size_bytes": 12482,
+      "sha256": "a1c3c2b6cda872d2ac12ced4376c7232432d6d54e7807be4f89b64b6b84cfab2"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/controls_complete.json",
+      "size_bytes": 1662,
+      "sha256": "0425f34505c38269496e99c01bd9cb39f4cc45ec106f623d19aa0f47e3c82286"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/development_complete.json",
+      "size_bytes": 2176,
+      "sha256": "5436396ae6ca2f5e21dfe79fa0aa5d76dbec648e650bd27628a425b70bc75977"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/frozen_neural_readouts.json",
+      "size_bytes": 17399,
+      "sha256": "6fa105fb6eadae0b1c01682d0ee94a798e23ffc4389cc3e985d3b243dd1e3dac"
+    },
+    {
+      "path": "results/ongoing_walking_yaw_v1/numerical_review.json",
+      "size_bytes": 28041,
+      "sha256": "79c0d736f5ce5c2ae7bff6890fab05ca5df4f4308d4b83d9c984fc85dc64949d"
+    },
+    {
+      "path": "scripts/ongoing_walking_yaw_v1.py",
+      "size_bytes": 21594,
+      "sha256": "f26291885fb5d82efc13198a166f89a411c0f559bc6e4b4b444b5de1a65be5cb"
+    },
+    {
+      "path": "scripts/published_circuit_comparison_v1.py",
+      "size_bytes": 16407,
+      "sha256": "8fad3e35ac0b58faf4aa8df52b3724bd2d1208398348e05c2dfc4d90aef75fe9"
+    },
+    {
+      "path": "scripts/reliability_weighted_yaw_v1.py",
+      "size_bytes": 22604,
+      "sha256": "d1445815d830211e51c0cad66dc2cad4c5ee96a20ef8b164208615aa7bf7c44d"
+    },
+    {
+      "path": "scripts/review_ongoing_walking_yaw_v1.py",
+      "size_bytes": 12587,
+      "sha256": "197688d0fbbe157e1974017d91dc712f7b9daf33e2d4c53d1ce77ce2775d9eb7"
+    },
+    {
+      "path": "src/male_optic_frontend/causal_short_window_yaw_v1.py",
+      "size_bytes": 4844,
+      "sha256": "5cb783a12a8775290bcff6a4bd1889fef713dd012ee7fa05ae9294f962f2a600"
+    },
+    {
+      "path": "src/male_optic_frontend/continuous_yaw_worlds_v1.py",
+      "size_bytes": 4340,
+      "sha256": "5a8e0dd32ce47e28ceb2fe3a55a6c6c4da5f16e10dad8ead4c528ac57c2b3f03"
+    },
+    {
+      "path": "src/male_optic_frontend/controlled_world_renderer_v1.cpp",
+      "size_bytes": 1583,
+      "sha256": "d3bc2a05220c9906c5801d03347b6e7e6e10baaf738458244ac566ca9193f577"
+    },
+    {
+      "path": "src/male_optic_frontend/fixed_neighbor_motion.py",
+      "size_bytes": 8086,
+      "sha256": "46d6434a6f8c188aa2228d227ba43bf7c2d8375d36d181fc78bd73d44b2f83ba"
+    },
+    {
+      "path": "src/male_optic_frontend/ongoing_walking_yaw_v1.py",
+      "size_bytes": 661,
+      "sha256": "62696cbe63a00f23bdd37090090d3ce8f3ea8dee26fee12030bfe202d67f791f"
+    },
+    {
+      "path": "src/male_optic_frontend/reliability_weighted_yaw_v1.py",
+      "size_bytes": 5517,
+      "sha256": "ec843ec5724a9ea58ee1b488d4e0042eda6d283cfa8008b146a8001c906973c7"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v1.py",
+      "size_bytes": 4943,
+      "sha256": "6eeeb762940f96132ee191a8a9730ed1c232af6fd2f8dfc7fd932a51f64ea4e6"
+    },
+    {
+      "path": "src/male_optic_frontend/retinal_yaw_reference_v2.py",
+      "size_bytes": 3894,
+      "sha256": "dadea43d9d90ecf5e3c246dd6590ea0b8cc0050a5263bab5f1a494e072c1e71d"
+    },
+    {
+      "path": "src/male_optic_frontend/sequential_repairs_v1.py",
+      "size_bytes": 7267,
+      "sha256": "09c0e546ecbcba1958cdb2bcae6357e27b665a8395f70456e6b1ed68c82f8b85"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_core_v1.cpp",
+      "size_bytes": 3339,
+      "sha256": "7b467c8394b5d8e567dd3884e188d90c08c1af2320f97d6057b5bd8ad0876857"
+    },
+    {
+      "path": "src/male_optic_frontend/streaming_v1.py",
+      "size_bytes": 10853,
+      "sha256": "d0058031ff587bb4eb814c09fb9a46ba582a57acf353b72749ec762b6eac9afc"
+    },
+    {
+      "path": "src/male_optic_frontend/virtual_walking_v1.py",
+      "size_bytes": 10113,
+      "sha256": "a669d2bc18c15fc67f29dcd2316108dd9828e073fa93d4644ee8d1119bbf9ffa"
+    },
+    {
+      "path": "src/male_optic_frontend/visual_coordinates.py",
+      "size_bytes": 13419,
+      "sha256": "cfbf2b1a45df1cb5f635a40703608d6c6fda27090a35f886c554dd7c71ef5914"
+    },
+    {
+      "path": "src/male_optic_frontend/yaw_sensitivity_v1.py",
+      "size_bytes": 9682,
+      "sha256": "96e2db9a34d378c6fecbcde4f5c7766ed7dd97487a43ae3de96225b2006f6e28"
+    }
+  ]
+}

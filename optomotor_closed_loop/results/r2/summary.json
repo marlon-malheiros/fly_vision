@@ -1,0 +1,241 @@
+{
+  "version": "r2",
+  "engineering_status": "PASS",
+  "stimulus": {
+    "kind": "random_squares",
+    "square_width_deg": 5.0,
+    "coverage": 0.15
+  },
+  "biological_validation": "NOT_PERFORMED",
+  "physical_robot_test": "NOT_PERFORMED",
+  "episodes": 270,
+  "scene_seeds": [
+    9201,
+    9202,
+    9203,
+    9204,
+    9205,
+    9206
+  ],
+  "calibration_seeds": [
+    1201,
+    1202,
+    1203,
+    1204
+  ],
+  "modes": {
+    "intact": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.33621590989178474,
+      "median_compensation_fraction": 0.6637840901082153,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.37672776169306904,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.3518089823966954,
+        "20.0": 0.3201210842262181
+      },
+      "median_straight_rms_deg_s": 0.19729954679257644,
+      "worst_straight_rms_deg_s": 0.5549357666956827
+    },
+    "bips_silent": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.3397201792946931,
+      "median_compensation_fraction": 0.6602798207053069,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.382755621147917,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.3577897680801376,
+        "20.0": 0.32225171214041193
+      },
+      "median_straight_rms_deg_s": 0.21468676072493958,
+      "worst_straight_rms_deg_s": 0.5765295952111584
+    },
+    "h2_silent": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.4478152882928887,
+      "median_compensation_fraction": 0.5521847117071113,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.5266199384735083,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.4683524890784738,
+        "20.0": 0.4140358937244936
+      },
+      "median_straight_rms_deg_s": 0.21177716706866892,
+      "worst_straight_rms_deg_s": 0.57874471475567
+    },
+    "open_loop": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 1.0,
+      "median_compensation_fraction": 0.0,
+      "cases_improved": 0,
+      "worst_rms_ratio": 1.0,
+      "direction_median_rms_ratios": {
+        "-20.0": 1.0,
+        "20.0": 1.0
+      },
+      "median_straight_rms_deg_s": 0.0,
+      "worst_straight_rms_deg_s": 0.0
+    },
+    "visual_reference": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.32757167227210665,
+      "median_compensation_fraction": 0.6724283277278933,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.3511498276084433,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.32635941004523994,
+        "20.0": 0.3335162937902807
+      },
+      "median_straight_rms_deg_s": 0.08844291706905227,
+      "worst_straight_rms_deg_s": 0.29223221647530134
+    }
+  },
+  "gates": {
+    "median_improvement_both_directions": true,
+    "median_straight_rms_within_limit": true,
+    "half_step_rms_change_at_most_5_percent": true
+  },
+  "half_step_checks": [
+    {
+      "seed": 9201,
+      "speed_m_s": 0.0,
+      "disturbance_deg_s": -20.0,
+      "coarse_rms_deg_s": 6.813358064956975,
+      "fine_rms_deg_s": 6.811952142730374,
+      "relative_change": 0.00020634791437602835
+    },
+    {
+      "seed": 9201,
+      "speed_m_s": 0.0,
+      "disturbance_deg_s": 20.0,
+      "coarse_rms_deg_s": 6.036914961680909,
+      "fine_rms_deg_s": 6.034832804268856,
+      "relative_change": 0.0003449042143659934
+    },
+    {
+      "seed": 9201,
+      "speed_m_s": 0.04,
+      "disturbance_deg_s": -20.0,
+      "coarse_rms_deg_s": 6.887734259142074,
+      "fine_rms_deg_s": 6.885674700555482,
+      "relative_change": 0.00029901829964744614
+    },
+    {
+      "seed": 9201,
+      "speed_m_s": 0.04,
+      "disturbance_deg_s": 20.0,
+      "coarse_rms_deg_s": 5.821817088033774,
+      "fine_rms_deg_s": 5.819648634289227,
+      "relative_change": 0.00037247026345160473
+    },
+    {
+      "seed": 9201,
+      "speed_m_s": 0.08,
+      "disturbance_deg_s": -20.0,
+      "coarse_rms_deg_s": 7.00203734445177,
+      "fine_rms_deg_s": 6.999432232042795,
+      "relative_change": 0.0003720506305266658
+    },
+    {
+      "seed": 9201,
+      "speed_m_s": 0.08,
+      "disturbance_deg_s": 20.0,
+      "coarse_rms_deg_s": 5.68421425299985,
+      "fine_rms_deg_s": 5.681810213134461,
+      "relative_change": 0.00042293266199822994
+    }
+  ],
+  "runtime_s": 140.653898199962,
+  "trace_columns": [
+    "time_s",
+    "yaw_rad_s",
+    "heading_rad",
+    "command_rad_s",
+    "descending_signal",
+    "visual_signal",
+    "x_m",
+    "y_m",
+    "disturbance_rad_s"
+  ],
+  "environment": {
+    "python": "3.14.6",
+    "numpy": "2.4.6"
+  },
+  "structure": {
+    "central_neurons": 20,
+    "central_body_ids": [
+      10015,
+      10016,
+      10019,
+      10023,
+      10025,
+      10034,
+      10066,
+      10181,
+      10308,
+      10419,
+      10436,
+      11041,
+      11215,
+      11709,
+      11793,
+      11919,
+      12069,
+      12072,
+      12521,
+      13310
+    ],
+    "nonzero_recurrent_pairs": 109,
+    "max_absolute_recurrent_row_sum": 0.15479484732824428,
+    "readout": "DNp15_L - DNp15_R only",
+    "source_channels": [
+      [
+        "T4a",
+        "L"
+      ],
+      [
+        "T4a",
+        "R"
+      ],
+      [
+        "T4b",
+        "L"
+      ],
+      [
+        "T4b",
+        "R"
+      ],
+      [
+        "T5a",
+        "L"
+      ],
+      [
+        "T5a",
+        "R"
+      ],
+      [
+        "T5b",
+        "L"
+      ],
+      [
+        "T5b",
+        "R"
+      ]
+    ],
+    "source_drive_mapping": "Equal pooled motion drive within each type/side; no fitted per-neuron retinal map",
+    "sign_assumptions": {
+      "acetylcholine": 1.0,
+      "ach": 1.0,
+      "gaba": -1.0,
+      "glutamate": -1.0
+    }
+  },
+  "limitations": [
+    "Synthetic planar scenes and noiseless equatorial camera",
+    "Functional pooled T4/T5 source drive",
+    "Clamped T4/T5 excludes their recurrence and central feedback",
+    "Transmitter signs and rate dynamics assumed",
+    "Motor sign/gain calibrated in simulation",
+    "No recording comparison or animal-level validation"
+  ]
+}

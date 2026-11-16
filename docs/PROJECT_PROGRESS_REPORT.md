@@ -53,3 +53,46 @@ still passes. Historical
 reports preserve exploratory results, failures and post-outcome corrections;
 neither this archive nor its numerical checks establishes biological validation.
 The movie-retirement ledger is included; no retired movies were regenerated.
+
+## 2026-11-16 — Closed-loop optomotor prototype and student handoff prepared
+
+Added a separate optomotor_closed_loop package around the original objective:
+connectome-constrained optomotor circuitry, biological prediction and embodied
+testing. It includes the 20-neuron central model, pooled functional drive from
+6,753 horizontal T4/T5 sources, measured retained chemical edges, random-square
+display, closed-loop virtual robot, preserved V1 numerical failure and completed
+R2 reference evidence. The original alignment manuscript, 53-file release
+inventory and 1,161-file history inventory remain unchanged and verify.
+
+Prepared STUDENT_START_HERE.md, a student handoff with exact setup/replay commands
+and AI prompts, and FIRST_STUDENT_TASK.md. The first assignment is a proposed
+gain-and-delay study with fixed neural weights, fair conventional-control
+tuning, separate development/final patterns and a provisional 80% engineering
+target. It has not been executed. Anatomical boundary completion and matched
+physiological validation follow this single bounded study.
+
+Fourteen implementation checks pass in a newly installed native Windows
+CPython 3.12.10 environment with the pinned scientific packages. The student
+replay completes all 270 cases in 165.23 seconds including comparisons and
+review; maximum saved-trajectory difference from the original Python 3.14.6
+reference is 1.67e-14, within declared tolerances. The 59-file prototype
+publication inventory, 17 frozen R2 source/data hashes and nine original V1
+source-capsule hashes pass. The dated validation receipt and this progress
+snapshot preserve the scope. Hosted Linux CI is configured but was not part of
+this local validation.
+
+Added Git attributes to preserve exact bytes across Windows/Linux checkouts.
+The fresh Windows clone had converted 1,129 original files' line endings; each
+committed blob matched its original scientific hash, and only those newline
+conversions were restored. No scientific content or reference outcome changed.
+Added a GitHub landing README in .github while preserving the original pilot
+README's hash. Raw data, private runtimes, credentials and generated replays
+are excluded from publication.
+
+Current R2 engineering evidence remains 66.38% median disturbance RMS reduction,
+0.197 degrees/s median unwanted straight turning, and 0.0423% maximum selected
+half-step RMS change. Conventional visual control achieves 67.24%; an advantage
+from the biological architecture is not established. Biological recordings,
+complete-pathway validation, meaningful bIPS necessity and physical-robot field
+tests remain outstanding. Sparse PS321/DNp15 input coverage and the functional
+clamped T4/T5 boundary materially limit biological interpretation.

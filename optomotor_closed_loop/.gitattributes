@@ -1,0 +1,5 @@
+# Preserve the exact bytes used by the frozen scientific source receipts.
+* -text
+*.png binary
+*.pdf binary
+*.npz binary

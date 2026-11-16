@@ -1,0 +1,10 @@
+# Scientific inventories use byte-level hashes. Preserve committed line endings
+# on all platforms, including Windows checkouts with core.autocrlf enabled.
+* -text
+*.png binary
+*.pdf binary
+*.npz binary
+# Keep large derived scientific evidence collapsed in GitHub's code review.
+optomotor_closed_loop/data/derived/** linguist-generated=true
+optomotor_closed_loop/results/** linguist-generated=true
+optomotor_closed_loop/release_manifest_r2.json linguist-generated=true

@@ -1,0 +1,302 @@
+{
+  "date": "2026-11-16",
+  "scope": "Published optomotor R2 prototype, reference evidence and student handoff. Excludes raw data, private runtimes, virtual environments, generated replays and this manifest.",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 121,
+      "sha256": "d3888bfc2a264e086c0ea4002ee76558e3f6517dfb5efc1c41f13bbb9c103f4c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 94,
+      "sha256": "101f003ef4331f86bff6794783a90f93fb4b9c8da9c1c02dea5d80832f51f30b"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2876,
+      "sha256": "d064d4fc36f381e070c63eb9d91b46750f84cc1dc304aeca2c019e31f7b605f9"
+    },
+    {
+      "path": "configs/experiment_r2.json",
+      "bytes": 549,
+      "sha256": "593f7a987de57ad7026b79f1040f18b8a84ec828281f18ec8b36ba11eef6a181"
+    },
+    {
+      "path": "configs/experiment_v1.json",
+      "bytes": 559,
+      "sha256": "a6d3e4ce9be3cfb8f9a474ff84ea3a7a6e9462bdfa18f58fae05b4de8c7700f5"
+    },
+    {
+      "path": "data/derived/annotation_admission.json",
+      "bytes": 22793,
+      "sha256": "c4b19c45634787e28f10085f9a185ec094d1c0f23696db95ac26e285374baad5"
+    },
+    {
+      "path": "data/derived/chemical_edges.csv",
+      "bytes": 406286,
+      "sha256": "3f847d143a7f2664c98df62783427b10d913068396709c9bb51aab400a1ed0b8"
+    },
+    {
+      "path": "data/derived/connectome_provenance.json",
+      "bytes": 4736,
+      "sha256": "6a9d2baee0d30806a8c09ef67a84ac189a1c9f84e02efc5ca27f585454a55de1"
+    },
+    {
+      "path": "data/derived/cut_feedback_edges.csv",
+      "bytes": 116295,
+      "sha256": "5d7a99b6b95f1006b233e405877e3c8cab68ef0b0c9863107c23839c9e4b368e"
+    },
+    {
+      "path": "data/derived/selected_neurons.json",
+      "bytes": 10419248,
+      "sha256": "89d530f488da8a510b770222519c1206a5da7651dac64b13bd537fe29fd1a752"
+    },
+    {
+      "path": "docs/NUMERICAL_CORRECTION_R2.md",
+      "bytes": 2831,
+      "sha256": "abdfb8ec5c93f160d7eddf6f858752783fe531c8c2074be287e866c8db828cf2"
+    },
+    {
+      "path": "docs/PROGRESS.md",
+      "bytes": 2823,
+      "sha256": "c2d79aed7b79b0c4aa9c6383ef0e7d1d15c08d9c485afcb2f4aa16658fb90fd0"
+    },
+    {
+      "path": "docs/PROTOCOL_V1.md",
+      "bytes": 4530,
+      "sha256": "ca95ad2904c0c812c871559a95f48a13933be5ed30179638e21269ea5b2c8c94"
+    },
+    {
+      "path": "docs/RESULTS_APPRAISAL_R2.md",
+      "bytes": 6139,
+      "sha256": "8d1f57045259b7f8db58bb0964acb84a8c873f29e54ac3b36253c5c576c7f503"
+    },
+    {
+      "path": "FIRST_STUDENT_TASK.md",
+      "bytes": 8833,
+      "sha256": "b01a5e26ed1f16a81fc821406a140f9c480e5863020e06070c4eb9d69b0a1d6c"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1401,
+      "sha256": "bc3d7b997cf3b0806f5a45c7b538e6a4efb50668bef4b4260fe5ee60217736fe"
+    },
+    {
+      "path": "optomotor/__init__.py",
+      "bytes": 71,
+      "sha256": "783074f9e83980349ec94d1756b1110a0ac4b678d7493e12718dc6f86cc2dab1"
+    },
+    {
+      "path": "optomotor/circuit.py",
+      "bytes": 4872,
+      "sha256": "fb1bbb37cf8d14368c7321af40026efd93dfd90f40d751ce975eb932795feb1d"
+    },
+    {
+      "path": "optomotor/simulation.py",
+      "bytes": 4602,
+      "sha256": "13e7934686c62a7b7a89e19a5528211dcdfd41a1fcfb6f4db2d24c29a651fdde"
+    },
+    {
+      "path": "optomotor/vision.py",
+      "bytes": 8371,
+      "sha256": "a3c5fa2db2f1a89704d417c48f9e70537bbc419dc5cd8fd60726afdcd21a73c5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5404,
+      "sha256": "2089f7f37cd53393064eca264ed9f8c35f92998e0e83c04069e44b90219ae47c"
+    },
+    {
+      "path": "requirements-reproduce.txt",
+      "bytes": 183,
+      "sha256": "73ed35948aaafcb810fe6e53e247e4385d7a706df0ec348705d14fa1ddb37994"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 48,
+      "sha256": "6ce258d4c13e63e0a50ded8cc0bcd9931552d7d27aa6535627d71090dfa69faf"
+    },
+    {
+      "path": "results/calibration_r2/before_calibration.json",
+      "bytes": 2587,
+      "sha256": "653bb74be3a5ca5cb8e0beb03c3b08eba5a7f7d27f989f031ed13413cb1bf6a9"
+    },
+    {
+      "path": "results/calibration_r2/calibration.json",
+      "bytes": 3696,
+      "sha256": "c0f39b4680c2158aa3456b3bc22d6efcc554285c8387ef59c59baaccda73bb77"
+    },
+    {
+      "path": "results/calibration_v1/before_calibration.json",
+      "bytes": 2158,
+      "sha256": "63cf8bd2c2e7c61b2cd5588d7ce566f8fceff8cb3767b182d15e58e6ee88307d"
+    },
+    {
+      "path": "results/calibration_v1/calibration.json",
+      "bytes": 3383,
+      "sha256": "4c65f1e4cfb32ee148d65928f518e2cb55095c07adde8d14fc11b3f33050df98"
+    },
+    {
+      "path": "results/r2/arithmetic_review.json",
+      "bytes": 928,
+      "sha256": "1cbc3dcd152734850d1d39601fb020dd98d41b16f8d62a7e29cc0daf0a57f06f"
+    },
+    {
+      "path": "results/r2/before_test.json",
+      "bytes": 2792,
+      "sha256": "52ee5913ec655bc255cc5e826c963c66ae4941e31a313fd15b821e4a1b89e928"
+    },
+    {
+      "path": "results/r2/episodes.csv",
+      "bytes": 35437,
+      "sha256": "4efeec7eb3f554d4ca6868fdcb9706fb81451f0e2152cff24248eaea19bd2d0f"
+    },
+    {
+      "path": "results/r2/overview.pdf",
+      "bytes": 31035,
+      "sha256": "71e52a9458aa1028058df78e746333f250c97f8850397739ec0530c052fdd129"
+    },
+    {
+      "path": "results/r2/overview.png",
+      "bytes": 244591,
+      "sha256": "68356641cd66ba5ad63949bdeec34eb123766525689b7223f773929705317aac"
+    },
+    {
+      "path": "results/r2/report.md",
+      "bytes": 2204,
+      "sha256": "f534689c552fe809f0651ad54540bba93eb90c6df7d65057ab2603cd77d1ae62"
+    },
+    {
+      "path": "results/r2/summary.json",
+      "bytes": 6233,
+      "sha256": "4eacdafac61b873ad008bfdd9000545f3fabe50838f13c6135a5f69549f3c91b"
+    },
+    {
+      "path": "results/r2/traces.npz",
+      "bytes": 5831753,
+      "sha256": "d62e8f445ef80766e55ef5bec97bf767b0c10df328a5b6a25fcb61ac383f190e"
+    },
+    {
+      "path": "results/v1/before_test.json",
+      "bytes": 2363,
+      "sha256": "b49f80be7c1d5b67bcabbce1132732c52c1a39cc53f2b409a6c67f3dc9c6f05a"
+    },
+    {
+      "path": "results/v1/episodes.csv",
+      "bytes": 35368,
+      "sha256": "002dae75ef9788dd267d35c541bdeb48a91cb452f08f715a65fb3343be257d0b"
+    },
+    {
+      "path": "results/v1/overview.pdf",
+      "bytes": 33125,
+      "sha256": "25dbe3532986dfeab385f7be67c4947b893f1b3b8f65d9611bccf9be105bbf97"
+    },
+    {
+      "path": "results/v1/overview.png",
+      "bytes": 254497,
+      "sha256": "20eb97e34b03051f055cf92001276a12daa50794f9e492878973d82bed3d54c2"
+    },
+    {
+      "path": "results/v1/report.md",
+      "bytes": 1884,
+      "sha256": "e11f764f50f180fcd8e30bf7559091f97e631e7a7f28018c9bc98e1781faaf61"
+    },
+    {
+      "path": "results/v1/source/configs/experiment_v1.json",
+      "bytes": 525,
+      "sha256": "8bf517d7ab4ffdbf6c74b762b3e829871326cd683a0c9d12a8632fe9d54429f0"
+    },
+    {
+      "path": "results/v1/source/docs/PROTOCOL_V1.md",
+      "bytes": 4512,
+      "sha256": "ba0165b24204f1bd9314478eb504b188f14c3c2a5513706359cd092b59ac8985"
+    },
+    {
+      "path": "results/v1/source/optomotor/__init__.py",
+      "bytes": 72,
+      "sha256": "cf5e94872745aa6e6579d1052fc5ec702bc489b068509b6bbb1a68c55e148f6d"
+    },
+    {
+      "path": "results/v1/source/optomotor/circuit.py",
+      "bytes": 4873,
+      "sha256": "ae94ad31d734b199962982123808e6a0eab98c46d14c3530f91b308663a347dc"
+    },
+    {
+      "path": "results/v1/source/optomotor/simulation.py",
+      "bytes": 4335,
+      "sha256": "971c65de601235693eb6dbed95c6fecfdc7dda1f94724ca0b98d8f5510a9080c"
+    },
+    {
+      "path": "results/v1/source/optomotor/vision.py",
+      "bytes": 3929,
+      "sha256": "94298a69a8717b887b0f20eba6b6e679e277f9ae57ec21dcf78dcf98f9b4002e"
+    },
+    {
+      "path": "results/v1/source/scripts/prepare_connectome.py",
+      "bytes": 8258,
+      "sha256": "09dc9d947e24248edac857820dd411a4ec3be2760efeded5e2713c5e78273b43"
+    },
+    {
+      "path": "results/v1/source/scripts/run_experiment.py",
+      "bytes": 14311,
+      "sha256": "4560e2b7f2e64ad1b1c8c3410ae6a6812437183ce9902046821a2233c6ae0f73"
+    },
+    {
+      "path": "results/v1/source/tests/test_optomotor.py",
+      "bytes": 6061,
+      "sha256": "c4b62c2b808ca04c59f1b3155627f9e30c2e773f52ab83ad676cd96ce28ec40e"
+    },
+    {
+      "path": "results/v1/source_bytes.json",
+      "bytes": 64067,
+      "sha256": "b3f8be76698d105da787dec0c47f13667edd2424666c93c6bafc10194d3f7cbe"
+    },
+    {
+      "path": "results/v1/summary.json",
+      "bytes": 6096,
+      "sha256": "98f79570dd2a6a7e255625a4b4a3a29ffa3f04f2b354141537425142d254de00"
+    },
+    {
+      "path": "results/v1/traces.npz",
+      "bytes": 5875586,
+      "sha256": "2fbbf12edb3fa740e1fe01c9c7dcfe9e887fd493f0c5bb9fb4400a9345497918"
+    },
+    {
+      "path": "scripts/prepare_connectome.py",
+      "bytes": 8257,
+      "sha256": "b02585adc45c39177c67bebf3958d97a7fb3b36bc2cb36699dd010aa0447ba31"
+    },
+    {
+      "path": "scripts/review_results.py",
+      "bytes": 3710,
+      "sha256": "137566e2b4794de0cae5c1650e3e8d071aea3b75ebba2900a9cde668a731fbcf"
+    },
+    {
+      "path": "scripts/run_experiment.py",
+      "bytes": 14859,
+      "sha256": "2d99a3d6b4fa1d77dca209e33c33fee7f9e0e69b5fa2e6b05e300b654c5437ec"
+    },
+    {
+      "path": "STUDENT_HANDOFF.md",
+      "bytes": 18911,
+      "sha256": "18cea34386f160198a178f31e9646dbf61365d1ca1a88c274eae6b820bb39e9f"
+    },
+    {
+      "path": "tests/test_optomotor.py",
+      "bytes": 8404,
+      "sha256": "e2895f1bc244233b905e2f2dd61c1d5f67b887d705028621d84cb5a680a9df49"
+    },
+    {
+      "path": "tools/check_baseline.py",
+      "bytes": 2602,
+      "sha256": "72dc5c0e621607c0f819993689d896b566b62d25cec2a5f85d0405ad42de5623"
+    },
+    {
+      "path": "tools/replay_baseline.py",
+      "bytes": 3346,
+      "sha256": "844e1214590647e7bc2848134964c666c27f761f231ff3db4cbbac440f761bdb"
+    }
+  ],
+  "bytes": 23570413
+}

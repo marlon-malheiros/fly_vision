@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "scope": "Source integrity, complete case grid, trace arithmetic and no-controller physics; no biological validation",
+  "episodes_checked": 270,
+  "maximum_rms_discrepancy_deg_s": 1.7763568394002505e-15,
+  "engineering_status_preserved": "PASS",
+  "artifact_hashes": {
+    "summary.json": "4eacdafac61b873ad008bfdd9000545f3fabe50838f13c6135a5f69549f3c91b",
+    "episodes.csv": "4efeec7eb3f554d4ca6868fdcb9706fb81451f0e2152cff24248eaea19bd2d0f",
+    "traces.npz": "d62e8f445ef80766e55ef5bec97bf767b0c10df328a5b6a25fcb61ac383f190e",
+    "overview.png": "68356641cd66ba5ad63949bdeec34eb123766525689b7223f773929705317aac",
+    "overview.pdf": "71e52a9458aa1028058df78e746333f250c97f8850397739ec0530c052fdd129",
+    "report.md": "f534689c552fe809f0651ad54540bba93eb90c6df7d65057ab2603cd77d1ae62",
+    "before_test.json": "52ee5913ec655bc255cc5e826c963c66ae4941e31a313fd15b821e4a1b89e928"
+  }
+}

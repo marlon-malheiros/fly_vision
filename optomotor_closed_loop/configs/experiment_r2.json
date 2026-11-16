@@ -1,0 +1,21 @@
+{
+  "version": "r2",
+  "calibration_seeds": [1201, 1202, 1203, 1204],
+  "test_seeds": [9201, 9202, 9203, 9204, 9205, 9206],
+  "translation_speeds_m_s": [0.0, 0.04, 0.08],
+  "disturbance_deg_s": [-20.0, 20.0],
+  "duration_s": 5.0,
+  "disturbance_on_s": 1.0,
+  "disturbance_off_s": 4.0,
+  "camera_dt_s": 0.01,
+  "circuit_dt_s": 0.001,
+  "motor_tau_s": 0.08,
+  "target_loop_gain": 2.0,
+  "max_command_deg_s": 90.0,
+  "straight_rms_limit_deg_s": 2.0,
+  "stimulus": {
+    "kind": "random_squares",
+    "square_width_deg": 5.0,
+    "coverage": 0.15
+  }
+}

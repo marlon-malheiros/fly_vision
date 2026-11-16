@@ -1,0 +1,82 @@
+{
+  "parameters": {
+    "neural_gain": -5151.851975224756,
+    "visual_gain": -219.32246804398645,
+    "neural_baseline": 0.0,
+    "visual_baseline": 0.0
+  },
+  "neural_slope_per_rad_s": -0.00038820991162362493,
+  "visual_slope_per_rad_s": -0.00911899276821419,
+  "observations": [
+    {
+      "seed": 1201,
+      "yaw_rad_s": -0.3490658503988659,
+      "neural_mean": 0.00012949594376261505,
+      "visual_mean": 0.003372562665371647
+    },
+    {
+      "seed": 1201,
+      "yaw_rad_s": 0.3490658503988659,
+      "neural_mean": -0.0001619887187764921,
+      "visual_mean": -0.00349949374802449
+    },
+    {
+      "seed": 1202,
+      "yaw_rad_s": -0.3490658503988659,
+      "neural_mean": 0.00012328728412957734,
+      "visual_mean": 0.0032162297749215333
+    },
+    {
+      "seed": 1202,
+      "yaw_rad_s": 0.3490658503988659,
+      "neural_mean": -0.00014695340063551775,
+      "visual_mean": -0.0030878848943515294
+    },
+    {
+      "seed": 1203,
+      "yaw_rad_s": -0.3490658503988659,
+      "neural_mean": 0.00012256969314222507,
+      "visual_mean": 0.0032106984936696014
+    },
+    {
+      "seed": 1203,
+      "yaw_rad_s": 0.3490658503988659,
+      "neural_mean": -0.0001466286142279711,
+      "visual_mean": -0.003141114032165742
+    },
+    {
+      "seed": 1204,
+      "yaw_rad_s": -0.3490658503988659,
+      "neural_mean": 0.0001136514505401404,
+      "visual_mean": 0.0029486422091845642
+    },
+    {
+      "seed": 1204,
+      "yaw_rad_s": 0.3490658503988659,
+      "neural_mean": -0.0001395114782588149,
+      "visual_mean": -0.0029884059056532546
+    }
+  ],
+  "method": "Zero-intercept pooled least squares; fit motor sign/gain only; fixed target loop gain",
+  "stationary_baseline": "Exactly zero for the constant-frame initialized correlation frontend and resting rate network",
+  "not_a_fitted_biological_motor_map": true,
+  "sources": {
+    "configs/experiment_r2.json": "593f7a987de57ad7026b79f1040f18b8a84ec828281f18ec8b36ba11eef6a181",
+    "configs/experiment_v1.json": "a6d3e4ce9be3cfb8f9a474ff84ea3a7a6e9462bdfa18f58fae05b4de8c7700f5",
+    "data/derived/annotation_admission.json": "c4b19c45634787e28f10085f9a185ec094d1c0f23696db95ac26e285374baad5",
+    "data/derived/chemical_edges.csv": "3f847d143a7f2664c98df62783427b10d913068396709c9bb51aab400a1ed0b8",
+    "data/derived/connectome_provenance.json": "6a9d2baee0d30806a8c09ef67a84ac189a1c9f84e02efc5ca27f585454a55de1",
+    "data/derived/cut_feedback_edges.csv": "5d7a99b6b95f1006b233e405877e3c8cab68ef0b0c9863107c23839c9e4b368e",
+    "data/derived/selected_neurons.json": "89d530f488da8a510b770222519c1206a5da7651dac64b13bd537fe29fd1a752",
+    "docs/NUMERICAL_CORRECTION_R2.md": "abdfb8ec5c93f160d7eddf6f858752783fe531c8c2074be287e866c8db828cf2",
+    "docs/PROTOCOL_V1.md": "ca95ad2904c0c812c871559a95f48a13933be5ed30179638e21269ea5b2c8c94",
+    "optomotor/__init__.py": "783074f9e83980349ec94d1756b1110a0ac4b678d7493e12718dc6f86cc2dab1",
+    "optomotor/circuit.py": "fb1bbb37cf8d14368c7321af40026efd93dfd90f40d751ce975eb932795feb1d",
+    "optomotor/simulation.py": "13e7934686c62a7b7a89e19a5528211dcdfd41a1fcfb6f4db2d24c29a651fdde",
+    "optomotor/vision.py": "a3c5fa2db2f1a89704d417c48f9e70537bbc419dc5cd8fd60726afdcd21a73c5",
+    "scripts/prepare_connectome.py": "b02585adc45c39177c67bebf3958d97a7fb3b36bc2cb36699dd010aa0447ba31",
+    "scripts/review_results.py": "137566e2b4794de0cae5c1650e3e8d071aea3b75ebba2900a9cde668a731fbcf",
+    "scripts/run_experiment.py": "2d99a3d6b4fa1d77dca209e33c33fee7f9e0e69b5fa2e6b05e300b654c5437ec",
+    "tests/test_optomotor.py": "e2895f1bc244233b905e2f2dd61c1d5f67b887d705028621d84cb5a680a9df49"
+  }
+}

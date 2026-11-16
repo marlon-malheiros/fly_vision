@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-16",
+  "scope": "Publication packaging and clean-environment student replay; no new scientific experiment",
+  "original_inventories_verified": {
+    "release_manifest.json": 53,
+    "history/history_manifest.json": 1161
+  },
+  "prototype_inventory_files": 59,
+  "r2_frozen_inputs_verified": 17,
+  "unit_tests_passed": 14,
+  "clean_environment": {
+    "python": "3.12.10 (native Windows CPython)",
+    "numpy": "2.4.6",
+    "scipy": "1.18.0",
+    "matplotlib": "3.11.1",
+    "note": "Original model reference used Python 3.14.6; this checks a second interpreter/environment. Hosted Linux CI is not yet verified."
+  },
+  "baseline_replay": {
+    "passed": true,
+    "cases_compared": 270,
+    "maximum_trace_absolute_difference": 1.6711675446257068e-14,
+    "absolute_tolerance": 1e-10,
+    "relative_tolerance": 1e-08,
+    "engineering_status": "PASS",
+    "biological_validation": "NOT_PERFORMED",
+    "elapsed_s": 165.23399999999674,
+    "reference_manifest_sha256": "765b27626efbc0c9a14e5c78e4b2b867b51c066cf1f6ef7b2d11a2ac40a7ef2a"
+  },
+  "exclusions": [
+    "data/raw",
+    "private runtimes",
+    "virtual environments",
+    "generated replays"
+  ],
+  "windows_checkout_fix": "Added .gitattributes; exact original Git blobs matched all 1214 scientific inventory hashes. Restored only newline-converted working copies in the fresh checkout.",
+  "first_student_task": "Proposed gain-and-delay characterization with fixed neural weights and fair conventional-controller tuning; not executed."
+}

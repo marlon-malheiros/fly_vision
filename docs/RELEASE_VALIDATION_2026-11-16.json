@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-16",
+  "phase": "Relocated source validation before final manifest; final inventory is independently checked after sealing",
+  "passed": true,
+  "tests": {
+    "passed": 8,
+    "failed": 0
+  },
+  "reproduction": {
+    "passed": true,
+    "python": "3.14.10",
+    "numpy": "2.4.6",
+    "scipy": "1.18.1",
+    "optical": {
+      "cells": 6,
+      "cell_blur_comparisons": 18,
+      "sampled_input_max_error": 0.0,
+      "rows": [
+        {
+          "cell": 3,
+          "sigma_led_pixels": 0.0,
+          "exact_matches": 51,
+          "rms_within_001": 51,
+          "rms_within_005": 51
+        },
+        {
+          "cell": 3,
+          "sigma_led_pixels": 0.5,
+          "exact_matches": 9,
+          "rms_within_001": 17,
+          "rms_within_005": 17
+        },
+        {
+          "cell": 3,
+          "sigma_led_pixels": 1.0,
+          "exact_matches": 1,
+          "rms_within_001": 17,
+          "rms_within_005": 85
+        },
+        {
+          "cell": 4,
+          "sigma_led_pixels": 0.0,
+          "exact_matches": 18,
+          "rms_within_001": 18,
+          "rms_within_005": 18
+        },
+        {
+          "cell": 4,
+          "sigma_led_pixels": 0.5,
+          "exact_matches": 1,
+          "rms_within_001": 1,
+          "rms_within_005": 26
+        },
+        {
+          "cell": 4,
+          "sigma_led_pixels": 1.0,
+          "exact_matches": 1,
+          "rms_within_001": 4,
+          "rms_within_005": 104
+        },
+        {
+          "cell": 5,
+          "sigma_led_pixels": 0.0,
+          "exact_matches": 18,
+          "rms_within_001": 18,
+          "rms_within_005": 18
+        },
+        {
+          "cell": 5,
+          "sigma_led_pixels": 0.5,
+          "exact_matches": 1,
+          "rms_within_001": 1,
+          "rms_within_005": 24
+        },
+        {
+          "cell": 5,
+          "sigma_led_pixels": 1.0,
+          "exact_matches": 1,
+          "rms_within_001": 4,
+          "rms_within_005": 84
+        },
+        {
+          "cell": 6,
+          "sigma_led_pixels": 0.0,
+          "exact_matches": 51,
+          "rms_within_001": 51,
+          "rms_within_005": 51
+        },
+        {
+          "cell": 6,
+          "sigma_led_pixels": 0.5,
+          "exact_matches": 9,
+          "rms_within_001": 17,
+          "rms_within_005": 17
+        },
+        {
+          "cell": 6,
+          "sigma_led_pixels": 1.0,
+          "exact_matches": 1,
+          "rms_within_001": 17,
+          "rms_within_005": 85
+        },
+        {
+          "cell": 7,
+          "sigma_led_pixels": 0.0,
+          "exact_matches": 18,
+          "rms_within_001": 18,
+          "rms_within_005": 18
+        },
+        {
+          "cell": 7,
+          "sigma_led_pixels": 0.5,
+          "exact_matches": 1,
+          "rms_within_001": 1,
+          "rms_within_005": 24
+        },
+        {
+          "cell": 7,
+          "sigma_led_pixels": 1.0,
+          "exact_matches": 1,
+          "rms_within_001": 4,
+          "rms_within_005": 84
+        },
+        {
+          "cell": 8,
+          "sigma_led_pixels": 0.0,
+          "exact_matches": 6,
+          "rms_within_001": 6,
+          "rms_within_005": 6
+        },
+        {
+          "cell": 8,
+          "sigma_led_pixels": 0.5,
+          "exact_matches": 1,
+          "rms_within_001": 1,
+          "rms_within_005": 18
+        },
+        {
+          "cell": 8,
+          "sigma_led_pixels": 1.0,
+          "exact_matches": 1,
+          "rms_within_001": 2,
+          "rms_within_005": 72
+        }
+      ],
+      "raw_extraction_repeated": false,
+      "neural_voltages_scored": false,
+      "biological_validation": false
+    },
+    "synthetic": {
+      "summary_rows_exactly_matched": 27,
+      "center_rows_exactly_matched": 225,
+      "independent_datasets": 45000,
+      "candidate_family_assessments": 135000
+    },
+    "independent_review": {
+      "passed": true,
+      "scalar_image_samples_checked": 810,
+      "scalar_image_max_error": 1.1102230246251565e-16,
+      "independent_candidate_assessments": 135000,
+      "all_27_summary_counts_match": true,
+      "scope": "Numerical replay from derived image banks; no biological validation"
+    },
+    "biological_validation": false,
+    "wall_seconds": 0.878049226004805,
+    "retained_bytes": 203348
+  },
+  "behavioral_checks": {
+    "existing_output_refused": true,
+    "existing_output_preserved": true,
+    "tamper_detected": true,
+    "reference_output_refused": true
+  },
+  "manuscript_build": {
+    "tex_runs": [
+      0,
+      0
+    ],
+    "extracted_text_identical": true
+  },
+  "source_and_test_imports": "Only relocated checkout; workspace PYTHONPATH removed",
+  "dependency_installation": "Existing installed dependencies; fresh network installation untested",
+  "hosted_ci": "Prepared but not run on GitHub",
+  "current_dataset_metadata_request": "DNS failure; cached Figshare primary metadata used",
+  "original_study": {
+    "files_unchanged": 55,
+    "index_sha256": "6e0a016a1b4121cecabf22e1179dd80bf71bb1d9896758e73b5292f3c85df8b4"
+  },
+  "scientific_scope": "Numerical reproduction only; not biological validation"
+}

@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-16",
+  "study": "alignment_assessment_pilot_v1",
+  "scope": "Curated release; not the original complete archive or full project",
+  "original_study_integrity": {
+    "index_sha256": "6e0a016a1b4121cecabf22e1179dd80bf71bb1d9896758e73b5292f3c85df8b4",
+    "files": 55,
+    "bytes": 3181898,
+    "scope": "Completed alignment pilot only; retired historical movies outside scope"
+  },
+  "selected_files": [
+    {
+      "source": "src/male_optic_frontend/alignment_assessment_v1.py",
+      "source_sha256": "1bb850642cfaee654f0c742bb0479ca3ef0b3baf1b8df0a9e8f1c8ef806c7f48",
+      "exported": "alignment_assessment/core.py",
+      "export_sha256": "1bb850642cfaee654f0c742bb0479ca3ef0b3baf1b8df0a9e8f1c8ef806c7f48",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "tests/test_alignment_assessment_v1.py",
+      "source_sha256": "6abf465da49496de32ae6db850df1b9ad9e06dcf27d320436f3e2c12c048c318",
+      "exported": "tests/test_core.py",
+      "export_sha256": "211ffcf9c0d9aa7f61258b6af521dfc035c34133369e978e4c06b1ff1f33176b",
+      "adaptation": "Import path adapted; test assertions unchanged"
+    },
+    {
+      "source": "tests/test_alignment_assessment_ties_r2.py",
+      "source_sha256": "e55ea060e378fd8b1a1c460dd6b070c2a0a3970d995f11a6018bd59dae7d7330",
+      "exported": "tests/test_corrected.py",
+      "export_sha256": "0016db6db578ef33cb72d652bb6e5a0f1834ea2e40b0f0f0c227165d83ce07f8",
+      "adaptation": "Import path adapted; test assertions unchanged"
+    },
+    {
+      "source": "docs/ALIGNMENT_ASSESSMENT_PILOT_PROTOCOL_V1.md",
+      "source_sha256": "9e179424cf0c81c05f53bd9bba5bcda973337aede690be54cb8289636ecaa4af",
+      "exported": "docs/ALIGNMENT_ASSESSMENT_PILOT_PROTOCOL_V1.md",
+      "export_sha256": "9e179424cf0c81c05f53bd9bba5bcda973337aede690be54cb8289636ecaa4af",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "docs/ALIGNMENT_ASSESSMENT_PILOT_REPORT_V1.md",
+      "source_sha256": "dada5ab699919239dfae024e44a505ef9af62d81067cd3b07c817ba9d1ba75d1",
+      "exported": "docs/ALIGNMENT_ASSESSMENT_PILOT_REPORT_V1.md",
+      "export_sha256": "dada5ab699919239dfae024e44a505ef9af62d81067cd3b07c817ba9d1ba75d1",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "docs/ALIGNMENT_ASSESSMENT_NUMERICAL_TIES_R2.md",
+      "source_sha256": "9a0e02d7ff6a7f39caf764af1c67a0916fbcdbfca131286b4379d044be67254b",
+      "exported": "docs/ALIGNMENT_ASSESSMENT_NUMERICAL_TIES_R2.md",
+      "export_sha256": "9a0e02d7ff6a7f39caf764af1c67a0916fbcdbfca131286b4379d044be67254b",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "docs/ALIGNMENT_ASSESSMENT_REFERENCE_REGISTER_V1.json",
+      "source_sha256": "e88ee66fb66d7c14ba1297e876626588729d263c7e4e0e8c2594ae2195bd6512",
+      "exported": "docs/ALIGNMENT_ASSESSMENT_REFERENCE_REGISTER_V1.json",
+      "export_sha256": "e88ee66fb66d7c14ba1297e876626588729d263c7e4e0e8c2594ae2195bd6512",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "manuscripts/alignment_assessment_pilot_v1/manuscript.md",
+      "source_sha256": "3f3cf61c0974378a2e61efab044adc73d9e56f4c007a63b80bff16f73a252fa0",
+      "exported": "manuscripts/alignment_assessment_pilot_v1/manuscript.md",
+      "export_sha256": "3f3cf61c0974378a2e61efab044adc73d9e56f4c007a63b80bff16f73a252fa0",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "manuscripts/alignment_assessment_pilot_v1/references.bib",
+      "source_sha256": "844f1b029b451a0d48256c6a385b6d7e8b99afee9b69247659d5f73546e98911",
+      "exported": "manuscripts/alignment_assessment_pilot_v1/references.bib",
+      "export_sha256": "844f1b029b451a0d48256c6a385b6d7e8b99afee9b69247659d5f73546e98911",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "manuscripts/alignment_assessment_pilot_v1/reference_register.json",
+      "source_sha256": "e88ee66fb66d7c14ba1297e876626588729d263c7e4e0e8c2594ae2195bd6512",
+      "exported": "manuscripts/alignment_assessment_pilot_v1/reference_register.json",
+      "export_sha256": "e88ee66fb66d7c14ba1297e876626588729d263c7e4e0e8c2594ae2195bd6512",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "manuscripts/alignment_assessment_pilot_v1/READING_GUIDE.md",
+      "source_sha256": "44414286dd14865a8d45c41902cb2e6250d9d1f5f779383c3e396da81732c64a",
+      "exported": "manuscripts/alignment_assessment_pilot_v1/READING_GUIDE.md",
+      "export_sha256": "44414286dd14865a8d45c41902cb2e6250d9d1f5f779383c3e396da81732c64a",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "manuscripts/alignment_assessment_pilot_v1/manuscript.tex",
+      "source_sha256": "bb1bdf0e3eba700ed0b8cf3472b51ff7fae6ac6aefebb5bb50bfdc5a2260d19d",
+      "exported": "manuscripts/alignment_assessment_pilot_v1/manuscript.tex",
+      "export_sha256": "91bcc38ffc33b4dff610191134ddfbc3132df64028790a702047a8e36b1af744",
+      "adaptation": "Only absolute figure paths replaced with portable relative paths"
+    },
+    {
+      "source": "output/pdf/alignment_assessment_manuscript_v1.pdf",
+      "source_sha256": "473f95766965f05a6a200e14f83def12eb3db5d68c4879ac0b6bacd370909e84",
+      "exported": "output/pdf/alignment_assessment_manuscript_v1.pdf",
+      "export_sha256": "473f95766965f05a6a200e14f83def12eb3db5d68c4879ac0b6bacd370909e84",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/input_audit.json",
+      "source_sha256": "6ff0002f66fefe838ad549c529aa3d43a044d1a8b8961394b687bfb3d89d5b7c",
+      "exported": "results/alignment_assessment_pilot_v1/input_audit.json",
+      "export_sha256": "6ff0002f66fefe838ad549c529aa3d43a044d1a8b8961394b687bfb3d89d5b7c",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/pilot_summary.json",
+      "source_sha256": "bbdf01e4882a6ccb647066cfbd32a5ca23a5be3e801647d303de9d3f63d0606e",
+      "exported": "results/alignment_assessment_pilot_v1/pilot_summary.json",
+      "export_sha256": "bbdf01e4882a6ccb647066cfbd32a5ca23a5be3e801647d303de9d3f63d0606e",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/synthetic_results.json",
+      "source_sha256": "86795fd801ff4544a9625513d53064283536cdc1b9b0a767b3ca2f9116c3d771",
+      "exported": "results/alignment_assessment_pilot_v1/synthetic_results.json",
+      "export_sha256": "86795fd801ff4544a9625513d53064283536cdc1b9b0a767b3ca2f9116c3d771",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/synthetic_summary.csv",
+      "source_sha256": "54769be3b6df5e1d60059d6820b72f7e742f112f04c605da31ba0523b8ec230d",
+      "exported": "results/alignment_assessment_pilot_v1/synthetic_summary.csv",
+      "export_sha256": "54769be3b6df5e1d60059d6820b72f7e742f112f04c605da31ba0523b8ec230d",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/review_failure_v1/failure.json",
+      "source_sha256": "37c4be40210038dfb5712f16888fb65d25ab0ea90a09aa16b5035c1cbd51eec6",
+      "exported": "results/alignment_assessment_pilot_v1/review_failure_v1/failure.json",
+      "export_sha256": "37c4be40210038dfb5712f16888fb65d25ab0ea90a09aa16b5035c1cbd51eec6",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/numerical_ties_r2/synthetic_results.json",
+      "source_sha256": "8fafe24a95ebbaa9f2d6eedbc734bc737d7eea02b99db8fa464ff3a4a6033dbc",
+      "exported": "results/alignment_assessment_pilot_v1/numerical_ties_r2/synthetic_results.json",
+      "export_sha256": "8fafe24a95ebbaa9f2d6eedbc734bc737d7eea02b99db8fa464ff3a4a6033dbc",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/numerical_ties_r2/synthetic_summary.csv",
+      "source_sha256": "70b27cac51443f0a448cfabda32dc29242a73ed13f1d09eeef11edbec3b07981",
+      "exported": "results/alignment_assessment_pilot_v1/numerical_ties_r2/synthetic_summary.csv",
+      "export_sha256": "70b27cac51443f0a448cfabda32dc29242a73ed13f1d09eeef11edbec3b07981",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/numerical_ties_r2/independent_review.json",
+      "source_sha256": "bf72f3f7c99188ee0f51324947cf2a6d09a7d16421d563910696228b7621f473",
+      "exported": "results/alignment_assessment_pilot_v1/numerical_ties_r2/independent_review.json",
+      "export_sha256": "bf72f3f7c99188ee0f51324947cf2a6d09a7d16421d563910696228b7621f473",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/numerical_ties_r2/correction_comparison.json",
+      "source_sha256": "ce506eb845fdd4df919d0c596458172b5bf737dd3bc07bf77301464510253bdb",
+      "exported": "results/alignment_assessment_pilot_v1/numerical_ties_r2/correction_comparison.json",
+      "export_sha256": "ce506eb845fdd4df919d0c596458172b5bf737dd3bc07bf77301464510253bdb",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/input_cell03.npz",
+      "source_sha256": "8ba499deb4c243407cfea0c50f0acac57cd2097fda1089b739975d9c3e1f8e2a",
+      "exported": "results/alignment_assessment_pilot_v1/input_cell03.npz",
+      "export_sha256": "8ba499deb4c243407cfea0c50f0acac57cd2097fda1089b739975d9c3e1f8e2a",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/input_cell04.npz",
+      "source_sha256": "ca07bfbd23ef8b4aed421bed8308363d756e55fbe1c65d920287c013b892a0e2",
+      "exported": "results/alignment_assessment_pilot_v1/input_cell04.npz",
+      "export_sha256": "ca07bfbd23ef8b4aed421bed8308363d756e55fbe1c65d920287c013b892a0e2",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/input_cell05.npz",
+      "source_sha256": "a522403f02fdcf803f8d1fe0afb844954b292a77582bee3a292587c0469b192f",
+      "exported": "results/alignment_assessment_pilot_v1/input_cell05.npz",
+      "export_sha256": "a522403f02fdcf803f8d1fe0afb844954b292a77582bee3a292587c0469b192f",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/input_cell06.npz",
+      "source_sha256": "83374c0f3af6fe503e544b01d60361aec7f4658c3b28a41d81552e676de6161f",
+      "exported": "results/alignment_assessment_pilot_v1/input_cell06.npz",
+      "export_sha256": "83374c0f3af6fe503e544b01d60361aec7f4658c3b28a41d81552e676de6161f",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/input_cell07.npz",
+      "source_sha256": "981ecfec9f64e190167dd55fe9984d20ddc2a2b9813385b3a718ff56fad835ee",
+      "exported": "results/alignment_assessment_pilot_v1/input_cell07.npz",
+      "export_sha256": "981ecfec9f64e190167dd55fe9984d20ddc2a2b9813385b3a718ff56fad835ee",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/input_cell08.npz",
+      "source_sha256": "323380e4478ec97690fb674c8c19f822cd9d8fbdad33c34e046c90061b6b3bbf",
+      "exported": "results/alignment_assessment_pilot_v1/input_cell08.npz",
+      "export_sha256": "323380e4478ec97690fb674c8c19f822cd9d8fbdad33c34e046c90061b6b3bbf",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/figures/known_truth_assessment.pdf",
+      "source_sha256": "8cc18cf2425563f6f0fc867449f99a5ed33e5dd3a088a846340542dda9c4c0d6",
+      "exported": "results/alignment_assessment_pilot_v1/figures/known_truth_assessment.pdf",
+      "export_sha256": "8cc18cf2425563f6f0fc867449f99a5ed33e5dd3a088a846340542dda9c4c0d6",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/figures/known_truth_assessment.png",
+      "source_sha256": "0f77213075d37792d2c652f57aa483e5fc3a3f4efe460ebfff1aa2a0a55d7668",
+      "exported": "results/alignment_assessment_pilot_v1/figures/known_truth_assessment.png",
+      "export_sha256": "0f77213075d37792d2c652f57aa483e5fc3a3f4efe460ebfff1aa2a0a55d7668",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/figures/optical_sampling_sensitivity.pdf",
+      "source_sha256": "2c6892568495362cfc8972dd800b11a0cd41f55a2dd2285437fa2194ca0b12ce",
+      "exported": "results/alignment_assessment_pilot_v1/figures/optical_sampling_sensitivity.pdf",
+      "export_sha256": "2c6892568495362cfc8972dd800b11a0cd41f55a2dd2285437fa2194ca0b12ce",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "results/alignment_assessment_pilot_v1/figures/optical_sampling_sensitivity.png",
+      "source_sha256": "39a6ed90da7d2b2e557cef2c72ef231028174eb1d048dafad9f28fa1834d0a10",
+      "exported": "results/alignment_assessment_pilot_v1/figures/optical_sampling_sensitivity.png",
+      "export_sha256": "39a6ed90da7d2b2e557cef2c72ef231028174eb1d048dafad9f28fa1834d0a10",
+      "adaptation": "Byte-identical copy"
+    },
+    {
+      "source": "data/raw/physiology_backup_sources_v1/figshare_article_5576101.json",
+      "source_sha256": "3ad0f280fd6279206b7c8fb2b96342676442a7fa0ecf1c1f447524fb5d935f89",
+      "exported": "data/figshare_article_5576101.json",
+      "export_sha256": "3ad0f280fd6279206b7c8fb2b96342676442a7fa0ecf1c1f447524fb5d935f89",
+      "adaptation": "Byte-identical copy"
+    }
+  ],
+  "portable_driver": "New explicit driver preserving frozen design, RNG order and R2 rule",
+  "excluded": "Full Git history, unrelated studies, raw recordings, source MATLAB code, bulk movies and full historical progress",
+  "user_license_choice": "MIT for code the user owns; separate data and manuscript scopes in NOTICE.md",
+  "metadata_network_recheck": "Unsuccessful: temporary DNS resolution failure; archived receipt retained"
+}

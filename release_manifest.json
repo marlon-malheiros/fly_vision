@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-16",
+  "files": [
+    {
+      "path": ".github/workflows/checks.yml",
+      "bytes": 533,
+      "sha256": "b8943cdfebdfbee6cb468815646e37523ef60746b9867421e9291e2548f4a768"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 196,
+      "sha256": "a01eea898b1fbf12dbbcc6999ae0e4679ce2e2649368fbc6dfa7a39f49c8487f"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "a876e0b10411037a012498b9fe18d9bc1df32ed8b722a13564dc944ddcfd9135"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 599,
+      "sha256": "164d54825c39a366ec55ae07123d57b03a72cb08f7e35f56ee97992d42734526"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1073,
+      "sha256": "e93bbafbab68615ee597f5b2ab78ba4c7c31f1c4790d3d2e6a9ad283b585d821"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 2697,
+      "sha256": "08806604cb6dcac483b5ca351970a30383d30ac77a2d5f5e66936725aceb40f6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4268,
+      "sha256": "4f7c7f4f7fa08b052374c7be544c84ad1a445141b1953bfbfde4aef02c9de9fd"
+    },
+    {
+      "path": "alignment_assessment/__init__.py",
+      "bytes": 95,
+      "sha256": "dc759f91defffcf060f4924985a01a98659408499f61db387501e8846caa78c4"
+    },
+    {
+      "path": "alignment_assessment/__main__.py",
+      "bytes": 3170,
+      "sha256": "01fbf550769866060c5ed2d796508f5c1e2913a8cfc5ef24ef6ddee9ccba022b"
+    },
+    {
+      "path": "alignment_assessment/core.py",
+      "bytes": 3503,
+      "sha256": "1bb850642cfaee654f0c742bb0479ca3ef0b3baf1b8df0a9e8f1c8ef806c7f48"
+    },
+    {
+      "path": "alignment_assessment/corrected.py",
+      "bytes": 599,
+      "sha256": "0385e164c3c97199ae7cf58e21b162124a58f346b841e1744d5b12595234f4ca"
+    },
+    {
+      "path": "alignment_assessment/reproduce.py",
+      "bytes": 6719,
+      "sha256": "02f87b2efbfd1ac70989d5e74132049b350d87e87553f4a07ce85129e1f5d18c"
+    },
+    {
+      "path": "alignment_assessment/review.py",
+      "bytes": 4885,
+      "sha256": "2922814682ce93c809d5876bf2633d953a93e8571345ad3d938f979fc7f1022a"
+    },
+    {
+      "path": "data/README.md",
+      "bytes": 1931,
+      "sha256": "45c11f0e5d8fa7167fb27ab8e2306048b4b09418ce05fda38b1dc14b6ea0cbe8"
+    },
+    {
+      "path": "data/figshare_article_5576101.json",
+      "bytes": 2486,
+      "sha256": "3ad0f280fd6279206b7c8fb2b96342676442a7fa0ecf1c1f447524fb5d935f89"
+    },
+    {
+      "path": "docs/ALIGNMENT_ASSESSMENT_NUMERICAL_TIES_R2.md",
+      "bytes": 1399,
+      "sha256": "9a0e02d7ff6a7f39caf764af1c67a0916fbcdbfca131286b4379d044be67254b"
+    },
+    {
+      "path": "docs/ALIGNMENT_ASSESSMENT_PILOT_PROTOCOL_V1.md",
+      "bytes": 6332,
+      "sha256": "9e179424cf0c81c05f53bd9bba5bcda973337aede690be54cb8289636ecaa4af"
+    },
+    {
+      "path": "docs/ALIGNMENT_ASSESSMENT_PILOT_REPORT_V1.md",
+      "bytes": 9496,
+      "sha256": "dada5ab699919239dfae024e44a505ef9af62d81067cd3b07c817ba9d1ba75d1"
+    },
+    {
+      "path": "docs/ALIGNMENT_ASSESSMENT_REFERENCE_REGISTER_V1.json",
+      "bytes": 7775,
+      "sha256": "e88ee66fb66d7c14ba1297e876626588729d263c7e4e0e8c2594ae2195bd6512"
+    },
+    {
+      "path": "docs/PROJECT_PROGRESS_REPORT_2026-11-16.md",
+      "bytes": 2013,
+      "sha256": "6f8956f2fd40f75080b28d6a0566af48332a47ad8f7c8bda292e30b77b15d46f"
+    },
+    {
+      "path": "docs/PUBLISHING.md",
+      "bytes": 740,
+      "sha256": "b208e2868e0d9211d8a94bbe3c42032e58f5865edcb619ada37cac1d96254892"
+    },
+    {
+      "path": "docs/RELEASE_VALIDATION_2026-11-16.json",
+      "bytes": 5102,
+      "sha256": "7ebd2b0ba4d2e8532a8444cd246f72d9dce2b8a0294958bdbe23313d28d7e29e"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 3262,
+      "sha256": "bded4217017eecf94600d633885acf25803d4dd768bb75a7a0240bd159fa0e17"
+    },
+    {
+      "path": "export_provenance.json",
+      "bytes": 13997,
+      "sha256": "4da2beed89b39e5d53c7457d14781e12ac6d264707b8d657b87eb8b6b7f6f815"
+    },
+    {
+      "path": "manuscripts/alignment_assessment_pilot_v1/READING_GUIDE.md",
+      "bytes": 1815,
+      "sha256": "44414286dd14865a8d45c41902cb2e6250d9d1f5f779383c3e396da81732c64a"
+    },
+    {
+      "path": "manuscripts/alignment_assessment_pilot_v1/manuscript.md",
+      "bytes": 28236,
+      "sha256": "3f3cf61c0974378a2e61efab044adc73d9e56f4c007a63b80bff16f73a252fa0"
+    },
+    {
+      "path": "manuscripts/alignment_assessment_pilot_v1/manuscript.tex",
+      "bytes": 30822,
+      "sha256": "91bcc38ffc33b4dff610191134ddfbc3132df64028790a702047a8e36b1af744"
+    },
+    {
+      "path": "manuscripts/alignment_assessment_pilot_v1/reference_register.json",
+      "bytes": 7775,
+      "sha256": "e88ee66fb66d7c14ba1297e876626588729d263c7e4e0e8c2594ae2195bd6512"
+    },
+    {
+      "path": "manuscripts/alignment_assessment_pilot_v1/references.bib",
+      "bytes": 4476,
+      "sha256": "844f1b029b451a0d48256c6a385b6d7e8b99afee9b69247659d5f73546e98911"
+    },
+    {
+      "path": "output/pdf/alignment_assessment_manuscript_v1.pdf",
+      "bytes": 463712,
+      "sha256": "473f95766965f05a6a200e14f83def12eb3db5d68c4879ac0b6bacd370909e84"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 83,
+      "sha256": "d663d9bec704041466c4ed8cb4ea669be5d76c1435f2904e2628ffceff2e3d7a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 122,
+      "sha256": "6fb2cdf4942e15394e54ccc20a240b7f82e2e76cdd5e4224ddba306e44bcc916"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/figures/known_truth_assessment.pdf",
+      "bytes": 22380,
+      "sha256": "8cc18cf2425563f6f0fc867449f99a5ed33e5dd3a088a846340542dda9c4c0d6"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/figures/known_truth_assessment.png",
+      "bytes": 135865,
+      "sha256": "0f77213075d37792d2c652f57aa483e5fc3a3f4efe460ebfff1aa2a0a55d7668"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/figures/optical_sampling_sensitivity.pdf",
+      "bytes": 26457,
+      "sha256": "2c6892568495362cfc8972dd800b11a0cd41f55a2dd2285437fa2194ca0b12ce"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/figures/optical_sampling_sensitivity.png",
+      "bytes": 109519,
+      "sha256": "39a6ed90da7d2b2e557cef2c72ef231028174eb1d048dafad9f28fa1834d0a10"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/input_audit.json",
+      "bytes": 21106,
+      "sha256": "6ff0002f66fefe838ad549c529aa3d43a044d1a8b8961394b687bfb3d89d5b7c"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/input_cell03.npz",
+      "bytes": 67857,
+      "sha256": "8ba499deb4c243407cfea0c50f0acac57cd2097fda1089b739975d9c3e1f8e2a"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/input_cell04.npz",
+      "bytes": 148461,
+      "sha256": "ca07bfbd23ef8b4aed421bed8308363d756e55fbe1c65d920287c013b892a0e2"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/input_cell05.npz",
+      "bytes": 115589,
+      "sha256": "a522403f02fdcf803f8d1fe0afb844954b292a77582bee3a292587c0469b192f"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/input_cell06.npz",
+      "bytes": 36498,
+      "sha256": "83374c0f3af6fe503e544b01d60361aec7f4658c3b28a41d81552e676de6161f"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/input_cell07.npz",
+      "bytes": 134373,
+      "sha256": "981ecfec9f64e190167dd55fe9984d20ddc2a2b9813385b3a718ff56fad835ee"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/input_cell08.npz",
+      "bytes": 174304,
+      "sha256": "323380e4478ec97690fb674c8c19f822cd9d8fbdad33c34e046c90061b6b3bbf"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/numerical_ties_r2/correction_comparison.json",
+      "bytes": 1365,
+      "sha256": "ce506eb845fdd4df919d0c596458172b5bf737dd3bc07bf77301464510253bdb"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/numerical_ties_r2/independent_review.json",
+      "bytes": 357,
+      "sha256": "bf72f3f7c99188ee0f51324947cf2a6d09a7d16421d563910696228b7621f473"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/numerical_ties_r2/synthetic_results.json",
+      "bytes": 196700,
+      "sha256": "8fafe24a95ebbaa9f2d6eedbc734bc737d7eea02b99db8fa464ff3a4a6033dbc"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/numerical_ties_r2/synthetic_summary.csv",
+      "bytes": 3258,
+      "sha256": "70b27cac51443f0a448cfabda32dc29242a73ed13f1d09eeef11edbec3b07981"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/pilot_summary.json",
+      "bytes": 3417,
+      "sha256": "bbdf01e4882a6ccb647066cfbd32a5ca23a5be3e801647d303de9d3f63d0606e"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/review_failure_v1/failure.json",
+      "bytes": 420,
+      "sha256": "37c4be40210038dfb5712f16888fb65d25ab0ea90a09aa16b5035c1cbd51eec6"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/synthetic_results.json",
+      "bytes": 196706,
+      "sha256": "86795fd801ff4544a9625513d53064283536cdc1b9b0a767b3ca2f9116c3d771"
+    },
+    {
+      "path": "results/alignment_assessment_pilot_v1/synthetic_summary.csv",
+      "bytes": 3258,
+      "sha256": "54769be3b6df5e1d60059d6820b72f7e742f112f04c605da31ba0523b8ec230d"
+    },
+    {
+      "path": "tests/test_core.py",
+      "bytes": 2503,
+      "sha256": "211ffcf9c0d9aa7f61258b6af521dfc035c34133369e978e4c06b1ff1f33176b"
+    },
+    {
+      "path": "tests/test_corrected.py",
+      "bytes": 636,
+      "sha256": "0016db6db578ef33cb72d652bb6e5a0f1834ea2e40b0f0f0c227165d83ce07f8"
+    }
+  ],
+  "bytes": 2020945,
+  "excluded_live_files": [
+    "AGENTS.md",
+    "docs/PROJECT_PROGRESS_REPORT.md"
+  ],
+  "scope": "Selected portable export only; not full historical archive"
+}

@@ -1,0 +1,57 @@
+{
+  "passed": true,
+  "compatibility_set_and_oracle_counts_unchanged": true,
+  "changed_single_fit_summary_rows": [
+    {
+      "noise_sd": 0.02,
+      "generating_model": "elongated",
+      "assessed_model": "double_lobe",
+      "original": 3877,
+      "corrected": 3880
+    },
+    {
+      "noise_sd": 0.02,
+      "generating_model": "double_lobe",
+      "assessed_model": "double_lobe",
+      "original": 2171,
+      "corrected": 2151
+    },
+    {
+      "noise_sd": 0.05,
+      "generating_model": "isotropic",
+      "assessed_model": "double_lobe",
+      "original": 3150,
+      "corrected": 3168
+    },
+    {
+      "noise_sd": 0.05,
+      "generating_model": "elongated",
+      "assessed_model": "double_lobe",
+      "original": 1242,
+      "corrected": 1257
+    },
+    {
+      "noise_sd": 0.05,
+      "generating_model": "double_lobe",
+      "assessed_model": "double_lobe",
+      "original": 695,
+      "corrected": 678
+    },
+    {
+      "noise_sd": 0.1,
+      "generating_model": "isotropic",
+      "assessed_model": "double_lobe",
+      "original": 687,
+      "corrected": 685
+    },
+    {
+      "noise_sd": 0.1,
+      "generating_model": "double_lobe",
+      "assessed_model": "double_lobe",
+      "original": 221,
+      "corrected": 220
+    }
+  ],
+  "amendment_after_initial_outcome": true,
+  "scope": "numerical correction; original results retained"
+}

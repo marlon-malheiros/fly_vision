@@ -1,0 +1,4 @@
+# Exact versions used in the successful local numerical replay (Python 3.14.10).
+numpy==2.4.6
+scipy==1.18.1
+pytest==9.1.1

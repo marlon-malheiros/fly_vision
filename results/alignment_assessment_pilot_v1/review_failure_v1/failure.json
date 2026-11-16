@@ -1,0 +1,9 @@
+{
+  "stage": "independent statistical replay",
+  "passed": false,
+  "comparison": {"noise_sd": 0.02, "generating_model": "elongated", "assessed_model": "double_lobe"},
+  "quantity": "single_reject",
+  "quadratic_distance_identity": 3866,
+  "direct_residual_implementation": 3877,
+  "cause_to_check": "near-identical calibration residuals may change floating-point argmin; original results and frozen methods retained"
+}

@@ -1,0 +1,35 @@
+{
+  "version": "v1",
+  "calibration_seeds": [
+    1101,
+    1102,
+    1103,
+    1104
+  ],
+  "test_seeds": [
+    9101,
+    9102,
+    9103,
+    9104,
+    9105,
+    9106
+  ],
+  "translation_speeds_m_s": [
+    0.0,
+    0.04,
+    0.08
+  ],
+  "disturbance_deg_s": [
+    -20.0,
+    20.0
+  ],
+  "duration_s": 5.0,
+  "disturbance_on_s": 1.0,
+  "disturbance_off_s": 4.0,
+  "camera_dt_s": 0.01,
+  "circuit_dt_s": 0.001,
+  "motor_tau_s": 0.08,
+  "target_loop_gain": 2.0,
+  "max_command_deg_s": 90.0,
+  "straight_rms_limit_deg_s": 2.0
+}

@@ -1,0 +1,170 @@
+{
+  "dataset": "MaleCNS v1.0",
+  "source_page": "https://male-cns.janelia.org/download/",
+  "license": "CC-BY-4.0",
+  "source_files": {
+    "annotations": {
+      "filename": "body-annotations-male-cns-v1.0-minconf-0.5.feather",
+      "bytes": 14483314,
+      "sha256": "2177e246113e4cfbf1e7772ec37c6da1955ff22e8063d0b1f833101f99a9a3b2"
+    },
+    "transmitters": {
+      "filename": "body-neurotransmitters-male-cns-v1.0.feather",
+      "bytes": 43282834,
+      "sha256": "95c9289220663abeb3409f3ad9e5a7f8a53f8093f5139d15502cd08da8879621"
+    },
+    "weights": {
+      "filename": "connectome-weights-male-cns-v1.0-minconf-0.5.feather",
+      "bytes": 1051241946,
+      "sha256": "e35da783d1c686b2b58b3b87cd6a403ae43bfcfba8bff28e08ef752c1a56afc1"
+    }
+  },
+  "central_types": [
+    "DNp15",
+    "H2",
+    "HSE",
+    "HSN",
+    "HSS",
+    "HST",
+    "LPi12",
+    "LPi21",
+    "PS321"
+  ],
+  "input_types": [
+    "T4a",
+    "T4b",
+    "T5a",
+    "T5b"
+  ],
+  "central_neurons": 20,
+  "input_neurons": 6753,
+  "source_rows_scanned": 151856684,
+  "retained_edges": 24910,
+  "retained_synapses": 404007,
+  "clamped_source_feedback_edges": 7373,
+  "clamped_source_feedback_synapses": 18785,
+  "central_boundary": [
+    {
+      "bodyId": 10015,
+      "total_incoming_synapses": 17139,
+      "total_outgoing_synapses": 2770,
+      "retained_incoming_synapses": 16027
+    },
+    {
+      "bodyId": 10016,
+      "total_incoming_synapses": 18731,
+      "total_outgoing_synapses": 2299,
+      "retained_incoming_synapses": 17013
+    },
+    {
+      "bodyId": 10019,
+      "total_incoming_synapses": 31707,
+      "total_outgoing_synapses": 14629,
+      "retained_incoming_synapses": 27353
+    },
+    {
+      "bodyId": 10023,
+      "total_incoming_synapses": 18094,
+      "total_outgoing_synapses": 4199,
+      "retained_incoming_synapses": 15701
+    },
+    {
+      "bodyId": 10025,
+      "total_incoming_synapses": 33519,
+      "total_outgoing_synapses": 15900,
+      "retained_incoming_synapses": 29322
+    },
+    {
+      "bodyId": 10034,
+      "total_incoming_synapses": 18870,
+      "total_outgoing_synapses": 2210,
+      "retained_incoming_synapses": 16775
+    },
+    {
+      "bodyId": 10066,
+      "total_incoming_synapses": 77367,
+      "total_outgoing_synapses": 82528,
+      "retained_incoming_synapses": 67342
+    },
+    {
+      "bodyId": 10181,
+      "total_incoming_synapses": 16850,
+      "total_outgoing_synapses": 2268,
+      "retained_incoming_synapses": 15433
+    },
+    {
+      "bodyId": 10308,
+      "total_incoming_synapses": 41652,
+      "total_outgoing_synapses": 40554,
+      "retained_incoming_synapses": 34169
+    },
+    {
+      "bodyId": 10419,
+      "total_incoming_synapses": 17404,
+      "total_outgoing_synapses": 3859,
+      "retained_incoming_synapses": 14744
+    },
+    {
+      "bodyId": 10436,
+      "total_incoming_synapses": 36593,
+      "total_outgoing_synapses": 37206,
+      "retained_incoming_synapses": 29465
+    },
+    {
+      "bodyId": 11041,
+      "total_incoming_synapses": 70426,
+      "total_outgoing_synapses": 77572,
+      "retained_incoming_synapses": 59958
+    },
+    {
+      "bodyId": 11215,
+      "total_incoming_synapses": 4192,
+      "total_outgoing_synapses": 6008,
+      "retained_incoming_synapses": 721
+    },
+    {
+      "bodyId": 11709,
+      "total_incoming_synapses": 35246,
+      "total_outgoing_synapses": 37399,
+      "retained_incoming_synapses": 28042
+    },
+    {
+      "bodyId": 11793,
+      "total_incoming_synapses": 3445,
+      "total_outgoing_synapses": 11313,
+      "retained_incoming_synapses": 2031
+    },
+    {
+      "bodyId": 11919,
+      "total_incoming_synapses": 3632,
+      "total_outgoing_synapses": 8287,
+      "retained_incoming_synapses": 459
+    },
+    {
+      "bodyId": 12069,
+      "total_incoming_synapses": 4058,
+      "total_outgoing_synapses": 6503,
+      "retained_incoming_synapses": 563
+    },
+    {
+      "bodyId": 12072,
+      "total_incoming_synapses": 3951,
+      "total_outgoing_synapses": 8290,
+      "retained_incoming_synapses": 391
+    },
+    {
+      "bodyId": 12521,
+      "total_incoming_synapses": 4795,
+      "total_outgoing_synapses": 10549,
+      "retained_incoming_synapses": 3123
+    },
+    {
+      "bodyId": 13310,
+      "total_incoming_synapses": 31555,
+      "total_outgoing_synapses": 35359,
+      "retained_incoming_synapses": 25375
+    }
+  ],
+  "scope": "Neuron-resolved central recurrent circuit. T4/T5 inputs are clamped functional camera-motion sources; their own recurrence and feedback dynamics are not simulated.",
+  "not_biologically_validated": true
+}

@@ -1,0 +1,235 @@
+{
+  "engineering_status": "FAIL",
+  "biological_validation": "NOT_PERFORMED",
+  "physical_robot_test": "NOT_PERFORMED",
+  "episodes": 270,
+  "scene_seeds": [
+    9101,
+    9102,
+    9103,
+    9104,
+    9105,
+    9106
+  ],
+  "calibration_seeds": [
+    1101,
+    1102,
+    1103,
+    1104
+  ],
+  "modes": {
+    "intact": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.3864418894020655,
+      "median_compensation_fraction": 0.6135581105979345,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.45946416456678474,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.40797640685429215,
+        "20.0": 0.35313017934816804
+      },
+      "median_straight_rms_deg_s": 0.20626565198772373,
+      "worst_straight_rms_deg_s": 1.476481110857729
+    },
+    "bips_silent": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.3883073456458409,
+      "median_compensation_fraction": 0.6116926543541591,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.46524079605436386,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.41424705081634244,
+        "20.0": 0.35497258616633753
+      },
+      "median_straight_rms_deg_s": 0.2202986521000981,
+      "worst_straight_rms_deg_s": 1.4934822405273014
+    },
+    "h2_silent": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.4731047834992043,
+      "median_compensation_fraction": 0.5268952165007956,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.6243419156847076,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.4920191843396646,
+        "20.0": 0.4474462864629563
+      },
+      "median_straight_rms_deg_s": 0.17412353006884196,
+      "worst_straight_rms_deg_s": 0.994287041399896
+    },
+    "open_loop": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 1.0,
+      "median_compensation_fraction": 0.0,
+      "cases_improved": 0,
+      "worst_rms_ratio": 1.0,
+      "direction_median_rms_ratios": {
+        "-20.0": 1.0,
+        "20.0": 1.0
+      },
+      "median_straight_rms_deg_s": 0.0,
+      "worst_straight_rms_deg_s": 0.0
+    },
+    "visual_reference": {
+      "disturbed_cases": 36,
+      "median_rms_ratio_to_open_loop": 0.3754118969212045,
+      "median_compensation_fraction": 0.6245881030787954,
+      "cases_improved": 36,
+      "worst_rms_ratio": 0.4261209112883243,
+      "direction_median_rms_ratios": {
+        "-20.0": 0.3754118969212045,
+        "20.0": 0.3766429336306343
+      },
+      "median_straight_rms_deg_s": 0.20412511175309128,
+      "worst_straight_rms_deg_s": 1.1228039601871533
+    }
+  },
+  "gates": {
+    "median_improvement_both_directions": true,
+    "median_straight_rms_within_limit": true,
+    "half_step_rms_change_at_most_5_percent": false
+  },
+  "half_step_checks": [
+    {
+      "seed": 9101,
+      "speed_m_s": 0.0,
+      "disturbance_deg_s": -20.0,
+      "coarse_rms_deg_s": 7.43662660017896,
+      "fine_rms_deg_s": 7.7848408012001125,
+      "relative_change": 0.04682421476059757
+    },
+    {
+      "seed": 9101,
+      "speed_m_s": 0.0,
+      "disturbance_deg_s": 20.0,
+      "coarse_rms_deg_s": 6.549390303502848,
+      "fine_rms_deg_s": 6.866199669554666,
+      "relative_change": 0.048372344809314134
+    },
+    {
+      "seed": 9101,
+      "speed_m_s": 0.04,
+      "disturbance_deg_s": -20.0,
+      "coarse_rms_deg_s": 7.296284552280093,
+      "fine_rms_deg_s": 7.645986525752255,
+      "relative_change": 0.04792877401730172
+    },
+    {
+      "seed": 9101,
+      "speed_m_s": 0.04,
+      "disturbance_deg_s": 20.0,
+      "coarse_rms_deg_s": 6.362052420402478,
+      "fine_rms_deg_s": 6.678439411518603,
+      "relative_change": 0.049730333893745156
+    },
+    {
+      "seed": 9101,
+      "speed_m_s": 0.08,
+      "disturbance_deg_s": -20.0,
+      "coarse_rms_deg_s": 7.101938153431222,
+      "fine_rms_deg_s": 7.455218752792836,
+      "relative_change": 0.04974425174217137
+    },
+    {
+      "seed": 9101,
+      "speed_m_s": 0.08,
+      "disturbance_deg_s": 20.0,
+      "coarse_rms_deg_s": 6.095396380881534,
+      "fine_rms_deg_s": 6.413617337804327,
+      "relative_change": 0.05220677000119403
+    }
+  ],
+  "runtime_s": 74.6502292000223,
+  "trace_columns": [
+    "time_s",
+    "yaw_rad_s",
+    "heading_rad",
+    "command_rad_s",
+    "descending_signal",
+    "visual_signal",
+    "x_m",
+    "y_m",
+    "disturbance_rad_s"
+  ],
+  "environment": {
+    "python": "3.14.6",
+    "numpy": "2.4.6"
+  },
+  "structure": {
+    "central_neurons": 20,
+    "central_body_ids": [
+      10015,
+      10016,
+      10019,
+      10023,
+      10025,
+      10034,
+      10066,
+      10181,
+      10308,
+      10419,
+      10436,
+      11041,
+      11215,
+      11709,
+      11793,
+      11919,
+      12069,
+      12072,
+      12521,
+      13310
+    ],
+    "nonzero_recurrent_pairs": 109,
+    "max_absolute_recurrent_row_sum": 0.15479484732824428,
+    "readout": "DNp15_L - DNp15_R only",
+    "source_channels": [
+      [
+        "T4a",
+        "L"
+      ],
+      [
+        "T4a",
+        "R"
+      ],
+      [
+        "T4b",
+        "L"
+      ],
+      [
+        "T4b",
+        "R"
+      ],
+      [
+        "T5a",
+        "L"
+      ],
+      [
+        "T5a",
+        "R"
+      ],
+      [
+        "T5b",
+        "L"
+      ],
+      [
+        "T5b",
+        "R"
+      ]
+    ],
+    "source_drive_mapping": "Equal pooled motion drive within each type/side; no fitted per-neuron retinal map",
+    "sign_assumptions": {
+      "acetylcholine": 1.0,
+      "ach": 1.0,
+      "gaba": -1.0,
+      "glutamate": -1.0
+    }
+  },
+  "limitations": [
+    "Synthetic planar scenes and noiseless equatorial camera",
+    "Functional pooled T4/T5 source drive",
+    "Clamped T4/T5 excludes their recurrence and central feedback",
+    "Transmitter signs and rate dynamics assumed",
+    "Motor sign/gain calibrated in simulation",
+    "No recording comparison or animal-level validation"
+  ]
+}
